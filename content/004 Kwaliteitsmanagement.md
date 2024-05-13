@@ -18,7 +18,7 @@ order: 4
 ## Inleiding  
 ![](https://i.imgur.com/0YLLh1k.png)  
   
-Kwaliteitsmanagement is de tak van het management die streeft naar een zo hoog mogelijke kwaliteit van een product, productieproces, dienst of organisatie. Kwaliteitsmanagement is geen afgebakend vakgebied, maar komt terug in alle delen van het management van een onderneming. [[./references/@wikipediakwaliteitsmanagement_2020|@wikipediakwaliteitsmanagement_2020]]  
+Kwaliteitsmanagement is de tak van het management die streeft naar een zo hoog mogelijke kwaliteit van een product, productieproces, dienst of organisatie. Kwaliteitsmanagement is geen afgebakend vakgebied, maar komt terug in alle delen van het management van een onderneming. [[./References/@wikipediakwaliteitsmanagement_2020|@wikipediakwaliteitsmanagement_2020]]  
   
 - Kwaliteitsmanagement beoogt te sturen op het verbeteren van kwaliteit, tevens houdt het zich bezig met het verbinden van de verschillende bedrijfsonderdelen die output leveren aan het uiteindelijke resultaat.  
 - De **kwaliteitsmanager** houdt de organisatie 'scherp' en stelt de klant in de bedrijfsprocessen centraal.  
@@ -35,7 +35,7 @@ Kwaliteitsmanagement is gerelateerd aan de vakgebieden:
   
 ## Kwaliteitskringen  
 ![](https://i.imgur.com/lfviyzs.jpg)  
-[[./references/@nederlandovn_2021|@nederlandovn_2021]]  
+[[./References/@nederlandovn_2021|@nederlandovn_2021]]  
   
 Kwaliteitskringen zijn zakelijke verenigingen die hun leden laten leren van elkaar over kwaliteitsmanagement en kwaliteitssystemen. Het zijn laagdrempelige platformen waar bewustwording van integraal kwaliteitsmanagement (lees ‘verbetermanagement’) kan inspireren om te excelleren. Vraag en aanbod, uitwisseling van ervaringen, netwerkverbreding en kennisverrijking over de bedrijfsvoering worden interactief gestimuleerd. De 12 kwaliteitskringen in Nederland zijn regionaal georganiseerd en hebben ca 1800 leden.  
   
@@ -82,7 +82,7 @@ Vanuit het oogpunt van kwaliteit en uitwerking zijn er vier mogelijke combinatie
 - **Lage kwaliteit, hoge uitwerking**: stel je voor dat je een burger besteld bij een goed restaurant, waarvan je weet dat de bestanddelen kwaliteitsvol zijn (hoge uitwerking) Ondanks dat alles ontvang je een aangebakken, oneetbare hamburger. Dan is de uitwerking hoog, maar hoe dan ook de kwaliteit laag.  
 - **Lage kwaliteit, lage uitwerking**: heb je al ooit een fast-food burger besteld en je verslikt in rauw gehakt, of in een verbrande rots? Dat is een lage kwaliteit EN lage uitwerkingshamburger.  
   
-[[./references/@cspo_2021|@cspo_2021]]  
+[[./References/@cspo_2021|@cspo_2021]]  
   
 ### Nauwkeurigheid versus Reproduceerbaarheid  
 Men gebruikt de begrippen **nauwkeurigheid** en **precisie** door elkaar en men beschouwd ze als synoniemen. Maar ze hebben duidelijk een andere betekenis. De nauwkeurigheid geeft aan hoe accuraat de meting is, ofwel hoe groot de afwijking is tussen de gemeten en werkelijke waarde. De precisie heeft betrekking op de spreiding van de gemeten waarden uit een serie metingen.   
@@ -101,7 +101,7 @@ Kijken we ter illustratie van het verschil tussen nauwkeurigheid en reproduceerb
 - In figuur 3 zijn de nauwkeurigheid en reproduceerbaarheid groot.   
 - In figuur 4 is zowel de nauwkeurigheid als de reproduceerbaarheid klein.  
   
-[[./references/@sickipedia_2021|@sickipedia_2021]]  
+[[./References/@sickipedia_2021|@sickipedia_2021]]  
   
 ### Kritische Succesfactoren (KSF'en) en Kritische Prestatie-Indicatoren (KPI's)  
 ![](https://i.imgur.com/DuRozFG.png)  
@@ -157,7 +157,7 @@ Het maken van KSF'en, KPI's en doelen vergt oefening. Eenmaal we ze hebben geeft
   
 Vergeet niet dat situaties veranderen en dat het noodzakelijk is de KSF'en, KPI's en doelen mee te veranderen. Je moet ze stelselmatig herbekijken.  
   
-[[./references/@governmentofwesternaustralia_2017|@governmentofwesternaustralia_2017]]  
+[[./References/@governmentofwesternaustralia_2017|@governmentofwesternaustralia_2017]]  
   
 ## Kwaliteitsinstrumenten  
 ![](https://i.imgur.com/2ruPyDz.png)  
@@ -173,7 +173,7 @@ Je kan deze instrumenten toepassen op projecten van alle groottes en over alle i
 5. scatter diagrammen  
 6. control charts  
 7. pareto charts  
-[[./references/@examspm_2022|@examspm_2022]]  
+[[./References/@examspm_2022|@examspm_2022]]  
   
 ### Kwaliteitsinstrument: Oorzaak- en gevolgdiagram (Visgraatdiagram)  
   
@@ -432,7 +432,7 @@ Deming heeft zijn cirkel gebaseerd op de verbetercirkel van de natuurkundige Wal
 [YouTube - Lean Manufacturing, a pursuit of perfection](https://youtu.be/xkUjX_c32c8)  
   
 Lean manufacturing (Engels voor slanke productie) of Lean production (of soms het Toyota Production System (TPS), hoewel dit meer specifiek is) is een managementfilosofie die erop gericht is om verspillingen (無駄, Muda), zaken die geen toegevoegde waarde leveren, te elimineren. De methode is afkomstig van de Japanse autofabrikant Toyota. Door de 'slanke productie' zou de kwaliteit van het product omhoog en de kosten omlaag gaan, wat leidt tot een verbetering van het bedrijfsresultaat.  
-[[./references/@janse_2020|@janse_2020]]  
+[[./References/@janse_2020|@janse_2020]]  
   
 #### Drie Mu's  
   
@@ -561,11 +561,11 @@ Een aantal TQM-stromingen maakt gebruik van kwaliteitscirkels, zoals die van Dem
   
 # Bibliografie  
   
-- [[./references/@cspo_2021|@cspo_2021]]: _'Quality vs. Grade for PMP'_ -  **CSPO, Erin Aldridge, PMP, PMI-ACP, &(2021)** https://projectmanagementacademy.net/resources/blog/quality-vs-grade-pmp-guide/<br/><br/>  
-- [[./references/@examspm_2022|@examspm_2022]]: _'Understanding the 7 Basic Quality Tools for your PMP® Exam – ExamsPM.com'_ -  **ExamsPM,(2022)** https://www.examspm.com/2016/07/11/understanding-7-basic-quality-tools/<br/><br/>  
-- [[./references/@governmentofwesternaustralia_2017|@governmentofwesternaustralia_2017]]: _'Improvement tools: Critical success factors and key performance indicators'_ -  **Government of Western Australia,(2017)** https://www.agric.wa.gov.au/improvement-tools-critical-success-factors-and-key-performance-indicators<br/><br/>  
-- [[./references/@janse_2020|@janse_2020]]: _'LEAN management'_ -  **Janse, B.(2020)** https://www.toolshero.nl/kwaliteitsmanagement/lean-management/<br/><br/>  
-- [[./references/@nederlandovn_2021|@nederlandovn_2021]]: _'Kwaliteitskringen | Optometristen Vereniging Nederland (OVN)'_ -  **Nederland (OVN), Optometristen Vereniging(2021)** https://www.optometrie.nl/optometrist/organisatie-beleid/ovn-organisatie/kwaliteitskringen<br/><br/>  
-- [[./references/@sickipedia_2021|@sickipedia_2021]]: _'Het verschil tussen nauwkeurigheid en reproduceerbaarheid'_ -  **SICKipedia,(2021)** https://cdn.sick.com/media/content/hcc/hdf/9692943974430.pdf<br/><br/>  
-- [[./references/@wikipediakwaliteitsmanagement_2020|@wikipediakwaliteitsmanagement_2020]]: _'Kwaliteitsmanagement'_ -  **Wikipedia kwaliteitsmanagement,(2020)** https://nl.wikipedia.org/w/index.php?title=Kwaliteitsmanagement&oldid=55870333<br/><br/>  
+- [[./References/@cspo_2021|@cspo_2021]]: _'Quality vs. Grade for PMP'_ -  **CSPO, Erin Aldridge, PMP, PMI-ACP, &(2021)** https://projectmanagementacademy.net/resources/blog/quality-vs-grade-pmp-guide/<br/><br/>  
+- [[./References/@examspm_2022|@examspm_2022]]: _'Understanding the 7 Basic Quality Tools for your PMP® Exam – ExamsPM.com'_ -  **ExamsPM,(2022)** https://www.examspm.com/2016/07/11/understanding-7-basic-quality-tools/<br/><br/>  
+- [[./References/@governmentofwesternaustralia_2017|@governmentofwesternaustralia_2017]]: _'Improvement tools: Critical success factors and key performance indicators'_ -  **Government of Western Australia,(2017)** https://www.agric.wa.gov.au/improvement-tools-critical-success-factors-and-key-performance-indicators<br/><br/>  
+- [[./References/@janse_2020|@janse_2020]]: _'LEAN management'_ -  **Janse, B.(2020)** https://www.toolshero.nl/kwaliteitsmanagement/lean-management/<br/><br/>  
+- [[./References/@nederlandovn_2021|@nederlandovn_2021]]: _'Kwaliteitskringen | Optometristen Vereniging Nederland (OVN)'_ -  **Nederland (OVN), Optometristen Vereniging(2021)** https://www.optometrie.nl/optometrist/organisatie-beleid/ovn-organisatie/kwaliteitskringen<br/><br/>  
+- [[./References/@sickipedia_2021|@sickipedia_2021]]: _'Het verschil tussen nauwkeurigheid en reproduceerbaarheid'_ -  **SICKipedia,(2021)** https://cdn.sick.com/media/content/hcc/hdf/9692943974430.pdf<br/><br/>  
+- [[./References/@wikipediakwaliteitsmanagement_2020|@wikipediakwaliteitsmanagement_2020]]: _'Kwaliteitsmanagement'_ -  **Wikipedia kwaliteitsmanagement,(2020)** https://nl.wikipedia.org/w/index.php?title=Kwaliteitsmanagement&oldid=55870333<br/><br/>  
   
