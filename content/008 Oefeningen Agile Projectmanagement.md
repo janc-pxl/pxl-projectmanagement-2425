@@ -14,7 +14,9 @@ order: 8
 ![](https://i.imgur.com/j1ZCLjO.png)  
   
 <div style="page-break-after: always;"></div>  
+  
 # Oefening 1: User Stories schrijven als een pro  
+  
 ![](https://i.imgur.com/WAhe8WH.png)  
   
 ## Context  
