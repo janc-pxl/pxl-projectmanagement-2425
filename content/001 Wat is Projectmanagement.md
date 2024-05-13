@@ -32,7 +32,7 @@ Projectmanagement is ontstaan in een resem basissectoren waarmen complexe en gro
 5. Informatietechnologie (IT): Met de groei van de IT-sector werd projectmanagement steeds belangrijker voor het plannen, organiseren en uitvoeren van IT-projecten, zoals softwareontwikkeling, netwerkinstallaties en systeemintegraties.  
   
 > [!QUESTION] Het Gezin PeeTers (GPT)  
-> ![](https://i.imgur.com/WpcbdOP.jpg) Heb je meer vragen over ProjectManagement? Ontdek [[./Het Gezin PeeTers/+ 001 ProjectManagement#Vragen die je kan stellen over ProjectManagement|hier]] welke vragen je nog kan stellen.  
+> Heb je meer vragen over ProjectManagement? Ontdek [[./Het Gezin PeeTers/+ 001 ProjectManagement#Vragen die je kan stellen over ProjectManagement|hier]] welke vragen je nog kan stellen.  
   
 Hoewel projectmanagement zijn oorsprong vindt in deze sectoren, is het vandaag de dag een essentieel onderdeel van bijna elke industrie en sector, aangezien organisaties van alle soorten en maten complexe projecten moeten plannen en uitvoeren om hun doelen te bereiken.  
   
@@ -150,7 +150,7 @@ In het bedrijfsleven wordt dat vaak omschreven als de ‘battery limits’ vastl
 In de realiteit blijkt vaak dat er bij de initiatie nog geen (volwaardig) projectteam geïnstalleerd is. Vaak ontstaat een projectidee binnen de functionele departementen van een bedrijf. Zij hebben een visie op het eindproduct (= business wens), maar de praktische uitwerking of invulling mag in dit stadium nog niet de hoofdaandacht krijgen. De functionele teams zullen doorheen het project hun stem krijgen in bijvoorbeeld een stuurgroep (zorgen voor de review, de goedkeuring en opvolging van het project) of afstemmeeting. Ze worden wel actief betrokken bij het definiëren van de vereisten en bij de validatie en de acceptatie van de deliverables.  
   
 > [!QUESTION] Het Gezin PeeTers (GPT)  
-> ![](https://i.imgur.com/fECh8oa.jpg) Heb je meer vragen over een Project? Ontdek [[./Het Gezin PeeTers/+ 001 ProjectManagement#Vragen die je kan stellen over een Project|hier]] welke vragen je nog kan stellen.  
+> Heb je meer vragen over een Project? Ontdek [[./Het Gezin PeeTers/+ 001 ProjectManagement#Vragen die je kan stellen over een Project|hier]] welke vragen je nog kan stellen.  
   
 Kernwoorden voor projectinitiatie zijn high-level (abstractie), onzekerheid (over oplossing, haalbaarheid, oplevertermijnen, …) en voorbereidingen (‘het pad effenen’).  
   
