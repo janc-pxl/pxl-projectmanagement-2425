@@ -12,25 +12,25 @@ Het is tijd om kennis te maken met het enige gezin dat nooit slaapt en altijd ee
   
 Niettemin zijn we dolblij om deze fantastische familie in ons team te hebben.  
   
-- **Guy PeeTers**  
+## Guy PeeTers  
   
 ![](https://i.imgur.com/WpcbdOP.jpg)  
 	  
 *Serial Netflix binger, Guilty pleasure pop music fan, Amateur stand-up comic, Weekend warrior chef, Master of dad jokes, Risk-taking roller coaster enthusiast, Karaoke king, Friendliest neighborhood bar regular, Enthusiastic air guitar player, DIY home improvement disaster artist*  
   
-- **Ghadah PeeTers**  
+## Ghadah PeeTers  
   
 ![](https://i.imgur.com/fECh8oa.jpg)  
   
 *Globetrotting adventurer, DIY home décor aficionado, Sporadic salsa dancer, Cat meme expert, Impromptu karaoke diva, Tea lover and bookworm, Self-taught life coach, Obsessed with 90s nostalgia, Secret superhero movie fan, Enthusiastic board game competitor*  
   
-- **Gudrun PeeTers**  
+## Gudrun PeeTers  
   
 ![](https://i.imgur.com/q5kOaEI.jpg)  
   
 *Yoga and brunch enthusiast, Aspiring TikTok star, Indecisive Netflix explorer, Cupcake baking wizard, Unofficial wine connoisseur, Master of witty comebacks, Weekend hiking warrior, Serial hobby collector, Champion of themed parties, Amateur astrologist*  
   
-- **Guust PeeTers**  
+## Guust PeeTers  
   
 ![](https://i.imgur.com/WLxt6mg.jpg)  
   
