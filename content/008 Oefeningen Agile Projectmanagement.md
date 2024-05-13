@@ -11,7 +11,7 @@ order: 8
 > **Departement:** PXL-Digital   
 > **Lectoren:** Lowie Vangaal, Jan Castermans  
   
-![](https://i.imgur.com/qGrLGGM.png)  
+![](https://i.imgur.com/j1ZCLjO.png)  
   
 <div style="page-break-after: always;"></div>  
 # Oefening 1: User Stories schrijven als een pro  
