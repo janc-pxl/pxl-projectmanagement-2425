@@ -453,7 +453,7 @@ De interne rentabiliteit (IRR) is het percentage dat ervoor zorgt dat de NCW van
 > - C = het kapitaal geïnvesteerd op tijdstip 0  
 > - N = de levensduur van het project  
 > - IRR = de discontovoet.  
-[[./references/@cfi_2022|@cfi_2022]]  
+[[./References/@cfi_2022|@cfi_2022]]  
   
 Rangschikken we de termen, dan krijgen we :  
   
@@ -727,5 +727,5 @@ Indien voor de uitbreiding van het computersysteem geopteerd wordt dient men het
   
 # Bibliografie  
   
-- [[./references/@cfi_2022|@cfi_2022]]: _'Internal Rate of Return (IRR)'_ -  **CFI,(2022)** https://corporatefinanceinstitute.com/resources/knowledge/finance/internal-rate-return-irr/<br/><br/>  
+- [[./References/@cfi_2022|@cfi_2022]]: _'Internal Rate of Return (IRR)'_ -  **CFI,(2022)** https://corporatefinanceinstitute.com/resources/knowledge/finance/internal-rate-return-irr/<br/><br/>  
   

@@ -47,12 +47,12 @@ Het spitst zich toe op teamwerk en op een 1-op-1 afhandelen van producteigenscha
   
 > [!abstract] Samengevat  
 > Agile is een manier van projectmanagement die zich toespitst op het verdelen van taken in korte werkfases, met veelvuldige reviews (controles) van het project en mogelijke aanpassingen tijdens het uitvoeren. Een Agile aanpak is flexibel en minder strak dan sommige andere manieren van projectmanagement.  
-[[./references/@stanley.etal_2020|@stanley.etal_2020]]  
+[[./References/@stanley.etal_2020|@stanley.etal_2020]]  
   
 ## Incrementele ontwikkeling  
   
 ![](https://i.imgur.com/jWB3oST.jpg)  
-[[./references/@martin_2020|@martin_2020]]  
+[[./References/@martin_2020|@martin_2020]]  
   
 Een van de eigenschappen van Agile is dat het **incrementeel** is.  
   
@@ -87,7 +87,7 @@ Op het eind van elke cyclus is er een afgewerkt product beschikbaar en kan men h
 ## Daily Standups  
   
 ![](https://i.imgur.com/lbKcBA7.png)   
-[[./references/@vanderwardt_2017|@vanderwardt_2017]]  
+[[./References/@vanderwardt_2017|@vanderwardt_2017]]  
   
 De dagelijkse meetings voor de werknemers die aan een project samenwerken noemen we de "Daily Standups". De bedoeling is dat deze maar 5 tot 15 minuten duren. Gebruikelijk staan alle aanwezigen recht. Dit heeft als doel de deelnemers aan te moedigen de vergadering niet nodeloos te rekken. De duurtijd van 15 minuten is een maximum!  
   
@@ -113,7 +113,7 @@ Als je, bijvoorbeeld, software aan het schrijven bent waarmee je de leden, locat
 ## Sprints  
   
 ![](https://i.imgur.com/jwLYumg.png)  
-[[./references/@visual-paradigm_2022|@visual-paradigm_2022]]  
+[[./References/@visual-paradigm_2022|@visual-paradigm_2022]]  
   
 Sprints zijn de hartslag van Agile, waar ideeën worden omgezet in waarde.  
   
@@ -155,7 +155,7 @@ Waar we Agile beschouwen als een methodologie, spreken we bij Scrum over een raa
   
   
 > [!note] DEFINITIE: Scrum  
-> **Scrum (n):** een eenvoudig raamwerk voor complexe productontwikkeling (1); een eenvoudig raamwerk om complexe uitdagingen te adresseren (2); een eenvoudig raamwerk dat mensen helpt om waarde te genereren uit complexe uitdagingen (3). [[./references/@verheyen_2022|@verheyen_2022]]  
+> **Scrum (n):** een eenvoudig raamwerk voor complexe productontwikkeling (1); een eenvoudig raamwerk om complexe uitdagingen te adresseren (2); een eenvoudig raamwerk dat mensen helpt om waarde te genereren uit complexe uitdagingen (3). [[./References/@verheyen_2022|@verheyen_2022]]  
   
 Alle termen en concepten die we tot nu toe bespraken voor Agile, passen we toe in Scrum, zoals:  
 - **Sprints** (vaste periodes van 1 week, 2 weken, enz.)  
@@ -170,18 +170,18 @@ Een goede manier om de relatie tussen Scrum en Agile te bekijken is het volgende
 Of, om het met een analogie te bekijken.  
   
 ![](https://i.imgur.com/jwtVfu7.jpg)  
-[[./references/@stanley.etal_2020|@stanley.etal_2020]]  
+[[./References/@stanley.etal_2020|@stanley.etal_2020]]  
   
 In dit voorbeeld bekijk je “sports” als projectmanagement, “basketbal” als Agile en “NBA” (de populairste uitvoering van basketbal) is Scrum.  
   
 > [!note] DEFINITIE: Sprint (in Scrum)  
-> **Sprint:** een event dat als een zogenaamd ‘container event’ de overige Scrum Events omvat, met een time-box van niet meer dan vier weken. De overige events in Scrum zijn: Sprint Planning, Daily Scrum, Sprint Review en Sprint Retrospective.[[./references/@verheyen_2022|@verheyen_2022]]  
+> **Sprint:** een event dat als een zogenaamd ‘container event’ de overige Scrum Events omvat, met een time-box van niet meer dan vier weken. De overige events in Scrum zijn: Sprint Planning, Daily Scrum, Sprint Review en Sprint Retrospective.[[./References/@verheyen_2022|@verheyen_2022]]  
   
   
 ### Empirische procescontrole  
   
 ![](https://i.imgur.com/F5ySO0e.png)  
-[[./references/@zentaoteam_2022a|@zentaoteam_2022a]]  
+[[./References/@zentaoteam_2022a|@zentaoteam_2022a]]  
   
 Scrum is gebaseerd op de filosofie van het empirisme.  
   
@@ -194,7 +194,7 @@ Deze drie pilaren ondersteunen de ontwikkeling van elke empirisch proces: **tran
 - **Inspectie**: Men kan het product, de processen, menselijk aspecten, praktijken en de voortdurende verbeteringen inspecteren. Het team toont aan het einde van elke Sprint, open en doorzichtig, het product aan de klant om hierdoor waardevolle feedback te krijgen. Wanneer de klant de vereisten na inspectie aanpast, gaat het team niet klagen. Het gaat zich net flexibel opstellen en dit zien als een kans om nóg beter samen te werken met de klant, diens vereisten nog duidelijker te zien en de nieuwe veronderstelling uit te testen.  
   
 - **Aanpassing**: Aanpassing beschouwen we in deze context als alle voortdurende verbeteringen die we aanbrengen. We zien het als de mogelijkheid aan te passen, kijkend naar de resultaten van de Inspectie. Iedereen in de organisatie moet op geregelde tijdstippen zich de vraag stellen: *"Staan we er beter voor dan gisteren?"*  
-[[./references/@doshi_2016|@doshi_2016]]  
+[[./References/@doshi_2016|@doshi_2016]]  
   
 > [!tip] tip  
 > Later, in de [[007 Agile Projectmanagement#Scrum Waarden|Scrum Waarden]], gaan we dieper in op de manier waarop de Empirisch gedachte in Scrum uitgewerkt is.   
@@ -210,7 +210,7 @@ In Agile en Scrum is de **Product Owner** de persoon die het gezag heeft de bela
 De Product Owner is altijd beschikbaar voor het projectteam (al is die zelf niet betrokken in het ontwikkelen van het project) en is aanwezig bij het merendeel van de vergaderingen. Een Product Owner is de "baas" *(maar neem dat zeker niet letterlijk, de reden dat het woord tussen quotes staat is niet toevallig)* van het project, maar ze laten de teamleden toe hun eigen doelen te bepalen en zichzelf te managen.  
   
 ![](https://i.imgur.com/uGHziP8.png)  
-[[./references/@userstorymap_2022|@userstorymap_2022]]  
+[[./References/@userstorymap_2022|@userstorymap_2022]]  
   
 Typisch zijn Product Owners de personen die met de klant samenzitten.  
   
@@ -237,7 +237,7 @@ Stakeholders beschouwen we als alle partijen die interesse hebben in een op te l
 Door deze afhankelijkheid zijn ze in staat het project te maken of te breken. Aan de ene kant beschouwen we als stakeholders de mensen die dicht bij je Scrum project staan, zoals je belangrijkste klanten, managers en interne opdrachtgevers. Aan de andere kant zien we ze als de personen die verder van je af staan, zoals de CEO of de Board of Directors.   
   
 > [!note] DEFINITIE: Stakeholder  
-> **Stakeholder:** een persoon van buiten het Scrum Team met een specifiek belang in het product of kennis ervan die noodzakelijk is voor de verdere ontwikkeling van het product. [[./references/@verheyen_2022|@verheyen_2022]]  
+> **Stakeholder:** een persoon van buiten het Scrum Team met een specifiek belang in het product of kennis ervan die noodzakelijk is voor de verdere ontwikkeling van het product. [[./References/@verheyen_2022|@verheyen_2022]]  
   
 #### Stakeholders identificeren  
   
@@ -250,10 +250,10 @@ Het identificeren van stakeholders kan je als [[007 Agile Projectmanagement#Prod
 2. **Externe stakeholders**: deze zitten op behoefte-invulling van het project en hebben een emotioneel belang. Het betreft bijvoorbeeld de eindgebruiker, de consument, de betalende klant.  
   
 3. **Interface stakeholders**: deze hebben mogelijk invloed door wet- en regelgeving, bijvoorbeeld de overheid, maatschappij, onderwijs.  
-[[./references/@vanlier_2018|@vanlier_2018]]  
+[[./References/@vanlier_2018|@vanlier_2018]]  
   
 ## Scrum Master  
-![](https://i.imgur.com/8IDZ0WM.png)[[./references/@qframe_2021|@qframe_2021]]  
+![](https://i.imgur.com/8IDZ0WM.png)[[@qframe_2021|@qframe_2021]]  
   
 De Scrum Master is, in tegenstelling tot de [[007 Agile Projectmanagement#Product Owner|Product Owner]], werkelijk betrokken met de softwareontwikkeling. Het is de persoon die de groepsactiviteiten coördineert en laat functioneren. De Scrum Master is er, op het terrein, werk uitvoerend en de mede-teamgenoten helpend. De rol van Scrum Master is niet altijd door dezelfde persoon voor lange tijd opgenomen. Sommige teams hebben voorzien dat deze rol een wisselrol is, zodat elk teamlid dit een bepaalde periode kan uitvoeren.  
   
@@ -265,7 +265,7 @@ Sommige van de taken van deze rol omvatten:
 - de [[007 Agile Projectmanagement#De Developers||Developers]] behoeden voor verstoringen van buitenaf en andere afleidingen.  
   
 > [!note] DEFINITIE: Scrum Master  
-> **Scrum Master:** de persoon die aansprakelijk is voor een correct begrip en effectief gebruik van Scrum door Scrum Teams en hun bredere omgeving door technieken als coaching, facilitering, lesgeven en stilzwijgende observatie. [[./references/@verheyen_2022|@verheyen_2022]]  
+> **Scrum Master:** de persoon die aansprakelijk is voor een correct begrip en effectief gebruik van Scrum door Scrum Teams en hun bredere omgeving door technieken als coaching, facilitering, lesgeven en stilzwijgende observatie. [[./References/@verheyen_2022|@verheyen_2022]]  
   
 De term *"master"* kenmerkt in deze context niet iemand die anderen voor zich laat werken. Het is eerder te verstaan als *"een specialist van een bepaald onderwerp"*. Waar we de Scrum Master hebben als iemand die het beste (of zeker een sterk) begrip van Scrum heeft, vergeleken met de rest van de mensen betrokken bij het project. Men beschouwt hen als de *'masters van het Scrum raamwerk'*.  
   
@@ -280,7 +280,7 @@ In een letterlijke betekenis kun je een omgevallen boom die een straat blokkeert
 In Scrum is een impediment eender wat dat het team tegenhoudt hun volledige potentieel te gebruiken.   
   
 > [!note] DEFINITIE: Impediment  
-> **Impediment:** elke hindernis of obstakel dat het ontwikkelwerk blokkeert of vertraagt, maar niet kan weggenomen worden via zelfsturing. De verwijdering ervan is onderdeel van de aansprakelijkheid van de Scrum Master. [[./references/@verheyen_2022|@verheyen_2022]].  
+> **Impediment:** elke hindernis of obstakel dat het ontwikkelwerk blokkeert of vertraagt, maar niet kan weggenomen worden via zelfsturing. De verwijdering ervan is onderdeel van de aansprakelijkheid van de Scrum Master. [[./References/@verheyen_2022|@verheyen_2022]].  
   
 Dit omvat problemen die een project tegenhouden het op tijd en tegen het juiste budget te laten beëindigen. Het is de taak van de [[007 Agile Projectmanagement#Scrum Master|Scrum Master]] deze impediments te behandelen of te verwijderen.  
   
@@ -309,7 +309,7 @@ De Developers hebben enkele kenmerken:
   
 Hoeveel leden een team bevat, hangt natuurlijk af van de organisatie en het project. Over het algemeen geldt dat een team moet bestaan uit 3 tot 10 leden. Minder dan drie mensen in het team verkleint de interactie, wat leidt tot lagere productiviteit. Daarnaast mankeert men mogelijk bepaalde vaardigheden in het team, waardoor er tegen problemen wordt aangelopen. Meer dan 10 mensen in het team vereist strakkere coördinatie en zorgt voor hogere complexiteit.   
 **De [[007 Agile Projectmanagement#Product Owner|Product Owner]] en de [[007 Agile Projectmanagement#Scrum Master|Scrum Master]] horen niet tot de Developers, behalve als ze taken uit de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]] uitvoeren.**  
-[[./references/@scrumguide_2022|@scrumguide_2022]]  
+[[./References/@scrumguide_2022|@scrumguide_2022]]  
   
 Laten we nog de belangrijkste Scrum rollen herhalen om deze nog verder duidelijk te maken.  
   
@@ -363,24 +363,24 @@ Scrum Master is een Scrum term. Product Owner is een Agile term die tevens in Sc
 Bij de start van elke Sprint, is er een planningssessie binnen het team: de **Sprint Planning**.  
   
 ![](https://i.imgur.com/gVPiokj.png)  
-[[./references/@raghuprasad_2019|@raghuprasad_2019]]  
+[[./References/@raghuprasad_2019|@raghuprasad_2019]]  
   
 Tijdens de Sprint Planning plannen we de [[007 Agile Projectmanagement#Sprint Backlog|Sprint Backlog]]. Meer bepaald gaat het team dan beslissen welke [[007 Agile Projectmanagement#Product Backlog item|Product Backlog item]]s (PBI's) ze aanpakt tijdens de volgende Sprint. Ze nemen items uit de Product Backlog die ze plaatsen in de [[007 Agile Projectmanagement#Sprint Backlog|Sprint Backlog]]. Hier kiezen ze, naargelang de belangrijkheid en rekening houdend met de capaciteit van het team, de onderwerpen die ze denken af te ronden in 1 Sprint. Belangrijk is hier de capaciteit van het team goed in te schatten. Dat kan door het bekijken van de [[007 Agile Projectmanagement#Velocity|Velocity]] en door rekening te houden met verlofdagen en opleidingen van leden van het team.   
   
 > [!note] DEFINITIE: Sprint Planning  
-> **Sprint Planning:** het event dat het begin van een Sprint uitmaakt, met een time-box van acht uur of minder. Tijdens dit event bepaalt het Scrum Team welke selectie van de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]] in een Sprint wordt opgenomen en identificeert het Sprint Doel en de ontwikkelactiviteiten ervoor. [[./references/@verheyen_2022|@verheyen_2022]]  
+> **Sprint Planning:** het event dat het begin van een Sprint uitmaakt, met een time-box van acht uur of minder. Tijdens dit event bepaalt het Scrum Team welke selectie van de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]] in een Sprint wordt opgenomen en identificeert het Sprint Doel en de ontwikkelactiviteiten ervoor. [[./References/@verheyen_2022|@verheyen_2022]]  
   
 Niet alleen de [[007 Agile Projectmanagement#Sprint Backlog|Sprint Backlog]] wordt tijdens de Sprint Planning bepaald, er wordt tevens een duidelijk [[007 Agile Projectmanagement#Sprint Doel|Sprint Doel]] vastgelegd.  
   
 ![](https://i.imgur.com/oHybCrv.png)  
-[[./references/@zentaoteam_2022a|@zentaoteam_2022a]]  
+[[./References/@zentaoteam_2022a|@zentaoteam_2022a]]  
   
 Sommige teams kiezen bepaalde taken aan bepaalde ontwikkelaars toe te wijzen, maar dit is niet nodig. Het gros van de teams beslist alleen maar over de [[007 Agile Projectmanagement#Sprint Backlog|Sprint Backlog]], en laat de teamleden beslissen wie aan welke taak werkt tijdens de uitvoering van de Sprint.  
   
 ### User Stories (en Epics)  
   
 ![](https://i.imgur.com/2nUIGtg.png)  
-[[./references/@productplan_2022|@productplan_2022]]  
+[[./References/@productplan_2022|@productplan_2022]]  
   
 Een **User Story** is een Agile en Scrum werkinstrument dat als doel heeft producten (*"software"*) te beschrijven vanuit het standpunt van een eindgebruiker.   
   
@@ -466,10 +466,10 @@ Het Sprint Doel (of de Sprint Goal) is een korte zin van een of twee regels die 
 Het Sprint Doel is handig om [[007 Agile Projectmanagement#Stakeholders|Stakeholders]] op de hoogte te houden. Stakeholders hebben geen behoefte aan alle gedetailleerde items, het doel van de komende Sprint te weten is al genoeg.  
   
 > [!note] DEFINITIE: Sprint Doel  
-> **Sprint Doel:** een korte omschrijving van de overkoepelende doelstelling van een Sprint. [[./references/@verheyen_2022|@verheyen_2022]]  
+> **Sprint Doel:** een korte omschrijving van de overkoepelende doelstelling van een Sprint. [[./References/@verheyen_2022|@verheyen_2022]]  
   
 Het succes van deze Sprint wordt beoordeeld in de [[007 Agile Projectmanagement#Sprint Review|Sprint Review]]. Het opgeleverde wordt vergeleken met het Sprint Doel. In de [[007 Agile Projectmanagement#Sprint Review|Sprint Review]] kijkt men niet naar de specifieke items, maar beoordeeld men of het doel is behaald.  
-[[./references/@agile4all_2019|@agile4all_2019]]  
+[[./References/@agile4all_2019|@agile4all_2019]]  
   
 ### Sprint Backlog  
   
@@ -497,16 +497,16 @@ Ten slotte, voor wie het nog niet duidelijk is, hier een overzicht van de versch
 ## Product Backlog Refinement  
   
 ![](https://i.imgur.com/QKHODEO.png)  
-[[./references/@vanrooden_2015|@vanrooden_2015]]  
+[[./References/@vanrooden_2015|@vanrooden_2015]]  
 ![](https://i.imgur.com/6NEBVMN.jpg)  
-[[./references/@vanrooden_2015a|@vanrooden_2015a]]  
+[[./References/@vanrooden_2015a|@vanrooden_2015a]]  
   
 Product Backlog Refinement is een meeting gedurende de Sprint waarin we items van de Product Backlog bespreken en verduidelijken. We proberen in te schatten hoeveel [[007 Agile Projectmanagement#Storypunten|Storypunten]] er voor elke PBI ([[007 Agile Projectmanagement#Product Backlog item|Product Backlog item]]) nodig is zijn deze af te ronden en we geven de taken een prioriteit.  
   
 Backlog Refinement noemt men "Backlog Grooming" of "Story Time".  
   
 > [!note] DEFINITIE: Product Backlog Refinement  
-> **Product Backlog refinement:** de regelmatige activiteit om gradueel verfijndere inzichten te creëren in de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]]. [[./references/@verheyen_2022|@verheyen_2022]]  
+> **Product Backlog refinement:** de regelmatige activiteit om gradueel verfijndere inzichten te creëren in de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]]. [[./References/@verheyen_2022|@verheyen_2022]]  
   
 Een belangrijk aspect hierin waarover je zeker moet leren is de inschatting van moeilijkheid een taak af te ronden. De twee gebruikelijkste zijn "T-shirt grootte" en "Fibonacci reeks". Beide methodes duiden aan hoeveel werk er nodig is voor een bepaalde taak.  
   
@@ -528,10 +528,10 @@ De Sprint Review is bedoeld als het officiële moment tijdens elke Sprint waarin
 Daarnaast tonen we alleen de [[007 Agile Projectmanagement#User Stories (en Epics)|User Stories]] die daadwerkelijk afraakten tijdens de Sprint. Items die niet (helemaal) klaar raakten tonen we niet. Dit zou een verkeerde indruk geven van de hoeveelheid waarde die opgeleverd is.  
   
 Het laatste onderdeel van de Sprint Review is het bespreken van de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]] door de [[007 Agile Projectmanagement#Product Owner|Product Owner]]. Deze neemt de [[007 Agile Projectmanagement#Stakeholders|Stakeholders]] mee in de stand van zaken. Welke items hebben de hoogste prioriteit en gaan we tijdens de volgende Sprint oppakken? Welke nieuwe items bevat de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]]?  
-[[./references/@agilescrumgroup_2018|@agilescrumgroup_2018]]  
+[[./References/@agilescrumgroup_2018|@agilescrumgroup_2018]]  
   
 > [!note] DEFINITIE: Sprint Review   
-> **Sprint Review:** het event dat het einde van de ontwikkelactiviteiten van een Sprint uitmaakt, met een time-box van vier uur of minder. Tijdens dit event bespreken het Scrum Team en uitgenodigde belanghebbenden de resultaten van de [[007 Agile Projectmanagement#Sprint|Sprint]], de huidige inhoud van de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]] en de voortgang op productniveau. Het doel is om potentieel belangrijk werk voor de nabije, of verdere, toekomst te identificeren. Het resultaat is een bijgewerkte Product Backlog. [[./references/@verheyen_2022|@verheyen_2022]]  
+> **Sprint Review:** het event dat het einde van de ontwikkelactiviteiten van een Sprint uitmaakt, met een time-box van vier uur of minder. Tijdens dit event bespreken het Scrum Team en uitgenodigde belanghebbenden de resultaten van de [[007 Agile Projectmanagement#Sprint|Sprint]], de huidige inhoud van de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]] en de voortgang op productniveau. Het doel is om potentieel belangrijk werk voor de nabije, of verdere, toekomst te identificeren. Het resultaat is een bijgewerkte Product Backlog. [[./References/@verheyen_2022|@verheyen_2022]]  
   
 ## Sprint Retrospective  
   
@@ -542,7 +542,7 @@ Een **Sprint Retrospective** (of kort: een Sprint Retro) is de meeting op het ei
 De [[007 Agile Projectmanagement#Product Owner|Product Owner]] kan toezien op deze meeting, maar in vele gevallen is dit een meeting met alleen maar de [[007 Agile Projectmanagement#De Developers|Developers]].  
   
 > [!note] DEFINITIE: Sprint Retrospective  
-> **Sprint Retrospective:** het event dat het einde van een Sprint uitmaakt, met een time-box van drie uur of minder. Tijdens dit event kijkt het Scrum Team terug op de aflopende Sprint, met als doel om op basis van de ervaringen in de huidige Sprint het proces en de manier van werken, in brede zin, voor de volgende Sprint te bepalen. [[./references/@verheyen_2022|@verheyen_2022]]  
+> **Sprint Retrospective:** het event dat het einde van een Sprint uitmaakt, met een time-box van drie uur of minder. Tijdens dit event kijkt het Scrum Team terug op de aflopende Sprint, met als doel om op basis van de ervaringen in de huidige Sprint het proces en de manier van werken, in brede zin, voor de volgende Sprint te bepalen. [[./References/@verheyen_2022|@verheyen_2022]]  
   
 Hier enkele voorbeelden van typische vragen die men kan vragen tijdens een Sprint Retrospectieve  
   
@@ -567,7 +567,7 @@ Deze commitments bestaan om empirisme en de Scrum waarden te versterken voor het
 ## Overzicht van de 5 Scrum Events  
   
 ![](https://i.imgur.com/xdg1vMM.png)  
-[[./references/@visualparadigm_2022|@visualparadigm_2022]]  
+[[./References/@visualparadigm_2022|@visualparadigm_2022]]  
   
 We hebben ze nu allemaal gezien, maar hoe hangt Scrum nu alweer aan elkaar? En welke zijn de vijf Scrum Events?  
   
@@ -634,7 +634,7 @@ Om met storypunten te starten, moet je team eerst een **referentie-story bepale
   
 > [!abstract] Samengevat  
 > Storypunten zijn een relatieve waarde die je samen met je Scrum Team creëert. Ze bieden inzicht in de moeite die het kost om een User Story te maken. De Product Owner kan afwegen om een bepaald item al dan niet te prioriteren. En het team weet hoeveel storypunten het per Sprint kan oppakken.  
-[[./references/@vrielink_2020|@vrielink_2020]]  
+[[./References/@vrielink_2020|@vrielink_2020]]  
   
 #### What are Story Points (Video)  
   
@@ -661,10 +661,10 @@ Velocity is de snelheid waartegen teams werk afronden. Meer bepaald, de som van 
 Eenmaal men de velocity kent na een aantal Sprints, kan men deze waarde gebruiken om het plannen van projecten te helpen en te voorspellen welke opleverdatum te voorzien.  
   
 ![](https://i.imgur.com/CyNyN9u.png)  
-[[./references/@adobeworkfront_2022|@adobeworkfront_2022]]  
+[[./References/@adobeworkfront_2022|@adobeworkfront_2022]]  
   
 > [!note] DEFINITIE: Velocity   
-> **Velocity:** een veelgebruikte aanduiding van de gemiddelde hoeveelheid [[007 Agile Projectmanagement#Product Backlog|Product Backlog]] die een specifiek team met zijn specifieke samenstelling tijdens een Sprint omgezet heeft in één of meerdere Incrementen. [[./references/@verheyen_2022|@verheyen_2022]]  
+> **Velocity:** een veelgebruikte aanduiding van de gemiddelde hoeveelheid [[007 Agile Projectmanagement#Product Backlog|Product Backlog]] die een specifiek team met zijn specifieke samenstelling tijdens een Sprint omgezet heeft in één of meerdere Incrementen. [[./References/@verheyen_2022|@verheyen_2022]]  
   
 ### Definition of Done  
   
@@ -678,7 +678,7 @@ Je bereikt onder andere het volgende met een goede Definition of Done:
 2. Het verhogen van de snelheid waarmee werk wordt opgeleverd. Doordat je een algemeen geldende checklist hebt die je kan afvinken kun je snel werk van hoge kwaliteit leveren.  
   
 > [!note] DEFINITIE: Definition of Done  
-> **Definition of Done:** de verzameling kwaliteiten, verwachtingen en criteria waaraan een Increment moet voldoen om te kunnen worden vrijgegeven naar de eindgebruikers – met respect voor overkoepelende organisatierichtlijnen indien beschikbaar. [[./references/@verheyen_2022|@verheyen_2022]]  
+> **Definition of Done:** de verzameling kwaliteiten, verwachtingen en criteria waaraan een Increment moet voldoen om te kunnen worden vrijgegeven naar de eindgebruikers – met respect voor overkoepelende organisatierichtlijnen indien beschikbaar. [[./References/@verheyen_2022|@verheyen_2022]]  
   
 De Definition of Done wordt tijdens de start van iedere [[007 Agile Projectmanagement#Sprints|Sprint]] in de [[007 Agile Projectmanagement#Sprint Planning|Sprint Planning]] herhaald. Daarnaast wordt de Definition of Done aangescherpt op basis van voortschrijdend inzicht.  
   
@@ -688,7 +688,7 @@ De Definition of Done wordt tijdens de start van iedere [[007 Agile Projectmana
 > - Er is een installatiehandleiding voor de installatie van de software.  
 > - Alle functionele testen zijn gedraaid.  
 > - Code heeft een peer review ondergaan.  
-[[./references/@agilescrumgroup_2017|@agilescrumgroup_2017]]  
+[[./References/@agilescrumgroup_2017|@agilescrumgroup_2017]]  
   
 > [!example] Voorbeeld van een DoD voor een niet-IT-project  
 >   
@@ -715,12 +715,12 @@ Binnen Scrum wordt gewerkt met een Scrum bord *(synoniem: 'takenbord' of 'Kanban
 Het doel is om aan het einde van iedere Sprint alle taken onder de laatste kolom te hebben geplakt. Dat betekent dat alle vooraf bepaalde taken werden uitgevoerd en dat het doel van de Sprint behaald is. Het takenbord is voor het Scrum Team de centrale plaats om de aanpak van het resterende werk af te stemmen. Het takenbord wordt een **Scrum Board** genoemd, en wordt gebruikt tijdens de [[007 Agile Projectmanagement#Daily Standups|Daily Scrums]].  
   
 Wanneer de Sprint is afgelopen en niet alle taken staat onder ‘Done’ dan plaatsen we de niet beëindigde taken terug in de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]]. De [[007 Agile Projectmanagement#Product Owner|Product Owner]] kijkt dan vervolgens of deze taken in de volgende Sprint passen.  
-[[./references/@scrumguide_2022a|@scrumguide_2022a]]  
+[[./References/@scrumguide_2022a|@scrumguide_2022a]]  
   
 ## Scrum Waarden  
   
 > [!note] DEFINITIE: Scrum Waarden  
-> **Scrum Waarden:** een verzameling van vijf kernwaarden die het Scrum raamwerk schragen: commitment, focus, openheid *(Engels: ‘openness’)*, respect en moed *(vert. Engels: ‘courage’)*. [[./references/@verheyen_2022|@verheyen_2022]]  
+> **Scrum Waarden:** een verzameling van vijf kernwaarden die het Scrum raamwerk schragen: commitment, focus, openheid *(Engels: ‘openness’)*, respect en moed *(vert. Engels: ‘courage’)*. [[./References/@verheyen_2022|@verheyen_2022]]  
   
 ![](https://i.imgur.com/ASHoG3J.png)  
   
@@ -759,7 +759,7 @@ Alle spelers tonen moed door geen software te bouwen waar niemand op zit te wach
 Men toont moed als men veranderende inzichten, meningen en verwachtingen als een bron van inspiratie en vernieuwing beschouwt, in plaats van als een bron van ergernis. Het vergt moed om tijdelijke opleveringen uit te voeren, software te tonen die niet volledig en perfect lijkt, maar wel waarde levert of toevoegt. Alle spelers tonen moed door op elk gewenst moment de nodige informatie te delen die het team en de organisatie vooruithelpt. Spelers zijn moedig als ze erkennen dat niemand perfect is. Er is de moed om meer of minder radicaal van richting te durven veranderen, om een ander idee dan het eigen idee te omarmen, moed om zowel risico’s als voordelen te delen. Het vereist moed om de oude, valse zekerheden los te laten.  
   
 De spelers tonen moed als ze Scrum correct toelichten als een empirisch proces, vanuit de moed om toe te geven dat aanpasbaarheid de enige manier is om met complexiteit om te gaan. Ze hebben de moed om de kernwaarden van Scrum te leven en te beleven, om een beslissing te nemen, tot actie over te gaan, niet tot een impasse verleid te worden, en vervolgens de moed tonen om genomen beslissingen gemaakt met ervaring opnieuw kritisch tegen het licht te houden en bij te sturen.  
-[[./references/@verheyen_2017|@verheyen_2017]]  
+[[./References/@verheyen_2017|@verheyen_2017]]  
   
 ### The Five Scrum Values (Video)  
   
@@ -886,27 +886,27 @@ Je kunt perfect zien hoeveel tijd het team heeft besteed aan de story. Wees in d
   
 # Bibliografie  
   
-- [[./references/@adobeworkfront_2022|@adobeworkfront_2022]]: _'What is Velocity in Agile? Charts & Examples | Adobe Workfront'_ -  **Adobe Workfront,(2022)** https://www.workfront.com/project-management/methodologies/agile/velocity<br/><br/>  
-- [[./references/@agilescrumgroup_2018|@agilescrumgroup_2018]]: _'De Sprint Review uitgelegd. Waarom deze meeting? (+ Checklist & Valkuilen)'_ -  **Agile Scrum Group,(2018)** https://agilescrumgroup.nl/sprint-review/<br/><br/>  
-- [[./references/@agilescrumgroup_2017|@agilescrumgroup_2017]]: _'Wat is Definition of Done? Check de uitleg en voorbeelden (IT & non-IT)'_ -  **Agile Scrum Group,(2017)** https://agilescrumgroup.nl/wat-is-definition-of-done/<br/><br/>  
-- [[./references/@agile4all_2019|@agile4all_2019]]: _'Sprint Planning'_ -  **agile4all,(2019)** https://www.agile4all.nl/sprint-planning/<br/><br/>  
-- [[./references/@doshi_2016|@doshi_2016]]: _'The Three Pillars of Empiricism (Scrum)'_ -  **Doshi, Hiren(2016)** https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum<br/><br/>  
-- [[./references/@martin_2020|@martin_2020]]: _'Incremental Model in SDLC: Use, Advantage & Disadvantage'_ -  **Martin, Matthew(2020)** https://www.guru99.com/what-is-incremental-model-in-sdlc-advantages-disadvantages.html<br/><br/>  
-- [[./references/@productplan_2022|@productplan_2022]]: _'User Story'_ -  **productplan,(2022)** https://www.productplan.com/glossary/user-story/<br/><br/>  
-- [[./references/@qframe_2021|@qframe_2021]]: _'Scrum Master, Teambuilder of Agile Coach?'_ -  **qframe,(2021)** https://qframe.be/2021/06/25/scrum-master-teambuilder-of-agile-coach/<br/><br/>  
-- [[./references/@raghuprasad_2019|@raghuprasad_2019]]: _'Basics of Sprint Planning - WHAT'_ -  **Raghuprasad,(2019)** https://agilebatech.com/what-is-sprint-planning/<br/><br/>  
-- [[./references/@scrumguide_2022|@scrumguide_2022]]: _'Het Scrumteam: uitleg en tips bij de verantwoordelijkheid | Scrumguide.nl'_ -  **scrumguide,(2022)** https://scrumguide.nl/scrumteam/<br/><br/>  
-- [[./references/@scrumguide_2022a|@scrumguide_2022a]]: _'Scrum takenbord | Scrumguide.nl'_ -  **Scrumguide,(2022)** https://scrumguide.nl/scrumbord/<br/><br/>  
-- [[./references/@stanley.etal_2020|@stanley.etal_2020]]: _'Project management handbook: simplified Agile, Scrum, and DevOps for beginners'_ -  **Stanley, Jack C; Gross, Erik D; Tech Academy(2020)** \-<br/><br/>  
-- [[./references/@userstorymap_2022|@userstorymap_2022]]: _'How to Be An Effective Product Owner'_ -  **userstorymap,(2022)** https://www.userstorymap.io/being-an-effective-product-owner/<br/><br/>  
-- [[./references/@vanderwardt_2017|@vanderwardt_2017]]: _'Daily Stand-up: 5 tips voor een goede meeting (+checklist download)'_ -  **van der Wardt, Rik(2017)** https://agilescrumgroup.nl/5-tips-goede-daily-stand-up-meeting/<br/><br/>  
-- [[./references/@vanlier_2018|@vanlier_2018]]: _'Stakeholdermanagement in projecten met Scrum'_ -  **van Lier, Willemijn(2018)** https://agilescrumgroup.nl/stakeholder-management-matrix-model/<br/><br/>  
-- [[./references/@vanrooden_2015|@vanrooden_2015]]: _'Product Backlog Refinement explained (1/3)'_ -  **van Rooden, Stephan(2015)** https://www.scrum.org/resources/blog/product-backlog-refinement-explained-13<br/><br/>  
-- [[./references/@vanrooden_2015a|@vanrooden_2015a]]: _'Product Backlog Refinement explained (3/3)'_ -  **van Rooden, Stephan(2015)** https://www.scrum.org/resources/blog/product-backlog-refinement-explained-33<br/><br/>  
-- [[./references/@verheyen_2022|@verheyen_2022]]: _'Scrum Glossary'_ -  **Verheyen, Gunther(2022)** https://scrumglossary.org/<br/><br/>  
-- [[./references/@verheyen_2017|@verheyen_2017]]: _'De kernwaarden van Scrum'_ -  **Verheyen, Gunther(2017)** https://guntherverheyen.com/2017/02/15/de-kernwaarden-van-scrum/<br/><br/>  
-- [[./references/@visualparadigm_2022|@visualparadigm_2022]]: _'What are Time-boxed Events in Scrum?'_ -  **Visual Paradigm,(2022)** https://www.visual-paradigm.com/scrum/what-are-scrum-time-boxed-events/<br/><br/>  
-- [[./references/@visual-paradigm_2022|@visual-paradigm_2022]]: _'Why Fixed Length Sprints in Scrum?'_ -  **visual-paradigm,(2022)** https://www.visual-paradigm.com/scrum/why-fixed-length-of-sprints-in-scrum/<br/><br/>  
-- [[./references/@vrielink_2020|@vrielink_2020]]: _'Hoe werken story points?'_ -  **Vrielink, Martijn(2020)** https://www.incentro.com/nl-NL/blog/story-points-hoe-werken-ze-eigenlijk<br/><br/>  
-- [[./references/@zentaoteam_2022a|@zentaoteam_2022a]]: _'What Are The Complete Scrum Artifacts? - Agile - ZenTao'_ -  **ZenTao team,(2022)** https://www.zentao.pm/blog/What-are-the-complete-Scrum-artifacts-1102.html<br/><br/>  
+- [[@qframe_2021|@qframe_2021]]: _'\-'_ -  **\-(\-)** \-<br/><br/>  
+- [[./References/@adobeworkfront_2022|@adobeworkfront_2022]]: _'What is Velocity in Agile? Charts & Examples | Adobe Workfront'_ -  **Adobe Workfront,(2022)** https://www.workfront.com/project-management/methodologies/agile/velocity<br/><br/>  
+- [[./References/@agilescrumgroup_2018|@agilescrumgroup_2018]]: _'De Sprint Review uitgelegd. Waarom deze meeting? (+ Checklist & Valkuilen)'_ -  **Agile Scrum Group,(2018)** https://agilescrumgroup.nl/sprint-review/<br/><br/>  
+- [[./References/@agilescrumgroup_2017|@agilescrumgroup_2017]]: _'Wat is Definition of Done? Check de uitleg en voorbeelden (IT & non-IT)'_ -  **Agile Scrum Group,(2017)** https://agilescrumgroup.nl/wat-is-definition-of-done/<br/><br/>  
+- [[./References/@agile4all_2019|@agile4all_2019]]: _'Sprint Planning'_ -  **agile4all,(2019)** https://www.agile4all.nl/sprint-planning/<br/><br/>  
+- [[./References/@doshi_2016|@doshi_2016]]: _'The Three Pillars of Empiricism (Scrum)'_ -  **Doshi, Hiren(2016)** https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum<br/><br/>  
+- [[./References/@martin_2020|@martin_2020]]: _'Incremental Model in SDLC: Use, Advantage & Disadvantage'_ -  **Martin, Matthew(2020)** https://www.guru99.com/what-is-incremental-model-in-sdlc-advantages-disadvantages.html<br/><br/>  
+- [[./References/@productplan_2022|@productplan_2022]]: _'User Story'_ -  **productplan,(2022)** https://www.productplan.com/glossary/user-story/<br/><br/>  
+- [[./References/@raghuprasad_2019|@raghuprasad_2019]]: _'Basics of Sprint Planning - WHAT'_ -  **Raghuprasad,(2019)** https://agilebatech.com/what-is-sprint-planning/<br/><br/>  
+- [[./References/@scrumguide_2022|@scrumguide_2022]]: _'Het Scrumteam: uitleg en tips bij de verantwoordelijkheid | Scrumguide.nl'_ -  **scrumguide,(2022)** https://scrumguide.nl/scrumteam/<br/><br/>  
+- [[./References/@scrumguide_2022a|@scrumguide_2022a]]: _'Scrum takenbord | Scrumguide.nl'_ -  **Scrumguide,(2022)** https://scrumguide.nl/scrumbord/<br/><br/>  
+- [[./References/@stanley.etal_2020|@stanley.etal_2020]]: _'Project management handbook: simplified Agile, Scrum, and DevOps for beginners'_ -  **Stanley, Jack C; Gross, Erik D; Tech Academy(2020)** \-<br/><br/>  
+- [[./References/@userstorymap_2022|@userstorymap_2022]]: _'How to Be An Effective Product Owner'_ -  **userstorymap,(2022)** https://www.userstorymap.io/being-an-effective-product-owner/<br/><br/>  
+- [[./References/@vanderwardt_2017|@vanderwardt_2017]]: _'Daily Stand-up: 5 tips voor een goede meeting (+checklist download)'_ -  **van der Wardt, Rik(2017)** https://agilescrumgroup.nl/5-tips-goede-daily-stand-up-meeting/<br/><br/>  
+- [[./References/@vanlier_2018|@vanlier_2018]]: _'Stakeholdermanagement in projecten met Scrum'_ -  **van Lier, Willemijn(2018)** https://agilescrumgroup.nl/stakeholder-management-matrix-model/<br/><br/>  
+- [[./References/@vanrooden_2015|@vanrooden_2015]]: _'Product Backlog Refinement explained (1/3)'_ -  **van Rooden, Stephan(2015)** https://www.scrum.org/resources/blog/product-backlog-refinement-explained-13<br/><br/>  
+- [[./References/@vanrooden_2015a|@vanrooden_2015a]]: _'Product Backlog Refinement explained (3/3)'_ -  **van Rooden, Stephan(2015)** https://www.scrum.org/resources/blog/product-backlog-refinement-explained-33<br/><br/>  
+- [[./References/@verheyen_2022|@verheyen_2022]]: _'Scrum Glossary'_ -  **Verheyen, Gunther(2022)** https://scrumglossary.org/<br/><br/>  
+- [[./References/@verheyen_2017|@verheyen_2017]]: _'De kernwaarden van Scrum'_ -  **Verheyen, Gunther(2017)** https://guntherverheyen.com/2017/02/15/de-kernwaarden-van-scrum/<br/><br/>  
+- [[./References/@visualparadigm_2022|@visualparadigm_2022]]: _'What are Time-boxed Events in Scrum?'_ -  **Visual Paradigm,(2022)** https://www.visual-paradigm.com/scrum/what-are-scrum-time-boxed-events/<br/><br/>  
+- [[./References/@visual-paradigm_2022|@visual-paradigm_2022]]: _'Why Fixed Length Sprints in Scrum?'_ -  **visual-paradigm,(2022)** https://www.visual-paradigm.com/scrum/why-fixed-length-of-sprints-in-scrum/<br/><br/>  
+- [[./References/@vrielink_2020|@vrielink_2020]]: _'Hoe werken story points?'_ -  **Vrielink, Martijn(2020)** https://www.incentro.com/nl-NL/blog/story-points-hoe-werken-ze-eigenlijk<br/><br/>  
+- [[./References/@zentaoteam_2022a|@zentaoteam_2022a]]: _'What Are The Complete Scrum Artifacts? - Agile - ZenTao'_ -  **ZenTao team,(2022)** https://www.zentao.pm/blog/What-are-the-complete-Scrum-artifacts-1102.html<br/><br/>  
   

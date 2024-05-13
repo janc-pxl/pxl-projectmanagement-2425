@@ -31,7 +31,7 @@ Projectmanagement is ontstaan in een resem basissectoren waarmen complexe en gro
 5. Informatietechnologie (IT): Met de groei van de IT-sector werd projectmanagement steeds belangrijker voor het plannen, organiseren en uitvoeren van IT-projecten, zoals softwareontwikkeling, netwerkinstallaties en systeemintegraties.  
   
 > [!QUESTION inline] Het Gezin PeeTers (GPT)  
-> ![](https://i.imgur.com/WpcbdOP.jpg) Heb je meer vragen over ProjectManagement? Ontdek [[./Vraag het aan het Gezin PeeTers/+ 001 ProjectManagement#Vragen die je kan stellen over ProjectManagement|hier]] welke vragen je nog kan stellen.  
+> ![](https://i.imgur.com/WpcbdOP.jpg) Heb je meer vragen over ProjectManagement? Ontdek [[./Het Gezin PeeTers/+ 001 ProjectManagement#Vragen die je kan stellen over ProjectManagement|hier]] welke vragen je nog kan stellen.  
   
 Hoewel projectmanagement zijn oorsprong vindt in deze sectoren, is het vandaag de dag een essentieel onderdeel van bijna elke industrie en sector, aangezien organisaties van alle soorten en maten complexe projecten moeten plannen en uitvoeren om hun doelen te bereiken.  
   
@@ -110,14 +110,14 @@ Veel organisaties gebruiken een bepaalde projectmanagementmethodiek als ze proje
 **Duivelsdriehoek**   
   
 > [!note] DEFINITIE: De Duivelsdriehoek  
-> De duivelsdriehoek laat op eenvoudige wijze zien hoe de drie belangrijkste projectvariabelen zich tot elkaar verhouden. De variabelen waarover het gaat zijn **tijd, geld** en **kwaliteit**. Het managen van projecten gaat dus om het managen van deze drie variabelen. [[./references/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
+> De duivelsdriehoek laat op eenvoudige wijze zien hoe de drie belangrijkste projectvariabelen zich tot elkaar verhouden. De variabelen waarover het gaat zijn **tijd, geld** en **kwaliteit**. Het managen van projecten gaat dus om het managen van deze drie variabelen. [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
   
 Het bewegen in het voordeel van geld (dus een besparing) betekent onvermijdelijk een beweging in het nadeel van kwaliteit (minder kwaliteit in het eindproduct) of tijd (het zal langer gaan duren) of een combinatie ervan. Ook kan men zich bedenken dat binnen een project slechts twee van de drie aspecten tegelijk benadrukt kunnen worden. Iets kan alleen goedkoper en sneller als de kwaliteit daaronder lijdt.  
 ![](https://i.imgur.com/602iRyY.png)  
-[[./references/@stevenblom_2018|@stevenblom_2018]]  
+[[./References/@stevenblom_2018|@stevenblom_2018]]  
   
 ![](https://i.imgur.com/Dww0uEV.png)  
-[[./references/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
+[[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
   
 In de Duivelsdriehoek worden drie belangrijke variabelen genoemd: tijd, kwaliteit en budget. Hoe dan ook wordt een belangrijke variabele over het hoofd gezien: de **opdracht** zelf. In de praktijk blijkt dat deze opdracht niet altijd vaststaat. Hierdoor ontstaat er een duivelsvierkant in plaats van een duivelsdriehoek.  
   
@@ -142,14 +142,14 @@ Wat is de uitdaging voor een bedrijf:
   
 De **business Case** vormt de rechtvaardiging van het project. Het bevat al de nodige informatie om te kunnen vaststellen of een project levensvatbaar/haalbaar is en ook blijft. Daarmee samenhangend onderzoekt men of het de moeite loont om te investeren of te blijven investeren in het project. Het vormt de basis voor de opstart van het project, maar moet gedurende het project voortdurend geactualiseerd worden met de actuele inschattingen van de te realiseren baten.  
   
-De Business Case stelt u op tijdens de fase 'Opstart'. De input voor de Business Case komt van alle betrokkenen van het project. Het initiëren of opstarten van een project wil ook zeggen dat men het kader moet omlijnen, de **scope** vastleggen. [[./references/@vlaanderenintern_2014|@vlaanderenintern_2014]]  
+De Business Case stelt u op tijdens de fase 'Opstart'. De input voor de Business Case komt van alle betrokkenen van het project. Het initiëren of opstarten van een project wil ook zeggen dat men het kader moet omlijnen, de **scope** vastleggen. [[./References/@vlaanderenintern_2014|@vlaanderenintern_2014]]  
   
 In het bedrijfsleven wordt dat vaak omschreven als de ‘battery limits’ vastleggen. Een heel belangrijke deliverable is het uitwerken van het projectcharter. Dit charter is het officiële startpunt en het contract tussen alle betrokken partijen (=opdrachtgever, projectteam, sponsors, …). Het beschrijft op een abstract niveau de krijtlijnen waarbinnen het project uitgevoerd moet worden. Het charter verwoordt vanuit het perspectief van de projectsponsor de verwachtingen en is op die manier een eerste aanwijzing van de scope. De inhoud wordt vastgelegd via een intense communicatie tussen alle betrokken partijen opdat er voor 100 % duidelijkheid bestaat over de eisen, de functionaliteiten (met een prioriteitenlijst), de aanpak, de timing, de financiering en opvolging van het project.  
   
 In de realiteit blijkt vaak dat er bij de initiatie nog geen (volwaardig) projectteam geïnstalleerd is. Vaak ontstaat een projectidee binnen de functionele departementen van een bedrijf. Zij hebben een visie op het eindproduct (= business wens), maar de praktische uitwerking of invulling mag in dit stadium nog niet de hoofdaandacht krijgen. De functionele teams zullen doorheen het project hun stem krijgen in bijvoorbeeld een stuurgroep (zorgen voor de review, de goedkeuring en opvolging van het project) of afstemmeeting. Ze worden wel actief betrokken bij het definiëren van de vereisten en bij de validatie en de acceptatie van de deliverables.  
   
 > [!QUESTION inline end] Het Gezin PeeTers (GPT)  
-> ![](https://i.imgur.com/fECh8oa.jpg) Heb je meer vragen over een Project? Ontdek [[./Vraag het aan het Gezin PeeTers/+ 001 ProjectManagement#Vragen die je kan stellen over een Project|hier]] welke vragen je nog kan stellen.  
+> ![](https://i.imgur.com/fECh8oa.jpg) Heb je meer vragen over een Project? Ontdek [[./Het Gezin PeeTers/+ 001 ProjectManagement#Vragen die je kan stellen over een Project|hier]] welke vragen je nog kan stellen.  
   
 Kernwoorden voor projectinitiatie zijn high-level (abstractie), onzekerheid (over oplossing, haalbaarheid, oplevertermijnen, …) en voorbereidingen (‘het pad effenen’).  
   
@@ -182,9 +182,9 @@ Het is belangrijk op te merken dat een product alleen kan worden ontwikkeld binn
   
 Anders dan bij een project, is er bij een product geen duidelijke definitie van wat er geleverd moet worden. De behoeften van de klant evolueren van nature in de loop van de tijd, en producten moeten evolueren om aan deze behoeften van de klant te voldoen.  
   
-Bij producten zijn er geen duidelijke deadlines. Een klant verwacht dat een product nu aan zijn behoeften voldoet, niet ergens in de toekomst. Productontwikkeling is dus geen tijdelijke of incidentele onderneming. Het is een continu proces waarbij nieuwe functies worden geleverd en een bepaald product in de loop van de tijd wordt verbeterd. [[./references/@gomez_2021|@gomez_2021]]  
+Bij producten zijn er geen duidelijke deadlines. Een klant verwacht dat een product nu aan zijn behoeften voldoet, niet ergens in de toekomst. Productontwikkeling is dus geen tijdelijke of incidentele onderneming. Het is een continu proces waarbij nieuwe functies worden geleverd en een bepaald product in de loop van de tijd wordt verbeterd. [[./References/@gomez_2021|@gomez_2021]]  
   
-Het **productportfolio** kan worden gedefinieerd als de compilatie van producten en diensten die door het bedrijf aan de doelmarkt worden aangeboden. Het omvat alle producten die worden aangeboden vanaf de producten die werden gelanceerd en aangeboden tijdens het begin van het merk tot de producten die momenteel worden gelanceerd, samen met de producten die in de pijplijn zitten. [[./references/@hiteshbhasin_2015|@hiteshbhasin_2015]]  
+Het **productportfolio** kan worden gedefinieerd als de compilatie van producten en diensten die door het bedrijf aan de doelmarkt worden aangeboden. Het omvat alle producten die worden aangeboden vanaf de producten die werden gelanceerd en aangeboden tijdens het begin van het merk tot de producten die momenteel worden gelanceerd, samen met de producten die in de pijplijn zitten. [[./References/@hiteshbhasin_2015|@hiteshbhasin_2015]]  
   
 ![](https://i.imgur.com/pBi8aFH.png)  
   
@@ -535,14 +535,14 @@ In de weg die iedere nieuwe technologie aflegt naar volledige adoptie, doorloopt
 Hieronder nog iets gedetailleerder welke gebeurtenissen en acties zich in iedere fase voordoen.  
   
 ![](https://i.imgur.com/bj6IAQT.png)  
-[[./references/@vaneekhout_2018|@vaneekhout_2018]]  
+[[./References/@vaneekhout_2018|@vaneekhout_2018]]  
   
 # Bibliografie  
   
-- [[./references/@gomez_2021|@gomez_2021]]: _'The Difference Between Product and Project Management'_ -  **Gomez, Jose(2021)** https://www.koombea.com/blog/the-difference-between-product-and-project-management/<br/><br/>  
-- [[./references/@hiteshbhasin_2015|@hiteshbhasin_2015]]: _'What is Product portfolio management ?'_ -  **Hitesh Bhasin,(2015)** https://www.marketing91.com/product-portfolio/<br/><br/>  
-- [[./references/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]: _'House of Control'_ -  **Sjoerd Olde Bijvank(2010)** https://www.house-of-control.nl/duivelsdriehoek-duivelsvierkant.html<br/><br/>  
-- [[./references/@stevenblom_2018|@stevenblom_2018]]: _'Moeten we kiezen tussen de klant en de medewerker?'_ -  **Steven Blom(2018)** https://www.blomconsultancy.nl/kiezen-tussen-klant-en-medewerker/<br/><br/>  
-- [[./references/@vaneekhout_2018|@vaneekhout_2018]]: _'De Gartner Hype Cycle: welke technologie blijft plakken en welke gaat nodeloos ten onder?'_ -  **van Eekhout, Robert(2018)** https://robertvaneekhout.nl/2018/04/gartner-hype-cycle-welke-technologie-blijft-plakken-en-welke-gaat-nodeloos<br/><br/>  
-- [[./references/@vlaanderenintern_2014|@vlaanderenintern_2014]]: _'Business Case'_ -  **vlaanderen intern,(2014)** https://overheid.vlaanderen.be/organisatie/projectmanagement/business-case<br/><br/>  
+- [[./References/@gomez_2021|@gomez_2021]]: _'The Difference Between Product and Project Management'_ -  **Gomez, Jose(2021)** https://www.koombea.com/blog/the-difference-between-product-and-project-management/<br/><br/>  
+- [[./References/@hiteshbhasin_2015|@hiteshbhasin_2015]]: _'What is Product portfolio management ?'_ -  **Hitesh Bhasin,(2015)** https://www.marketing91.com/product-portfolio/<br/><br/>  
+- [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]: _'House of Control'_ -  **Sjoerd Olde Bijvank(2010)** https://www.house-of-control.nl/duivelsdriehoek-duivelsvierkant.html<br/><br/>  
+- [[./References/@stevenblom_2018|@stevenblom_2018]]: _'Moeten we kiezen tussen de klant en de medewerker?'_ -  **Steven Blom(2018)** https://www.blomconsultancy.nl/kiezen-tussen-klant-en-medewerker/<br/><br/>  
+- [[./References/@vaneekhout_2018|@vaneekhout_2018]]: _'De Gartner Hype Cycle: welke technologie blijft plakken en welke gaat nodeloos ten onder?'_ -  **van Eekhout, Robert(2018)** https://robertvaneekhout.nl/2018/04/gartner-hype-cycle-welke-technologie-blijft-plakken-en-welke-gaat-nodeloos<br/><br/>  
+- [[./References/@vlaanderenintern_2014|@vlaanderenintern_2014]]: _'Business Case'_ -  **vlaanderen intern,(2014)** https://overheid.vlaanderen.be/organisatie/projectmanagement/business-case<br/><br/>  
   
