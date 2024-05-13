@@ -11,7 +11,7 @@ order: 0
 > **Departement:** PXL-Digital   
 > **Lectoren:** Lowie Vangaal, Jan Castermans  
   
-![](https://i.imgur.com/hxGs2TC.jpg)  
+![](https://i.imgur.com/qGrLGGM.png)  
   
 ## Inhoud  
 - [[./001 Wat is Projectmanagement|001 Wat is Projectmanagement]]?  
