@@ -28,13 +28,13 @@ Een projectplanning bestaat uit verschillende onderdelen, zoals:
 - Het **geld**, dat aangeeft welk budget er beschikbaar is voor het project, welk budget er nodig is voor elke fase of activiteit, wanneer het geld nodig is en wat de verwachte opbrengsten zijn. Het geld wordt ook gebruikt om de kosten en baten van het project te analyseren en te bewaken.  
 - De **informatie**, die aangeeft hoe er gecommuniceerd wordt over het project met alle betrokkenen. Dit omvat onder andere hoe vaak er gerapporteerd wordt over de voortgang en eventuele knelpunten van het project, wie verantwoordelijk is voor welke informatie en welke communicatiemiddelen er gebruikt worden.  
   
-Om een goede projectplanning te maken kan gebruik gemaakt worden van software voor projectplanning. Deze software kan helpen om alle aspecten van een project in kaart te brengen, te visualiseren en te beheren. [[./references/@kypproject_2023|@kypproject_2023]] [[./references/@teamleader_2018|@teamleader_2018]]  
+Om een goede projectplanning te maken kan gebruik gemaakt worden van software voor projectplanning. Deze software kan helpen om alle aspecten van een project in kaart te brengen, te visualiseren en te beheren. [[./References/@kypproject_2023|@kypproject_2023]] [[./References/@teamleader_2018|@teamleader_2018]]  
   
 ## PERT  
 ![](https://i.imgur.com/7khHgSS.png)  
   
 > [!note] DEFINITIE: PERT  
-> PERT (Program Evaluation and Review Technique) is een hulpmiddel voor de bedrijfsleiding bij de analyse en planning van projecten. Hierbij wordt gebruik gemaakt van een grafische voorstelling, het netwerk, om de samenhang tussen de verschillende werkzaamheden aan te geven. [[./references/@schegget.hamelink_1993|@schegget.hamelink_1993]]  
+> PERT (Program Evaluation and Review Technique) is een hulpmiddel voor de bedrijfsleiding bij de analyse en planning van projecten. Hierbij wordt gebruik gemaakt van een grafische voorstelling, het netwerk, om de samenhang tussen de verschillende werkzaamheden aan te geven. [[./References/@schegget.hamelink_1993|@schegget.hamelink_1993]]  
   
 Projecten zijn opgebouwd uit een aantal activiteiten. Sommige activiteiten dienen achter elkaar te worden uitgevoerd, andere mogen gelijktijdig worden uitgevoerd. Meestal is het zo dat de duur van het project globaal genomen afhankelijk is van een aantal op elkaar aansluitende activiteiten. Indien de tijd voorzien voor de uitvoering van deze activiteiten kan ingekort worden, kan heel het project vroeger klaar zijn. Van andere activiteiten mag de uitvoeringstijd variëren zonder de duur van het project te beïnvloeden.  
   
@@ -714,7 +714,7 @@ Opmerking : bijkomende gegevens : toewijzing van de taken :
   
 # Bibliografie  
   
-- [[./references/@kypproject_2023|@kypproject_2023]]: _'Hoe maak je een projectplanning? | KYP Project'_ -  **kypproject,(2023)** https://kypproject.com/nl/blog/hoe-maak-je-een-projectplanning/<br/><br/>  
-- [[./references/@schegget.hamelink_1993|@schegget.hamelink_1993]]: _'Netwerkplanning volgens PERT'_ -  **Schegget, ter, P.J.; Hamelink, L.J.(1993)** https://research.tue.nl/files/4340148/501362.pdf<br/><br/>  
-- [[./references/@teamleader_2018|@teamleader_2018]]: _'Hoe stel je een projectplan op? (gratis template) | Teamleader'_ -  **Teamleader,(2018)** https://www.teamleader.be/nl-be/blog/projectplan-template<br/><br/>  
+- [[./References/@kypproject_2023|@kypproject_2023]]: _'Hoe maak je een projectplanning? | KYP Project'_ -  **kypproject,(2023)** https://kypproject.com/nl/blog/hoe-maak-je-een-projectplanning/<br/><br/>  
+- [[./References/@schegget.hamelink_1993|@schegget.hamelink_1993]]: _'Netwerkplanning volgens PERT'_ -  **Schegget, ter, P.J.; Hamelink, L.J.(1993)** https://research.tue.nl/files/4340148/501362.pdf<br/><br/>  
+- [[./References/@teamleader_2018|@teamleader_2018]]: _'Hoe stel je een projectplan op? (gratis template) | Teamleader'_ -  **Teamleader,(2018)** https://www.teamleader.be/nl-be/blog/projectplan-template<br/><br/>  
   
