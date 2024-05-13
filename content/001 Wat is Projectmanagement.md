@@ -19,7 +19,7 @@ order: 1
   
 ![](https://i.imgur.com/qQy8DdY.png)  
   
-Projectmanagement is ontstaan in een resem basissectoren waarmen complexe en grootschalige projecten moest organiseren en uitvoeren. Enkele van de belangrijkste sectoren waar projectmanagement zijn oorsprong vond, zijn:  
+Projectmanagement is ontstaan in een resem basissectoren waar men complexe en grootschalige projecten moest organiseren en uitvoeren. Enkele van de belangrijkste sectoren waar projectmanagement zijn oorsprong vond, zijn:  
   
 1. Bouw en civiele techniek: Projectmanagement werd gebruikt voor het plannen en coördineren van grote bouwprojecten, zoals de bouw van bruggen, tunnels, wegen, gebouwen en andere infrastructurele werken. Dit omvatte het plannen van middelen, budgettering, tijdschema's, risicobeheer en kwaliteitscontrole.  
   
@@ -66,19 +66,19 @@ Dit is slechts een greep uit de vele sectoren waar projectmanagement wordt toege
 ## Definitie van een project  
 ![](https://i.imgur.com/thaNoeW.png)  
   
-In een organisatie heeft iedereen bepaalde taken. Wanneer er iets nieuws van de grond moet komen, zoals een nieuw systeem, een nieuw product of de bouw en inrichting van een nieuwe vleugel, en het hoort niet tot iemands taakgebied, dan is het tijd voor een project.  
+In een organisatie heeft iedereen zijn eigen taken. Maar als er iets totaal nieuws moet gebeuren, zoals het introduceren van een nieuw systeem, het ontwikkelen van een nieuw product, of het opzetten van een nieuwe afdeling, en dit valt buiten de normale taken van iedereen, dan starten we een project.  
   
-Een project heeft als doel om binnen een bepaalde tijd iets nieuws van de grond te krijgen. Het is altijd tijdelijk en de mensen die in een projectgroep zitten slecht voor een bepaalde tijdsduur bij het project betrokken. Het resultaat van het project (het nieuwe systeem, product of de nieuw aangebouwde vleugel) wordt na afloop in de bestaande organisatie opgenomen.  
+Een project is een tijdelijke inspanning met het doel om iets nieuws te creëren binnen een vastgestelde periode. De mensen die aan het project werken, doen dit alleen gedurende de looptijd van het project. Als het project klaar is - denk aan een nieuw systeem, een product of een uitbreiding van het gebouw - wordt wat ontwikkeld is geïntegreerd in de bestaande organisatie.  
   
 > [!note] DEFINITIE: Project  
 >Een project is een tijdelijke constructie voor het afleveren van een uniek product of dienst, rekening houdend met beschikbare materialen, budget, tijd en gewenste kwaliteit.   
 >Het gaat om het realiseren van iets nieuws voor een duidelijke opdrachtgever binnen duidelijke kaders door een team van meerdere verschillende specialisten. Het is een geheel van activiteiten buiten de gewone bedrijfsvoering om.  
   
-De 'duidelijke kaders' in deze definitie zijn met name: de hoeveelheid tijd en de hoeveelheid geld. Het maken van een planning en het in de gaten houden van de kosten zijn daarom erg belangrijke taken van een projectleider. Ook hoort bij een project altijd een opdrachtgever. Die bepaalt hoe het resultaat eruit moet komen te zien. De projectleider en de projectgroep zijn de uitvoerders.  
+In deze definitie gaat het vooral om twee duidelijke aspecten: tijd en budget. Een goede planning maken en de kosten nauwlettend in de gaten houden, zijn daarom cruciale taken voor een projectleider. Ook is er bij elk project een opdrachtgever betrokken. Deze persoon bepaalt het gewenste eindresultaat. De projectleider en de projectgroep zijn verantwoordelijk voor de uitvoering.  
   
 ### Projectjargon  
   
-Als je een boek openslaat over projectmanagement dan tref je op iedere bladzijde termen als:  
+Als je een boek over projectmanagement openslaat, kom je voortdurend bepaalde termen tegen. Hier zijn enkele van de belangrijkste begrippen die je moet kennen als je met projecten te maken krijgt:  
   
 - Fase  
 - Mijlpaal  
@@ -90,19 +90,19 @@ Als je een boek openslaat over projectmanagement dan tref je op iedere bladzijde
 - Risico  
 - Reikwijdte.  
   
-Hier volgt een korte uitleg van de belangrijkste begrippen die je moet kennen als je met projecten te maken hebt:  
+Deze termen helpen je om de structuur en voortgang van een project beter te begrijpen en te managen.  
   
-Een project bestaat uit verschillende onderdelen die elk een bepaald resultaat moeten opleveren. Dit noemen we een **oplevering** of een **deliverable**.  
+Een project bestaat uit meerdere componenten, waarbij elk component een specifiek eindproduct of **oplevering** (ook wel **deliverable** genoemd) moet realiseren.  
   
-Een project wordt gepland in de tijd. Sommige onderdelen kunnen pas beginnen als andere zijn afgerond. Dit noemen we **fasen**. Aan het einde van elke fase wordt er een **mijlpaal** bereikt, die aangeeft dat er een of meer opleveringen zijn gedaan.  
+De planning van een project wordt opgedeeld in verschillende tijdvakken. Bepaalde onderdelen van het project kunnen pas beginnen als andere afgerond zijn. Deze tijdvakken noemen we **fasen**. Aan het einde van elke fase wordt een **mijlpaal** bereikt, wat aangeeft dat een of meerdere opleveringen voltooid zijn.  
   
-Na elke fase beslist de projectleider samen met de opdrachtgever of het project verder gaat volgens plan. Soms is het nodig om een fase te herhalen of aan te passen om het gewenste resultaat te bereiken. Dit kan komen door veranderingen in de omgeving of door budgetproblemen. Dit noemen we **iteratie**.  
+Na iedere fase overlegt de projectleider met de opdrachtgever om te beslissen of het project volgens plan voortgezet kan worden. Soms is het nodig om een fase te herhalen of aan te passen om het gewenste resultaat te bereiken. Dit kan zijn vanwege veranderingen in de projectomgeving of budgettaire uitdagingen. Dit proces van aanpassing en herhaling noemen we **iteratie**.  
   
 ![](https://i.imgur.com/7tDMfqf.png)  
   
-Om de kosten zo goed mogelijk in de hand te houden, is het bij een project de gewoonte om van tevoren in te schatten wat de risico's zijn. Wat kost het als de aannemer die de nieuwe vleugel bouwt, failliet gaat? Wat moet er dan gebeuren? Een goede projectleider reserveert een bepaalde hoeveelheid geld om risico's het hoofd te kunnen bieden. Een plan daarvoor heet een **contingentieplan**.  
+Om de kosten efficiënt te beheren, is het gebruikelijk om bij een project vooraf de mogelijke risico's in te schatten. Wat gebeurt er bijvoorbeeld als de aannemer die aan een nieuwe vleugel werkt failliet gaat? Wat zijn dan de stappen die ondernomen moeten worden? Een goede projectleider zorgt ervoor dat er een specifiek budget gereserveerd wordt om dergelijke onverwachte risico's aan te kunnen. Dit budget en de bijbehorende strategie staan beschreven in een **contingentieplan**.  
   
-Een project heeft altijd als doel een vastomlijnd resultaat op te leveren. Dat wordt van tevoren goed afgesproken en vastgelegd in een **projectplan**. In dat plan wordt ook beschreven wat er niet tot het project behoort. Zo is voor iedereen duidelijk wat de reikwijdte van het project is.  
+Elk project heeft als doel om een duidelijk gedefinieerd resultaat te leveren. Dit doel wordt vooraf grondig besproken en gedocumenteerd in een **projectplan**. Dit plan omvat ook een beschrijving van wat niet binnen het project valt. Op deze manier is voor iedereen helder wat de **reikwijdte** van het project is.  
   
 ![](https://i.imgur.com/RAoUlUH.jpg)  
   
@@ -113,20 +113,20 @@ Veel organisaties gebruiken een bepaalde projectmanagementmethodiek als ze proje
 > [!note] DEFINITIE: De Duivelsdriehoek  
 > De duivelsdriehoek laat op eenvoudige wijze zien hoe de drie belangrijkste projectvariabelen zich tot elkaar verhouden. De variabelen waarover het gaat zijn **tijd, geld** en **kwaliteit**. Het managen van projecten gaat dus om het managen van deze drie variabelen. [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
   
-Het bewegen in het voordeel van geld (dus een besparing) betekent onvermijdelijk een beweging in het nadeel van kwaliteit (minder kwaliteit in het eindproduct) of tijd (het zal langer gaan duren) of een combinatie ervan. Ook kan men zich bedenken dat binnen een project slechts twee van de drie aspecten tegelijk benadrukt kunnen worden. Iets kan alleen goedkoper en sneller als de kwaliteit daaronder lijdt.  
+Als je probeert te besparen op de kosten, dus meer te doen met minder geld, leidt dat onvermijdelijk tot concessies op het gebied van kwaliteit (het eindproduct zal van mindere kwaliteit zijn) of tijd (het project zal meer tijd in beslag nemen), of een combinatie van beide. Het is ook belangrijk te realiseren dat binnen een project slechts twee van deze drie aspecten tegelijkertijd optimaal benut kunnen worden. Als iets sneller en goedkoper moet, zal dit vrijwel altijd ten koste gaan van de kwaliteit.  
 ![](https://i.imgur.com/602iRyY.png)  
 [[./References/@stevenblom_2018|@stevenblom_2018]]  
   
 ![](https://i.imgur.com/Dww0uEV.png)  
 [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
   
-In de Duivelsdriehoek worden drie belangrijke variabelen genoemd: tijd, kwaliteit en budget. Hoe dan ook wordt een belangrijke variabele over het hoofd gezien: de **opdracht** zelf. In de praktijk blijkt dat deze opdracht niet altijd vaststaat. Hierdoor ontstaat er een duivelsvierkant in plaats van een duivelsdriehoek.  
+Het klassieke model van de **Duivelsdriehoek**, dat focust op de relatie tussen tijd, kwaliteit en budget, schiet vaak tekort in echte projectmanagement scenarios. Iets dat vaak over het hoofd wordt gezien, is de **opdracht** zelf, en dit introduceert het concept van een **Duivelsvierkant**.  
   
-Wanneer het budget van een project gehalveerd wordt, heeft dit invloed op tenminste één van de drie variabelen: tijd, kwaliteit of grootte van de opdracht. Waarschijnlijk zal het echter effect hebben op twee of zelfs alle drie deze variabelen. Het is daarom belangrijk om te beseffen dat de grootte van de opdracht ook een projectvariabele is waarop gestuurd kan en moet worden.   
+In de praktijk staat de opdracht of scope van een project zelden vanaf het begin vast. Veranderingen in de projectomvang beïnvloeden significant de andere drie variabelen: tijd, kwaliteit en budget. Wanneer het budget bijvoorbeeld halveert, beïnvloedt dit niet alleen de kwaliteit of de tijd, maar ook wat je binnen het project kunt uitvoeren.  
   
-Het uitbreiden van de oorspronkelijke opdracht kan leiden tot hogere budgetten en/of vertraging in tijd. Daarom moet er strak gemonitord worden om te voorkomen dat er ongemerkt extra werk bij komt (scopecreep). Als bijvoorbeeld de kwaliteit van software verhoogd moet worden terwijl de tijd verkort moet worden, dan zullen kosten stijgen en moeten features verminderd worden om dit mogelijk te maken.   
+Het uitbreiden van de opdracht tijdens een project, bekend als **scopecreep**, kan leiden tot hogere kosten en vertragingen. Het is cruciaal deze uitbreidingen strikt te monitoren. Zo moet je, als je de kwaliteit van software wil verhogen terwijl je de opleveringstijd verkort, rekening houden met stijgende kosten. Dit kan betekenen dat je bepaalde functies moet schrappen om aan de nieuwe eisen te voldoen.  
   
-Kortom, naast tijd, kwaliteit en budget is ook de grootte van de opdracht een belangrijke variabele die in acht genomen moet worden bij projectmanagement. Het is essentieel om hier goed op te letten om onverwachte kosten en vertragingen te voorkomen.  
+Daarom is het essentieel om naast tijd, kwaliteit en budget ook de grootte en duidelijkheid van de opdracht te zien als een dynamische variabele die je actief moet managen in projectmanagement. Door scherp te blijven op deze factor voorkom je onverwachte kosten en vertragingen en zorg je voor een realistischer en effectiever projectbeheer.  
   
 ![](https://i.imgur.com/rsiO7l5.png)  
   
