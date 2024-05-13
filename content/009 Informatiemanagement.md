@@ -11,7 +11,7 @@ order: 9
 > **Departement:** PXL-Digital   
 > **Lectoren:** Lowie Vangaal, Jan Castermans  
   
-![](https://i.imgur.com/qGrLGGM.png)  
+![](https://i.imgur.com/j1ZCLjO.png)  
   
 <div style="page-break-after: always;"></div>  
   
