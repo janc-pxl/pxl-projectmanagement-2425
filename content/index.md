@@ -23,4 +23,3 @@ order: 0
 - [[./007 Agile Projectmanagement|007 Agile Projectmanagement]]  
 - [[./008 Oefeningen Agile Projectmanagement|008 Oefeningen Agile Projectmanagement]]  
 - [[./009 Informatiemanagement|009 Informatiemanagement]]  
-  
