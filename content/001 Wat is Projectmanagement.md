@@ -66,13 +66,10 @@ Dit is slechts een greep uit de vele sectoren waar projectmanagement wordt toege
 ## Definitie van een project  
 ![](https://i.imgur.com/thaNoeW.png)  
   
-In een organisatie heeft iedereen zijn eigen taken. Maar als er iets totaal nieuws moet gebeuren, zoals het introduceren van een nieuw systeem, het ontwikkelen van een nieuw product, of het opzetten van een nieuwe afdeling, en dit valt buiten de normale taken van iedereen, dan starten we een project.  
-  
-Een project is een tijdelijke inspanning met het doel om iets nieuws te creëren binnen een vastgestelde periode. De mensen die aan het project werken, doen dit alleen gedurende de looptijd van het project. Als het project klaar is - denk aan een nieuw systeem, een product of een uitbreiding van het gebouw - wordt wat ontwikkeld is geïntegreerd in de bestaande organisatie.  
+In een organisatie heeft iedereen zijn eigen taken. Maar wanneer iets totaal nieuws nodig is, zoals een nieuw systeem, een nieuw product, of een nieuwe afdeling, starten we een project. Een project is een tijdelijke inspanning om iets nieuws te creëren binnen een bepaalde periode. De mensen die aan het project werken doen dit alleen zolang het project duurt. Als het klaar is - denk aan een nieuw systeem, product of uitbreiding van een gebouw - wordt het geïntegreerd in de bestaande organisatie.  
   
 > [!note] DEFINITIE: Project  
->Een project is een tijdelijke constructie voor het afleveren van een uniek product of dienst, rekening houdend met beschikbare materialen, budget, tijd en gewenste kwaliteit.   
->Het gaat om het realiseren van iets nieuws voor een duidelijke opdrachtgever binnen duidelijke kaders door een team van meerdere verschillende specialisten. Het is een geheel van activiteiten buiten de gewone bedrijfsvoering om.  
+>Een project is een tijdelijke opdracht waarbij we een uniek product of dienst leveren. We houden hierbij rekening met beschikbare materialen, budget, tijd en de gewenste kwaliteit. Het doel is om iets nieuws te realiseren voor een duidelijke opdrachtgever binnen vaste kaders. Dit doen we met een team van verschillende specialisten. Een project omvat activiteiten die buiten de normale bedrijfsvoering vallen.  
   
 In deze definitie gaat het vooral om twee duidelijke aspecten: tijd en budget. Een goede planning maken en de kosten nauwlettend in de gaten houden, zijn daarom cruciale taken voor een projectleider. Ook is er bij elk project een opdrachtgever betrokken. Deze persoon bepaalt het gewenste eindresultaat. De projectleider en de projectgroep zijn verantwoordelijk voor de uitvoering.  
   
@@ -141,22 +138,16 @@ Wat is de uitdaging voor een bedrijf:
   
 ![](https://i.imgur.com/2XwzA1x.png)  
   
-De **business Case** vormt de rechtvaardiging van het project. Het bevat al de nodige informatie om te kunnen vaststellen of een project levensvatbaar/haalbaar is en ook blijft. Daarmee samenhangend onderzoekt men of het de moeite loont om te investeren of te blijven investeren in het project. Het vormt de basis voor de opstart van het project, maar moet gedurende het project voortdurend geactualiseerd worden met de actuele inschattingen van de te realiseren baten.  
+De **business case** rechtvaardigt het project. Het bevat alle informatie om te beoordelen of een project levensvatbaar en haalbaar is, en of het de moeite waard is om erin te investeren. Tijdens het project wordt de business case voortdurend geactualiseerd met actuele schattingen van de te realiseren voordelen. We stellen de business case op tijdens de 'Opstart'-fase, met input van alle betrokkenen. Initiëren of opstarten betekent ook dat we het kader moeten omlijnen en de **scope** vastleggen. [[./References/@vlaanderenintern_2014|@vlaanderenintern_2014]]  
   
-De Business Case stelt u op tijdens de fase 'Opstart'. De input voor de Business Case komt van alle betrokkenen van het project. Het initiëren of opstarten van een project wil ook zeggen dat men het kader moet omlijnen, de **scope** vastleggen. [[./References/@vlaanderenintern_2014|@vlaanderenintern_2014]]  
+In het bedrijfsleven noemt men dit vaak het vastleggen van de ‘battery limits’. Een belangrijke deliverable is het uitwerken van het projectcharter. Dit charter is het officiële startpunt en vormt het contract tussen alle betrokken partijen zoals de opdrachtgever, het projectteam en sponsors. Het beschrijft op een abstract niveau de krijtlijnen waarbinnen het project moet worden uitgevoerd. Het verwoordt de verwachtingen van de projectsponsor en geeft een eerste indicatie van de scope. Via intensieve communicatie wordt 100% duidelijkheid bereikt over de eisen, functionaliteiten (met een prioriteitenlijst), aanpak, timing, financiering en opvolging van het project.  
   
-In het bedrijfsleven wordt dat vaak omschreven als de ‘battery limits’ vastleggen. Een heel belangrijke deliverable is het uitwerken van het projectcharter. Dit charter is het officiële startpunt en het contract tussen alle betrokken partijen (=opdrachtgever, projectteam, sponsors, …). Het beschrijft op een abstract niveau de krijtlijnen waarbinnen het project uitgevoerd moet worden. Het charter verwoordt vanuit het perspectief van de projectsponsor de verwachtingen en is op die manier een eerste aanwijzing van de scope. De inhoud wordt vastgelegd via een intense communicatie tussen alle betrokken partijen opdat er voor 100 % duidelijkheid bestaat over de eisen, de functionaliteiten (met een prioriteitenlijst), de aanpak, de timing, de financiering en opvolging van het project.  
-  
-In de realiteit blijkt vaak dat er bij de initiatie nog geen (volwaardig) projectteam geïnstalleerd is. Vaak ontstaat een projectidee binnen de functionele departementen van een bedrijf. Zij hebben een visie op het eindproduct (= business wens), maar de praktische uitwerking of invulling mag in dit stadium nog niet de hoofdaandacht krijgen. De functionele teams zullen doorheen het project hun stem krijgen in bijvoorbeeld een stuurgroep (zorgen voor de review, de goedkeuring en opvolging van het project) of afstemmeeting. Ze worden wel actief betrokken bij het definiëren van de vereisten en bij de validatie en de acceptatie van de deliverables.  
+In de praktijk blijkt vaak dat er bij de initiatie nog geen volwaardig projectteam is geïnstalleerd. Een projectidee ontstaat meestal binnen de functionele afdelingen van een bedrijf. Zij hebben een visie op het eindproduct, maar de praktische uitwerking krijgt in dit stadium nog niet de hoofdrol. De functionele teams krijgen tijdens het project hun stem in bijvoorbeeld een stuurgroep die zorgt voor de review, goedkeuring en opvolging van het project, of tijdens afstemmeetings. Ze worden actief betrokken bij het definiëren van de vereisten en bij de validatie en acceptatie van de deliverables.  
   
 > [!QUESTION] Het Gezin PeeTers (GPT)  
 > Heb je meer vragen over een Project? Ontdek [[./Het Gezin PeeTers/+ 001 ProjectManagement#Vragen die je kan stellen over een Project|hier]] welke vragen je nog kan stellen.  
   
-Kernwoorden voor projectinitiatie zijn high-level (abstractie), onzekerheid (over oplossing, haalbaarheid, oplevertermijnen, …) en voorbereidingen (‘het pad effenen’).  
-  
-Belangrijk bij de projectinitiatie is het vastleggen van de business case.  
-  
-De business case is een bedrijfseconomische evaluatie van één of meerdere ideeën. Daarbij wordt cijfermatig (= kosten-baten analyse) bekeken welke optie (het meest) bijdraagt aan de bedrijfsobjectieven. De business case is een beslissingsdeliverable.  
+Kernwoorden voor projectinitiatie zijn abstract niveau, onzekerheid (over oplossing, haalbaarheid, oplevertermijnen, enz.) en voorbereidingen ('het pad effenen'). Een cruciale stap bij de projectinitiatie is het vastleggen van de business case. De business case is een bedrijfseconomische evaluatie van één of meerdere ideeën. Hierbij wordt met cijfers (via een kosten-baten analyse) bekeken welke optie het meest bijdraagt aan de bedrijfsdoelstellingen. De business case is een beslissingsdocument.  
   
 ## De scope van een project  
   
