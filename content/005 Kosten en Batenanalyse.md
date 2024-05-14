@@ -8,8 +8,8 @@ order: 5
 >   
 > **OLOD:** 42TIN1250 Projectmanagement  
 > **Opleiding:** Professionele bachelor in de Toegepaste informatica  
-> **Departement:** PXL-Digital   
-> **Lectoren:** Lowie Vangaal, Jan Castermans  
+> **Departement:** [PXL-Digital](https://www.pxl.be/digital)   
+> **Lectoren:** [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/)  
   
 ![](https://i.imgur.com/j1ZCLjO.png)  
   
