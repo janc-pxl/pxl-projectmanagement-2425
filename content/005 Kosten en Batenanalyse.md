@@ -361,7 +361,7 @@ Uit deze vergelijking halen we P<sub>o</sub> en we krijgen
 $$P_0=\frac{ P_n }{ (1 + i)^n }$$  
   
 In ons voorbeeld krijgen we dus   
-P  
+  
 $$\frac{7000}{(1 + 0.05-0.02)^5}= \frac{7000}{(1 + 0.03)^5} = 6038 $$  
   
 $$\text{Contante waarde} = \frac{\text{Toekomstige waarde}} {(1 + \text{rentevoet})^\text{aantal jaren}} $$  
