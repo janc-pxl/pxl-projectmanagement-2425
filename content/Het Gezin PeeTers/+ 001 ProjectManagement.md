@@ -3,6 +3,12 @@ share: true
 category: Het Gezin PeeTers  
 title: Goedgekeurde PracTische vragen over Projectmanagement  
 ---  
+> [!INFO] Projectmanagement © Hogeschool PXL  
+>   
+> **OLOD:** 42TIN1250 Projectmanagement  
+> **Opleiding:** Professionele bachelor in de Toegepaste informatica  
+> **Departement:** [PXL-Digital](https://www.pxl.be/digital)   
+> **Lectoren:** [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/)  
   
 # Vraag het aan het Gezin PeeTers (GPT)  
   
