@@ -251,6 +251,8 @@ De work breakdown structure is een grafische weergave, veelal een boomstructuur,
   
 ![](https://i.imgur.com/VzeScMn.png)  
   
+Deze work breakdown structure (WBS) biedt een helder overzicht van de fasen en activiteiten die nodig zijn om een reis te plannen. Het schema verdeelt het project 'Reis' in hoofd- en subniveaus, waardoor duidelijk is welke stappen en taken uitgevoerd moeten worden.  
+  
 Een WBS kan uitgebreid worden met een RACI-matrix. In de matrix staan op de horizontale as de namen van de personen of de functionele rollen. Op de verticale as de op te leveren resultaten, betrokken processen of activiteiten.  
   
 RACI-informatie laat toe voor een WBS-element aan te geven:  
