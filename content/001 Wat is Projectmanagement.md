@@ -245,9 +245,9 @@ Kosten-, tijd-, kwaliteits- en andere meetbare objectieven. De objectieven diene
 ## Work breakdown structure  
 ![](https://i.imgur.com/7MwPkNO.png)  
   
-In het project scope statement geeft men aan wat op het hoogste niveau de deliverables zijn die men moet opleveren. Nu dienen deze verder opgesplitst te worden. Die opsplitsing, vaak ook ‘decomposition’ genoemd, is de ideale aanpak om van een overzicht van high-level-deliverables te komen tot een low level-opsplitsing van het uit te voeren werk.  
+In het project scope statement worden de belangrijkste deliverables op het hoogste niveau beschreven. Deze moeten verder worden opgesplitst in detail. Deze opsplitsing, ook wel 'decomposition' genoemd, is de beste manier om van een overzicht van high-level deliverables te komen tot een gedetailleerde opsplitsing van het uit te voeren werk.   
   
-De work breakdown structure is een grafische weergave, veelal een boomstructuur, die de project scope opsplitst in deelcomponenten. Die deelcomponenten zijn de deliverables van het project. Het laagste niveau van de WBS noemt men werkpakketten. De WBS wordt eventueel uitgebreid met een WBS-dictionary.  
+De work breakdown structure (WBS) is een grafische weergave, vaak in de vorm van een boomstructuur, die de projectscope in deelcomponenten opsplitst. Deze deelcomponenten zijn de deliverables van het project. Het laagste niveau van de WBS heet werkpakketten. De WBS kan eventueel worden aangevuld met een WBS-dictionary.  
   
 ![](https://i.imgur.com/VzeScMn.png)  
   
