@@ -2,10 +2,10 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
 function ImageTitle({ displayClass }: QuartzComponentProps) {
-  return (
+    return (
 <div class={classNames(displayClass, "img-title")}>
-  <a href="/">
-    <img src="/static/1314_logo_pxl_hogeschool.png" />
+  <a href=".">
+    <img src="./static/1314_logo_pxl_hogeschool.png" />
   </a>
 </div>
 )
