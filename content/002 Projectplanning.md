@@ -312,11 +312,8 @@ Een goede methode is samen met de programmeur en op basis van ervaringen met gel
   
 Op regelmatige tijdstippen wordt een planning gehouden en men stelt dan vast dat de werken gelijk, vooruit of achteruit lopen op de geplande tijden. In het laatste geval (en dit is het meest voorkomende) kan men twee dingen doen:  
   
--   Terugkoppelen  
-    -   men gaat de werken versnellen door de productiviteit van de hulpmiddelen (personeel, computers, …) te verhogen of door hun aantal te vermeerderen, om toch nog de geschatte duurtijd te respecteren.  
-  
--   Vooruitkoppelen  
-    -   men gaat op basis van de werkelijke productie, de geschatte tijden herzien en een nieuwe planning uitwerken.  
+- **Terugkoppelen**: men gaat de werken versnellen door de productiviteit van de hulpmiddelen (personeel, computers, …) te verhogen of door hun aantal te vermeerderen, om toch nog de geschatte duurtijd te respecteren.  
+- **Vooruitkoppelen**: men gaat op basis van de werkelijke productie, de geschatte tijden herzien en een nieuwe planning uitwerken.  
   
 Gewoonlijk worden beide acties samen ondernomen. Het meest moeilijke deel is dan de nieuwe tijden en kosten aan de directie en de klant mee te delen.  
   
