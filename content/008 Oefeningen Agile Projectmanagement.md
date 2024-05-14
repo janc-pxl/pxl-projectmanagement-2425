@@ -168,7 +168,7 @@ Na upload zie je de stories in de `Active Stories`-lijst staan en kan je mensen 
   
 # Oefening 3: Sprint Retrospective - Kijk als team terug naar jullie Permanente Evaluaties  
   
-## Zeester  
+## De Zeester  
   
 ![](https://i.imgur.com/POA49An.png)  
   
