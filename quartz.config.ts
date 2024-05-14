@@ -11,11 +11,12 @@ const config: QuartzConfig = {
     pageTitle: "ProjectMgmt",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "umami",
-      host: "https://analytics.eu.umami.is/script.js",
-      websiteId: "c1f56be5-3811-488f-b617-e919c5bd4ace",
-    },
+    analytics: null,
+    // analytics: {
+    //   provider: "umami",
+    //   host: "https://analytics.eu.umami.is/script.js",
+    //   websiteId: "c1f56be5-3811-488f-b617-e919c5bd4ace",
+    // },
     locale: "nl-BE",
     baseUrl: "github.com/janc-pxl/pxl-projectmanagement-2425",
     ignorePatterns: ["private", "templates", ".obsidian"],
