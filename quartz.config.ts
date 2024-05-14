@@ -12,7 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "umami",
+      websiteId: "c1f56be5-3811-488f-b617-e919c5bd4ace",
     },
     locale: "nl-BE",
     baseUrl: "github.com/janc-pxl/pxl-projectmanagement-2425",
