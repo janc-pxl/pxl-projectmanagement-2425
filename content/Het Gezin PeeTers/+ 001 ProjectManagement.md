@@ -10,6 +10,7 @@ title: Goedgekeurde PracTische vragen over Projectmanagement
 > **Departement:** [PXL-Digital](https://www.pxl.be/digital)   
 > **Lectoren:** [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/)  
   
+![](https://i.imgur.com/j1ZCLjO.png)  
 # Vraag het aan het Gezin PeeTers (GPT)  
   
 Het is tijd om kennis te maken met het enige gezin dat nooit slaapt en altijd een antwoord heeft (als we ze tenminste porren met een uitdagende vraag). Maak kennis met de PeeTers! Dit unieke gezin kwam tot leven dankzij het brein van jullie lector, de wijsheid van Bing Chat, de speelsheid van ChatGPT en het fotografische geheugen van Midjourney.   
