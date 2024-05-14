@@ -153,30 +153,30 @@ Kernwoorden voor projectinitiatie zijn abstract niveau, onzekerheid (over oploss
   
 ![](https://i.imgur.com/uGPzai1.png)  
   
-Bij het vastleggen van de projectscope, moet men het onderscheid maken tussen de productscope en de projectscope. Terwijl de eerste beschrijft wat de karakteristieken en functionaliteiten zijn van het (eind-)product, beschrijft de tweede welke activiteiten uitgevoerd moeten worden om dit product te realiseren. Wanneer men dit gestructureerd wil weergeven komt dat verschil nog beter tot uiting. Men spreekt van dan aan de ene kant over de *‘product breakdown structure’* (PBS) en aan de andere kant over de ‘*work breakdown structure’* (WBS). Microsoft Project (zie later) is een tool die helpt bij het structuren van dergelijke *work breakdown structures*.  
+Bij het vastleggen van de projectscope moeten we onderscheid maken tussen de productscope en de projectscope. De productscope beschrijft de kenmerken en functionaliteiten van het eindproduct, terwijl de projectscope de activiteiten beschrijft die moeten worden uitgevoerd om dit product te realiseren. Dit verschil komt nog duidelijker naar voren wanneer we het gestructureerd weergeven: aan de ene kant hebben we de *‘product breakdown structure’* (PBS) en aan de andere kant de *‘work breakdown structure’* (WBS). Microsoft Project (besproken later) is een tool die helpt bij het structureren van deze *work breakdown structures*.  
   
-> [!note] DEFINITIE: Product & Project scope  
-> **Product scope** wordt gedefinieerd als de functies en kenmerken die een product of dienst kenmerken.    
+> [!note] DEFINITIE: Product- en Projectscope  
+> **Productscope**: De functies en kenmerken die een product of dienst definiëren.  
 >  
-> **Project scope** daarentegen is het werk dat moet worden gedaan om een product te leveren volgens de product scope (vereiste functies en kenmerken).  
+> **Projectscope**: Het werk dat moet worden gedaan om een product te leveren volgens de productscope (vereiste functies en kenmerken).  
   
-Eens de scope geschreven en gevalideerd is, heeft men een perfecte indicatie van wat het project dient op te leveren. Dat fundament zal per fase herbekeken worden, maar is een onmisbare input voor de andere planningsactiviteiten.  
+Zodra de scope is geschreven en gevalideerd, hebben we een duidelijk beeld van wat het project moet opleveren. Dit fundament wordt per fase herbekeken, maar het blijft een onmisbare input voor de andere planningsactiviteiten.  
   
 ![](https://i.imgur.com/OirwoFx.png)  
   
-**Een product** is alles wat op een markt kan worden aangeboden om een probleem op te lossen of om een behoefte of behoefte te bevredigen.  
+**Een product** is alles wat op de markt kan worden aangeboden om een probleem op te lossen of om een behoefte te bevredigen.  
   
-Producten hebben een levenscyclus die uit meerdere fasen bestaat. Eerst wordt het product bedacht (idee), dan ontwikkeld (onderdeel van het project), vervolgens geïntroduceerd en beheerd op de markt. Tenslotte wordt het product buiten gebruik gesteld wanneer de behoefte eraan afneemt (vernietiging).  
+Producten hebben een levenscyclus met meerdere fasen: eerst wordt het product bedacht (idee), vervolgens ontwikkeld (onderdeel van een project), geïntroduceerd en beheerd op de markt, en tenslotte buiten gebruik gesteld wanneer de behoefte eraan afneemt.  
   
-**Een project** is een <u>tijdelijke constructie</u> die wordt ondernomen om een <u>uniek product of dienst</u> te creëren. Bij een project is er een duidelijke definitie van wat er op een bepaalde datum moet worden opgeleverd (overdracht).  
+**Een project** is een **tijdelijke constructie** die wordt uitgevoerd om een **uniek product of dienst** te creëren. Een project heeft een duidelijke definitie van wat er op een bepaalde datum moet worden opgeleverd.  
   
-Het is belangrijk op te merken dat een product alleen kan worden ontwikkeld binnen de context van een project en dat er meerdere projecten kunnen plaatsvinden binnen de levenscyclus van een product.  
+Belangrijk is dat een product alleen kan worden ontwikkeld binnen een project. Tijdens de levenscyclus van een product kunnen meerdere projecten plaatsvinden.  
   
-Anders dan bij een project, is er bij een product geen duidelijke definitie van wat er geleverd moet worden. De behoeften van de klant evolueren van nature in de loop van de tijd, en producten moeten evolueren om aan deze behoeften van de klant te voldoen.  
+In tegenstelling tot een project heeft een product geen duidelijke definitie van wat er geleverd moet worden. De behoeften van klanten evolueren, en producten moeten mee-evolueren om aan deze veranderende behoeften te voldoen.  
   
-Bij producten zijn er geen duidelijke deadlines. Een klant verwacht dat een product nu aan zijn behoeften voldoet, niet ergens in de toekomst. Productontwikkeling is dus geen tijdelijke of incidentele onderneming. Het is een continu proces waarbij nieuwe functies worden geleverd en een bepaald product in de loop van de tijd wordt verbeterd. [[./References/@gomez_2021|@gomez_2021]]  
+Bij producten zijn er geen strikte deadlines. Klanten verwachten dat een product nu aan hun behoeften voldoet, niet ergens in de toekomst. Productontwikkeling is daarom een continu proces waarbij nieuwe functies worden toegevoegd en het product voortdurend wordt verbeterd. [[./References/@gomez_2021|@gomez_2021]]  
   
-Het **productportfolio** kan worden gedefinieerd als de compilatie van producten en diensten die door het bedrijf aan de doelmarkt worden aangeboden. Het omvat alle producten die worden aangeboden vanaf de producten die werden gelanceerd en aangeboden tijdens het begin van het merk tot de producten die momenteel worden gelanceerd, samen met de producten die in de pijplijn zitten. [[./References/@hiteshbhasin_2015|@hiteshbhasin_2015]]  
+Het **productportfolio** omvat alle producten en diensten die een bedrijf aan de doelmarkt aanbiedt. Dit bevat zowel de producten die bij het begin van het merk werden gelanceerd als de producten die momenteel op de markt zijn en de producten die nog in ontwikkeling zijn. [[./References/@hiteshbhasin_2015|@hiteshbhasin_2015]]  
   
 ![](https://i.imgur.com/pBi8aFH.png)  
   
@@ -188,12 +188,12 @@ Voor het verzamelen van de vereisten bestaan verschillende technieken: afnemen v
 ## Plan van Aanpak  
 ![](https://i.imgur.com/YFFz5Ri.png)  
   
-Andere synoniemen zijn ‘project scope statement’, blueprint, projectcharter, …  
+Andere synoniemen zijn ‘project scope statement’, blueprint, projectcharter, enz.  
   
-Het **plan van aanpak** geeft als eerste deliverable een belangrijke aanzet tot het omlijnen van de projectscope. Dat document vertrekt vanuit de bestaansredenen van het project, om daarna een korte beschrijving te geven van het product en, op een abstract niveau, de deliverables die het project zal moeten opleveren. Het dient ook de veronderstellingen, beperkingen en objectieven, gegevens van het projectteam van het project te bevatten. Om niets uit het oog te verliezen kan een eenvoudige template gebruikt worden om deze eerste scopeafbakening te maken. Er dient ook aan versiebeheer gedaan te worden voor elke aanpassing aan dit project scope statement.  
+Het **plan van aanpak** is de eerste belangrijke deliverable die helpt bij het omlijnen van de projectscope. Dit document begint met de bestaansredenen van het project en geeft vervolgens een korte beschrijving van het product en de deliverables die het project op abstract niveau moet opleveren. Daarnaast bevat het veronderstellingen, beperkingen, doelstellingen en gegevens van het projectteam. Om overzicht te houden, kan een eenvoudige template worden gebruikt voor deze eerste scopeafbakening. Elke wijziging in dit project scope statement moet worden bijgehouden via versiebeheer.  
   
 > [!note] DEFINITIE: Plan van Aanpak/Project Scope Statement  
-> Een **plan van aanpak** wordt ook wel eens een **projectplan** of **project scope statement** genoemd. In een plan van aanpak staan de voorwaarden op basis waarvan het project wordt uitgevoerd. Het komt voor het eerst aan bod bij de initiatiefase van een project en vormt de basis voor de andere projectfasen.  
+> Een **plan van aanpak**, ook bekend als **projectplan** of **project scope statement**, beschrijft de voorwaarden waarvan het project wordt uitgevoerd. Dit document komt voor het eerst aan bod in de initiatie van een project en vormt de basis voor de andere projectfasen.  
   
 ![](https://i.imgur.com/p7Fn1nJ.png)  
   
