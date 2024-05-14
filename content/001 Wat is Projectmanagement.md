@@ -66,13 +66,10 @@ Dit is slechts een greep uit de vele sectoren waar projectmanagement wordt toege
 ## Definitie van een project  
 ![](https://i.imgur.com/thaNoeW.png)  
   
-In een organisatie heeft iedereen zijn eigen taken. Maar als er iets totaal nieuws moet gebeuren, zoals het introduceren van een nieuw systeem, het ontwikkelen van een nieuw product, of het opzetten van een nieuwe afdeling, en dit valt buiten de normale taken van iedereen, dan starten we een project.  
-  
-Een project is een tijdelijke inspanning met het doel om iets nieuws te creëren binnen een vastgestelde periode. De mensen die aan het project werken, doen dit alleen gedurende de looptijd van het project. Als het project klaar is - denk aan een nieuw systeem, een product of een uitbreiding van het gebouw - wordt wat ontwikkeld is geïntegreerd in de bestaande organisatie.  
+In een organisatie heeft iedereen zijn eigen taken. Maar wanneer iets totaal nieuws nodig is, zoals een nieuw systeem, een nieuw product, of een nieuwe afdeling, starten we een project. Een project is een tijdelijke inspanning om iets nieuws te creëren binnen een bepaalde periode. De mensen die aan het project werken doen dit alleen zolang het project duurt. Als het klaar is - denk aan een nieuw systeem, product of uitbreiding van een gebouw - wordt het geïntegreerd in de bestaande organisatie.  
   
 > [!note] DEFINITIE: Project  
->Een project is een tijdelijke constructie voor het afleveren van een uniek product of dienst, rekening houdend met beschikbare materialen, budget, tijd en gewenste kwaliteit.   
->Het gaat om het realiseren van iets nieuws voor een duidelijke opdrachtgever binnen duidelijke kaders door een team van meerdere verschillende specialisten. Het is een geheel van activiteiten buiten de gewone bedrijfsvoering om.  
+>Een project is een tijdelijke opdracht waarbij we een uniek product of dienst leveren. We houden hierbij rekening met beschikbare materialen, budget, tijd en de gewenste kwaliteit. Het doel is om iets nieuws te realiseren voor een duidelijke opdrachtgever binnen vaste kaders. Dit doen we met een team van verschillende specialisten. Een project omvat activiteiten die buiten de normale bedrijfsvoering vallen.  
   
 In deze definitie gaat het vooral om twee duidelijke aspecten: tijd en budget. Een goede planning maken en de kosten nauwlettend in de gaten houden, zijn daarom cruciale taken voor een projectleider. Ook is er bij elk project een opdrachtgever betrokken. Deze persoon bepaalt het gewenste eindresultaat. De projectleider en de projectgroep zijn verantwoordelijk voor de uitvoering.  
   
@@ -141,51 +138,45 @@ Wat is de uitdaging voor een bedrijf:
   
 ![](https://i.imgur.com/2XwzA1x.png)  
   
-De **business Case** vormt de rechtvaardiging van het project. Het bevat al de nodige informatie om te kunnen vaststellen of een project levensvatbaar/haalbaar is en ook blijft. Daarmee samenhangend onderzoekt men of het de moeite loont om te investeren of te blijven investeren in het project. Het vormt de basis voor de opstart van het project, maar moet gedurende het project voortdurend geactualiseerd worden met de actuele inschattingen van de te realiseren baten.  
+De **business case** rechtvaardigt het project. Het bevat alle informatie om te beoordelen of een project levensvatbaar en haalbaar is, en of het de moeite waard is om erin te investeren. Tijdens het project wordt de business case voortdurend geactualiseerd met actuele schattingen van de te realiseren voordelen. We stellen de business case op tijdens de 'Opstart'-fase, met input van alle betrokkenen. Initiëren of opstarten betekent ook dat we het kader moeten omlijnen en de **scope** vastleggen. [[./References/@vlaanderenintern_2014|@vlaanderenintern_2014]]  
   
-De Business Case stelt u op tijdens de fase 'Opstart'. De input voor de Business Case komt van alle betrokkenen van het project. Het initiëren of opstarten van een project wil ook zeggen dat men het kader moet omlijnen, de **scope** vastleggen. [[./References/@vlaanderenintern_2014|@vlaanderenintern_2014]]  
+In het bedrijfsleven noemt men dit vaak het vastleggen van de ‘battery limits’. Een belangrijke deliverable is het uitwerken van het projectcharter. Dit charter is het officiële startpunt en vormt het contract tussen alle betrokken partijen zoals de opdrachtgever, het projectteam en sponsors. Het beschrijft op een abstract niveau de krijtlijnen waarbinnen het project moet worden uitgevoerd. Het verwoordt de verwachtingen van de projectsponsor en geeft een eerste indicatie van de scope. Via intensieve communicatie wordt 100% duidelijkheid bereikt over de eisen, functionaliteiten (met een prioriteitenlijst), aanpak, timing, financiering en opvolging van het project.  
   
-In het bedrijfsleven wordt dat vaak omschreven als de ‘battery limits’ vastleggen. Een heel belangrijke deliverable is het uitwerken van het projectcharter. Dit charter is het officiële startpunt en het contract tussen alle betrokken partijen (=opdrachtgever, projectteam, sponsors, …). Het beschrijft op een abstract niveau de krijtlijnen waarbinnen het project uitgevoerd moet worden. Het charter verwoordt vanuit het perspectief van de projectsponsor de verwachtingen en is op die manier een eerste aanwijzing van de scope. De inhoud wordt vastgelegd via een intense communicatie tussen alle betrokken partijen opdat er voor 100 % duidelijkheid bestaat over de eisen, de functionaliteiten (met een prioriteitenlijst), de aanpak, de timing, de financiering en opvolging van het project.  
-  
-In de realiteit blijkt vaak dat er bij de initiatie nog geen (volwaardig) projectteam geïnstalleerd is. Vaak ontstaat een projectidee binnen de functionele departementen van een bedrijf. Zij hebben een visie op het eindproduct (= business wens), maar de praktische uitwerking of invulling mag in dit stadium nog niet de hoofdaandacht krijgen. De functionele teams zullen doorheen het project hun stem krijgen in bijvoorbeeld een stuurgroep (zorgen voor de review, de goedkeuring en opvolging van het project) of afstemmeeting. Ze worden wel actief betrokken bij het definiëren van de vereisten en bij de validatie en de acceptatie van de deliverables.  
+In de praktijk blijkt vaak dat er bij de initiatie nog geen volwaardig projectteam is geïnstalleerd. Een projectidee ontstaat meestal binnen de functionele afdelingen van een bedrijf. Zij hebben een visie op het eindproduct, maar de praktische uitwerking krijgt in dit stadium nog niet de hoofdrol. De functionele teams krijgen tijdens het project hun stem in bijvoorbeeld een stuurgroep die zorgt voor de review, goedkeuring en opvolging van het project, of tijdens afstemmeetings. Ze worden actief betrokken bij het definiëren van de vereisten en bij de validatie en acceptatie van de deliverables.  
   
 > [!QUESTION] Het Gezin PeeTers (GPT)  
 > Heb je meer vragen over een Project? Ontdek [[./Het Gezin PeeTers/+ 001 ProjectManagement#Vragen die je kan stellen over een Project|hier]] welke vragen je nog kan stellen.  
   
-Kernwoorden voor projectinitiatie zijn high-level (abstractie), onzekerheid (over oplossing, haalbaarheid, oplevertermijnen, …) en voorbereidingen (‘het pad effenen’).  
-  
-Belangrijk bij de projectinitiatie is het vastleggen van de business case.  
-  
-De business case is een bedrijfseconomische evaluatie van één of meerdere ideeën. Daarbij wordt cijfermatig (= kosten-baten analyse) bekeken welke optie (het meest) bijdraagt aan de bedrijfsobjectieven. De business case is een beslissingsdeliverable.  
+Kernwoorden voor projectinitiatie zijn abstract niveau, onzekerheid (over oplossing, haalbaarheid, oplevertermijnen, enz.) en voorbereidingen ('het pad effenen'). Een cruciale stap bij de projectinitiatie is het vastleggen van de business case. De business case is een bedrijfseconomische evaluatie van één of meerdere ideeën. Hierbij wordt met cijfers (via een kosten-baten analyse) bekeken welke optie het meest bijdraagt aan de bedrijfsdoelstellingen. De business case is een beslissingsdocument.  
   
 ## De scope van een project  
   
 ![](https://i.imgur.com/uGPzai1.png)  
   
-Bij het vastleggen van de projectscope, moet men het onderscheid maken tussen de productscope en de projectscope. Terwijl de eerste beschrijft wat de karakteristieken en functionaliteiten zijn van het (eind-)product, beschrijft de tweede welke activiteiten uitgevoerd moeten worden om dit product te realiseren. Wanneer men dit gestructureerd wil weergeven komt dat verschil nog beter tot uiting. Men spreekt van dan aan de ene kant over de *‘product breakdown structure’* (PBS) en aan de andere kant over de ‘*work breakdown structure’* (WBS). Microsoft Project (zie later) is een tool die helpt bij het structuren van dergelijke *work breakdown structures*.  
+Bij het vastleggen van de projectscope moeten we onderscheid maken tussen de productscope en de projectscope. De productscope beschrijft de kenmerken en functionaliteiten van het eindproduct, terwijl de projectscope de activiteiten beschrijft die moeten worden uitgevoerd om dit product te realiseren. Dit verschil komt nog duidelijker naar voren wanneer we het gestructureerd weergeven: aan de ene kant hebben we de *‘product breakdown structure’* (PBS) en aan de andere kant de *‘work breakdown structure’* (WBS). Microsoft Project (besproken later) is een tool die helpt bij het structureren van deze *work breakdown structures*.  
   
-> [!note] DEFINITIE: Product & Project scope  
-> **Product scope** wordt gedefinieerd als de functies en kenmerken die een product of dienst kenmerken.    
+> [!note] DEFINITIE: Product- en Projectscope  
+> **Productscope**: De functies en kenmerken die een product of dienst definiëren.  
 >  
-> **Project scope** daarentegen is het werk dat moet worden gedaan om een product te leveren volgens de product scope (vereiste functies en kenmerken).  
+> **Projectscope**: Het werk dat moet worden gedaan om een product te leveren volgens de productscope (vereiste functies en kenmerken).  
   
-Eens de scope geschreven en gevalideerd is, heeft men een perfecte indicatie van wat het project dient op te leveren. Dat fundament zal per fase herbekeken worden, maar is een onmisbare input voor de andere planningsactiviteiten.  
+Zodra de scope is geschreven en gevalideerd, hebben we een duidelijk beeld van wat het project moet opleveren. Dit fundament wordt per fase herbekeken, maar het blijft een onmisbare input voor de andere planningsactiviteiten.  
   
 ![](https://i.imgur.com/OirwoFx.png)  
   
-**Een product** is alles wat op een markt kan worden aangeboden om een probleem op te lossen of om een behoefte of behoefte te bevredigen.  
+**Een product** is alles wat op de markt kan worden aangeboden om een probleem op te lossen of om een behoefte te bevredigen.  
   
-Producten hebben een levenscyclus die uit meerdere fasen bestaat. Eerst wordt het product bedacht (idee), dan ontwikkeld (onderdeel van het project), vervolgens geïntroduceerd en beheerd op de markt. Tenslotte wordt het product buiten gebruik gesteld wanneer de behoefte eraan afneemt (vernietiging).  
+Producten hebben een levenscyclus met meerdere fasen: eerst wordt het product bedacht (idee), vervolgens ontwikkeld (onderdeel van een project), geïntroduceerd en beheerd op de markt, en tenslotte buiten gebruik gesteld wanneer de behoefte eraan afneemt.  
   
-**Een project** is een <u>tijdelijke constructie</u> die wordt ondernomen om een <u>uniek product of dienst</u> te creëren. Bij een project is er een duidelijke definitie van wat er op een bepaalde datum moet worden opgeleverd (overdracht).  
+**Een project** is een **tijdelijke constructie** die wordt uitgevoerd om een **uniek product of dienst** te creëren. Een project heeft een duidelijke definitie van wat er op een bepaalde datum moet worden opgeleverd.  
   
-Het is belangrijk op te merken dat een product alleen kan worden ontwikkeld binnen de context van een project en dat er meerdere projecten kunnen plaatsvinden binnen de levenscyclus van een product.  
+Belangrijk is dat een product alleen kan worden ontwikkeld binnen een project. Tijdens de levenscyclus van een product kunnen meerdere projecten plaatsvinden.  
   
-Anders dan bij een project, is er bij een product geen duidelijke definitie van wat er geleverd moet worden. De behoeften van de klant evolueren van nature in de loop van de tijd, en producten moeten evolueren om aan deze behoeften van de klant te voldoen.  
+In tegenstelling tot een project heeft een product geen duidelijke definitie van wat er geleverd moet worden. De behoeften van klanten evolueren, en producten moeten mee-evolueren om aan deze veranderende behoeften te voldoen.  
   
-Bij producten zijn er geen duidelijke deadlines. Een klant verwacht dat een product nu aan zijn behoeften voldoet, niet ergens in de toekomst. Productontwikkeling is dus geen tijdelijke of incidentele onderneming. Het is een continu proces waarbij nieuwe functies worden geleverd en een bepaald product in de loop van de tijd wordt verbeterd. [[./References/@gomez_2021|@gomez_2021]]  
+Bij producten zijn er geen strikte deadlines. Klanten verwachten dat een product nu aan hun behoeften voldoet, niet ergens in de toekomst. Productontwikkeling is daarom een continu proces waarbij nieuwe functies worden toegevoegd en het product voortdurend wordt verbeterd. [[./References/@gomez_2021|@gomez_2021]]  
   
-Het **productportfolio** kan worden gedefinieerd als de compilatie van producten en diensten die door het bedrijf aan de doelmarkt worden aangeboden. Het omvat alle producten die worden aangeboden vanaf de producten die werden gelanceerd en aangeboden tijdens het begin van het merk tot de producten die momenteel worden gelanceerd, samen met de producten die in de pijplijn zitten. [[./References/@hiteshbhasin_2015|@hiteshbhasin_2015]]  
+Het **productportfolio** omvat alle producten en diensten die een bedrijf aan de doelmarkt aanbiedt. Dit bevat zowel de producten die bij het begin van het merk werden gelanceerd als de producten die momenteel op de markt zijn en de producten die nog in ontwikkeling zijn. [[./References/@hiteshbhasin_2015|@hiteshbhasin_2015]]  
   
 ![](https://i.imgur.com/pBi8aFH.png)  
   
@@ -197,12 +188,12 @@ Voor het verzamelen van de vereisten bestaan verschillende technieken: afnemen v
 ## Plan van Aanpak  
 ![](https://i.imgur.com/YFFz5Ri.png)  
   
-Andere synoniemen zijn ‘project scope statement’, blueprint, projectcharter, …  
+Andere synoniemen zijn ‘project scope statement’, blueprint, projectcharter, enz.  
   
-Het **plan van aanpak** geeft als eerste deliverable een belangrijke aanzet tot het omlijnen van de projectscope. Dat document vertrekt vanuit de bestaansredenen van het project, om daarna een korte beschrijving te geven van het product en, op een abstract niveau, de deliverables die het project zal moeten opleveren. Het dient ook de veronderstellingen, beperkingen en objectieven, gegevens van het projectteam van het project te bevatten. Om niets uit het oog te verliezen kan een eenvoudige template gebruikt worden om deze eerste scopeafbakening te maken. Er dient ook aan versiebeheer gedaan te worden voor elke aanpassing aan dit project scope statement.  
+Het **plan van aanpak** is de eerste belangrijke deliverable die helpt bij het omlijnen van de projectscope. Dit document begint met de bestaansredenen van het project en geeft vervolgens een korte beschrijving van het product en de deliverables die het project op abstract niveau moet opleveren. Daarnaast bevat het veronderstellingen, beperkingen, doelstellingen en gegevens van het projectteam. Om overzicht te houden, kan een eenvoudige template worden gebruikt voor deze eerste scopeafbakening. Elke wijziging in dit project scope statement moet worden bijgehouden via versiebeheer.  
   
 > [!note] DEFINITIE: Plan van Aanpak/Project Scope Statement  
-> Een **plan van aanpak** wordt ook wel eens een **projectplan** of **project scope statement** genoemd. In een plan van aanpak staan de voorwaarden op basis waarvan het project wordt uitgevoerd. Het komt voor het eerst aan bod bij de initiatiefase van een project en vormt de basis voor de andere projectfasen.  
+> Een **plan van aanpak**, ook bekend als **projectplan** of **project scope statement**, beschrijft de voorwaarden waarvan het project wordt uitgevoerd. Dit document komt voor het eerst aan bod in de initiatie van een project en vormt de basis voor de andere projectfasen.  
   
 ![](https://i.imgur.com/p7Fn1nJ.png)  
   
@@ -259,6 +250,8 @@ In het project scope statement geeft men aan wat op het hoogste niveau de delive
 De work breakdown structure is een grafische weergave, veelal een boomstructuur, die de project scope opsplitst in deelcomponenten. Die deelcomponenten zijn de deliverables van het project. Het laagste niveau van de WBS noemt men werkpakketten. De WBS wordt eventueel uitgebreid met een WBS-dictionary.  
   
 ![](https://i.imgur.com/VzeScMn.png)  
+  
+Deze work breakdown structure (WBS) biedt een helder overzicht van de fasen en activiteiten die nodig zijn om een reis te plannen. Het schema verdeelt het project 'Reis' in hoofd- en subniveaus, waardoor duidelijk is welke stappen en taken uitgevoerd moeten worden.  
   
 Een WBS kan uitgebreid worden met een RACI-matrix. In de matrix staan op de horizontale as de namen van de personen of de functionele rollen. Op de verticale as de op te leveren resultaten, betrokken processen of activiteiten.  
   
