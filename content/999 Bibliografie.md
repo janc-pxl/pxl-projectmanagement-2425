@@ -8,8 +8,8 @@ order: "999"
 >   
 > **OLOD:** 42TIN1250 Projectmanagement  
 > **Opleiding:** Professionele bachelor in de Toegepaste informatica  
-> **Departement:** PXL-Digital   
-> **Lectoren:** Lowie Vangaal, Jan Castermans  
+> **Departement:** [PXL-Digital](https://www.pxl.be/digital)   
+> **Lectoren:** [Lowie Vangaal](https://www.linkedin.com/in/lowievangaal/), [Jan Castermans](https://www.linkedin.com/in/jancastermans/)  
   
 ![](https://i.imgur.com/j1ZCLjO.png)  
   
@@ -43,7 +43,6 @@ order: "999"
 # Risicomanagement  
   
 # Agile Project Management  
-- [[@qframe_2021|@qframe_2021]]: _'\-'_ -  **\-(\-)** \-<br/><br/>  
 - [[./References/@adobeworkfront_2022|@adobeworkfront_2022]]: _'What is Velocity in Agile? Charts & Examples | Adobe Workfront'_ -  **Adobe Workfront,(2022)** https://www.workfront.com/project-management/methodologies/agile/velocity<br/><br/>  
 - [[./References/@agilescrumgroup_2018|@agilescrumgroup_2018]]: _'De Sprint Review uitgelegd. Waarom deze meeting? (+ Checklist & Valkuilen)'_ -  **Agile Scrum Group,(2018)** https://agilescrumgroup.nl/sprint-review/<br/><br/>  
 - [[./References/@agilescrumgroup_2017|@agilescrumgroup_2017]]: _'Wat is Definition of Done? Check de uitleg en voorbeelden (IT & non-IT)'_ -  **Agile Scrum Group,(2017)** https://agilescrumgroup.nl/wat-is-definition-of-done/<br/><br/>  
@@ -51,6 +50,7 @@ order: "999"
 - [[./References/@doshi_2016|@doshi_2016]]: _'The Three Pillars of Empiricism (Scrum)'_ -  **Doshi, Hiren(2016)** https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum<br/><br/>  
 - [[./References/@martin_2020|@martin_2020]]: _'Incremental Model in SDLC: Use, Advantage & Disadvantage'_ -  **Martin, Matthew(2020)** https://www.guru99.com/what-is-incremental-model-in-sdlc-advantages-disadvantages.html<br/><br/>  
 - [[./References/@productplan_2022|@productplan_2022]]: _'User Story'_ -  **productplan,(2022)** https://www.productplan.com/glossary/user-story/<br/><br/>  
+- [[./References/@qframe_2021|@qframe_2021]]: _'Scrum Master, Teambuilder of Agile Coach?'_ -  **qframe,(2021)** https://qframe.be/2021/06/25/scrum-master-teambuilder-of-agile-coach/<br/><br/>  
 - [[./References/@raghuprasad_2019|@raghuprasad_2019]]: _'Basics of Sprint Planning - WHAT'_ -  **Raghuprasad,(2019)** https://agilebatech.com/what-is-sprint-planning/<br/><br/>  
 - [[./References/@scrumguide_2022|@scrumguide_2022]]: _'Het Scrumteam: uitleg en tips bij de verantwoordelijkheid | Scrumguide.nl'_ -  **scrumguide,(2022)** https://scrumguide.nl/scrumteam/<br/><br/>  
 - [[./References/@scrumguide_2022a|@scrumguide_2022a]]: _'Scrum takenbord | Scrumguide.nl'_ -  **Scrumguide,(2022)** https://scrumguide.nl/scrumbord/<br/><br/>  
