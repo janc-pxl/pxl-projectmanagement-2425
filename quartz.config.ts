@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "ProjectMgmt",
+    pageTitle: "Project Management",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,

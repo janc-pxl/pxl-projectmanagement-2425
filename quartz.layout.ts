@@ -7,9 +7,6 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      LinkedIn: "https://www.linkedin.com/school/hogeschoolpxl/",
-      Facebook: "https://www.facebook.com/HogeschoolPXL/",
-      Instagram: "https://www.instagram.com/hogeschoolpxl",
     },
   }),
 }
@@ -23,7 +20,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.ImageTitle(),
+    // Component.ImageTitle(),
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
@@ -41,7 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.ImageTitle(),
+    // Component.ImageTitle(),
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
