@@ -21,15 +21,15 @@ order: 1
   
 Projectmanagement is ontstaan in een resem basissectoren waar men complexe en grootschalige projecten moest organiseren en uitvoeren. Enkele van de belangrijkste sectoren waar projectmanagement zijn oorsprong vond, zijn:  
   
-1. Bouw en civiele techniek: Projectmanagement werd gebruikt voor het plannen en coördineren van grote bouwprojecten, zoals de bouw van bruggen, tunnels, wegen, gebouwen en andere infrastructurele werken. Dit omvatte het plannen van middelen, budgettering, tijdschema's, risicobeheer en kwaliteitscontrole.  
+1. **Bouw en civiele techniek:** Projectmanagement werd gebruikt voor het plannen en coördineren van grote bouwprojecten, zoals de bouw van bruggen, tunnels, wegen, gebouwen en andere infrastructurele werken. Dit omvatte het plannen van middelen, budgettering, tijdschema's, risicobeheer en kwaliteitscontrole.  
   
-2. Defensie en ruimtevaart: Projectmanagement speelde een cruciale rol in de ontwikkeling en uitvoering van militaire projecten en ruimtevaartprogramma's zoals raketontwikkeling, satellietlanceringen en het beheer van militaire operaties.  
+2. **Defensie en ruimtevaart:** Projectmanagement speelde een cruciale rol in de ontwikkeling en uitvoering van militaire projecten en ruimtevaartprogramma's zoals raketontwikkeling, satellietlanceringen en het beheer van militaire operaties.  
   
-3. Productie en techniek: In de productie- en technische sector werd projectmanagement toegepast op het ontwikkelen en implementeren van nieuwe producten, het verbeteren van productieprocessen en het beheren van complexe technische projecten.  
+3. **Productie en techniek:** In de productie- en technische sector werd projectmanagement toegepast op het ontwikkelen en implementeren van nieuwe producten, het verbeteren van productieprocessen en het beheren van complexe technische projecten.  
   
-4. Onderzoek en ontwikkeling (R&D): Projectmanagement werd gebruikt om onderzoeks- en ontwikkelingsprojecten te organiseren en uit te voeren, zoals het ontwikkelen van nieuwe technologieën, het uitvoeren van wetenschappelijk onderzoek en het implementeren van innovatieve oplossingen.  
+4. **Onderzoek en ontwikkeling (R&D):** Projectmanagement werd gebruikt om onderzoeks- en ontwikkelingsprojecten te organiseren en uit te voeren, zoals het ontwikkelen van nieuwe technologieën, het uitvoeren van wetenschappelijk onderzoek en het implementeren van innovatieve oplossingen.  
   
-5. Informatietechnologie (IT): Met de groei van de IT-sector werd projectmanagement steeds belangrijker voor het plannen, organiseren en uitvoeren van IT-projecten, zoals softwareontwikkeling, netwerkinstallaties en systeemintegraties.  
+5. I**nformatietechnologie (IT):** Met de groei van de IT-sector werd projectmanagement steeds belangrijker voor het plannen, organiseren en uitvoeren van IT-projecten, zoals softwareontwikkeling, netwerkinstallaties en systeemintegraties.  
   
 > [!QUESTION] Het Gezin PeeTers (GPT)  
 > Heb je meer vragen over ProjectManagement? Ontdek [[./Het Gezin PeeTers/+ 001 ProjectManagement#Vragen die je kan stellen over ProjectManagement|hier]] welke vragen je nog kan stellen.  
@@ -38,25 +38,25 @@ Hoewel projectmanagement zijn oorsprong vindt in deze sectoren, is het vandaag d
   
 Hier zijn enkele van de belangrijkste sectoren waar projectmanagement wordt toegepast:  
   
-**Bouw en civiele techniek:** Voor het plannen en beheren van grootschalige bouw- en infrastructuurprojecten, zoals wegen, bruggen, gebouwen en luchthavens.  
+1. **Bouw en civiele techniek:** Voor het plannen en beheren van grootschalige bouw- en infrastructuurprojecten, zoals wegen, bruggen, gebouwen en luchthavens.  
   
-**Informatietechnologie (IT):** Voor het ontwikkelen en implementeren van software, hardware, netwerken en andere technologische oplossingen.  
+2. **Informatietechnologie (IT):** Voor het ontwikkelen en implementeren van software, hardware, netwerken en andere technologische oplossingen.  
   
-**Gezondheidszorg:** Voor het beheren van projecten zoals ziekenhuisuitbreidingen, implementatie van nieuwe medische technologieën en gezondheidszorginitiatieven.  
+3. **Gezondheidszorg:** Voor het beheren van projecten zoals ziekenhuisuitbreidingen, implementatie van nieuwe medische technologieën en gezondheidszorginitiatieven.  
   
-**Financiële dienstverlening:** Voor het implementeren van nieuwe financiële producten, systemen, processen en regelgevingsinitiatieven.  
+4. **Financiële dienstverlening:** Voor het implementeren van nieuwe financiële producten, systemen, processen en regelgevingsinitiatieven.  
   
-**Onderwijs:** Voor het coördineren van onderzoeksprojecten, curriculumontwikkeling, technologie-implementaties en andere educatieve initiatieven.  
+5. **Onderwijs:** Voor het coördineren van onderzoeksprojecten, curriculumontwikkeling, technologie-implementaties en andere educatieve initiatieven.  
   
-**Marketing en communicatie:** Voor het beheren van marketingcampagnes, merkstrategieën, productlanceringen en evenementen.  
+6. **Marketing en communicatie:** Voor het beheren van marketingcampagnes, merkstrategieën, productlanceringen en evenementen.  
   
-**Energie en nutsbedrijven:** Voor het plannen en uitvoeren van energieproductie- en distributieprojecten, zoals de bouw van energiecentrales, het leggen van pijpleidingen en de implementatie van hernieuwbare energie-oplossingen.  
+7. **Energie en nutsbedrijven:** Voor het plannen en uitvoeren van energieproductie- en distributieprojecten, zoals de bouw van energiecentrales, het leggen van pijpleidingen en de implementatie van hernieuwbare energie-oplossingen.  
   
-**Productie en techniek:** Voor het ontwerpen en produceren van nieuwe producten, het verbeteren van productieprocessen en het beheren van complexe technische projecten.  
+8. **Productie en techniek:** Voor het ontwerpen en produceren van nieuwe producten, het verbeteren van productieprocessen en het beheren van complexe technische projecten.  
   
-**Non-profit en overheidssector:** Voor het organiseren en uitvoeren van sociale en maatschappelijke initiatieven, openbare diensten en beleidsimplementatie.  
+9. **Non-profit en overheidssector:** Voor het organiseren en uitvoeren van sociale en maatschappelijke initiatieven, openbare diensten en beleidsimplementatie.  
   
-**Retail en e-commerce:** Voor het beheren van nieuwe winkelopeningen, productlanceringen, voorraadbeheer en logistieke projecten.  
+10. **Retail en e-commerce:** Voor het beheren van nieuwe winkelopeningen, productlanceringen, voorraadbeheer en logistieke projecten.  
   
 Dit is slechts een greep uit de vele sectoren waar projectmanagement wordt toegepast. In de moderne, snel veranderende wereld speelt projectmanagement een cruciale rol in het succes van organisaties en het bereiken van hun doelen.  
   
