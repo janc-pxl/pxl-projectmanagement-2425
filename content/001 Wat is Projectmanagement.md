@@ -118,7 +118,7 @@ Als je probeert te besparen op de kosten, dus meer te doen met minder geld, leid
 ![](https://i.imgur.com/Dww0uEV.png)  
 [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
   
-Het klassieke model van de **Duivelsdriehoek**, dat focust op de relatie tussen tijd, kwaliteit en budget, schiet vaak tekort in echte projectmanagement scenarios. Iets dat vaak over het hoofd wordt gezien, is de **opdracht** zelf, en dit introduceert het concept van een **Duivelsvierkant**.  
+Het klassieke model van de **Duivelsdriehoek**, dat focust op de relatie tussen tijd, kwaliteit en budget, schiet vaak tekort in echte projectmanagementscenarios. Iets dat vaak over het hoofd wordt gezien, is de **opdracht** zelf, en dit introduceert het concept van een **Duivelsvierkant**.  
   
 In de praktijk staat de opdracht of scope van een project zelden vanaf het begin vast. Veranderingen in de projectomvang beïnvloeden significant de andere drie variabelen: tijd, kwaliteit en budget. Wanneer het budget bijvoorbeeld halveert, beïnvloedt dit niet alleen de kwaliteit of de tijd, maar ook wat je binnen het project kunt uitvoeren.  
   
@@ -141,7 +141,7 @@ Wat is de uitdaging voor een bedrijf:
   
 De **business case** rechtvaardigt het project. Het bevat alle informatie om te beoordelen of een project levensvatbaar en haalbaar is, en of het de moeite waard is om erin te investeren. Tijdens het project wordt de business case voortdurend geactualiseerd met actuele schattingen van de te realiseren voordelen. We stellen de business case op tijdens de 'Opstart'-fase, met input van alle betrokkenen. Initiëren of opstarten betekent ook dat we het kader moeten omlijnen en de **scope** vastleggen. [[./References/@vlaanderenintern_2014|@vlaanderenintern_2014]]  
   
-In het bedrijfsleven noemt men dit vaak het vastleggen van de ‘battery limits’. Een belangrijke deliverable is het uitwerken van het projectcharter. Dit charter is het officiële startpunt en vormt het contract tussen alle betrokken partijen zoals de opdrachtgever, het projectteam en sponsors. Het beschrijft op een abstract niveau de krijtlijnen waarbinnen het project moet worden uitgevoerd. Het verwoordt de verwachtingen van de projectsponsor en geeft een eerste indicatie van de scope. Via intensieve communicatie wordt 100% duidelijkheid bereikt over de eisen, functionaliteiten (met een prioriteitenlijst), aanpak, timing, financiering en opvolging van het project.  
+In het bedrijfsleven noemt men dit vaak het vastleggen van de ‘battery limits’. Een belangrijke deliverable is het uitwerken van het **projectcharter**. Dit charter is het officiële startpunt en vormt het contract tussen alle betrokken partijen zoals de opdrachtgever, het projectteam en sponsors. Het beschrijft op een abstract niveau de krijtlijnen waarbinnen het project moet worden uitgevoerd. Het verwoordt de verwachtingen van de projectsponsor en geeft een eerste indicatie van de scope. Via intensieve communicatie wordt 100% duidelijkheid bereikt over de eisen, functionaliteiten (met een prioriteitenlijst), aanpak, timing, financiering en opvolging van het project. Verwar dit niet met het [[001 Wat is Projectmanagement#Plan van Aanpak|Plan van Aanpak]] (zie later). Het projectcharter geeft de brede kaders en goedkeuring, terwijl het plan van aanpak de praktische details en de aanpak voor het bereiken van de projectdoelen bevat.  
   
 In de praktijk blijkt vaak dat er bij de initiatie nog geen volwaardig projectteam is geïnstalleerd. Een projectidee ontstaat meestal binnen de functionele afdelingen van een bedrijf. Zij hebben een visie op het eindproduct, maar de praktische uitwerking krijgt in dit stadium nog niet de hoofdrol. De functionele teams krijgen tijdens het project hun stem in bijvoorbeeld een stuurgroep die zorgt voor de review, goedkeuring en opvolging van het project, of tijdens afstemmeetings. Ze worden actief betrokken bij het definiëren van de vereisten en bij de validatie en acceptatie van de deliverables.  
   
@@ -154,7 +154,7 @@ Kernwoorden voor projectinitiatie zijn abstract niveau, onzekerheid (over oploss
   
 ![](https://i.imgur.com/uGPzai1.png)  
   
-Bij het vastleggen van de projectscope moeten we onderscheid maken tussen de productscope en de projectscope. De productscope beschrijft de kenmerken en functionaliteiten van het eindproduct, terwijl de projectscope de activiteiten beschrijft die moeten worden uitgevoerd om dit product te realiseren. Dit verschil komt nog duidelijker naar voren wanneer we het gestructureerd weergeven: aan de ene kant hebben we de *‘product breakdown structure’* (PBS) en aan de andere kant de *‘work breakdown structure’* (WBS). Microsoft Project (besproken later) is een tool die helpt bij het structureren van deze *work breakdown structures*.  
+Bij het vastleggen van de projectscope moeten we onderscheid maken tussen de **productscope** en de **projectscope**. De productscope beschrijft de kenmerken en functionaliteiten van het eindproduct, terwijl de projectscope de activiteiten beschrijft die moeten worden uitgevoerd om dit product te realiseren. Dit verschil komt nog duidelijker naar voren wanneer we het gestructureerd weergeven: aan de ene kant hebben we de *‘product breakdown structure’* (PBS) en aan de andere kant de *‘work breakdown structure’* (WBS). Microsoft Project (zie [[./002 Projectplanning#Hulpprogramma's|later]]) is een tool die helpt bij het structureren van deze *work breakdown structures*.   
   
 > [!note] DEFINITIE: Product- en Projectscope  
 > **Productscope**: De functies en kenmerken die een product of dienst definiëren.  
@@ -165,7 +165,7 @@ Zodra de scope is geschreven en gevalideerd, hebben we een duidelijk beeld van w
   
 ![](https://i.imgur.com/OirwoFx.png)  
   
-**Een product** is alles wat op de markt kan worden aangeboden om een probleem op te lossen of om een behoefte te bevredigen.  
+Een **product** is alles wat op de markt kan worden aangeboden om een probleem op te lossen of om een behoefte te bevredigen.  
   
 Producten hebben een levenscyclus met meerdere fasen: eerst wordt het product bedacht (idee), vervolgens ontwikkeld (onderdeel van een project), geïntroduceerd en beheerd op de markt, en tenslotte buiten gebruik gesteld wanneer de behoefte eraan afneemt.  
   
@@ -188,8 +188,6 @@ Voor het verzamelen van de vereisten bestaan verschillende technieken: afnemen v
   
 ## Plan van Aanpak  
 ![](https://i.imgur.com/YFFz5Ri.png)  
-  
-Andere synoniemen zijn ‘project scope statement’, blueprint, projectcharter, enz.  
   
 Het **plan van aanpak** is de eerste belangrijke deliverable die helpt bij het omlijnen van de projectscope. Dit document begint met de bestaansredenen van het project en geeft vervolgens een korte beschrijving van het product en de deliverables die het project op abstract niveau moet opleveren. Daarnaast bevat het veronderstellingen, beperkingen, doelstellingen en gegevens van het projectteam. Om overzicht te houden, kan een eenvoudige template worden gebruikt voor deze eerste scopeafbakening. Elke wijziging in dit project scope statement moet worden bijgehouden via versiebeheer.  
   
