@@ -108,7 +108,8 @@ Veel organisaties gebruiken een bepaalde projectmanagementmethodiek als ze proje
 **Duivelsdriehoek**   
   
 > [!note] DEFINITIE: De Duivelsdriehoek  
-> De duivelsdriehoek laat op eenvoudige wijze zien hoe de drie belangrijkste projectvariabelen zich tot elkaar verhouden. De variabelen waarover het gaat zijn **tijd, geld** en **kwaliteit**. Het managen van projecten gaat dus om het managen van deze drie variabelen. [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
+> De duivelsdriehoek laat op eenvoudige wijze zien hoe de drie belangrijkste projectvariabelen zich tot elkaar verhouden. De variabelen waarover het gaat zijn **tijd, geld** en **kwaliteit**. Het managen van projecten gaat dus om het managen van deze drie variabelen.   
+> [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
   
 Als je probeert te besparen op de kosten, dus meer te doen met minder geld, leidt dat onvermijdelijk tot concessies op het gebied van kwaliteit (het eindproduct zal van mindere kwaliteit zijn) of tijd (het project zal meer tijd in beslag nemen), of een combinatie van beide. Het is ook belangrijk te realiseren dat binnen een project slechts twee van deze drie aspecten tegelijkertijd optimaal benut kunnen worden. Als iets sneller en goedkoper moet, zal dit vrijwel altijd ten koste gaan van de kwaliteit.  
 ![](https://i.imgur.com/602iRyY.png)  
