@@ -308,27 +308,25 @@ Projectmanagement is het wikken en wegen van middelen, kwaliteit, inzet, risico�
 #### Samenstellen van een projectteam  
 ![](https://i.imgur.com/KhSHfVB.png)  
   
-Een projectteam stel je altijd zo samen dat er mensen in zitten die bepaalde taken uit het project op zich kunnen nemen en uitvoeren. Het zijn dus behoorlijke specialisten. Je hebt meestal niets aan managers of beleidsmedewerkers in je project. Je moet je er als projectleider altijd van vergewissen dat mensen die je vraagt voor een team ook echt beschikbaar zijn.  
+Bij het samenstellen van een projectteam is het essentieel om mensen te selecteren die specifieke taken binnen het project kunnen uitvoeren. Dit betekent dat je vaak experts nodig hebt. Managers of beleidsmedewerkers zijn meestal niet geschikt voor dit werk. Als projectleider moet je er altijd zeker van zijn dat de mensen die je wilt betrekken ook daadwerkelijk beschikbaar zijn.  
   
-In de planning wordt vastgelegd wanneer (in welke fase) iemand een bepaalde taak moet uitvoeren. Niet ieder lid van een projectteam heeft de hele tijd wat te doen. Elk lid heeft voor een aantal uur in de week nog zijn 'gewone' bezigheden van zijn of haar normale functie.  
+In de planning wordt vastgelegd wanneer en in welke fase teamleden bepaalde taken moeten uitvoeren. Het is normaal dat niet ieder teamlid constant bezig is met projecttaken. Elk lid heeft vaak nog andere verantwoordelijkheden binnen hun reguliere functie, waarvoor ze een aantal uren per week vrij moeten houden.  
   
 ### Wat doet een projectmanager?  
   
-Als projectmanager of projectleider verzorg je de dagelijkse leiding van een project. Met het project moet je een resultaat halen binnen een bepaalde periode.  
+Als projectmanager, of projectleider, ben je verantwoordelijk voor de dagelijkse leiding van een project. Je doel is om binnen een bepaalde periode een specifiek resultaat te behalen.  
   
-Anders dan de algemene manager, geef je als projectmanager leiding aan eenmalige projecten met een tastbaar eindresultaat. Een ander verschil met de functie van manager algemeen is dat je bezig bent met de dagelijkse gang van zaken, je zit dicht bij het vuur. Een projectmanager kan meestal niet terugvallen op routine. Improviseren is daarom aan de orde van de dag.  
+In tegenstelling tot een algemene manager, richt je je als projectmanager op eenmalige projecten met een concreet einddoel. Je bent nauw betrokken bij de dagelijkse gang van zaken en kunt meestal niet terugvallen op routine, waardoor improvisatie vaak nodig is.  
   
-Projectmanagers werken in uiteenlopende sectoren, variërend van de ICT tot de bouw.  
+Projectmanagers werken in diverse sectoren, van ICT tot de bouw. Voorbeelden van projecten zijn:  
   
-Voorbeelden van projecten:  
+- Een machinefabriek krijgt de opdracht om een speciale machine te produceren die niet tot de standaard productielijn behoort.  
+- Het administratieve softwarepakket van een bedrijf moet opnieuw ontworpen en ontwikkeld worden.  
+- Een kledingfabrikant wil een nieuwe catalogus voor de nieuwste collectie uitbrengen.  
   
-- Een machinefabriek krijgt de opdracht om een machine te produceren die niet in de normale productielijn past.  
-- Het pakket administratieve software van een bedrijf moet opnieuw ontworpen en geschreven worden.  
-- Een kledingfabrikant brengt een catalogus van de nieuwe collectie uit.  
+De eerste twee voorbeelden illustreren projecten die buiten de normale dagelijkse activiteiten vallen. Hiervoor wordt een speciaal team samengesteld en als de benodigde kennis niet in huis is, kan een externe projectmanager worden ingeschakeld. Sommige bedrijven hebben namelijk vaste projectleiders in dienst, zoals de kledingfabrikant uit het derde voorbeeld die een projectmanager heeft voor het maken van catalogi.  
   
-De bovenste twee zijn voorbeelden van activiteiten die buiten de normale routine vallen. Er wordt iets nieuws gedaan. Hiervoor wordt er een speciaal team samengesteld. Als de kennis binnen het bedrijf niet aanwezig is, wordt er een projectmanager van buiten ingeschakeld. Sommige bedrijven hebben projectleiders in vaste dienst. De kledingfabrikant van het derde voorbeeld heeft bijvoorbeeld een projectmanager in dienst die verantwoordelijk is voor de totstandkoming van de catalogi.  
-  
-Een project heeft meerdere fasen, waarin het accent voor de projectleider steeds op andere taken ligt. De taken die hier worden genoemd, gelden dus voor iedereen die leiding geeft in een omgeving waar projectmatig werken plaatsvindt.  
+Een project doorloopt verschillende fasen, waarbij de focus van de projectmanager per fase kan variëren. De hier genoemde taken zijn relevant voor iedereen die leiding geeft in een projectmatige omgeving.  
   
 #### Afspraken maken over doelstelling en randvoorwaarden  
   
@@ -433,7 +431,7 @@ Met deze fasen zorgen projectmanagers ervoor dat projecten gestructureerd en suc
   
 ![](https://i.imgur.com/AWlrNFV.png)   ^d502ca  
   
-Deze algemene levenscyclusstructuur is handig wanneer je te maken hebt met het hogere management of anderen die minder vertrouwd zijn met het project. Het is belangrijk om op te merken dat deze structuur vaak wordt verward met de projectmanagement procesgroepen (zie [De Projectmanagement Proces Groepen](001%2520Wat%2520is%2520Projectmanagement.md##De%2520Projectmanagement%2520Proces%2520Groepen)). De procesgroepen bevatten, in tegenstelling tot de projectlevenscyclus, specifieke activiteiten die gericht zijn op het managen van het project zelf.  
+Deze algemene levenscyclusstructuur is handig wanneer je te maken hebt met het hogere management of anderen die minder vertrouwd zijn met het project. Het is belangrijk om op te merken dat deze structuur vaak wordt verward met de projectmanagement procesgroepen (zie [[001 Wat is Projectmanagement#De Projectmanagement Proces Groepen|De Projectmanagement Proces Groepen]]). De procesgroepen bevatten, in tegenstelling tot de projectlevenscyclus, specifieke activiteiten die gericht zijn op het managen van het project zelf.  
   
 De levenscyclus van een project staat los van de levenscyclus van het eindresultaat van dat project.  
   
