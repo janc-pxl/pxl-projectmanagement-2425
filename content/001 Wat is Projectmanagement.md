@@ -328,29 +328,29 @@ De eerste twee voorbeelden illustreren projecten die buiten de normale dagelijks
   
 Een project doorloopt verschillende fasen, waarbij de focus van de projectmanager per fase kan variëren. De hier genoemde taken zijn relevant voor iedereen die leiding geeft in een projectmatige omgeving.  
   
-#### Afspraken maken over doelstelling en randvoorwaarden  
+#### Afspraken maken over Doelstellingen en Randvoorwaarden  
   
-Als projectmanager moet je natuurlijk weten van de opdrachtgever wat de reden en de doelstelling van het project is. Als dit nog niet duidelijk is, kan de projectmanager de opdrachtgever hierbij adviseren. Waar moet het eindresultaat aan voldoen? Vaak worden doelstellingen in de beginfase nog (te) vaag geformuleerd. Stel, een uitgever wil de markt van kookboeken veroveren. Dit is als doelstelling nog algemeen en moet meer worden afgebakend. Bijvoorbeeld: ‘Over drie jaar willen we vijf kookboeken op de markt hebben, elk over gerechten van een ander land’. Zo´n heldere doelstelling wordt ook wel een SMART-doelstelling genoemd.  
+Als projectmanager moet je duidelijk weten wat de reden en doelstelling van het project is. Als dit nog niet helder is, kun je de opdrachtgever hierbij adviseren. Wat moet het eindresultaat opleveren? In de beginfase zijn doelstellingen vaak vaag geformuleerd. Stel bijvoorbeeld: een uitgever wil de kookboekenmarkt veroveren. Dit is nog te algemeen en moet specifieker worden gemaakt, zoals: ‘Over drie jaar willen we vijf kookboeken op de markt hebben, elk over gerechten uit een ander land’. Zo’n duidelijke doelstelling wordt ook wel een SMART-doelstelling genoemd.  
   
-In deze fase moeten er ook afspraken gemaakt worden over randvoorwaarden als de deadline, het beschikbare budget en de middelen. Als de projectmanager wordt ingehuurd, moeten er duidelijke afspraken komen over de communicatie tussen het lijnmanagement en het projectteam. Zonder medewerking van het lijnmanagement krijgt de projectmanager niets gedaan.  
+In deze fase moeten ook afspraken worden gemaakt over randvoorwaarden zoals de deadline, het beschikbare budget en de middelen. Als de projectmanager wordt ingehuurd, moeten er duidelijke afspraken worden gemaakt over de communicatie tussen het lijnmanagement en het projectteam. Zonder medewerking van het lijnmanagement kan de projectmanager weinig bereiken.  
   
-#### Een ontwerp maken  
+#### Een Projectontwerp Maken  
   
-Nu er een doelstelling is, kan de projectmanager een projectontwerp maken. In de ontwerpfase denk je na over de volgende punten:  
+Met een duidelijke doelstelling kun je een projectontwerp maken. In de ontwerpfase denk je na over:  
   
 - Hoe stem je de activiteiten op elkaar af om het eindresultaat te bereiken?  
-- Welke tussentijdse mijlpalen komen er?  
+- Welke tussentijdse mijlpalen zijn er?  
 - Welke producten worden in welke fase opgeleverd?  
   
-Ook doe je in deze fase veel voorbereidend inhoudelijk werk. Je moet straks alle teamleden aan het werk houden. Je kunt in deze fase alvast zorgen dat ze de eerste tijd vooruit kunnen.  
+In deze fase doe je ook veel voorbereidende inhoudelijke werkzaamheden. Je moet zorgen dat alle teamleden straks efficiënt aan het werk kunnen en dat ze vanaf het begin duidelijke taken hebben.  
   
-#### Het project starten  
+#### Het Project Starten  
   
-Misschien moeten er externen ingehuurd worden en voer jij mede de sollicitatiegesprekken. De betrokken partijen moeten vervolgens goed geïnformeerd en gemotiveerd worden. Vaak volgen er een of meerdere bijeenkomsten waarin de teamleden elkaar leren kennen en door jou voorgelicht worden over het project. Taken en verantwoordelijkheden worden verdeeld. Je zorgt ervoor dat er een teamgeest ontstaat waarin het project tot een succes kan worden.  
+Het kan zijn dat je externen moet inhuren en sollicitatiegesprekken voert. Vervolgens moeten alle betrokken partijen goed worden geïnformeerd en gemotiveerd. Vaak zijn er één of meerdere bijeenkomsten waarin de teamleden kennismaken en jij hen informeert over het project. Taken en verantwoordelijkheden worden verdeeld. Je zorgt voor een sterke teamgeest, waardoor iedereen gemotiveerd is om het project tot een succes te maken.  
   
-#### Het beheersen van de voortgang  
+#### Het Beheersen van de Voortgang  
   
-Dit is het leeuwendeel van het werk. Je hebt als projectmanager de leiding over de dagelijkse gang van zaken. Als er regels zijn opgesteld, moet je ook toezien op de naleving daarvan. Als er tussentijdse deadlines zijn vastgesteld, moeten die ook worden gehaald. Ondertussen moet er waarschijnlijk veel geïmproviseerd worden. Er duiken ongetwijfeld grotere en kleinere problemen op: een extra kostenpost, een leverancier die niet op tijd is, een teamlid dat ziek wordt. Waarschijnlijk komt je team met veel creatieve ideeën. Je moet hiervoor open staan. Het kan gebeuren dat verschillende partijen met alternatieve oplossingen komen, waarvan je de voordelen en risico's afweegt. Jij bent de eindverantwoordelijke.  
+Dit vormt een groot deel van je werk. Als projectmanager heb je de leiding over de dagelijkse gang van zaken. Je zorgt ervoor dat iedereen zich aan de regels houdt en dat tussentijdse deadlines worden gehaald. Dit vereist vaak improvisatie, omdat er altijd onverwachte problemen kunnen opduiken: extra kosten, een leverancier die te laat is, of een ziek teamlid. Het team komt waarschijnlijk ook met creatieve ideeën, en je moet openstaan voor deze opties. Vaak worden er alternatieve oplossingen voorgesteld door verschillende partijen, en jij moet de voordelen en risico's afwegen. Jij bent de eindverantwoordelijke voor het project en zorgt dat alles op rolletjes loopt.  
   
 #### Rollen van een projectmanager:  
   
