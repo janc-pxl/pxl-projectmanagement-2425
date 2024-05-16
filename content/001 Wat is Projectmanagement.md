@@ -412,30 +412,34 @@ Projectlevenscycli kunnen variëren van voorspellende (plangestuurde) benadering
   
 ### Karakteristieken van de Project Life Cycle  
   
-Hoewel projecten uniek en vaak onvoorspelbaar zijn, volgen ze meestal een standaard raamwerk met een generieke levenscyclusstructuur, die uit de volgende fasen bestaat:  
+Zelfs al zijn projecten vaak uniek en onvoorspelbaar, ze volgen meestal een standaard structuur, de projectlevenscyclus. Deze cyclus bestaat uit de volgende fasen:  
   
-- Initiatiefase: start van het project  
-   - In de initiatiefase ligt de focus op het definiëren en goedkeuren van het project. De projectmanager gebruikt de beschikbare informatie om een projectcharter of plan van aanpak op te stellen.  
+- **Initiatiefase: De Start**  
+   - In de initiatiefase draait alles om het definiëren en goedkeuren van het project. De projectmanager verzamelt de eerste informatie en stelt een projectcharter of plan van aanpak op.  
   
-- Planningsfase: organiseren en voorbereiden  
-   - Het doel van deze fase is het ontwikkelen van een gedetailleerde strategie die beschrijft hoe het project zal worden uitgevoerd en tot een succes gemaakt.  
+- **Planningsfase: Voorbereiden**  
+   - Deze fase richt zich op het ontwikkelen van een gedetailleerd plan over hoe het project uitgevoerd gaat worden. Het doel is om een heldere strategie te creëren die leidt naar een succesvol project.  
   
-- Uitvoeringsfase: uitvoering van het project  
-   - In deze fase worden de tijdens de planningsfase gedefinieerde beslissingen en activiteiten geïmplementeerd. De projectmanager begeleidt het project en zorgt ervoor dat eventuele fouten worden voorkomen.  
+- **Uitvoeringsfase: Implementeren**  
+   - Hier wordt het plan werkelijkheid. De geplande activiteiten en beslissingen worden uitgevoerd. De projectmanager houdt een oogje in het zeil om ervoor te zorgen dat alles goed verloopt en eventuele problemen snel worden opgelost.  
   
-- Beëindigingsfase: het project afsluiten  
-   - Dit is de laatste fase van elk project en markeert de officiële afsluiting ervan.  
+- **Monitoringfase: Controleren en Bijsturen**  
+   - Tijdens de monitoringfase wordt het project voortdurend gecontroleerd en geëvalueerd. De projectmanager gebruikt prestatie-indicatoren en rapportages om de voortgang te volgen en bij te sturen waar nodig. Deze fase is essentieel om ervoor te zorgen dat het project op schema blijft en binnen budget uitgevoerd wordt.  
+  
+- **Beëindigingsfase: Het Slot**  
+   - Dit is de laatste fase van elk project en markeert de officiële afronding ervan. Hier worden de resultaten geëvalueerd, documenten afgerond en wordt gezorgd voor een soepele overdracht aan de opdrachtgever of het operationele team.  
+  
+Met deze fasen zorgen projectmanagers ervoor dat projecten gestructureerd en succesvol worden uitgevoerd, ondanks eventuele onverwachte uitdagingen.  
   
 ![](https://i.imgur.com/AWlrNFV.png)   ^d502ca  
   
-Deze algemene levenscyclusstructuur wordt gebruikt bij het omgaan met het hogere management of andere mensen die minder bekend zijn met het project. Sommige mensen verwarren het met de procesgroepen van projectmanagement   
-(zie [De Projectmanagement Proces Groepen](001%2520Wat%2520is%2520Projectmanagement.md##De%2520Projectmanagement%2520Proces%2520Groepen)), maar deze laatste bevatten activiteiten die specifiek zijn voor het project.  
+Deze algemene levenscyclusstructuur is handig wanneer je te maken hebt met het hogere management of anderen die minder vertrouwd zijn met het project. Het is belangrijk om op te merken dat deze structuur vaak wordt verward met de projectmanagement procesgroepen (zie [De Projectmanagement Proces Groepen](001%2520Wat%2520is%2520Projectmanagement.md##De%2520Projectmanagement%2520Proces%2520Groepen)). De procesgroepen bevatten, in tegenstelling tot de projectlevenscyclus, specifieke activiteiten die gericht zijn op het managen van het project zelf.  
   
-De levenscyclus van een project is daarentegen onafhankelijk van de levenscyclus van het specifieke resultaat van het project.  
+De levenscyclus van een project staat los van de levenscyclus van het eindresultaat van dat project.  
   
 ### Generieke kenmerken van de levenscyclusstructuur  
   
-In het begin zijn de kosten en het personeelsbestand laag en bereiken ze een hoogtepunt wanneer het werk in uitvoering is. Het daalt echter weer snel als het project in de afsluitende fase zit.   
+In het begin zijn de kosten en het personeelsbestand laag en bereiken ze een hoogtepunt wanneer het werk in uitvoering is. Het daalt daarentegen weer snel als het project in de afsluitende fase zit.   
   
 ![](https://i.imgur.com/dgvltBG.png)  
   
