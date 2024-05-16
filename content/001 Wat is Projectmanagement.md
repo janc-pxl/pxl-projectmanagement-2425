@@ -517,7 +517,7 @@ Marketeers, CEO’s en ondernemers worstelen altijd met de vraag: op welke nieuw
 ## De Hype Cycle  
 Op die laatste vraag heeft IT onderzoeks- en adviesbureau Gartner naar eigen zeggen een oplossing gevonden. Zij hebben rond het jaar 1995 de Hype Cycle in het leven geroepen, een meetlat waarlangs je een nieuwe technologieën kunt leggen. Het is een framework en grafische weergave van de volwassenwording van een nieuwe techniek. De Hype Cycle moet helpen duidelijk te maken of de nieuwe technologie echt mainstream wordt of dat het bij een hype blijft en de technologie als een nachtkaars weer uitgaat.  
   
-![](https://i.imgur.com/MmekoVx.png)  
+![](https://i.imgur.com/ObAvY21.png)  
   
 ## De 5 fases van de Hype Cycle  
 In de weg die iedere nieuwe technologie aflegt naar volledige adoptie, doorloopt deze altijd 5 fases.  
