@@ -520,11 +520,12 @@ Op die laatste vraag heeft IT onderzoeks- en adviesbureau Gartner naar eigen zeg
 ## De 5 fases van de Hype Cycle  
 In de weg die iedere nieuwe technologie aflegt naar volledige adoptie, doorloopt deze altijd 5 fases.  
   
-**Technology Trigger:** de potentiële technologische doorbraak komt in de media met proof-of-concepts en trekt bijzonder veel aandacht. Er bestaan op dit punt nog geen bruikbare producten en commerciële inspanningen zijn er nog niet geweest.  
-**Peak of Inflated Expectations:** de technologie bereikt zijn “hype hoogtepunt”. Er verschijnen eerste succesverhalen, maar mislukkingen worden even breed uitgemeten. Sommige bedrijven gaan met de technologie aan de slag, anderen niet.  
-**Trough of Disillusionment:** de interesse in de technologie verdwijnt naar aanleiding van mislukte experimenten en gefaalde implementaties. Bedrijven stappen uit. De enige bedrijven die verder gaan zijn de bedrijven die investeringen in de technologie succesvol kunnen vertalen naar behoeftes van de early adopters. In deze derde fase ligt dus het omslagpunt van hype of blijvertje.  
-**Slope of enlightenment:** bedrijven weten investeringen winstgevend door te zetten. Het wordt in deze fase dan steeds duidelijker welke mogelijkheden de techniek biedt. Tweede en derde versies van de technologie worden gemaakt en de eerste pilots met deze nieuwe versies worden uitgevoerd. Conservatieve bedrijven blijven nog even op afstand.  
-**Plateau of Productivity:** adoptie op grote schaal gaat plaatsvinden. Het is voor bedrijven duidelijk of ze iets met deze techniek kunnen en of zij in staat zijn deze aan te bieden aan hun klanten. De techniek is relevant geworden, consumenten en klanten hebben interesse en kopen de technologie.  
+1. **Technology Trigger:** de potentiële technologische doorbraak komt in de media met proof-of-concepts en trekt bijzonder veel aandacht. Er bestaan op dit punt nog geen bruikbare producten en commerciële inspanningen zijn er nog niet geweest.  
+2. **Peak of Inflated Expectations:** de technologie bereikt zijn “hype hoogtepunt”. Er verschijnen eerste succesverhalen, maar mislukkingen worden even breed uitgemeten. Sommige bedrijven gaan met de technologie aan de slag, anderen niet.  
+3. **Trough of Disillusionment:** de interesse in de technologie verdwijnt naar aanleiding van mislukte experimenten en gefaalde implementaties. Bedrijven stappen uit. De enige bedrijven die verder gaan zijn de bedrijven die investeringen in de technologie succesvol kunnen vertalen naar behoeftes van de early adopters. In deze derde fase ligt dus het omslagpunt van hype of blijvertje.  
+4. **Slope of enlightenment:** bedrijven weten investeringen winstgevend door te zetten. Het wordt in deze fase dan steeds duidelijker welke mogelijkheden de techniek biedt. Tweede en derde versies van de technologie worden gemaakt en de eerste pilots met deze nieuwe versies worden uitgevoerd. Conservatieve bedrijven blijven nog even op afstand.  
+5. **Plateau of Productivity:** adoptie op grote schaal gaat plaatsvinden. Het is voor bedrijven duidelijk of ze iets met deze techniek kunnen en of zij in staat zijn deze aan te bieden aan hun klanten. De techniek is relevant geworden, consumenten en klanten hebben interesse en kopen de technologie.  
+  
 Hieronder nog iets gedetailleerder welke gebeurtenissen en acties zich in iedere fase voordoen.  
   
 ![](https://i.imgur.com/bj6IAQT.png)  
