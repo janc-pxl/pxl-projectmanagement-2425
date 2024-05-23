@@ -116,11 +116,13 @@ Veel organisaties gebruiken een bepaalde projectmanagementmethodiek als ze proje
 > [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
   
 Als je probeert te besparen op de kosten, dus meer te doen met minder geld, leidt dat onvermijdelijk tot concessies op het gebied van kwaliteit (het eindproduct zal van mindere kwaliteit zijn) of tijd (het project zal meer tijd in beslag nemen), of een combinatie van beide. Het is ook belangrijk te realiseren dat binnen een project slechts twee van deze drie aspecten tegelijkertijd optimaal benut kunnen worden. Als iets sneller en goedkoper moet, zal dit vrijwel altijd ten koste gaan van de kwaliteit.  
-![](https://i.imgur.com/602iRyY.png)  
-[[./References/@stevenblom_2018|@stevenblom_2018]]  
+> [!caption]   
+> ![](https://i.imgur.com/602iRyY.png)  
+> Figuur: Duivelsdriehoek [[./References/@stevenblom_2018|@stevenblom_2018]]  
   
-![](https://i.imgur.com/Dww0uEV.png)  
-[[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
+> [!caption]   
+> ![](https://i.imgur.com/Dww0uEV.png)  
+> Figuur: Duivelsvierkant [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
   
 Het klassieke model van de **Duivelsdriehoek**, dat focust op de relatie tussen tijd, kwaliteit en budget, schiet vaak tekort in echte projectmanagementscenarios. Iets dat vaak over het hoofd wordt gezien, is de **opdracht** zelf, en dit introduceert het concept van een **Duivelsvierkant**.  
   
