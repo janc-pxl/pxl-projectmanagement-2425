@@ -21,15 +21,15 @@ order: 1
   
 Projectmanagement is ontstaan in een resem basissectoren waar men complexe en grootschalige projecten moest organiseren en uitvoeren. Enkele van de belangrijkste sectoren waar projectmanagement zijn oorsprong vond, zijn:  
   
-1. Bouw en civiele techniek: Projectmanagement werd gebruikt voor het plannen en coördineren van grote bouwprojecten, zoals de bouw van bruggen, tunnels, wegen, gebouwen en andere infrastructurele werken. Dit omvatte het plannen van middelen, budgettering, tijdschema's, risicobeheer en kwaliteitscontrole.  
+1. **Bouw en civiele techniek:** Projectmanagement werd gebruikt voor het plannen en coördineren van grote bouwprojecten, zoals de bouw van bruggen, tunnels, wegen, gebouwen en andere infrastructurele werken. Dit omvatte het plannen van middelen, budgettering, tijdschema's, risicobeheer en kwaliteitscontrole.  
   
-2. Defensie en ruimtevaart: Projectmanagement speelde een cruciale rol in de ontwikkeling en uitvoering van militaire projecten en ruimtevaartprogramma's zoals raketontwikkeling, satellietlanceringen en het beheer van militaire operaties.  
+2. **Defensie en ruimtevaart:** Projectmanagement speelde een cruciale rol in de ontwikkeling en uitvoering van militaire projecten en ruimtevaartprogramma's zoals raketontwikkeling, satellietlanceringen en het beheer van militaire operaties.  
   
-3. Productie en techniek: In de productie- en technische sector werd projectmanagement toegepast op het ontwikkelen en implementeren van nieuwe producten, het verbeteren van productieprocessen en het beheren van complexe technische projecten.  
+3. **Productie en techniek:** In de productie- en technische sector werd projectmanagement toegepast op het ontwikkelen en implementeren van nieuwe producten, het verbeteren van productieprocessen en het beheren van complexe technische projecten.  
   
-4. Onderzoek en ontwikkeling (R&D): Projectmanagement werd gebruikt om onderzoeks- en ontwikkelingsprojecten te organiseren en uit te voeren, zoals het ontwikkelen van nieuwe technologieën, het uitvoeren van wetenschappelijk onderzoek en het implementeren van innovatieve oplossingen.  
+4. **Onderzoek en ontwikkeling (R&D):** Projectmanagement werd gebruikt om onderzoeks- en ontwikkelingsprojecten te organiseren en uit te voeren, zoals het ontwikkelen van nieuwe technologieën, het uitvoeren van wetenschappelijk onderzoek en het implementeren van innovatieve oplossingen.  
   
-5. Informatietechnologie (IT): Met de groei van de IT-sector werd projectmanagement steeds belangrijker voor het plannen, organiseren en uitvoeren van IT-projecten, zoals softwareontwikkeling, netwerkinstallaties en systeemintegraties.  
+5. I**nformatietechnologie (IT):** Met de groei van de IT-sector werd projectmanagement steeds belangrijker voor het plannen, organiseren en uitvoeren van IT-projecten, zoals softwareontwikkeling, netwerkinstallaties en systeemintegraties.  
   
 > [!QUESTION] Het Gezin PeeTers (GPT)  
 > Heb je meer vragen over ProjectManagement? Ontdek [[./Het Gezin PeeTers/+ 001 ProjectManagement#Vragen die je kan stellen over ProjectManagement|hier]] welke vragen je nog kan stellen.  
@@ -38,25 +38,25 @@ Hoewel projectmanagement zijn oorsprong vindt in deze sectoren, is het vandaag d
   
 Hier zijn enkele van de belangrijkste sectoren waar projectmanagement wordt toegepast:  
   
-**Bouw en civiele techniek:** Voor het plannen en beheren van grootschalige bouw- en infrastructuurprojecten, zoals wegen, bruggen, gebouwen en luchthavens.  
+1. **Bouw en civiele techniek:** Voor het plannen en beheren van grootschalige bouw- en infrastructuurprojecten, zoals wegen, bruggen, gebouwen en luchthavens.  
   
-**Informatietechnologie (IT):** Voor het ontwikkelen en implementeren van software, hardware, netwerken en andere technologische oplossingen.  
+2. **Informatietechnologie (IT):** Voor het ontwikkelen en implementeren van software, hardware, netwerken en andere technologische oplossingen.  
   
-**Gezondheidszorg:** Voor het beheren van projecten zoals ziekenhuisuitbreidingen, implementatie van nieuwe medische technologieën en gezondheidszorginitiatieven.  
+3. **Gezondheidszorg:** Voor het beheren van projecten zoals ziekenhuisuitbreidingen, implementatie van nieuwe medische technologieën en gezondheidszorginitiatieven.  
   
-**Financiële dienstverlening:** Voor het implementeren van nieuwe financiële producten, systemen, processen en regelgevingsinitiatieven.  
+4. **Financiële dienstverlening:** Voor het implementeren van nieuwe financiële producten, systemen, processen en regelgevingsinitiatieven.  
   
-**Onderwijs:** Voor het coördineren van onderzoeksprojecten, curriculumontwikkeling, technologie-implementaties en andere educatieve initiatieven.  
+5. **Onderwijs:** Voor het coördineren van onderzoeksprojecten, curriculumontwikkeling, technologie-implementaties en andere educatieve initiatieven.  
   
-**Marketing en communicatie:** Voor het beheren van marketingcampagnes, merkstrategieën, productlanceringen en evenementen.  
+6. **Marketing en communicatie:** Voor het beheren van marketingcampagnes, merkstrategieën, productlanceringen en evenementen.  
   
-**Energie en nutsbedrijven:** Voor het plannen en uitvoeren van energieproductie- en distributieprojecten, zoals de bouw van energiecentrales, het leggen van pijpleidingen en de implementatie van hernieuwbare energie-oplossingen.  
+7. **Energie en nutsbedrijven:** Voor het plannen en uitvoeren van energieproductie- en distributieprojecten, zoals de bouw van energiecentrales, het leggen van pijpleidingen en de implementatie van hernieuwbare energie-oplossingen.  
   
-**Productie en techniek:** Voor het ontwerpen en produceren van nieuwe producten, het verbeteren van productieprocessen en het beheren van complexe technische projecten.  
+8. **Productie en techniek:** Voor het ontwerpen en produceren van nieuwe producten, het verbeteren van productieprocessen en het beheren van complexe technische projecten.  
   
-**Non-profit en overheidssector:** Voor het organiseren en uitvoeren van sociale en maatschappelijke initiatieven, openbare diensten en beleidsimplementatie.  
+9. **Non-profit en overheidssector:** Voor het organiseren en uitvoeren van sociale en maatschappelijke initiatieven, openbare diensten en beleidsimplementatie.  
   
-**Retail en e-commerce:** Voor het beheren van nieuwe winkelopeningen, productlanceringen, voorraadbeheer en logistieke projecten.  
+10. **Retail en e-commerce:** Voor het beheren van nieuwe winkelopeningen, productlanceringen, voorraadbeheer en logistieke projecten.  
   
 Dit is slechts een greep uit de vele sectoren waar projectmanagement wordt toegepast. In de moderne, snel veranderende wereld speelt projectmanagement een cruciale rol in het succes van organisaties en het bereiken van hun doelen.  
   
@@ -95,20 +95,25 @@ De planning van een project wordt opgedeeld in verschillende tijdvakken. Bepaald
   
 Na iedere fase overlegt de projectleider met de opdrachtgever om te beslissen of het project volgens plan voortgezet kan worden. Soms is het nodig om een fase te herhalen of aan te passen om het gewenste resultaat te bereiken. Dit kan zijn vanwege veranderingen in de projectomgeving of budgettaire uitdagingen. Dit proces van aanpassing en herhaling noemen we **iteratie**.  
   
-![](https://i.imgur.com/7tDMfqf.png)  
+> [!caption]   
+>  ![](https://i.imgur.com/7tDMfqf.png)  
+> Figuur: iteraties  
   
 Om de kosten efficiënt te beheren, is het gebruikelijk om bij een project vooraf de mogelijke risico's in te schatten. Wat gebeurt er bijvoorbeeld als de aannemer die aan een nieuwe vleugel werkt failliet gaat? Wat zijn dan de stappen die ondernomen moeten worden? Een goede projectleider zorgt ervoor dat er een specifiek budget gereserveerd wordt om dergelijke onverwachte risico's aan te kunnen. Dit budget en de bijbehorende strategie staan beschreven in een **contingentieplan**.  
   
 Elk project heeft als doel om een duidelijk gedefinieerd resultaat te leveren. Dit doel wordt vooraf grondig besproken en gedocumenteerd in een **projectplan**. Dit plan omvat ook een beschrijving van wat niet binnen het project valt. Op deze manier is voor iedereen helder wat de **reikwijdte** van het project is.  
   
-![](https://i.imgur.com/RAoUlUH.jpg)  
+> [!caption_left]   
+> ![](https://i.imgur.com/RAoUlUH.jpg)  
+> Figuur: Prince 2  
   
 Veel organisaties gebruiken een bepaalde projectmanagementmethodiek als ze projecten uitvoeren. Zo'n methodiek beschrijft wat er in welke fase moet gebeuren en aan welke dingen gedacht moet worden. Een veelgebruikte **projectmethodiek** is Prince2, maar we zien er later nog veel meer.  
   
 **Duivelsdriehoek**   
   
 > [!note] DEFINITIE: De Duivelsdriehoek  
-> De duivelsdriehoek laat op eenvoudige wijze zien hoe de drie belangrijkste projectvariabelen zich tot elkaar verhouden. De variabelen waarover het gaat zijn **tijd, geld** en **kwaliteit**. Het managen van projecten gaat dus om het managen van deze drie variabelen. [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
+> De duivelsdriehoek laat op eenvoudige wijze zien hoe de drie belangrijkste projectvariabelen zich tot elkaar verhouden. De variabelen waarover het gaat zijn **tijd, geld** en **kwaliteit**. Het managen van projecten gaat dus om het managen van deze drie variabelen.   
+> [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
   
 Als je probeert te besparen op de kosten, dus meer te doen met minder geld, leidt dat onvermijdelijk tot concessies op het gebied van kwaliteit (het eindproduct zal van mindere kwaliteit zijn) of tijd (het project zal meer tijd in beslag nemen), of een combinatie van beide. Het is ook belangrijk te realiseren dat binnen een project slechts twee van deze drie aspecten tegelijkertijd optimaal benut kunnen worden. Als iets sneller en goedkoper moet, zal dit vrijwel altijd ten koste gaan van de kwaliteit.  
 ![](https://i.imgur.com/602iRyY.png)  
@@ -117,7 +122,7 @@ Als je probeert te besparen op de kosten, dus meer te doen met minder geld, leid
 ![](https://i.imgur.com/Dww0uEV.png)  
 [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
   
-Het klassieke model van de **Duivelsdriehoek**, dat focust op de relatie tussen tijd, kwaliteit en budget, schiet vaak tekort in echte projectmanagement scenarios. Iets dat vaak over het hoofd wordt gezien, is de **opdracht** zelf, en dit introduceert het concept van een **Duivelsvierkant**.  
+Het klassieke model van de **Duivelsdriehoek**, dat focust op de relatie tussen tijd, kwaliteit en budget, schiet vaak tekort in echte projectmanagementscenarios. Iets dat vaak over het hoofd wordt gezien, is de **opdracht** zelf, en dit introduceert het concept van een **Duivelsvierkant**.  
   
 In de praktijk staat de opdracht of scope van een project zelden vanaf het begin vast. Veranderingen in de projectomvang beïnvloeden significant de andere drie variabelen: tijd, kwaliteit en budget. Wanneer het budget bijvoorbeeld halveert, beïnvloedt dit niet alleen de kwaliteit of de tijd, maar ook wat je binnen het project kunt uitvoeren.  
   
@@ -140,7 +145,7 @@ Wat is de uitdaging voor een bedrijf:
   
 De **business case** rechtvaardigt het project. Het bevat alle informatie om te beoordelen of een project levensvatbaar en haalbaar is, en of het de moeite waard is om erin te investeren. Tijdens het project wordt de business case voortdurend geactualiseerd met actuele schattingen van de te realiseren voordelen. We stellen de business case op tijdens de 'Opstart'-fase, met input van alle betrokkenen. Initiëren of opstarten betekent ook dat we het kader moeten omlijnen en de **scope** vastleggen. [[./References/@vlaanderenintern_2014|@vlaanderenintern_2014]]  
   
-In het bedrijfsleven noemt men dit vaak het vastleggen van de ‘battery limits’. Een belangrijke deliverable is het uitwerken van het projectcharter. Dit charter is het officiële startpunt en vormt het contract tussen alle betrokken partijen zoals de opdrachtgever, het projectteam en sponsors. Het beschrijft op een abstract niveau de krijtlijnen waarbinnen het project moet worden uitgevoerd. Het verwoordt de verwachtingen van de projectsponsor en geeft een eerste indicatie van de scope. Via intensieve communicatie wordt 100% duidelijkheid bereikt over de eisen, functionaliteiten (met een prioriteitenlijst), aanpak, timing, financiering en opvolging van het project.  
+In het bedrijfsleven noemt men dit vaak het vastleggen van de ‘battery limits’. Een belangrijke deliverable is het uitwerken van het **projectcharter**. Dit charter is het officiële startpunt en vormt het contract tussen alle betrokken partijen zoals de opdrachtgever, het projectteam en sponsors. Het beschrijft op een abstract niveau de krijtlijnen waarbinnen het project moet worden uitgevoerd. Het verwoordt de verwachtingen van de projectsponsor en geeft een eerste indicatie van de scope. Via intensieve communicatie wordt 100% duidelijkheid bereikt over de eisen, functionaliteiten (met een prioriteitenlijst), aanpak, timing, financiering en opvolging van het project. Verwar dit niet met het [[001 Wat is Projectmanagement#Plan van Aanpak|Plan van Aanpak]] (zie later). Het projectcharter geeft de brede kaders en goedkeuring, terwijl het plan van aanpak de praktische details en de aanpak voor het bereiken van de projectdoelen bevat.  
   
 In de praktijk blijkt vaak dat er bij de initiatie nog geen volwaardig projectteam is geïnstalleerd. Een projectidee ontstaat meestal binnen de functionele afdelingen van een bedrijf. Zij hebben een visie op het eindproduct, maar de praktische uitwerking krijgt in dit stadium nog niet de hoofdrol. De functionele teams krijgen tijdens het project hun stem in bijvoorbeeld een stuurgroep die zorgt voor de review, goedkeuring en opvolging van het project, of tijdens afstemmeetings. Ze worden actief betrokken bij het definiëren van de vereisten en bij de validatie en acceptatie van de deliverables.  
   
@@ -153,7 +158,7 @@ Kernwoorden voor projectinitiatie zijn abstract niveau, onzekerheid (over oploss
   
 ![](https://i.imgur.com/uGPzai1.png)  
   
-Bij het vastleggen van de projectscope moeten we onderscheid maken tussen de productscope en de projectscope. De productscope beschrijft de kenmerken en functionaliteiten van het eindproduct, terwijl de projectscope de activiteiten beschrijft die moeten worden uitgevoerd om dit product te realiseren. Dit verschil komt nog duidelijker naar voren wanneer we het gestructureerd weergeven: aan de ene kant hebben we de *‘product breakdown structure’* (PBS) en aan de andere kant de *‘work breakdown structure’* (WBS). Microsoft Project (besproken later) is een tool die helpt bij het structureren van deze *work breakdown structures*.  
+Bij het vastleggen van de projectscope moeten we onderscheid maken tussen de **productscope** en de **projectscope**. De productscope beschrijft de kenmerken en functionaliteiten van het eindproduct, terwijl de projectscope de activiteiten beschrijft die moeten worden uitgevoerd om dit product te realiseren. Dit verschil komt nog duidelijker naar voren wanneer we het gestructureerd weergeven: aan de ene kant hebben we de *‘product breakdown structure’* (PBS) en aan de andere kant de *‘work breakdown structure’* (WBS). Microsoft Project (zie [[./002 Projectplanning#Hulpprogramma's|later]]) is een tool die helpt bij het structureren van deze *work breakdown structures*.   
   
 > [!note] DEFINITIE: Product- en Projectscope  
 > **Productscope**: De functies en kenmerken die een product of dienst definiëren.  
@@ -164,7 +169,7 @@ Zodra de scope is geschreven en gevalideerd, hebben we een duidelijk beeld van w
   
 ![](https://i.imgur.com/OirwoFx.png)  
   
-**Een product** is alles wat op de markt kan worden aangeboden om een probleem op te lossen of om een behoefte te bevredigen.  
+Een **product** is alles wat op de markt kan worden aangeboden om een probleem op te lossen of om een behoefte te bevredigen.  
   
 Producten hebben een levenscyclus met meerdere fasen: eerst wordt het product bedacht (idee), vervolgens ontwikkeld (onderdeel van een project), geïntroduceerd en beheerd op de markt, en tenslotte buiten gebruik gesteld wanneer de behoefte eraan afneemt.  
   
@@ -187,8 +192,6 @@ Voor het verzamelen van de vereisten bestaan verschillende technieken: afnemen v
   
 ## Plan van Aanpak  
 ![](https://i.imgur.com/YFFz5Ri.png)  
-  
-Andere synoniemen zijn ‘project scope statement’, blueprint, projectcharter, enz.  
   
 Het **plan van aanpak** is de eerste belangrijke deliverable die helpt bij het omlijnen van de projectscope. Dit document begint met de bestaansredenen van het project en geeft vervolgens een korte beschrijving van het product en de deliverables die het project op abstract niveau moet opleveren. Daarnaast bevat het veronderstellingen, beperkingen, doelstellingen en gegevens van het projectteam. Om overzicht te houden, kan een eenvoudige template worden gebruikt voor deze eerste scopeafbakening. Elke wijziging in dit project scope statement moet worden bijgehouden via versiebeheer.  
   
@@ -309,51 +312,49 @@ Projectmanagement is het wikken en wegen van middelen, kwaliteit, inzet, risico�
 #### Samenstellen van een projectteam  
 ![](https://i.imgur.com/KhSHfVB.png)  
   
-Een projectteam stel je altijd zo samen dat er mensen in zitten die bepaalde taken uit het project op zich kunnen nemen en uitvoeren. Het zijn dus behoorlijke specialisten. Je hebt meestal niets aan managers of beleidsmedewerkers in je project. Je moet je er als projectleider altijd van vergewissen dat mensen die je vraagt voor een team ook echt beschikbaar zijn.  
+Bij het samenstellen van een projectteam is het essentieel om mensen te selecteren die specifieke taken binnen het project kunnen uitvoeren. Dit betekent dat je vaak experts nodig hebt. Managers of beleidsmedewerkers zijn meestal niet geschikt voor dit werk. Als projectleider moet je er altijd zeker van zijn dat de mensen die je wilt betrekken ook daadwerkelijk beschikbaar zijn.  
   
-In de planning wordt vastgelegd wanneer (in welke fase) iemand een bepaalde taak moet uitvoeren. Niet ieder lid van een projectteam heeft de hele tijd wat te doen. Elk lid heeft voor een aantal uur in de week nog zijn 'gewone' bezigheden van zijn of haar normale functie.  
+In de planning wordt vastgelegd wanneer en in welke fase teamleden bepaalde taken moeten uitvoeren. Het is normaal dat niet ieder teamlid constant bezig is met projecttaken. Elk lid heeft vaak nog andere verantwoordelijkheden binnen hun reguliere functie, waarvoor ze een aantal uren per week vrij moeten houden.  
   
 ### Wat doet een projectmanager?  
   
-Als projectmanager of projectleider verzorg je de dagelijkse leiding van een project. Met het project moet je een resultaat halen binnen een bepaalde periode.  
+Als projectmanager, of projectleider, ben je verantwoordelijk voor de dagelijkse leiding van een project. Je doel is om binnen een bepaalde periode een specifiek resultaat te behalen.  
   
-Anders dan de algemene manager, geef je als projectmanager leiding aan eenmalige projecten met een tastbaar eindresultaat. Een ander verschil met de functie van manager algemeen is dat je bezig bent met de dagelijkse gang van zaken, je zit dicht bij het vuur. Een projectmanager kan meestal niet terugvallen op routine. Improviseren is daarom aan de orde van de dag.  
+In tegenstelling tot een algemene manager, richt je je als projectmanager op eenmalige projecten met een concreet einddoel. Je bent nauw betrokken bij de dagelijkse gang van zaken en kunt meestal niet terugvallen op routine, waardoor improvisatie vaak nodig is.  
   
-Projectmanagers werken in uiteenlopende sectoren, variërend van de ICT tot de bouw.  
+Projectmanagers werken in diverse sectoren, van ICT tot de bouw. Voorbeelden van projecten zijn:  
   
-Voorbeelden van projecten:  
+- Een machinefabriek krijgt de opdracht om een speciale machine te produceren die niet tot de standaard productielijn behoort.  
+- Het administratieve softwarepakket van een bedrijf moet opnieuw ontworpen en ontwikkeld worden.  
+- Een kledingfabrikant wil een nieuwe catalogus voor de nieuwste collectie uitbrengen.  
   
-- Een machinefabriek krijgt de opdracht om een machine te produceren die niet in de normale productielijn past.  
-- Het pakket administratieve software van een bedrijf moet opnieuw ontworpen en geschreven worden.  
-- Een kledingfabrikant brengt een catalogus van de nieuwe collectie uit.  
+De eerste twee voorbeelden illustreren projecten die buiten de normale dagelijkse activiteiten vallen. Hiervoor wordt een speciaal team samengesteld en als de benodigde kennis niet in huis is, kan een externe projectmanager worden ingeschakeld. Sommige bedrijven hebben namelijk vaste projectleiders in dienst, zoals de kledingfabrikant uit het derde voorbeeld die een projectmanager heeft voor het maken van catalogi.  
   
-De bovenste twee zijn voorbeelden van activiteiten die buiten de normale routine vallen. Er wordt iets nieuws gedaan. Hiervoor wordt er een speciaal team samengesteld. Als de kennis binnen het bedrijf niet aanwezig is, wordt er een projectmanager van buiten ingeschakeld. Sommige bedrijven hebben projectleiders in vaste dienst. De kledingfabrikant van het derde voorbeeld heeft bijvoorbeeld een projectmanager in dienst die verantwoordelijk is voor de totstandkoming van de catalogi.  
+Een project doorloopt verschillende fasen, waarbij de focus van de projectmanager per fase kan variëren. De hier genoemde taken zijn relevant voor iedereen die leiding geeft in een projectmatige omgeving.  
   
-Een project heeft meerdere fasen, waarin het accent voor de projectleider steeds op andere taken ligt. De taken die hier worden genoemd, gelden dus voor iedereen die leiding geeft in een omgeving waar projectmatig werken plaatsvindt.  
+#### Afspraken maken over Doelstellingen en Randvoorwaarden  
   
-#### Afspraken maken over doelstelling en randvoorwaarden  
+Als projectmanager moet je duidelijk weten wat de reden en doelstelling van het project is. Als dit nog niet helder is, kun je de opdrachtgever hierbij adviseren. Wat moet het eindresultaat opleveren? In de beginfase zijn doelstellingen vaak vaag geformuleerd. Stel bijvoorbeeld: een uitgever wil de kookboekenmarkt veroveren. Dit is nog te algemeen en moet specifieker worden gemaakt, zoals: ‘Over drie jaar willen we vijf kookboeken op de markt hebben, elk over gerechten uit een ander land’. Zo’n duidelijke doelstelling wordt ook wel een SMART-doelstelling genoemd.  
   
-Als projectmanager moet je natuurlijk weten van de opdrachtgever wat de reden en de doelstelling van het project is. Als dit nog niet duidelijk is, kan de projectmanager de opdrachtgever hierbij adviseren. Waar moet het eindresultaat aan voldoen? Vaak worden doelstellingen in de beginfase nog (te) vaag geformuleerd. Stel, een uitgever wil de markt van kookboeken veroveren. Dit is als doelstelling nog algemeen en moet meer worden afgebakend. Bijvoorbeeld: ‘Over drie jaar willen we vijf kookboeken op de markt hebben, elk over gerechten van een ander land’. Zo´n heldere doelstelling wordt ook wel een SMART-doelstelling genoemd.  
+In deze fase moeten ook afspraken worden gemaakt over randvoorwaarden zoals de deadline, het beschikbare budget en de middelen. Als de projectmanager wordt ingehuurd, moeten er duidelijke afspraken worden gemaakt over de communicatie tussen het lijnmanagement en het projectteam. Zonder medewerking van het lijnmanagement kan de projectmanager weinig bereiken.  
   
-In deze fase moeten er ook afspraken gemaakt worden over randvoorwaarden als de deadline, het beschikbare budget en de middelen. Als de projectmanager wordt ingehuurd, moeten er duidelijke afspraken komen over de communicatie tussen het lijnmanagement en het projectteam. Zonder medewerking van het lijnmanagement krijgt de projectmanager niets gedaan.  
+#### Een Projectontwerp Maken  
   
-#### Een ontwerp maken  
-  
-Nu er een doelstelling is, kan de projectmanager een projectontwerp maken. In de ontwerpfase denk je na over de volgende punten:  
+Met een duidelijke doelstelling kun je een projectontwerp maken. In de ontwerpfase denk je na over:  
   
 - Hoe stem je de activiteiten op elkaar af om het eindresultaat te bereiken?  
-- Welke tussentijdse mijlpalen komen er?  
+- Welke tussentijdse mijlpalen zijn er?  
 - Welke producten worden in welke fase opgeleverd?  
   
-Ook doe je in deze fase veel voorbereidend inhoudelijk werk. Je moet straks alle teamleden aan het werk houden. Je kunt in deze fase alvast zorgen dat ze de eerste tijd vooruit kunnen.  
+In deze fase doe je ook veel voorbereidende inhoudelijke werkzaamheden. Je moet zorgen dat alle teamleden straks efficiënt aan het werk kunnen en dat ze vanaf het begin duidelijke taken hebben.  
   
-#### Het project starten  
+#### Het Project Starten  
   
-Misschien moeten er externen ingehuurd worden en voer jij mede de sollicitatiegesprekken. De betrokken partijen moeten vervolgens goed geïnformeerd en gemotiveerd worden. Vaak volgen er een of meerdere bijeenkomsten waarin de teamleden elkaar leren kennen en door jou voorgelicht worden over het project. Taken en verantwoordelijkheden worden verdeeld. Je zorgt ervoor dat er een teamgeest ontstaat waarin het project tot een succes kan worden.  
+Het kan zijn dat je externen moet inhuren en sollicitatiegesprekken voert. Vervolgens moeten alle betrokken partijen goed worden geïnformeerd en gemotiveerd. Vaak zijn er één of meerdere bijeenkomsten waarin de teamleden kennismaken en jij hen informeert over het project. Taken en verantwoordelijkheden worden verdeeld. Je zorgt voor een sterke teamgeest, waardoor iedereen gemotiveerd is om het project tot een succes te maken.  
   
-#### Het beheersen van de voortgang  
+#### Het Beheersen van de Voortgang  
   
-Dit is het leeuwendeel van het werk. Je hebt als projectmanager de leiding over de dagelijkse gang van zaken. Als er regels zijn opgesteld, moet je ook toezien op de naleving daarvan. Als er tussentijdse deadlines zijn vastgesteld, moeten die ook worden gehaald. Ondertussen moet er waarschijnlijk veel geïmproviseerd worden. Er duiken ongetwijfeld grotere en kleinere problemen op: een extra kostenpost, een leverancier die niet op tijd is, een teamlid dat ziek wordt. Waarschijnlijk komt je team met veel creatieve ideeën. Je moet hiervoor open staan. Het kan gebeuren dat verschillende partijen met alternatieve oplossingen komen, waarvan je de voordelen en risico's afweegt. Jij bent de eindverantwoordelijke.  
+Dit vormt een groot deel van je werk. Als projectmanager heb je de leiding over de dagelijkse gang van zaken. Je zorgt ervoor dat iedereen zich aan de regels houdt en dat tussentijdse deadlines worden gehaald. Dit vereist vaak improvisatie, omdat er altijd onverwachte problemen kunnen opduiken: extra kosten, een leverancier die te laat is, of een ziek teamlid. Het team komt waarschijnlijk ook met creatieve ideeën, en je moet openstaan voor deze opties. Vaak worden er alternatieve oplossingen voorgesteld door verschillende partijen, en jij moet de voordelen en risico's afwegen. Jij bent de eindverantwoordelijke voor het project en zorgt dat alles op rolletjes loopt.  
   
 #### Rollen van een projectmanager:  
   
@@ -413,30 +414,34 @@ Projectlevenscycli kunnen variëren van voorspellende (plangestuurde) benadering
   
 ### Karakteristieken van de Project Life Cycle  
   
-Hoewel projecten uniek en vaak onvoorspelbaar zijn, volgen ze meestal een standaard raamwerk met een generieke levenscyclusstructuur, die uit de volgende fasen bestaat:  
+Zelfs al zijn projecten vaak uniek en onvoorspelbaar, ze volgen meestal een standaard structuur, de projectlevenscyclus. Deze cyclus bestaat uit de volgende fasen:  
   
-- Initiatiefase: start van het project  
-   - In de initiatiefase ligt de focus op het definiëren en goedkeuren van het project. De projectmanager gebruikt de beschikbare informatie om een projectcharter of plan van aanpak op te stellen.  
+- **Initiatiefase: De Start**  
+   - In de initiatiefase draait alles om het definiëren en goedkeuren van het project. De projectmanager verzamelt de eerste informatie en stelt een projectcharter of plan van aanpak op.  
   
-- Planningsfase: organiseren en voorbereiden  
-   - Het doel van deze fase is het ontwikkelen van een gedetailleerde strategie die beschrijft hoe het project zal worden uitgevoerd en tot een succes gemaakt.  
+- **Planningsfase: Voorbereiden**  
+   - Deze fase richt zich op het ontwikkelen van een gedetailleerd plan over hoe het project uitgevoerd gaat worden. Het doel is om een heldere strategie te creëren die leidt naar een succesvol project.  
   
-- Uitvoeringsfase: uitvoering van het project  
-   - In deze fase worden de tijdens de planningsfase gedefinieerde beslissingen en activiteiten geïmplementeerd. De projectmanager begeleidt het project en zorgt ervoor dat eventuele fouten worden voorkomen.  
+- **Uitvoeringsfase: Implementeren**  
+   - Hier wordt het plan werkelijkheid. De geplande activiteiten en beslissingen worden uitgevoerd. De projectmanager houdt een oogje in het zeil om ervoor te zorgen dat alles goed verloopt en eventuele problemen snel worden opgelost.  
   
-- Beëindigingsfase: het project afsluiten  
-   - Dit is de laatste fase van elk project en markeert de officiële afsluiting ervan.  
+- **Monitoringfase: Controleren en Bijsturen**  
+   - Tijdens de monitoringfase wordt het project voortdurend gecontroleerd en geëvalueerd. De projectmanager gebruikt prestatie-indicatoren en rapportages om de voortgang te volgen en bij te sturen waar nodig. Deze fase is essentieel om ervoor te zorgen dat het project op schema blijft en binnen budget uitgevoerd wordt.  
+  
+- **Beëindigingsfase: Het Slot**  
+   - Dit is de laatste fase van elk project en markeert de officiële afronding ervan. Hier worden de resultaten geëvalueerd, documenten afgerond en wordt gezorgd voor een soepele overdracht aan de opdrachtgever of het operationele team.  
+  
+Met deze fasen zorgen projectmanagers ervoor dat projecten gestructureerd en succesvol worden uitgevoerd, ondanks eventuele onverwachte uitdagingen.  
   
 ![](https://i.imgur.com/AWlrNFV.png)   ^d502ca  
   
-Deze algemene levenscyclusstructuur wordt gebruikt bij het omgaan met het hogere management of andere mensen die minder bekend zijn met het project. Sommige mensen verwarren het met de procesgroepen van projectmanagement   
-(zie [De Projectmanagement Proces Groepen](001%2520Wat%2520is%2520Projectmanagement.md##De%2520Projectmanagement%2520Proces%2520Groepen)), maar deze laatste bevatten activiteiten die specifiek zijn voor het project.  
+Deze algemene levenscyclusstructuur is handig wanneer je te maken hebt met het hogere management of anderen die minder vertrouwd zijn met het project. Het is belangrijk om op te merken dat deze structuur vaak wordt verward met de projectmanagement procesgroepen (zie [[001 Wat is Projectmanagement#De Projectmanagement Proces Groepen|De Projectmanagement Proces Groepen]]). De procesgroepen bevatten, in tegenstelling tot de projectlevenscyclus, specifieke activiteiten die gericht zijn op het managen van het project zelf.  
   
-De levenscyclus van een project is daarentegen onafhankelijk van de levenscyclus van het specifieke resultaat van het project.  
+De levenscyclus van een project staat los van de levenscyclus van het eindresultaat van dat project.  
   
 ### Generieke kenmerken van de levenscyclusstructuur  
   
-In het begin zijn de kosten en het personeelsbestand laag en bereiken ze een hoogtepunt wanneer het werk in uitvoering is. Het daalt echter weer snel als het project in de afsluitende fase zit.   
+In het begin zijn de kosten en het personeelsbestand laag en bereiken ze een hoogtepunt wanneer het werk in uitvoering is. Het daalt daarentegen weer snel als het project in de afsluitende fase zit.   
   
 ![](https://i.imgur.com/dgvltBG.png)  
   
@@ -516,16 +521,17 @@ Marketeers, CEO’s en ondernemers worstelen altijd met de vraag: op welke nieuw
 ## De Hype Cycle  
 Op die laatste vraag heeft IT onderzoeks- en adviesbureau Gartner naar eigen zeggen een oplossing gevonden. Zij hebben rond het jaar 1995 de Hype Cycle in het leven geroepen, een meetlat waarlangs je een nieuwe technologieën kunt leggen. Het is een framework en grafische weergave van de volwassenwording van een nieuwe techniek. De Hype Cycle moet helpen duidelijk te maken of de nieuwe technologie echt mainstream wordt of dat het bij een hype blijft en de technologie als een nachtkaars weer uitgaat.  
   
-![](https://i.imgur.com/MmekoVx.png)  
+![](https://i.imgur.com/ObAvY21.png)  
   
 ## De 5 fases van de Hype Cycle  
 In de weg die iedere nieuwe technologie aflegt naar volledige adoptie, doorloopt deze altijd 5 fases.  
   
-**Technology Trigger:** de potentiële technologische doorbraak komt in de media met proof-of-concepts en trekt bijzonder veel aandacht. Er bestaan op dit punt nog geen bruikbare producten en commerciële inspanningen zijn er nog niet geweest.  
-**Peak of Inflated Expectations:** de technologie bereikt zijn “hype hoogtepunt”. Er verschijnen eerste succesverhalen, maar mislukkingen worden even breed uitgemeten. Sommige bedrijven gaan met de technologie aan de slag, anderen niet.  
-**Trough of Disillusionment:** de interesse in de technologie verdwijnt naar aanleiding van mislukte experimenten en gefaalde implementaties. Bedrijven stappen uit. De enige bedrijven die verder gaan zijn de bedrijven die investeringen in de technologie succesvol kunnen vertalen naar behoeftes van de early adopters. In deze derde fase ligt dus het omslagpunt van hype of blijvertje.  
-**Slope of enlightenment:** bedrijven weten investeringen winstgevend door te zetten. Het wordt in deze fase dan steeds duidelijker welke mogelijkheden de techniek biedt. Tweede en derde versies van de technologie worden gemaakt en de eerste pilots met deze nieuwe versies worden uitgevoerd. Conservatieve bedrijven blijven nog even op afstand.  
-**Plateau of Productivity:** adoptie op grote schaal gaat plaatsvinden. Het is voor bedrijven duidelijk of ze iets met deze techniek kunnen en of zij in staat zijn deze aan te bieden aan hun klanten. De techniek is relevant geworden, consumenten en klanten hebben interesse en kopen de technologie.  
+1. **Technology Trigger:** de potentiële technologische doorbraak komt in de media met proof-of-concepts en trekt bijzonder veel aandacht. Er bestaan op dit punt nog geen bruikbare producten en commerciële inspanningen zijn er nog niet geweest.  
+2. **Peak of Inflated Expectations:** de technologie bereikt zijn “hype hoogtepunt”. Er verschijnen eerste succesverhalen, maar mislukkingen worden even breed uitgemeten. Sommige bedrijven gaan met de technologie aan de slag, anderen niet.  
+3. **Trough of Disillusionment:** de interesse in de technologie verdwijnt naar aanleiding van mislukte experimenten en gefaalde implementaties. Bedrijven stappen uit. De enige bedrijven die verder gaan zijn de bedrijven die investeringen in de technologie succesvol kunnen vertalen naar behoeftes van de early adopters. In deze derde fase ligt dus het omslagpunt van hype of blijvertje.  
+4. **Slope of enlightenment:** bedrijven weten investeringen winstgevend door te zetten. Het wordt in deze fase dan steeds duidelijker welke mogelijkheden de techniek biedt. Tweede en derde versies van de technologie worden gemaakt en de eerste pilots met deze nieuwe versies worden uitgevoerd. Conservatieve bedrijven blijven nog even op afstand.  
+5. **Plateau of Productivity:** adoptie op grote schaal gaat plaatsvinden. Het is voor bedrijven duidelijk of ze iets met deze techniek kunnen en of zij in staat zijn deze aan te bieden aan hun klanten. De techniek is relevant geworden, consumenten en klanten hebben interesse en kopen de technologie.  
+  
 Hieronder nog iets gedetailleerder welke gebeurtenissen en acties zich in iedere fase voordoen.  
   
 ![](https://i.imgur.com/bj6IAQT.png)  
