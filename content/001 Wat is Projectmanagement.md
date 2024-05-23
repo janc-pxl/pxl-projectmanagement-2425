@@ -95,14 +95,16 @@ De planning van een project wordt opgedeeld in verschillende tijdvakken. Bepaald
   
 Na iedere fase overlegt de projectleider met de opdrachtgever om te beslissen of het project volgens plan voortgezet kan worden. Soms is het nodig om een fase te herhalen of aan te passen om het gewenste resultaat te bereiken. Dit kan zijn vanwege veranderingen in de projectomgeving of budgettaire uitdagingen. Dit proces van aanpassing en herhaling noemen we **iteratie**.  
   
-> [!caption-right]  ![](https://i.imgur.com/7tDMfqf.png)  
-> iteraties  
+> [!caption]   
+>  ![](https://i.imgur.com/7tDMfqf.png)  
+> Figuur: iteraties  
   
 Om de kosten efficiënt te beheren, is het gebruikelijk om bij een project vooraf de mogelijke risico's in te schatten. Wat gebeurt er bijvoorbeeld als de aannemer die aan een nieuwe vleugel werkt failliet gaat? Wat zijn dan de stappen die ondernomen moeten worden? Een goede projectleider zorgt ervoor dat er een specifiek budget gereserveerd wordt om dergelijke onverwachte risico's aan te kunnen. Dit budget en de bijbehorende strategie staan beschreven in een **contingentieplan**.  
   
 Elk project heeft als doel om een duidelijk gedefinieerd resultaat te leveren. Dit doel wordt vooraf grondig besproken en gedocumenteerd in een **projectplan**. Dit plan omvat ook een beschrijving van wat niet binnen het project valt. Op deze manier is voor iedereen helder wat de **reikwijdte** van het project is.  
   
-> [!caption-left] ![](https://i.imgur.com/RAoUlUH.jpg)  
+> [!caption_left]   
+> ![](https://i.imgur.com/RAoUlUH.jpg)  
 > Figuur: Prince 2  
   
 Veel organisaties gebruiken een bepaalde projectmanagementmethodiek als ze projecten uitvoeren. Zo'n methodiek beschrijft wat er in welke fase moet gebeuren en aan welke dingen gedacht moet worden. Een veelgebruikte **projectmethodiek** is Prince2, maar we zien er later nog veel meer.  
