@@ -120,12 +120,11 @@ Als je probeert te besparen op de kosten, dus meer te doen met minder geld, leid
 > ![](https://i.imgur.com/602iRyY.png)  
 > Figuur: Duivelsdriehoek [[./References/@stevenblom_2018|@stevenblom_2018]]  
   
+Het klassieke model van de **Duivelsdriehoek**, dat focust op de relatie tussen tijd, kwaliteit en budget, schiet vaak tekort in echte projectmanagementscenarios. Iets dat vaak over het hoofd wordt gezien, is de **opdracht** zelf, en dit introduceert het concept van een **Duivelsvierkant**.  
   
 > [!caption]   
 > ![](https://i.imgur.com/Dww0uEV.png)  
 > Figuur: Duivelsvierkant [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
-  
-Het klassieke model van de **Duivelsdriehoek**, dat focust op de relatie tussen tijd, kwaliteit en budget, schiet vaak tekort in echte projectmanagementscenarios. Iets dat vaak over het hoofd wordt gezien, is de **opdracht** zelf, en dit introduceert het concept van een **Duivelsvierkant**.  
   
 In de praktijk staat de opdracht of scope van een project zelden vanaf het begin vast. Veranderingen in de projectomvang beïnvloeden significant de andere drie variabelen: tijd, kwaliteit en budget. Wanneer het budget bijvoorbeeld halveert, beïnvloedt dit niet alleen de kwaliteit of de tijd, maar ook wat je binnen het project kunt uitvoeren.  
   
@@ -133,7 +132,9 @@ Het uitbreiden van de opdracht tijdens een project, bekend als **scopecreep**, k
   
 Daarom is het essentieel om naast tijd, kwaliteit en budget ook de grootte en duidelijkheid van de opdracht te zien als een dynamische variabele die je actief moet managen in projectmanagement. Door scherp te blijven op deze factor voorkom je onverwachte kosten en vertragingen en zorg je voor een realistischer en effectiever projectbeheer.  
   
-![](https://i.imgur.com/rsiO7l5.png)  
+> [!caption]  
+> ![](https://i.imgur.com/rsiO7l5.png)  
+> Figuur: Effect van veranderingen aan variabelen  
   
 ### Uitdagingen  
   
@@ -144,7 +145,9 @@ Wat is de uitdaging voor een bedrijf:
   
 **Doel**: Het gaat hier om een <u>bedrijfseconomische</u> evaluatie, de **<u>business case</u>** van een idee of project.  
   
-![](https://i.imgur.com/2XwzA1x.png)  
+> [!caption]  
+> ![](https://i.imgur.com/2XwzA1x.png)  
+> Figuur: De elementen van een business case  
   
 De **business case** rechtvaardigt het project. Het bevat alle informatie om te beoordelen of een project levensvatbaar en haalbaar is, en of het de moeite waard is om erin te investeren. Tijdens het project wordt de business case voortdurend geactualiseerd met actuele schattingen van de te realiseren voordelen. We stellen de business case op tijdens de 'Opstart'-fase, met input van alle betrokkenen. Initiëren of opstarten betekent ook dat we het kader moeten omlijnen en de **scope** vastleggen. [[./References/@vlaanderenintern_2014|@vlaanderenintern_2014]]  
   
@@ -170,7 +173,9 @@ Bij het vastleggen van de projectscope moeten we onderscheid maken tussen de **p
   
 Zodra de scope is geschreven en gevalideerd, hebben we een duidelijk beeld van wat het project moet opleveren. Dit fundament wordt per fase herbekeken, maar het blijft een onmisbare input voor de andere planningsactiviteiten.  
   
-![](https://i.imgur.com/OirwoFx.png)  
+> [!caption]  
+> ![](https://i.imgur.com/OirwoFx.png)  
+> Figuur: Product- en projectlevenscyclus  
   
 Een **product** is alles wat op de markt kan worden aangeboden om een probleem op te lossen of om een behoefte te bevredigen.  
   
@@ -186,7 +191,9 @@ Bij producten zijn er geen strikte deadlines. Klanten verwachten dat een product
   
 Het **productportfolio** omvat alle producten en diensten die een bedrijf aan de doelmarkt aanbiedt. Dit bevat zowel de producten die bij het begin van het merk werden gelanceerd als de producten die momenteel op de markt zijn en de producten die nog in ontwikkeling zijn. [[./References/@hiteshbhasin_2015|@hiteshbhasin_2015]]  
   
-![](https://i.imgur.com/pBi8aFH.png)  
+> [!caption]  
+> ![](https://i.imgur.com/pBi8aFH.png)  
+> Figuur: Portfolio/Product/Project  
   
 ## Verzamelen van klantenbehoeftes  
 ![](https://i.imgur.com/hjnop74.png)  
@@ -201,7 +208,9 @@ Het **plan van aanpak** is de eerste belangrijke deliverable die helpt bij het o
 > [!note] DEFINITIE: Plan van Aanpak/Project Scope Statement  
 > Een **plan van aanpak**, ook bekend als **projectplan** of **project scope statement**, beschrijft de voorwaarden waarvan het project wordt uitgevoerd. Dit document komt voor het eerst aan bod in de initiatie van een project en vormt de basis voor de andere projectfasen.  
   
-![](https://i.imgur.com/p7Fn1nJ.png)  
+> [!caption]  
+> ![](https://i.imgur.com/p7Fn1nJ.png)  
+> Figuur: Plan van Aanpak  
   
 ### Mogelijke onderdelen van de template  
   
@@ -246,7 +255,9 @@ Kosten-, tijd-, kwaliteits- en andere meetbare objectieven. De objectieven diene
 | **Realistisch**             | De objectieven moeten realistisch opgesteld zijn.                                  |       
 | **Tijdsgebonden**           | Een objectief moet een deadline krijgen.                                           |       
   
-![](https://i.imgur.com/uKTEVe5.png)  
+> [!caption]  
+> ![](https://i.imgur.com/uKTEVe5.png)  
+> Figuur: SMART  
   
 ## Work breakdown structure  
 ![](https://i.imgur.com/7MwPkNO.png)  
@@ -255,7 +266,9 @@ In het project scope statement worden de belangrijkste deliverables op het hoogs
   
 De work breakdown structure (WBS) is een grafische weergave, vaak in de vorm van een boomstructuur, die de projectscope in deelcomponenten opsplitst. Deze deelcomponenten zijn de deliverables van het project. Het laagste niveau van de WBS heet werkpakketten. De WBS kan eventueel worden aangevuld met een WBS-dictionary.  
   
-![](https://i.imgur.com/VzeScMn.png)  
+> [!caption]  
+> ![](https://i.imgur.com/VzeScMn.png)  
+> Figuur: Voorbeeld van een work breakdown structure  
   
 Deze work breakdown structure (WBS) biedt een helder overzicht van de fasen en activiteiten die nodig zijn om een reis te plannen. Het schema verdeelt het project 'Reis' in hoofd- en subniveaus, waardoor duidelijk is welke stappen en taken uitgevoerd moeten worden.  
   
@@ -268,7 +281,9 @@ RACI-informatie laat toe voor een WBS-element aan te geven:
 - Wie geconsulteerd zal worden (consulted)  
 - Wie geïnformeerd dient te worden (informed)  
   
-![](https://i.imgur.com/fzfwnAv.gif)  
+> [!caption]   
+> ![](https://i.imgur.com/fzfwnAv.gif)  
+> Figuur: Voorbeeld van een RACI-matrix  
   
 Richtlijnen van een RACI-matrix:  
   
@@ -436,7 +451,9 @@ Zelfs al zijn projecten vaak uniek en onvoorspelbaar, ze volgen meestal een stan
   
 Met deze fasen zorgen projectmanagers ervoor dat projecten gestructureerd en succesvol worden uitgevoerd, ondanks eventuele onverwachte uitdagingen.  
   
-![](https://i.imgur.com/AWlrNFV.png)   ^d502ca  
+> [!caption]  
+> ![](https://i.imgur.com/AWlrNFV.png)   
+> Figuur: Project Life Cycle  ^d502ca  
   
 Deze algemene levenscyclusstructuur is handig wanneer je te maken hebt met het hogere management of anderen die minder vertrouwd zijn met het project. Het is belangrijk om op te merken dat deze structuur vaak wordt verward met de projectmanagement procesgroepen (zie [[001 Wat is Projectmanagement#De Projectmanagement Proces Groepen|De Projectmanagement Proces Groepen]]). De procesgroepen bevatten, in tegenstelling tot de projectlevenscyclus, specifieke activiteiten die gericht zijn op het managen van het project zelf.  
   
@@ -446,13 +463,17 @@ De levenscyclus van een project staat los van de levenscyclus van het eindresult
   
 In het begin zijn de kosten en het personeelsbestand laag en bereiken ze een hoogtepunt wanneer het werk in uitvoering is. Het daalt daarentegen weer snel als het project in de afsluitende fase zit.   
   
-![](https://i.imgur.com/dgvltBG.png)  
+> [!caption]  
+> ![](https://i.imgur.com/dgvltBG.png)  
+> Figuur: Projectmanagement output  
   
 Risico's en onzekerheid zijn op hun hoogtepunt aan het begin van het project. Deze factoren dalen tijdens de levenscyclus van het project naarmate beslissingen worden genomen en de resultaten worden geaccepteerd.  
   
 Het vermogen om het eindproduct van het project te beïnvloeden zonder de kosten drastisch te beïnvloeden, is het hoogst aan het begin van het project en neemt af naarmate het project vordert naar voltooiing. Uit figuur ["Risico's in verhouding met wijzigende requirements"](001%2520Wat%2520is%2520Projectmanagement.md##%5E12d6b7) blijkt duidelijk dat de kosten voor het aanbrengen van nieuwe wijzigingen en het corrigeren van fouten toenemen naarmate het project zijn voltooiing nadert.  
   
-![](https://i.imgur.com/VhU0U6l.png) ^12d6b7  
+> [!caption]  
+> ![](https://i.imgur.com/VhU0U6l.png)   
+> Figuur: Risico's in verhouding met wijzigende requirements ^12d6b7  
   
 Deze kenmerken zijn bijna in alle soorten projectlevenscycli aanwezig, maar op verschillende manieren of in verschillende mate. Adaptieve levenscycli worden met name ontwikkeld met de bedoeling om de invloeden van stakeholders hoger te houden en de kosten van veranderingen gedurende de hele levenscyclus lager dan in voorspellende levenscycli.  
   
