@@ -103,7 +103,7 @@ Om de kosten efficiënt te beheren, is het gebruikelijk om bij een project voora
 Elk project heeft als doel om een duidelijk gedefinieerd resultaat te leveren. Dit doel wordt vooraf grondig besproken en gedocumenteerd in een **projectplan**. Dit plan omvat ook een beschrijving van wat niet binnen het project valt. Op deze manier is voor iedereen helder wat de **reikwijdte** van het project is.  
   
 > [!figure] ![](https://i.imgur.com/RAoUlUH.jpg)  
-> Prince 2  
+> Figuur: Prince 2  
   
 Veel organisaties gebruiken een bepaalde projectmanagementmethodiek als ze projecten uitvoeren. Zo'n methodiek beschrijft wat er in welke fase moet gebeuren en aan welke dingen gedacht moet worden. Een veelgebruikte **projectmethodiek** is Prince2, maar we zien er later nog veel meer.  
   
