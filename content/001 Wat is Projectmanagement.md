@@ -103,7 +103,7 @@ Om de kosten efficiënt te beheren, is het gebruikelijk om bij een project voora
   
 Elk project heeft als doel om een duidelijk gedefinieerd resultaat te leveren. Dit doel wordt vooraf grondig besproken en gedocumenteerd in een **projectplan**. Dit plan omvat ook een beschrijving van wat niet binnen het project valt. Op deze manier is voor iedereen helder wat de **reikwijdte** van het project is.  
   
-> [!caption_left]   
+> [!caption]   
 > ![](https://i.imgur.com/RAoUlUH.jpg)  
 > Figuur: Prince 2  
   
@@ -119,6 +119,7 @@ Als je probeert te besparen op de kosten, dus meer te doen met minder geld, leid
 > [!caption]   
 > ![](https://i.imgur.com/602iRyY.png)  
 > Figuur: Duivelsdriehoek [[./References/@stevenblom_2018|@stevenblom_2018]]  
+  
   
 > [!caption]   
 > ![](https://i.imgur.com/Dww0uEV.png)  
