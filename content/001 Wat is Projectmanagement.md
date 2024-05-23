@@ -95,7 +95,8 @@ De planning van een project wordt opgedeeld in verschillende tijdvakken. Bepaald
   
 Na iedere fase overlegt de projectleider met de opdrachtgever om te beslissen of het project volgens plan voortgezet kan worden. Soms is het nodig om een fase te herhalen of aan te passen om het gewenste resultaat te bereiken. Dit kan zijn vanwege veranderingen in de projectomgeving of budgettaire uitdagingen. Dit proces van aanpassing en herhaling noemen we **iteratie**.  
   
-![](https://i.imgur.com/7tDMfqf.png)  
+> [!figure] ![](https://i.imgur.com/7tDMfqf.png)  
+> iteraties  
   
 Om de kosten efficiënt te beheren, is het gebruikelijk om bij een project vooraf de mogelijke risico's in te schatten. Wat gebeurt er bijvoorbeeld als de aannemer die aan een nieuwe vleugel werkt failliet gaat? Wat zijn dan de stappen die ondernomen moeten worden? Een goede projectleider zorgt ervoor dat er een specifiek budget gereserveerd wordt om dergelijke onverwachte risico's aan te kunnen. Dit budget en de bijbehorende strategie staan beschreven in een **contingentieplan**.  
   
