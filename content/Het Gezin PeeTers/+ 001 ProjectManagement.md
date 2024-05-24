@@ -70,4 +70,4 @@ Elke vraag aan ChatGPT verbruikt evenveel energie als het branden van een 5-watt
 - [Geef me een aantal voorbeelden van opleveringen die je doet tijdens een project?](https://chat.openai.com/?q=Geef%20me%20een%20aantal%20voorbeelden%20van%20opleveringen%20die%20je%20doet%20tijdens%20een%20project%3F)  
 - [Kan je me in eenvoudige woorden uitleggen wat een contingentieplan is?](https://chat.openai.com/?q=Kan%20je%20me%20in%20eenvoudige%20woorden%20uitleggen%20wat%20een%20contingentieplan%20is%3F)  
 - [Wat is het doel van een project?](https://chat.openai.com/?q=Wat%20is%20het%20doel%20van%20een%20project%3F)  
-- [Wat is het verschil tussen de duivelsdriehoek en het Duivelskwadrant?](https://chat.openai.com/?q=Wat%20is%20het%20verschil%20tussen%20de%20duivelsdriehoek%20en%20het%20Duivelskwadrant%3F)  
+- [Wat is het verschil tussen de duivelsdriehoek en het Duivelskwadrant in projectmanagement?](https://chat.openai.com/?q=Wat%20is%20het%20verschil%20tussen%20de%20duivelsdriehoek%20en%20het%20Duivelskwadrant%20in%20projectmanagement%3F)  
