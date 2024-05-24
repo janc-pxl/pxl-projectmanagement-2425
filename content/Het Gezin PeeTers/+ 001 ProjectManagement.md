@@ -23,7 +23,9 @@ Niettemin zijn we dolblij om deze fantastische familie in ons team te hebben.
   
 Leuke dingen hebben vaak een keerzijde, en dat geldt ook voor ChatGPT. Hoewel AI indrukwekkend en handig is, verbruikt het veel energie. We proberen allemaal klimaatneutraal te worden door zonnepanelen te plaatsen, met elektrische auto's te rijden en warmtepompen te installeren. Maar als we niet spaarzaam met energie omgaan, blijven deze inspanningen oppervlakkige oplossingen.  
   
-Elke vraag aan ChatGPT verbruikt evenveel energie als het branden van een 5-watt ledlamp gedurende 1 uur en 50 minuten. Er bestaan geen domme vragen, maar stel ze alleen als ze echt nuttig zijn.  
+Elke vraag aan ChatGPT verbruikt evenveel energie als het branden van een 5-watt ledlamp gedurende 1 uur en 50 minuten. [[../References/@PUEhow|@PUEhow]]  
+  
+Er bestaan geen domme vragen, maar stel ze alleen als ze echt nuttig zijn.  
   
 ![](https://i.imgur.com/X74hsMz.png)  
   
