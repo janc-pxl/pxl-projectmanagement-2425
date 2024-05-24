@@ -24,3 +24,10 @@ order: 0
 - [[./007 Agile Projectmanagement|007 Agile Projectmanagement]]  
 - [[./008 Oefeningen Agile Projectmanagement|008 Oefeningen Agile Projectmanagement]]  
 - [[./009 Informatiemanagement|009 Informatiemanagement]]  
+  
+## Bibliografie  
+  
+- [[./999 Bibliografie|999 Bibliografie]]  
+## Het Gezin PeeTers (GPT)  
+  
+- [[+ 001 ProjectManagement | Vraag het aan het Gezin PeeTers]]  
