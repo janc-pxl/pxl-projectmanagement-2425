@@ -42,7 +42,9 @@ De uitvoering van projectwerk gebeurt voortdurend doorheen de levensduur van het
   
 Het spitst zich toe op teamwerk en op een 1-op-1 afhandelen van producteigenschappen. Men gaat 1 eigenschap volledig afwerken voordat naar een volgende eigenschap wordt overgegaan.   
   
-![](https://i.imgur.com/mrdyiPg.png)  
+> [!caption]  
+> ![](https://i.imgur.com/mrdyiPg.png)  
+> Afbeelding: De enige zekerheid in een project is dat alles onzeker is  
   
   
 > [!abstract] Samengevat  
@@ -51,19 +53,18 @@ Het spitst zich toe op teamwerk en op een 1-op-1 afhandelen van producteigenscha
   
 ## Incrementele ontwikkeling  
   
-![](https://i.imgur.com/jWB3oST.jpg)  
-[[./References/@martin_2020|@martin_2020]]  
-  
 Een van de eigenschappen van Agile is dat het **incrementeel** is.  
   
 > [!note] DEFINITIE: Increment  
 > Een Increment is een kleine stap. **Incrementeel** slaat op het voorwaarts bewegen in fasen.  
   
+> [!caption]  
+> ![](https://i.imgur.com/jWB3oST.jpg)  
+> Afbeelding: incrementele ontwikkeling [[./References/@martin_2020|@martin_2020]]  
+  
 Incrementele ontwikkeling is een praktijk waar een product stap voor stap gedesignd, gedeployd en getest wordt, totdat het project afgerond wordt. Telkens wordt er een klein beetje meer toegevoegd. Elke stap bouwt verder op de vorige door extra functionaliteiten toe te voegen.  
   
 ## Iteratieve ontwikkeling  
-  
-![](https://i.imgur.com/vUrB9hU.png) [^iteratieveontwikkeling]   
   
 Een andere eigenschap van Agile is dat het iteratief is.  
   
@@ -72,6 +73,12 @@ Een andere eigenschap van Agile is dat het iteratief is.
   
 Iteratieve ontwikkeling slaat op de ontwikkeling van producten door herhaalde cyclussen. Elk van deze cyclussen voltooit een of andere minimum bruikbaar product *(vert. Engels: minimum viable product)*.  
   
+> [!caption]  
+> ![](https://i.imgur.com/vUrB9hU.png)    
+> Afbeelding: iteratieve ontwikkeling  
+  
+ [^iteratieveontwikkeling]  
+   
 Bijvoorbeeld:  
   
 - 1e iteratie: Maak een simpele homepagina.  
@@ -165,12 +172,16 @@ Alle termen en concepten die we tot nu toe bespraken voor Agile, passen we toe i
 In Scrum gebruikt men deze terminologie zoals hierboven omschreven, maar toegepast door het woord 'Scrum' er aan vast te hangen – zoals *"Scrum Sprints"* of *"Daily Scrum"*. De betekenis is gelijk aan die van Agile, **Scrum is Agile!**  
   
 Een goede manier om de relatie tussen Scrum en Agile te bekijken is het volgende plaatje.  
-![](https://i.imgur.com/dX9M7uX.jpg)   
+  
+> [!caption]  
+> ![](https://i.imgur.com/dX9M7uX.jpg)   
+> Afbeelding: relatie tussen scrum en agile  
   
 Of, om het met een analogie te bekijken.  
   
-![](https://i.imgur.com/jwtVfu7.jpg)  
-[[./References/@stanley.etal_2020|@stanley.etal_2020]]  
+> [!caption]  
+> ![](https://i.imgur.com/jwtVfu7.jpg)  
+> Afbeelding: relatie tussen sport, basketbal en NBA [[./References/@stanley.etal_2020|@stanley.etal_2020]]  
   
 In dit voorbeeld bekijk je “sports” als projectmanagement, “basketbal” als Agile en “NBA” (de populairste uitvoering van basketbal) is Scrum.  
   
@@ -180,8 +191,9 @@ In dit voorbeeld bekijk je “sports” als projectmanagement, “basketbal” a
   
 ### Empirische procescontrole  
   
-![](https://i.imgur.com/F5ySO0e.png)  
-[[./References/@zentaoteam_2022a|@zentaoteam_2022a]]  
+> [!caption]  
+> ![](https://i.imgur.com/F5ySO0e.png)  
+> Afbeelding: scrum en empirisme [[./References/@zentaoteam_2022a|@zentaoteam_2022a]]  
   
 Scrum is gebaseerd op de filosofie van het empirisme.  
   
@@ -209,8 +221,9 @@ Nu dat je weet wat Scrum is, kijken we naar enkele andere Scrum-gerelateerde pro
 In Agile en Scrum is de **Product Owner** de persoon die het gezag heeft de belangen van de klant te vertegenwoordigen.  
 De Product Owner is altijd beschikbaar voor het projectteam (al is die zelf niet betrokken in het ontwikkelen van het project) en is aanwezig bij het merendeel van de vergaderingen. Een Product Owner is de "baas" *(maar neem dat zeker niet letterlijk, de reden dat het woord tussen quotes staat is niet toevallig)* van het project, maar ze laten de teamleden toe hun eigen doelen te bepalen en zichzelf te managen.  
   
-![](https://i.imgur.com/uGHziP8.png)  
-[[./References/@userstorymap_2022|@userstorymap_2022]]  
+> [!caption]  
+> ![](https://i.imgur.com/uGHziP8.png)  
+> Afbeelding: De product owner en diens taken [[./References/@userstorymap_2022|@userstorymap_2022]]  
   
 Typisch zijn Product Owners de personen die met de klant samenzitten.  
   
@@ -241,7 +254,9 @@ Door deze afhankelijkheid zijn ze in staat het project te maken of te breken. Aa
   
 #### Stakeholders identificeren  
   
-![](https://i.imgur.com/eXcq7FX.png)  
+> [!caption]  
+> ![](https://i.imgur.com/eXcq7FX.png)  
+> Afbeelding: identificeren van stakeholders  
   
 Het identificeren van stakeholders kan je als [[007 Agile Projectmanagement#Product Owner|Product Owner]] alleen doen, maar je kan hierbij evengoed de hulp van de rest van het Scrum Team vragen. We kennen drie categorieën: interne, externe en interface stakeholders:  
   
@@ -315,7 +330,11 @@ Laten we nog de belangrijkste Scrum rollen herhalen om deze nog verder duidelijk
   
 ## De drie Rollen in Scrum  
   
-![](https://i.imgur.com/GXsJBLn.jpg) [^scrumteam]  
+> [!caption]  
+> ![](https://i.imgur.com/GXsJBLn.jpg)  
+> Afbeelding: de drie rollen in scrum  
+  
+[^scrumteam]  
   
 De drie hoofdrollen in Scrum zijn:  
   
@@ -384,7 +403,7 @@ Sommige teams kiezen bepaalde taken aan bepaalde ontwikkelaars toe te wijzen, ma
   
 Een **User Story** is een Agile en Scrum werkinstrument dat als doel heeft producten (*"software"*) te beschrijven vanuit het standpunt van een eindgebruiker.   
   
-==Herinner je dat we in het begin van deze cursus over [[007 Agile Projectmanagement#Incrementele ontwikkeling||Increments]] spraken? Een User Story is het perfecte voorbeeld van een Increment in Scrum.==  
+==Herinner je dat we in het begin van deze cursus over [[007 Agile Projectmanagement#Incrementele ontwikkeling|Increments]] spraken? Een User Story is het perfecte voorbeeld van een Increment in Scrum.==  
   
 > [!important] User Story  
 > User Stories bevatten **het type gebruiker**, **wat ze willen** en **waarom**.  
