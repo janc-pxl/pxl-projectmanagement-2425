@@ -19,6 +19,14 @@ Het is tijd om kennis te maken met het enige gezin dat nooit slaapt en altijd ee
   
 Niettemin zijn we dolblij om deze fantastische familie in ons team te hebben.  
   
+# Energieimpact van ChatGPT  
+  
+Leuke dingen hebben vaak een keerzijde, en dat geldt ook voor ChatGPT. Hoewel AI indrukwekkend en handig is, verbruikt het veel energie. We proberen allemaal klimaatneutraal te worden door zonnepanelen te plaatsen, met elektrische auto's te rijden en warmtepompen te installeren. Maar als we niet spaarzaam met energie omgaan, blijven deze inspanningen oppervlakkige oplossingen.  
+  
+Elke vraag aan ChatGPT verbruikt evenveel energie als het branden van een 5-watt ledlamp gedurende 1 uur en 50 minuten. Er bestaan geen domme vragen, maar stel ze alleen als ze echt nuttig zijn.  
+  
+![](https://i.imgur.com/X74hsMz.png)  
+  
 ## Guy PeeTers  
   
 ![](https://i.imgur.com/WpcbdOP.jpg)  
@@ -46,12 +54,16 @@ Niettemin zijn we dolblij om deze fantastische familie in ons team te hebben.
   
 ## Vragen die je kan stellen over ProjectManagement  
   
+(lees eerst over de [[+ 001 ProjectManagement#Energieimpact van ChatGPT|Energieimpact van ChatGPT]] voor je op deze links begint te klikken)  
+  
 - [Kan je als IT-er nog zonder projectmanagement?](https://chat.openai.com/?q=Kan%20je%20als%20IT-er%20nog%20zonder%20projectmanagement%3F)   
 - [Wat zijn, als IT-er, de voordelen van projectmanagement?](https://chat.openai.com/?q=Wat%20zijn%2C%20als%20IT-er%2C%20de%20voordelen%20van%20projectmanagement%3F)  
 - [Wat zijn, als IT-er, de nadelen van projectmanagement?](https://chat.openai.com/?q=Wat%20zijn%2C%20als%20IT-er%2C%20de%20nadelen%20van%20projectmanagement%3F)  
 - [Waarom is projectmanagement een essentieel onderdeel van bijna elke industrie en sector?](https://chat.openai.com/?q=Waarom%20is%20projectmanagement%20een%20essentieel%20onderdeel%20van%20bijna%20elke%20industrie%20en%20sector%3F)  
   
 ## Vragen die je kan stellen over een Project  
+  
+(lees eerst over de [[+ 001 ProjectManagement#Energieimpact van ChatGPT|Energieimpact van ChatGPT]] voor je op deze links begint te klikken)  
   
 - [Geef me een aantal voorbeelden van projecten?](https://chat.openai.com/?q=Geef%20me%20een%20aantal%20voorbeelden%20van%20projecten%3F)  
 - [Waarom is een project altijd tijdelijk?](https://chat.openai.com/?q=Waarom%20is%20een%20project%20altijd%20tijdelijk%3F)  
