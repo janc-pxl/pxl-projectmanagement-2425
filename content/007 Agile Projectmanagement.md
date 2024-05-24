@@ -110,7 +110,7 @@ Daily Standups helpen te verzekeren dat mogelijke belemmeringen (zie het stuk ov
   
 Je hebt zeker al het woord 'backlog' horen vallen wanneer het gaat over achterstallig werk, of over werk dat over tijd is. Bijvoorbeeld als je al een maand lang je mails niet meer beantwoord hebt, zou je een backlog van e-mails hebben.  
   
-In Agile definieer je een backlog anders.   
+In Agile definieer je een backlog als volgt:   
   
 > [!note] DEFINITIE: Product Backlog  
 > **Product Backlog:** het openstaande werk. Elke taak die nog veronderstelt wordt te gebeuren, beschouwen we als backlog. Het slaat op het aankomend werk dat nog niet aan een persoon toegewezen is of waarvan de afwerkingsdatum nog niet is vastgelegd.  
@@ -124,13 +124,13 @@ Als je, bijvoorbeeld, software aan het schrijven bent waarmee je de leden, locat
   
 Sprints zijn de hartslag van Agile, waar ideeën worden omgezet in waarde.  
   
-Een **Sprint** is een vastgelegde tijdsperiode (gebruikelijk kiest men 1 week, 2 weken of 4 weken) waaraan een afgesproken hoeveelheid werk is toegewezen om af te werken. Een nieuwe Sprint start direct nadat de vorige Sprint is afgelopen.  
+Een **Sprint** is een vaste periode (meestal 1, 2 of 4 weken) waarin een specifieke hoeveelheid werk wordt uitgevoerd. Zodra een Sprint eindigt, begint er meteen een nieuwe.  
   
-Sprints beginnen met vergaderingen waar men taken toewijst en eindigen met reviews *(synoniem: het inspecteren)* van de voorbije uitvoering bekijkt en bespreekt.  
+Elke Sprint start met vergaderingen waarin taken verdeeld worden, en eindigt met een review, waarin het uitgevoerde werk wordt bekeken en besproken.  
   
-Agile gaat de projecten in Sprints opdelen. Gedurende elke dag van een Sprint hebben de Daily Standups plaats waar de vooruitgang van het project wordt behoed.  
+In Agile worden projecten verdeeld in Sprints. Elke dag tijdens een Sprint zijn er Daily Standups om de voortgang te bespreken.  
   
-Het [[007 Agile Projectmanagement#Sprint Doel|Sprint Doel]] is de belangrijkste focus en het uiteindelijke doel van de welbepaalde Sprint. Men verwijst hier naar als het 'thema' van de Sprint.  
+Het [[007 Agile Projectmanagement#Sprint Doel|Sprint Doel]] is de centrale focus en het einddoel van een Sprint. Dit wordt ook wel het 'thema' van de Sprint genoemd.  
   
 Nu dat je een basisbegrip van Agile projectmanagement hebt, kijken we naar de populairste tak (subcategorie) van Agile.   
   
