@@ -97,7 +97,7 @@ Na iedere fase overlegt de projectleider met de opdrachtgever om te beslissen of
   
 > [!caption]   
 >  ![](https://i.imgur.com/7tDMfqf.png)  
-> Figuur: iteraties  
+> Afbeelding: iteraties  
   
 Om de kosten efficiënt te beheren, is het gebruikelijk om bij een project vooraf de mogelijke risico's in te schatten. Wat gebeurt er bijvoorbeeld als de aannemer die aan een nieuwe vleugel werkt failliet gaat? Wat zijn dan de stappen die ondernomen moeten worden? Een goede projectleider zorgt ervoor dat er een specifiek budget gereserveerd wordt om dergelijke onverwachte risico's aan te kunnen. Dit budget en de bijbehorende strategie staan beschreven in een **contingentieplan**.  
   
@@ -105,7 +105,7 @@ Elk project heeft als doel om een duidelijk gedefinieerd resultaat te leveren. D
   
 > [!caption]   
 > ![](https://i.imgur.com/RAoUlUH.jpg)  
-> Figuur: Prince 2  
+> Afbeelding: Prince 2  
   
 Veel organisaties gebruiken een bepaalde projectmanagementmethodiek als ze projecten uitvoeren. Zo'n methodiek beschrijft wat er in welke fase moet gebeuren en aan welke dingen gedacht moet worden. Een veelgebruikte **projectmethodiek** is Prince2, maar we zien er later nog veel meer.  
   
@@ -149,7 +149,7 @@ Wat is de uitdaging voor een bedrijf:
 > ![](https://i.imgur.com/2XwzA1x.png)  
 > Figuur: De elementen van een business case  
   
-De **business case** rechtvaardigt het project. Het bevat alle informatie om te beoordelen of een project levensvatbaar en haalbaar is, en of het de moeite waard is om erin te investeren. Tijdens het project wordt de business case voortdurend geactualiseerd met actuele schattingen van de te realiseren voordelen. We stellen de business case op tijdens de 'Opstart'-fase, met input van alle betrokkenen. Initiëren of opstarten betekent ook dat we het kader moeten omlijnen en de **scope** vastleggen. [[./References/@vlaanderenintern_2014|@vlaanderenintern_2014]]  
+De **business case** rechtvaardigt het project. Het bevat alle informatie om te beoordelen of een project levensvatbaar en haalbaar is, en of het de moeite waard is om erin te investeren. Tijdens het project wordt de business case voortdurend geactualiseerd met actuele schattingen van de te realiseren voordelen. We stellen de business case op tijdens de 'Opstart'-fase, met input van alle betrokkenen. Initiëren of opstarten betekent ook dat we het kader moeten omlijnen en de **scope** vastleggen. [[./references/@vlaanderenintern_2014|@vlaanderenintern_2014]]  
   
 In het bedrijfsleven noemt men dit vaak het vastleggen van de ‘battery limits’. Een belangrijke deliverable is het uitwerken van het **projectcharter**. Dit charter is het officiële startpunt en vormt het contract tussen alle betrokken partijen zoals de opdrachtgever, het projectteam en sponsors. Het beschrijft op een abstract niveau de krijtlijnen waarbinnen het project moet worden uitgevoerd. Het verwoordt de verwachtingen van de projectsponsor en geeft een eerste indicatie van de scope. Via intensieve communicatie wordt 100% duidelijkheid bereikt over de eisen, functionaliteiten (met een prioriteitenlijst), aanpak, timing, financiering en opvolging van het project. Verwar dit niet met het [[001 Wat is Projectmanagement#Plan van Aanpak|Plan van Aanpak]] (zie later). Het projectcharter geeft de brede kaders en goedkeuring, terwijl het plan van aanpak de praktische details en de aanpak voor het bereiken van de projectdoelen bevat.  
   
@@ -187,9 +187,9 @@ Belangrijk is dat een product alleen kan worden ontwikkeld binnen een project. T
   
 In tegenstelling tot een project heeft een product geen duidelijke definitie van wat er geleverd moet worden. De behoeften van klanten evolueren, en producten moeten mee-evolueren om aan deze veranderende behoeften te voldoen.  
   
-Bij producten zijn er geen strikte deadlines. Klanten verwachten dat een product nu aan hun behoeften voldoet, niet ergens in de toekomst. Productontwikkeling is daarom een continu proces waarbij nieuwe functies worden toegevoegd en het product voortdurend wordt verbeterd. [[./References/@gomez_2021|@gomez_2021]]  
+Bij producten zijn er geen strikte deadlines. Klanten verwachten dat een product nu aan hun behoeften voldoet, niet ergens in de toekomst. Productontwikkeling is daarom een continu proces waarbij nieuwe functies worden toegevoegd en het product voortdurend wordt verbeterd. [[./references/@gomez_2021|@gomez_2021]]  
   
-Het **productportfolio** omvat alle producten en diensten die een bedrijf aan de doelmarkt aanbiedt. Dit bevat zowel de producten die bij het begin van het merk werden gelanceerd als de producten die momenteel op de markt zijn en de producten die nog in ontwikkeling zijn. [[./References/@hiteshbhasin_2015|@hiteshbhasin_2015]]  
+Het **productportfolio** omvat alle producten en diensten die een bedrijf aan de doelmarkt aanbiedt. Dit bevat zowel de producten die bij het begin van het merk werden gelanceerd als de producten die momenteel op de markt zijn en de producten die nog in ontwikkeling zijn. [[./references/@hiteshbhasin_2015|@hiteshbhasin_2015]]  
   
 > [!caption]  
 > ![](https://i.imgur.com/pBi8aFH.png)  
@@ -559,14 +559,14 @@ In de weg die iedere nieuwe technologie aflegt naar volledige adoptie, doorloopt
 Hieronder nog iets gedetailleerder welke gebeurtenissen en acties zich in iedere fase voordoen.  
   
 ![](https://i.imgur.com/bj6IAQT.png)  
-[[./References/@vaneekhout_2018|@vaneekhout_2018]]  
+[[./references/@vaneekhout_2018|@vaneekhout_2018]]  
   
 # Bibliografie  
   
-- [[./References/@gomez_2021|@gomez_2021]]: _'The Difference Between Product and Project Management'_ -  **Gomez, Jose(2021)** https://www.koombea.com/blog/the-difference-between-product-and-project-management/<br/><br/>  
-- [[./References/@hiteshbhasin_2015|@hiteshbhasin_2015]]: _'What is Product portfolio management ?'_ -  **Hitesh Bhasin,(2015)** https://www.marketing91.com/product-portfolio/<br/><br/>  
+- [[./references/@gomez_2021|@gomez_2021]]: _'The Difference Between Product and Project Management'_ -  **Gomez, Jose(2021)** https://www.koombea.com/blog/the-difference-between-product-and-project-management/<br/><br/>  
+- [[./references/@hiteshbhasin_2015|@hiteshbhasin_2015]]: _'What is Product portfolio management ?'_ -  **Hitesh Bhasin,(2015)** https://www.marketing91.com/product-portfolio/<br/><br/>  
 - [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]: _'House of Control'_ -  **Sjoerd Olde Bijvank(2010)** https://www.house-of-control.nl/duivelsdriehoek-duivelsvierkant.html<br/><br/>  
 - [[./References/@stevenblom_2018|@stevenblom_2018]]: _'Moeten we kiezen tussen de klant en de medewerker?'_ -  **Steven Blom(2018)** https://www.blomconsultancy.nl/kiezen-tussen-klant-en-medewerker/<br/><br/>  
-- [[./References/@vaneekhout_2018|@vaneekhout_2018]]: _'De Gartner Hype Cycle: welke technologie blijft plakken en welke gaat nodeloos ten onder?'_ -  **van Eekhout, Robert(2018)** https://robertvaneekhout.nl/2018/04/gartner-hype-cycle-welke-technologie-blijft-plakken-en-welke-gaat-nodeloos<br/><br/>  
-- [[./References/@vlaanderenintern_2014|@vlaanderenintern_2014]]: _'Business Case'_ -  **vlaanderen intern,(2014)** https://overheid.vlaanderen.be/organisatie/projectmanagement/business-case<br/><br/>  
+- [[./references/@vaneekhout_2018|@vaneekhout_2018]]: _'De Gartner Hype Cycle: welke technologie blijft plakken en welke gaat nodeloos ten onder?'_ -  **van Eekhout, Robert(2018)** https://robertvaneekhout.nl/2018/04/gartner-hype-cycle-welke-technologie-blijft-plakken-en-welke-gaat-nodeloos<br/><br/>  
+- [[./references/@vlaanderenintern_2014|@vlaanderenintern_2014]]: _'Business Case'_ -  **vlaanderen intern,(2014)** https://overheid.vlaanderen.be/organisatie/projectmanagement/business-case<br/><br/>  
   
