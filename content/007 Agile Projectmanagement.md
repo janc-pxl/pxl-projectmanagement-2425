@@ -391,19 +391,21 @@ Tijdens de Sprint Planning plannen we de [[007 Agile Projectmanagement#Sprint Ba
   
 Niet alleen de [[007 Agile Projectmanagement#Sprint Backlog|Sprint Backlog]] wordt tijdens de Sprint Planning bepaald, er wordt tevens een duidelijk [[007 Agile Projectmanagement#Sprint Doel|Sprint Doel]] vastgelegd.  
   
-![](https://i.imgur.com/oHybCrv.png)  
-[[./References/@zentaoteam_2022a|@zentaoteam_2022a]]  
+> [!caption]  
+> ![](https://i.imgur.com/oHybCrv.png)  
+> Afbeelding: Product en Sprint Backlog [[./References/@zentaoteam_2022a|@zentaoteam_2022a]]  
   
 Sommige teams kiezen bepaalde taken aan bepaalde ontwikkelaars toe te wijzen, maar dit is niet nodig. Het gros van de teams beslist alleen maar over de [[007 Agile Projectmanagement#Sprint Backlog|Sprint Backlog]], en laat de teamleden beslissen wie aan welke taak werkt tijdens de uitvoering van de Sprint.  
   
 ### User Stories (en Epics)  
   
-![](https://i.imgur.com/2nUIGtg.png)  
-[[./References/@productplan_2022|@productplan_2022]]  
+> [!caption]  
+> ![](https://i.imgur.com/2nUIGtg.png)  
+> Afbeelding: User stories en acceptatiecriteria [[./References/@productplan_2022|@productplan_2022]]  
   
 Een **User Story** is een Agile en Scrum werkinstrument dat als doel heeft producten (*"software"*) te beschrijven vanuit het standpunt van een eindgebruiker.   
   
-==Herinner je dat we in het begin van deze cursus over [[007 Agile Projectmanagement#Incrementele ontwikkeling|Increments]] spraken? Een User Story is het perfecte voorbeeld van een Increment in Scrum.==  
+==Herinner je dat we in het begin van deze cursus over Increments spraken? Een User Story is het perfecte voorbeeld van een Increment in Scrum.==  
   
 > [!important] User Story  
 > User Stories bevatten **het type gebruiker**, **wat ze willen** en **waarom**.  
@@ -447,7 +449,9 @@ Zowel Epics als Stories zijn voorbeelden van [[007 Agile Projectmanagement#Produ
 | bezoeker      | de updates van een lid volgen          | ik op de hoogte blijf van updates van leden die ik interessant vind  |  
 | bezoeker      | het profiel van een lid zien           | ik meer kan weten over een lid                                       |  
   
-![](https://i.imgur.com/qHg7h2f.png)  
+> [!caption]  
+> ![](https://i.imgur.com/qHg7h2f.png)  
+> Afbeelding: het is belangrijk je User Stories correct te schrijven  
   
 #### Acceptatie Criteria  
   
@@ -532,7 +536,10 @@ Een belangrijk aspect hierin waarover je zeker moet leren is de inschatting van 
 De "T-shirt grootte" toepassing betreft het toewijzen van een T-shirt maat, welke de moeilijkheid van uitvoering aangeeft, aan elke taak. Gebruikelijk zie je small, medium, large en extra-large.  
   
 De "Fibonacci reeks" uitvoering betreft het toewijzen van een nummer, welke de moeilijkheid aangeeft, aan elke taak. Deze waardes komen van de bekende wiskundige reeks nummers, ooit, eeuwen geleden, ontwikkeld door de Italiaanse wiskundige Fibonacci. Ze zijn een reeks nummers, waar elke nummer de som is van de vorige twee nummers:  
-![](https://i.imgur.com/tdPBA0I.png)  
+  
+>[!caption]  
+>![](https://i.imgur.com/tdPBA0I.png)  
+> Afbeelding: de Fibonacci reeks  
   
 1, 2, 3, 5, 8, 13, enz.  
   
@@ -665,7 +672,9 @@ Tijdens een Sprint toont een burndown chart voor het project hoeveel werkuren er
   
 Kijkend naar de Burndown Chart kun je zien of een project nog "on target" is, voorloopt of achterophinkt.  
   
-![](https://i.imgur.com/lwBujBv.png)  
+> [!caption]  
+> ![](https://i.imgur.com/lwBujBv.png)  
+> Afbeelding: de burndown chart  
   
 Meerdere mogelijke varianten, of manieren waarop je een burndown chart kan opstellen bestaan. Daar je in Scrum eerder in storypunten inschat, kiest men dan de verticale as af te zetten tegen de overgebleven storypunten i.p.v. de uren.  
   
@@ -679,8 +688,9 @@ Velocity is de snelheid waartegen teams werk afronden. Meer bepaald, de som van 
   
 Eenmaal men de velocity kent na een aantal Sprints, kan men deze waarde gebruiken om het plannen van projecten te helpen en te voorspellen welke opleverdatum te voorzien.  
   
-![](https://i.imgur.com/CyNyN9u.png)  
-[[./References/@adobeworkfront_2022|@adobeworkfront_2022]]  
+> [!caption]  
+> ![](https://i.imgur.com/CyNyN9u.png)  
+> Afbeelding: de velocity chart [[./References/@adobeworkfront_2022|@adobeworkfront_2022]]  
   
 > [!note] DEFINITIE: Velocity   
 > **Velocity:** een veelgebruikte aanduiding van de gemiddelde hoeveelheid [[007 Agile Projectmanagement#Product Backlog|Product Backlog]] die een specifiek team met zijn specifieke samenstelling tijdens een Sprint omgezet heeft in één of meerdere Incrementen. [[./References/@verheyen_2022|@verheyen_2022]]  
@@ -815,7 +825,9 @@ Verder bekeken we definities, tools en hulpmiddelen die we gebruiken tijdens de 
   
 Wat we zeker nooit gaan vergeten is dat Scrum meer is dan een verzameling regeltjes, rollen en events.  
   
-![](https://i.imgur.com/AbCjqQb.png)  
+> [!caption]  
+> ![](https://i.imgur.com/AbCjqQb.png)  
+> Afbeelding: De Scrum waarden  
   
 De basis van Scrum is een verzameling van [[007 Agile Projectmanagement#Scrum Waarden|kernwaarden]] in combinatie met het correct toepassen van [[007 Agile Projectmanagement#Empirische procescontrole|empirisch denken]].   
   
