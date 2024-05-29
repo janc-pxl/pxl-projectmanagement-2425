@@ -118,13 +118,13 @@ Veel organisaties gebruiken een bepaalde projectmanagementmethodiek als ze proje
 Als je probeert te besparen op de kosten, dus meer te doen met minder geld, leidt dat onvermijdelijk tot concessies op het gebied van kwaliteit (het eindproduct zal van mindere kwaliteit zijn) of tijd (het project zal meer tijd in beslag nemen), of een combinatie van beide. Het is ook belangrijk te realiseren dat binnen een project slechts twee van deze drie aspecten tegelijkertijd optimaal benut kunnen worden. Als iets sneller en goedkoper moet, zal dit vrijwel altijd ten koste gaan van de kwaliteit.  
 > [!caption]   
 > ![](https://i.imgur.com/602iRyY.png)  
-> Figuur: Duivelsdriehoek [[./References/@stevenblom_2018|@stevenblom_2018]]  
+> Afbeelding: Duivelsdriehoek [[./References/@stevenblom_2018|@stevenblom_2018]]  
   
 Het klassieke model van de **Duivelsdriehoek**, dat focust op de relatie tussen tijd, kwaliteit en budget, schiet vaak tekort in echte projectmanagementscenarios. Iets dat vaak over het hoofd wordt gezien, is de **opdracht** zelf, en dit introduceert het concept van een **Duivelsvierkant**.  
   
 > [!caption]   
 > ![](https://i.imgur.com/Dww0uEV.png)  
-> Figuur: Duivelsvierkant [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
+> Afbeelding: Duivelsvierkant [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]  
   
 In de praktijk staat de opdracht of scope van een project zelden vanaf het begin vast. Veranderingen in de projectomvang beïnvloeden significant de andere drie variabelen: tijd, kwaliteit en budget. Wanneer het budget bijvoorbeeld halveert, beïnvloedt dit niet alleen de kwaliteit of de tijd, maar ook wat je binnen het project kunt uitvoeren.  
   
@@ -134,7 +134,7 @@ Daarom is het essentieel om naast tijd, kwaliteit en budget ook de grootte en du
   
 > [!caption]  
 > ![](https://i.imgur.com/rsiO7l5.png)  
-> Figuur: Effect van veranderingen aan variabelen  
+> Afbeelding: Effect van veranderingen aan variabelen  
   
 ### Uitdagingen  
   
@@ -147,9 +147,9 @@ Wat is de uitdaging voor een bedrijf:
   
 > [!caption]  
 > ![](https://i.imgur.com/2XwzA1x.png)  
-> Figuur: De elementen van een business case  
+> Afbeelding: De elementen van een business case  
   
-De **business case** rechtvaardigt het project. Het bevat alle informatie om te beoordelen of een project levensvatbaar en haalbaar is, en of het de moeite waard is om erin te investeren. Tijdens het project wordt de business case voortdurend geactualiseerd met actuele schattingen van de te realiseren voordelen. We stellen de business case op tijdens de 'Opstart'-fase, met input van alle betrokkenen. Initiëren of opstarten betekent ook dat we het kader moeten omlijnen en de **scope** vastleggen. [[./references/@vlaanderenintern_2014|@vlaanderenintern_2014]]  
+De **business case** rechtvaardigt het project. Het bevat alle informatie om te beoordelen of een project levensvatbaar en haalbaar is, en of het de moeite waard is om erin te investeren. Tijdens het project wordt de business case voortdurend geactualiseerd met actuele schattingen van de te realiseren voordelen. We stellen de business case op tijdens de 'Opstart'-fase, met input van alle betrokkenen. Initiëren of opstarten betekent ook dat we het kader moeten omlijnen en de **scope** vastleggen. [[./References/@vlaanderenintern_2014|@vlaanderenintern_2014]]  
   
 In het bedrijfsleven noemt men dit vaak het vastleggen van de ‘battery limits’. Een belangrijke deliverable is het uitwerken van het **projectcharter**. Dit charter is het officiële startpunt en vormt het contract tussen alle betrokken partijen zoals de opdrachtgever, het projectteam en sponsors. Het beschrijft op een abstract niveau de krijtlijnen waarbinnen het project moet worden uitgevoerd. Het verwoordt de verwachtingen van de projectsponsor en geeft een eerste indicatie van de scope. Via intensieve communicatie wordt 100% duidelijkheid bereikt over de eisen, functionaliteiten (met een prioriteitenlijst), aanpak, timing, financiering en opvolging van het project. Verwar dit niet met het [[001 Wat is Projectmanagement#Plan van Aanpak|Plan van Aanpak]] (zie later). Het projectcharter geeft de brede kaders en goedkeuring, terwijl het plan van aanpak de praktische details en de aanpak voor het bereiken van de projectdoelen bevat.  
   
@@ -175,7 +175,7 @@ Zodra de scope is geschreven en gevalideerd, hebben we een duidelijk beeld van w
   
 > [!caption]  
 > ![](https://i.imgur.com/OirwoFx.png)  
-> Figuur: Product- en projectlevenscyclus  
+> Afbeelding: Product- en projectlevenscyclus  
   
 Een **product** is alles wat op de markt kan worden aangeboden om een probleem op te lossen of om een behoefte te bevredigen.  
   
@@ -187,13 +187,13 @@ Belangrijk is dat een product alleen kan worden ontwikkeld binnen een project. T
   
 In tegenstelling tot een project heeft een product geen duidelijke definitie van wat er geleverd moet worden. De behoeften van klanten evolueren, en producten moeten mee-evolueren om aan deze veranderende behoeften te voldoen.  
   
-Bij producten zijn er geen strikte deadlines. Klanten verwachten dat een product nu aan hun behoeften voldoet, niet ergens in de toekomst. Productontwikkeling is daarom een continu proces waarbij nieuwe functies worden toegevoegd en het product voortdurend wordt verbeterd. [[./references/@gomez_2021|@gomez_2021]]  
+Bij producten zijn er geen strikte deadlines. Klanten verwachten dat een product nu aan hun behoeften voldoet, niet ergens in de toekomst. Productontwikkeling is daarom een continu proces waarbij nieuwe functies worden toegevoegd en het product voortdurend wordt verbeterd. [[./References/@gomez_2021|@gomez_2021]]  
   
-Het **productportfolio** omvat alle producten en diensten die een bedrijf aan de doelmarkt aanbiedt. Dit bevat zowel de producten die bij het begin van het merk werden gelanceerd als de producten die momenteel op de markt zijn en de producten die nog in ontwikkeling zijn. [[./references/@hiteshbhasin_2015|@hiteshbhasin_2015]]  
+Het **productportfolio** omvat alle producten en diensten die een bedrijf aan de doelmarkt aanbiedt. Dit bevat zowel de producten die bij het begin van het merk werden gelanceerd als de producten die momenteel op de markt zijn en de producten die nog in ontwikkeling zijn. [[./References/@hiteshbhasin_2015|@hiteshbhasin_2015]]  
   
 > [!caption]  
 > ![](https://i.imgur.com/pBi8aFH.png)  
-> Figuur: Portfolio/Product/Project  
+> Afbeelding: Portfolio/Product/Project  
   
 ## Verzamelen van klantenbehoeftes  
 ![](https://i.imgur.com/hjnop74.png)  
@@ -210,7 +210,7 @@ Het **plan van aanpak** is de eerste belangrijke deliverable die helpt bij het o
   
 > [!caption]  
 > ![](https://i.imgur.com/p7Fn1nJ.png)  
-> Figuur: Plan van Aanpak  
+> Afbeelding: Plan van Aanpak  
   
 ### Mogelijke onderdelen van de template  
   
@@ -257,7 +257,7 @@ Kosten-, tijd-, kwaliteits- en andere meetbare objectieven. De objectieven diene
   
 > [!caption]  
 > ![](https://i.imgur.com/uKTEVe5.png)  
-> Figuur: SMART  
+> Afbeelding: SMART  
   
 ## Work breakdown structure  
 ![](https://i.imgur.com/7MwPkNO.png)  
@@ -268,7 +268,7 @@ De work breakdown structure (WBS) is een grafische weergave, vaak in de vorm van
   
 > [!caption]  
 > ![](https://i.imgur.com/VzeScMn.png)  
-> Figuur: Voorbeeld van een work breakdown structure  
+> Afbeelding: Voorbeeld van een work breakdown structure  
   
 Deze work breakdown structure (WBS) biedt een helder overzicht van de fasen en activiteiten die nodig zijn om een reis te plannen. Het schema verdeelt het project 'Reis' in hoofd- en subniveaus, waardoor duidelijk is welke stappen en taken uitgevoerd moeten worden.  
   
@@ -283,7 +283,7 @@ RACI-informatie laat toe voor een WBS-element aan te geven:
   
 > [!caption]   
 > ![](https://i.imgur.com/fzfwnAv.gif)  
-> Figuur: Voorbeeld van een RACI-matrix  
+> Afbeelding: Voorbeeld van een RACI-matrix  
   
 Richtlijnen van een RACI-matrix:  
   
@@ -453,7 +453,7 @@ Met deze fasen zorgen projectmanagers ervoor dat projecten gestructureerd en suc
   
 > [!caption]  
 > ![](https://i.imgur.com/AWlrNFV.png)   
-> Figuur: Project Life Cycle  ^d502ca  
+> Afbeelding: Project Life Cycle  ^d502ca  
   
 Deze algemene levenscyclusstructuur is handig wanneer je te maken hebt met het hogere management of anderen die minder vertrouwd zijn met het project. Het is belangrijk om op te merken dat deze structuur vaak wordt verward met de projectmanagement procesgroepen (zie [[001 Wat is Projectmanagement#De Projectmanagement Proces Groepen|De Projectmanagement Proces Groepen]]). De procesgroepen bevatten, in tegenstelling tot de projectlevenscyclus, specifieke activiteiten die gericht zijn op het managen van het project zelf.  
   
@@ -465,7 +465,7 @@ In het begin zijn de kosten en het personeelsbestand laag en bereiken ze een hoo
   
 > [!caption]  
 > ![](https://i.imgur.com/dgvltBG.png)  
-> Figuur: Projectmanagement output  
+> Afbeelding: Projectmanagement output  
   
 Risico's en onzekerheid zijn op hun hoogtepunt aan het begin van het project. Deze factoren dalen tijdens de levenscyclus van het project naarmate beslissingen worden genomen en de resultaten worden geaccepteerd.  
   
@@ -473,7 +473,7 @@ Het vermogen om het eindproduct van het project te beïnvloeden zonder de kosten
   
 > [!caption]  
 > ![](https://i.imgur.com/VhU0U6l.png)   
-> Figuur: Risico's in verhouding met wijzigende requirements ^12d6b7  
+> Afbeelding: Risico's in verhouding met wijzigende requirements ^12d6b7  
   
 Deze kenmerken zijn bijna in alle soorten projectlevenscycli aanwezig, maar op verschillende manieren of in verschillende mate. Adaptieve levenscycli worden met name ontwikkeld met de bedoeling om de invloeden van stakeholders hoger te houden en de kosten van veranderingen gedurende de hele levenscyclus lager dan in voorspellende levenscycli.  
   
@@ -545,7 +545,9 @@ Marketeers, CEO’s en ondernemers worstelen altijd met de vraag: op welke nieuw
 ## De Hype Cycle  
 Op die laatste vraag heeft IT onderzoeks- en adviesbureau Gartner naar eigen zeggen een oplossing gevonden. Zij hebben rond het jaar 1995 de Hype Cycle in het leven geroepen, een meetlat waarlangs je een nieuwe technologieën kunt leggen. Het is een framework en grafische weergave van de volwassenwording van een nieuwe techniek. De Hype Cycle moet helpen duidelijk te maken of de nieuwe technologie echt mainstream wordt of dat het bij een hype blijft en de technologie als een nachtkaars weer uitgaat.  
   
-![](https://i.imgur.com/ObAvY21.png)  
+> [!caption]  
+> ![](https://i.imgur.com/ObAvY21.png)  
+> Afbeelding: de Hype Cycle  
   
 ## De 5 fases van de Hype Cycle  
 In de weg die iedere nieuwe technologie aflegt naar volledige adoptie, doorloopt deze altijd 5 fases.  
@@ -558,15 +560,16 @@ In de weg die iedere nieuwe technologie aflegt naar volledige adoptie, doorloopt
   
 Hieronder nog iets gedetailleerder welke gebeurtenissen en acties zich in iedere fase voordoen.  
   
-![](https://i.imgur.com/bj6IAQT.png)  
-[[./references/@vaneekhout_2018|@vaneekhout_2018]]  
+> [!caption]  
+> ![](https://i.imgur.com/bj6IAQT.png)  
+> Afbeelding: De Gartner Hype Cycle [[./References/@vaneekhout_2018|@vaneekhout_2018]]  
   
 # Bibliografie  
   
-- [[./references/@gomez_2021|@gomez_2021]]: _'The Difference Between Product and Project Management'_ -  **Gomez, Jose(2021)** https://www.koombea.com/blog/the-difference-between-product-and-project-management/<br/><br/>  
-- [[./references/@hiteshbhasin_2015|@hiteshbhasin_2015]]: _'What is Product portfolio management ?'_ -  **Hitesh Bhasin,(2015)** https://www.marketing91.com/product-portfolio/<br/><br/>  
+- [[./References/@gomez_2021|@gomez_2021]]: _'The Difference Between Product and Project Management'_ -  **Gomez, Jose(2021)** https://www.koombea.com/blog/the-difference-between-product-and-project-management/<br/><br/>  
+- [[./References/@hiteshbhasin_2015|@hiteshbhasin_2015]]: _'What is Product portfolio management ?'_ -  **Hitesh Bhasin,(2015)** https://www.marketing91.com/product-portfolio/<br/><br/>  
 - [[./References/@sjoerdoldebijvank_2010|@sjoerdoldebijvank_2010]]: _'House of Control'_ -  **Sjoerd Olde Bijvank(2010)** https://www.house-of-control.nl/duivelsdriehoek-duivelsvierkant.html<br/><br/>  
 - [[./References/@stevenblom_2018|@stevenblom_2018]]: _'Moeten we kiezen tussen de klant en de medewerker?'_ -  **Steven Blom(2018)** https://www.blomconsultancy.nl/kiezen-tussen-klant-en-medewerker/<br/><br/>  
-- [[./references/@vaneekhout_2018|@vaneekhout_2018]]: _'De Gartner Hype Cycle: welke technologie blijft plakken en welke gaat nodeloos ten onder?'_ -  **van Eekhout, Robert(2018)** https://robertvaneekhout.nl/2018/04/gartner-hype-cycle-welke-technologie-blijft-plakken-en-welke-gaat-nodeloos<br/><br/>  
-- [[./references/@vlaanderenintern_2014|@vlaanderenintern_2014]]: _'Business Case'_ -  **vlaanderen intern,(2014)** https://overheid.vlaanderen.be/organisatie/projectmanagement/business-case<br/><br/>  
+- [[./References/@vaneekhout_2018|@vaneekhout_2018]]: _'De Gartner Hype Cycle: welke technologie blijft plakken en welke gaat nodeloos ten onder?'_ -  **van Eekhout, Robert(2018)** https://robertvaneekhout.nl/2018/04/gartner-hype-cycle-welke-technologie-blijft-plakken-en-welke-gaat-nodeloos<br/><br/>  
+- [[./References/@vlaanderenintern_2014|@vlaanderenintern_2014]]: _'Business Case'_ -  **vlaanderen intern,(2014)** https://overheid.vlaanderen.be/organisatie/projectmanagement/business-case<br/><br/>  
   
