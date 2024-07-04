@@ -15,6 +15,7 @@ order: 0
   
 ## Inhoud  
   
+- [[./000 DE PXL- X-FACTOR, dat tikkeltje meer!|000 DE PXL- X-FACTOR, dat tikkeltje meer!]]?  
 - [[./001 Wat is Projectmanagement|001 Wat is Projectmanagement]]?  
 - [[./002 Projectplanning|002 Projectplanning]]  
 - [[./003 Extra Oefeningen Projectmanagement|003 Extra Oefeningen Projectmanagement]]  
