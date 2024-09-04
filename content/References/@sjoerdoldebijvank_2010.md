@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: House of Control  
-authors: Sjoerd Olde Bijvank  
-year: 2010  
-url: https://www.house-of-control.nl/duivelsdriehoek-duivelsvierkant.html  
----  
+---
+share: true
+category: References
+title: House of Control
+authors: Sjoerd Olde Bijvank
+year: 2010
+url: https://www.house-of-control.nl/duivelsdriehoek-duivelsvierkant.html
+---
   
 # House of Control  
   
