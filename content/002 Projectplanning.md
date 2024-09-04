@@ -274,7 +274,7 @@ Een Gantt-grafiek bestaat uit een aantal rijen die ieder een module of taak binn
   
 Gecompliceerdere Gantt-grafieken kunnen ook zaken bevatten als milestones en relaties tussen modules (bijvoorbeeld: taak 1 moet afgerond zijn voor taak 3 gestart kan worden).  
   
-![](https://i.imgur.com/fjsN8lo.png)  
+![](https://i.imgur.com/fiDuEXU.png)  
   
 De blauwe balken zijn taken die uitgevoerd moeten worden. De pijlen geven condities aan: een taak die eerst volbracht moet zijn voordat aan de volgende begonnen kan worden. De zwarte ruiten zijn milestones: ijkpunten waarop een bepaalde toestand gereed moet zijn.  
   
@@ -318,7 +318,7 @@ In het geval dat de werken vooruit lopen (de droom van iedere projectleider), ka
   
 ##### Taken en taakniveaus  
   
-We willen een blokhut plaatsen in de tuin. De blokhut hebben we gekocht als een bouwpakket. De bouwelementen zullen voorhanden zijn vanaf de leveringsdatum: dinsdag 10 oktober 2023.  
+We willen een blokhut plaatsen in de tuin. De blokhut hebben we gekocht als een bouwpakket. De bouwelementen zullen voorhanden zijn vanaf de leveringsdatum: dinsdag 8 oktober 2024.  
   
 Materialen die eveneens aangekocht werden zijn zand, kiezelstenen en cement. De blokhut zal gebouwd worden met drie personen, ze zullen beginnen te bouwen op de dag van de levering.  
   
@@ -357,32 +357,28 @@ De volgende taken zullen uitgevoerd moeten worden
 | 29  | Eindcontrole voor oplevering           | 0,5h | 28          |  
   
   
--   Creëer een nieuw projectplan.  
--   Geef de projectgegevens in.  
--   De vaste startdatum is voorzien op `dinsdag 10 oktober 2023`.  
--   De titel van het project, extra informatie, de naam van de auteur en de manager mag je zelf bepalen.  
--   Nu moeten de taken voorzien worden van hun geschatte tijdsduur (t$_e$) en ook de taakafhankelijkheden moeten aangebracht worden:  
+- Creëer een nieuw projectplan.  
+- Geef de projectgegevens in.  
+- De vaste startdatum is voorzien op `dinsdag 8 oktober 2024`.  
+- De titel van het project, extra informatie, de naam van de auteur en de manager mag je zelf bepalen.  
+- Nu moeten de taken voorzien worden van hun geschatte tijdsduur (t$_e$) en ook de taakafhankelijkheden moeten aangebracht worden:  
+	- Zorg eerst voor een goede uitlijning van de taakniveaus (hoofd- en subtaken).  
+	- Geef de duur, de eigenschappen en de afhankelijkheden van elke taak in.  ( **Let op:** taak 4 en taak 29 zijn taken van “vaste duur/fixed duration”.)  
+	- Bij nader inzien is taak 9 geen echte taak, maar wel een wachttijd. Men kan pas 1 dag na het einde van taak 8 starten met taak 10. Taak 9 kan dus verwijderd worden en taak 10 start met een vertraging van 1 dag. De nummers van de taken zijn nu natuurlijk wel gewijzigd.  
   
-    -   Zorg eerst voor een goede uitlijning van de taakniveaus (hoofd- en subtaken).  
-    -   Geef de duur, de eigenschappen en de afhankelijkheden van elke taak in.    
-        **Let op:** taak 4 en taak 29 zijn taken van “vaste duur/fixed duration”.  
-    -   Bij nader inzien is taak 9 geen echte taak, maar wel een wachttijd. Men kan pas 1 dag na het einde van taak 8 starten met taak 10. Taak 9 kan dus verwijderd worden en taak 10 start met een vertraging van 1 dag. De nummers van de taken zijn nu natuurlijk wel gewijzigd.  
+- Om een beter overzicht te krijgen van onze planning kunnen we best de tijdschaal in de Gantt-chart aanpassen. In de standaard weergave wordt de tijdschaal onderverdeeld in weken en per week in dagen. In het voorbeeld van de blokhut, zal het beter zijn om in de tijdschaal dagen en uren weer te geven, aangezien de taken eerder van korte duur zijn. Als je later een andere weergave (vb. Task Usage, Resource Usage, …) gaat gebruiken, zal de tijdschaal ook daar moeten aangepast worden.  
   
-    -   Om een beter overzicht te krijgen van onze planning kunnen we best de tijdschaal in de Gantt-chart aanpassen. In de standaard weergave wordt de tijdschaal onderverdeeld in weken en per week in dagen. In het voorbeeld van de blokhut, zal het beter zijn om in de tijdschaal dagen en uren weer te geven, aangezien de taken eerder van korte duur zijn. Als je later een andere weergave (vb. Task Usage, Resource Usage, …) gaat gebruiken, zal de tijdschaal ook daar moeten aangepast worden.  
+- Het is gebruikelijk om ter afsluiting van een fase en ter afsluiting van het project een “milestone” te voorzien. Voeg deze milestones toe en pas de taakafhankelijkheden aan. Een milestone sluit een fase (of een project) af, een taak van een volgende fase vertrekt na het bereiken van de milestone uit de vorige fase.  
   
--   Het is gebruikelijk om ter afsluiting van een fase en ter afsluiting van het project een “milestone” te voorzien. Voeg deze milestones toe en pas de taakafhankelijkheden aan. Een milestone sluit een fase (of een project) af, een taak van een volgende fase vertrekt na het bereiken van de milestone uit de vorige fase.  
+- Zorg ervoor dat het kritieke pad af te lezen is in de Gantt-chart.  
   
--   Zorg ervoor dat het kritieke pad af te lezen is in de Gantt-chart.  
+- Bijkomende informatie moet voorzien worden:  
+	- Bij taak `4. Plan bespreken met werklieden` moet een hyperlink gelegd worden naar het document “Bouwplan van blokhut”.  
+	- Bij punt `31. Oplevering` moet de volgende notitie toegevoegd worden: *“Niet vergeten een attentie klaar te zetten voor de werklieden.”*  
   
--   Bijkomende informatie moet voorzien worden:  
+- Wanneer zal de blokhut klaar zijn?  
   
-    -   Bij taak `4. Plan bespreken met werklieden` moet een hyperlink gelegd worden naar het document “Bouwplan van blokhut”.  
-  
-    -   Bij punt `31. Oplevering` moet de volgende notitie toegevoegd worden: *“Niet vergeten een attentie klaar te zetten voor de werklieden.”*  
-  
--   Wanneer zal de blokhut klaar zijn?  
-  
--   Hoeveel bedraagt de doorlooptijd (in dagen of in uren)?  
+- Hoeveel bedraagt de doorlooptijd (in dagen of in uren)?  
   
 #### Opgave week 4  
   
@@ -409,7 +405,7 @@ Tot nu toe hebben we verondersteld te werken met de basiskalender, zoals die sta
   
 Voor onze werklieden dient deze basiskalender aangepast te worden. We beginnen ’s morgens te werken om 8:30 uur en we werken tot 17:00 met een half uur middagpauze.  
   
-Donderdag 12 oktober is een collectieve sluitingsdag en daardoor wordt er dan niet gewerkt. Peter neemt, bijkomend, verlof op vrijdag 13 oktober.  
+Donderdag 10 oktober is een collectieve sluitingsdag en daardoor wordt er dan niet gewerkt. Peter neemt, bijkomend, verlof op vrijdag 11 oktober.  
   
 Hieronder vind je opnieuw de taken, maar nu met de toewijzingen van resources.  
   
@@ -497,13 +493,13 @@ De werkelijke voortgang kan op meerdere manieren aangegeven worden
   
 - Automatisch  
   
-    - Zet de statusdatum op 12 oktober 2023 en kies voor automatisch bijwerken. Alle taken worden dan verondersteld om uitgevoerd te zijn binnen de geschatte planning. Deze methode kan natuurlijk alleen gebruikt worden indien de uitvoering vrijwel gelijk loopt met de planning. Indien dit niet zo is, vullen we de gepresteerde werktijden beter zelf aan. Dit laatste zullen we doen voor de rest van de uitvoering.  
+    - Zet de statusdatum op 10 oktober 2024 en kies voor automatisch bijwerken. Alle taken worden dan verondersteld om uitgevoerd te zijn binnen de geschatte planning. Deze methode kan natuurlijk alleen gebruikt worden indien de uitvoering vrijwel gelijk loopt met de planning. Indien dit niet zo is, vullen we de gepresteerde werktijden beter zelf aan. Dit laatste zullen we doen voor de rest van de uitvoering.  
         - Voeg een voortgangslijn in.  
         - Zoek in de projectstatistieken op voor hoeveel procent ons project al voltooid is. Kijk eveneens eens naar de kosten die al gemaakt zijn en de kosten die nog zullen ontstaan.  
   
 -  Manueel  
   
-    -  Voor de taken die nog uitgevoerd moeten worden op vrijdag 13 oktober, zullen we de voortgang zelf invullen. We veronderstellen dat de tijdsduur van alle taken, behalve voor het plaatsen van de ramen en deuren, correct geschat is. Voor het plaatsen van de ramen en deuren heeft Jan een half uur meer nodig dan voorzien. Het manueel invoeren van gewerkte tijden kan je best doen via de weergave “Taakbeheer”  
+    -  Voor de taken die nog uitgevoerd moeten worden op vrijdag 11 oktober, zullen we de voortgang zelf invullen. We veronderstellen dat de tijdsduur van alle taken, behalve voor het plaatsen van de ramen en deuren, correct geschat is. Voor het plaatsen van de ramen en deuren heeft Jan een half uur meer nodig dan voorzien. Het manueel invoeren van gewerkte tijden kan je best doen via de weergave “Taakbeheer”  
         - Zoek in de projectstatistieken op of er extra kosten gemaakt werden door het extra half uur aan werk.  
   
 ##### Beheer van kosten  
