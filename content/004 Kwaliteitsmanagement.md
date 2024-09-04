@@ -290,7 +290,7 @@ Gegevens verzamelen kost geld zoals besproken in hoofdstuk [[004 Kwaliteitsmanag
   
 In de volgende figuur zie je een overzicht van documenten die zinvolle informatie bevatten om kwaliteit te plannen.   
   
-![](https://i.imgur.com/mjKSn5s.png)  
+![](https://i.imgur.com/5XJXCce.png)  
   
 Enkele technieken werden beknopt in dit hoofdstuk verder uitgewerkt. Het toepassen van deze technieken kan inzichten geven in nieuwe *metrics* of updates van onze bestaande plannen. Binnen dit opleidingsonderdeel zoomen wij niet in op deze documenten, weet dat ze bestaan en zoek ze op wanneer je hier ooit nood aan hebt.  
   
@@ -352,6 +352,59 @@ A: Omdat hij dacht dat het een goed idee zou zijn om zijn kat, genaamd Professor
   
 A: Omdat hij stiekem hoopte dat Professor Whiskers een briljante ontdekking zou doen die de wereld zou veranderen, zodat hij eindelijk zijn scriptie kon schrijven en afstuderen met lof, maar hij vergat dat katten vooral geïnteresseerd zijn in slapen, eten en ravotten, niet in wetenschappelijk onderzoek.  
   
+### Visualiseren van kwaliteitsgegevens  
+  
+Wat je niet meet, weet je niet. Maar om de gegevens snel inzichtelijk te maken, is het aan te raden om de gegevens te visualiseren. Door grote hoeveelheden data inzichtelijk te maken kan je sneller complexe informatie begrijpen en interpreteren, het helpt patronen te identificeren, inzichten vergroten, communicatie te verbeteren (zowel voor interne als externe stakeholders), en het helpt je om prioriteiten te bepalen.  
+  
+De volgende beschreven technieken zijn een kleine greep uit groot aanbod van visualisatiemogelijkheden.  
+  
+#### Affinity diagram  
+  
+Het doel van een affiniteitsdiagram is een complexe set van gegevens te groeperen zodat je verbanden kunt leggen en patronen kan identificeren. Daarna geeft men de gedefinieerde groepen een naam. Deze groepering noemt men thema's of gemeenschappelijke groepen. De officiële termen die men daarbij hanteert zijn affiniteitssets of affiniteitsgroepen. [[./References/@beljaars_2020|@beljaars_2020]]  
+  
+Deze techniek kan ook worden toegepast binnen een [[./007 Agile Projectmanagement#Sprint Retrospective|Sprint Retrospective]] meeting. Hierbij gaat het projectteam op zoek naar sterke en zwakke punten in de werking van het team binnen het project. Gemeenschappelijke opmerkingen van teamleden worden gegroepeerd en geprioriteerd. Bv.: verschillende teamleden melden dat zij een stijgend aantal klachten krijgen van klanten over de levertijden van de producten die via de website verkocht worden.  
+  
+#### Visgraatdiagram  
+  
+Het Ishikawa-diagram (ook wel bekend als visgraatdiagram) is een hulpmiddel dat bedoeld is om mogelijke oorzaken van problemen in kaart te brengen. Deze methode werd ontwikkeld door Kaoru Ishikawa die destijds werkzaam was bij Kawasaki Heavy Industries in Japan. Hij zag dat de mensen in de fabriek vaak werden overweldigd door het grote aantal factoren dat (mogelijk) van invloed was op een proces. Om dit makkelijker en overzichtelijker te maken, bedacht hij een eenvoudig en grafisch hulpmiddel om potentiële oorzaken van een probleem of een effect ordelijk weer te geven. Het doel is om de output van de brainstorm te kunnen structureren en niet zoals vaak gedacht het oplossen van een bestaand probleem. De methode is oorspronkelijk vooral van toepassing op productieprocessen en de bijbehorende kwaliteitscontrole. [[./References/@wikipedia_2023|@wikipedia_2023]]  
+  
+Het diagram helpt bij het zoeken naar de oorzaken voor een bepaald gevolg. Het hulpmiddel kan dienen als root cause analyse (Probleem management), maar het helpt een projectteam ook om enkele primaire en secundaire oorzaken te vinden, gegroepeerd binnen verschillende domeinen (Affinity diagram), voor een gegeven gevolg. Vervolgens kan de projectmanager of het projectteam prioriteiten bepalen om de zwakheden uit een proces te halen. Deze analyse kan als input dienen voor een volgende *continual improvement* initiatief.  
+  
+![](https://i.imgur.com/7Pmpg6O.png)  
+  
+#### Flowcharts  
+  
+Een stroomdiagram kan worden gebruikt om de invulling van verschillende deelprocessen en processtappen inzichtelijk te maken. Stroomdiagrammen worden toegepast om te bepalen welke deelprocessen moeten worden gemonitord, fouten/afwijkingen in deelprocessen te identificeren of veranderingen te standaardiseren. [[./References/@leaninfo_2024|@leaninfo_2024]]  
+  
+De volgende flowchart van een bestelling, toont een standaard proces voor de bestelling van een order item. Door een flowchart toe te passen kan een organisatie, bijvoorbeeld, stilstaande tijden in een proces meten, om vervolgens verbeterinitiatieven op te starten en het aankoopproces te verbeteren.  
+![](https://i.imgur.com/39yCnQs.png)  
+  
+### In- en outputs  
+  
+De figuur In- & outputs van het uitvoeren van kwaliteit, toont een  
+overzicht van documenten en technieken om kwaliteit uit te voeren. Net  
+zoals in het vorige hoofdstuk, is deze informatie ... informatief.  
+![](https://i.imgur.com/WAfdz8u.png)  
+  
+## Beheren van kwaliteit  
+  
+In het laatste onderdeel van kwaliteitsmanagement zoomen we in op de beheerfase. Deze fase markeert een het punt waarin de focus verschuift van implementatie naar continue verbetering en optimalisatie. Door middel van nauwgezette controle en evaluatie worden afwijkingen geïdentificeerd, corrigerende maatregelen genomen en preventieve acties ondernomen om de kwaliteit te handhaven of te verbeteren.  
+  
+In deze fase richt de organisatie zich richt op het bereiken van consistentie, betrouwbaarheid en klanttevredenheid in haar producten, diensten en processen.  
+  
+Bv.: Als gevolg van de *root cause* analyse uit ons voorbeeld (zie hoofdstuk Probleem management), besluit de verantwoordelijke van de inpakafdeling om geen innovatieve ideeën meer rechtstreeks te implementeren in de operationele omgeving, maar elk idee zal getest worden in een testomgeving met fictieve klanten. In deze nieuwe omgeving test men de accuraatheid en precisie van elk nieuw initiatief. De manager dient het proces voor goedkeuring van innovatieve projecten in (*Change Request (CR)*) in bij het management. Nieuwe projecten zullen voortaan aan nieuwe kwaliteitscriteria moeten voldoen alvorens men deze implementeert binnen de bestaande organisatie. Klanten zullen niet meer geimpacteerd worden door gekke ideeën van onze creatieve studenten.  
+  
+Voor de uitvoering van deze testomgeving dienen nieuwe doelstellingen beschreven te worden... Hence, terug naar hoofdstuk 1 van deze cursus.  
+  
+### Tools om gegevens te verzamelen  
+  
+Om processen te beheersen en verbeteren heb je nood aan gegevens. Informatie (of data) komt in diverse vormen. Denk aan de beschreven *metrics* in de planningsfase en gemeten in de uitvoeringsfase.  
+  
+Zo kan de tijdsduur waarin onze garagist de [[004 Kwaliteitsmanagement#Poka Yoke|checklist]] (Zie hoofdstuk: Poka Yoke) doorloopt, informatie geven in de totale doorlooptijd van het proces. Dit kan leiden tot nieuwe verbeterinitiatieven.  
+  
+Tegenwoordig wordt alles gemeten met sensordata, questionnaires, etc. Nogmaals, meet je doelstellingen.  
+  
+![](https://i.imgur.com/Jr3pbJW.png)  
   
 ## Kwaliteitsinstrumenten  
   
@@ -392,14 +445,17 @@ De drie belangrijkste voordelen van het oorzaak- en gevolgdiagram zijn:
 - Focus, wanneer het team zonder ideeën valt, op de plekken waar nog niet voldoende ideeën staan.  
   
   
-## ten slotte - Kwaliteit in Rock  
+## Ten slotte - Kwaliteit in Rock  
   
 ![](https://i.imgur.com/RhXnx1j.png)  
   
 # Bibliografie  
   
+- [[./References/@beljaars_2020|@beljaars_2020]]: _'Wat is een affiniteitsdiagram?'_ -  ** Beljaars, Peter(2020)** https://www.agile4all.nl/wat-is-een-affiniteitsdiagram/<br/><br/>  
 - [[./References/@hogeschoolpxl_2024|@hogeschoolpxl_2024]]: _'Kwaliteitszorg'_ -  ** Hogeschool PXL, (2024)** https://www.pxl.be/Pub/Over-PXL/Kwaliteitszorg.html<br/><br/>  
+- [[./References/@leaninfo_2024|@leaninfo_2024]]: _'Stroomdiagram - Een flowchart maakt uw proces inzichtelijk | LeanInfo.nl'_ -  ** Leaninfo(2024)** https://www.leaninfo.nl/stroomdiagram/<br/><br/>  
 - [[./References/@stefanowicz_2024|@stefanowicz_2024]]: _'15 Essential Help Desk Metrics & KPIs [+ Best Practices]'_ -  ** Stefanowicz, Beata(2024)** https://www.tidio.com/blog/helpdesk-metrics/<br/><br/>  
+- [[./References/@wikipedia_2023|@wikipedia_2023]]: _'Ishikawa-diagram'_ -  ** Wikipedia(2023)** https://nl.wikipedia.org/w/index.php?title=Ishikawa-diagram&oldid=63986119<br/><br/>  
 - [[./References/@cspo_2021|@cspo_2021]]: _'Quality vs. Grade for PMP'_ -  **CSPO, Erin Aldridge, PMP, PMI-ACP, &(2021)** https://projectmanagementacademy.net/resources/blog/quality-vs-grade-pmp-guide/<br/><br/>  
 - [[./References/@governmentofwesternaustralia_2017|@governmentofwesternaustralia_2017]]: _'Improvement tools: Critical success factors and key performance indicators'_ -  **Government of Western Australia,(2017)** https://www.agric.wa.gov.au/improvement-tools-critical-success-factors-and-key-performance-indicators<br/><br/>  
 - [[./References/@sickipedia_2021|@sickipedia_2021]]: _'Het verschil tussen nauwkeurigheid en reproduceerbaarheid'_ -  **SICKipedia,(2021)** https://cdn.sick.com/media/content/hcc/hdf/9692943974430.pdf<br/><br/>  
