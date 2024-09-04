@@ -1,9 +1,9 @@
----  
-share: true  
-title: 007 Agile Projectmanagement  
-category: content  
-order: 7  
----  
+---
+share: true
+title: 007 Agile Projectmanagement
+category: content
+order: 7
+---
 > [!INFO] Projectmanagement © Hogeschool PXL  
 >   
 > **OLOD:** 42TIN1250 Projectmanagement  
