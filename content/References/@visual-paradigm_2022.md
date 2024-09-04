@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: Why Fixed Length Sprints in Scrum?  
-authors: visual-paradigm,  
-year: 2022  
-url: https://www.visual-paradigm.com/scrum/why-fixed-length-of-sprints-in-scrum/  
----  
+---
+share: true
+category: References
+title: Why Fixed Length Sprints in Scrum?
+authors: visual-paradigm,
+year: 2022
+url: https://www.visual-paradigm.com/scrum/why-fixed-length-of-sprints-in-scrum/
+---
   
 # Why Fixed Length Sprints in Scrum?  
   
