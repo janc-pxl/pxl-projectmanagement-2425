@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: "Incremental Model in SDLC: Use, Advantage & Disadvantage"  
-authors: Martin, Matthew  
-year: 2020  
-url: https://www.guru99.com/what-is-incremental-model-in-sdlc-advantages-disadvantages.html  
----  
+---
+share: true
+category: References
+title: "Incremental Model in SDLC: Use, Advantage & Disadvantage"
+authors: Martin, Matthew
+year: 2020
+url: https://www.guru99.com/what-is-incremental-model-in-sdlc-advantages-disadvantages.html
+---
   
 # Incremental Model in SDLC: Use, Advantage & Disadvantage  
   
