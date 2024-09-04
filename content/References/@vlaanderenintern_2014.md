@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: Business Case  
-authors: vlaanderen intern,  
-year: 2014  
-url: https://overheid.vlaanderen.be/organisatie/projectmanagement/business-case  
----  
+---
+share: true
+category: References
+title: Business Case
+authors: vlaanderen intern,
+year: 2014
+url: https://overheid.vlaanderen.be/organisatie/projectmanagement/business-case
+---
   
 # Business Case  
   
