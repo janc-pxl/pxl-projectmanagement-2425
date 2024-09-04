@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: Scrum Master, Teambuilder of Agile Coach?  
-authors: qframe,  
-year: 2021  
-url: https://qframe.be/2021/06/25/scrum-master-teambuilder-of-agile-coach/  
----  
+---
+share: true
+category: References
+title: Scrum Master, Teambuilder of Agile Coach?
+authors: qframe,
+year: 2021
+url: https://qframe.be/2021/06/25/scrum-master-teambuilder-of-agile-coach/
+---
   
 # Scrum Master, Teambuilder of Agile Coach?  
   
