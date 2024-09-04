@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: Sprint Planning  
-authors: agile4all,  
-year: 2019  
-url: https://www.agile4all.nl/sprint-planning/  
----  
+---
+share: true
+category: References
+title: Sprint Planning
+authors: agile4all,
+year: 2019
+url: https://www.agile4all.nl/sprint-planning/
+---
   
 # Sprint Planning  
   
