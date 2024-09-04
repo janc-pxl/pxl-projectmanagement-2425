@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: Hoe werken story points?  
-authors: Vrielink, Martijn  
-year: 2020  
-url: https://www.incentro.com/nl-NL/blog/story-points-hoe-werken-ze-eigenlijk  
----  
+---
+share: true
+category: References
+title: Hoe werken story points?
+authors: Vrielink, Martijn
+year: 2020
+url: https://www.incentro.com/nl-NL/blog/story-points-hoe-werken-ze-eigenlijk
+---
   
 # Hoe werken story points?  
   
