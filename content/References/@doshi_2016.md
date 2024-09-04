@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: The Three Pillars of Empiricism (Scrum)  
-authors: Doshi, Hiren  
-year: 2016  
-url: https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum  
----  
+---
+share: true
+category: References
+title: The Three Pillars of Empiricism (Scrum)
+authors: Doshi, Hiren
+year: 2016
+url: https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum
+---
   
 # The Three Pillars of Empiricism (Scrum)  
   
