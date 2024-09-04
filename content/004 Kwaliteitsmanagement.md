@@ -37,7 +37,7 @@ Ook voor onze onze onderwijsinstelling is kwaliteit van groot belang. [[./Refere
   
 ![](https://i.imgur.com/UsI1aLx.png)  
   
-Dit model ondersteunt het [[004 Kwaliteitsmanagement#Belang van kwaliteit|belang van de kwaliteit ]] binnen PXL. Initieel werd [[004 Kwaliteitsmanagement#Het belang van goede kwaliteitsdoelen|dit plan]] opgesteld, de kwaliteit wordt uitgevoerd tijdens de metingen en voorgesteld in een formeel document (Hoofdstuk 3.4). Momenteel dient de Hogeschool deze kwaliteit te blijven bewaren, en op zoek te gaan naar verbeterpunten (Hoofdstuk 3.5).  
+Dit model ondersteunt het [[004 Kwaliteitsmanagement#Belang van kwaliteit|belang van de kwaliteit ]] binnen PXL. Initieel werd [[004 Kwaliteitsmanagement#Het belang van goede kwaliteitsdoelen|dit plan]] opgesteld, de kwaliteit wordt uitgevoerd tijdens de metingen en voorgesteld in een [[004 Kwaliteitsmanagement#Plannen van kwaliteit|formeel document ]]. Momenteel dient de Hogeschool deze kwaliteit te blijven bewaren, en op zoek te gaan naar verbeterpunten (Hoofdstuk 3.5).  
   
 ## Belang van kwaliteit  
   
@@ -225,7 +225,7 @@ Als de organisatie slaagt voor de audit, wordt het ISO-certificaat toegekend. De
   
 De kwaliteitscirkel van Deming is een creatief hulpmiddel voor kwaliteitsmanagement en probleemoplossing, ontwikkeld door William Edwards Deming.  
   
-![[../docs/images/Pasted image 20240904162619.png|Pasted image 20240904162619.png]]  
+![](https://i.imgur.com/cLwOAJI.png)  
   
 De cirkel beschrijft vier activiteiten die op alle verbeteringen in organisaties van toepassing zijn. De vier activiteiten zorgen voor een betere kwaliteit. Het cyclische karakter garandeert dat de kwaliteitsverbetering continu onder de aandacht is. De indeling komt voort uit het wetenschappelijke proces zoals dat door Francis Bacon (Novum Organum, 1620) werd geformuleerd: hypothese - experiment - evaluatie. De vier activiteiten in de kwaliteitscirkel van Deming zijn:  
   
@@ -276,6 +276,83 @@ Deze creatieve techniek omvat het genereren van een groot aantal ideeën of oplo
 ![](https://i.imgur.com/JMpb1fZ.png)  
   
 Het verkrijgen van kwaliteitsvolle gegevens via brainstorming vereist dat alle deelnemers zich vrij voelen om hun gedachten te uiten zonder angst voor kritiek, wat kan leiden tot nieuwe inzichten en ideeën die anders mogelijk niet zouden worden ontdekt.  
+  
+#### Interview  
+  
+Deze techniek omvat het voeren van gestructureerde of ongestructureerde gesprekken met individuen of groepen om informatie te verzamelen over specifieke onderwerpen, ervaringen of meningen. Door diepgaande vragen te stellen en actief te luisteren naar de antwoorden, kunnen interviews waardevolle inzichten opleveren over de behoeften, verwachtingen en ervaringen van belanghebbenden. Het verkrijgen van kwaliteitsvolle gegevens via interviews vereist goede communicatievaardigheden, empathie en het vermogen om vertrouwen op te bouwen met de respondenten.  
+  
+Denk hier bijvoorbeeld aan een interview met experts of het verzamelen van informatie via online bevragingen (*questionnaires*)  
+### Voorstellen van gegevens  
+  
+Gegevens verzamelen kost geld zoals besproken in hoofdstuk [[004 Kwaliteitsmanagement#Kosten van kwaliteit|Kosten van kwaliteit]]. Goede analyses kosten geld maar zorgen ook voor betere kwaliteit. Maak werk zoveel mogelijk inzichtelijk, zoals bijvoorbeeld de mindmap bij de brainstorm techniek. Of visualiseer je resultaten bij meerdere interviews.  
+  
+### Conclusie plannen van kwaliteit: In- en outputs  
+  
+In de volgende figuur zie je een overzicht van documenten die zinvolle informatie bevatten om kwaliteit te plannen.   
+  
+![](https://i.imgur.com/mjKSn5s.png)  
+  
+Enkele technieken werden beknopt in dit hoofdstuk verder uitgewerkt. Het toepassen van deze technieken kan inzichten geven in nieuwe *metrics* of updates van onze bestaande plannen. Binnen dit opleidingsonderdeel zoomen wij niet in op deze documenten, weet dat ze bestaan en zoek ze op wanneer je hier ooit nood aan hebt.  
+  
+## Uitvoeren van kwaliteit  
+  
+In de planningsfase van ons kwaliteitsmanagementplan hebben we onze doelstellingen duidelijk gedefinieerd. Nu is het tijd om ons plan in werking te zetten en onze doelen te realiseren. Deze fase markeert het begin van een voortdurende reis naar verbetering.  
+  
+Kwaliteit testen tijdens de uitvoeringsfase is meer dan enkel de metrics van de doelstellingen monitoren:  
+### Invloeden van het inwerking stellen van het kwaliteitsmanagementplan  
+  
+#### Quality Assurance (QA)  
+![](https://i.imgur.com/6HgQVCA.png)  
+  
+QA is verantwoordelijk voor het waarborgen van naleving van de vastgestelde kwaliteitsnormen en -procedures gedurende de uitvoering van het project. QA voert regelmatige controles en audits uit om te controleren of processen correct worden geïmplementeerd en of producten en diensten voldoen aan de kwaliteitscriteria. Verder identificeren zijn potentiële risico\'s en afwijkingen van de kwaliteitsstandaarden en werkt samen met het projectteam om corrigerende maatregelen te implementeren en verbeteringen aan te brengen. Nieuw gevonden risico's (of zwaktes) in de processen kunnen leiden tot incidenten (zie verder in de cursus) of tot preventieve maatregelen zoals we zien in de module risicomanagement.  
+  
+#### Beheer van processen  
+  
+Het beheer van processen omvat het plannen, implementeren, bewaken en verbeteren (zie de [[004 Kwaliteitsmanagement#Kwaliteit waarborgen|Cirkel van Deming]]) van de operationele processen om de kwaliteit van producten en diensten te waarborgen. Processen worden gestandaardiseerd en gedocumenteerd om consistentie te waarborgen en om ervoor te zorgen dat alle betrokkenen op dezelfde manier werken. Door continu procesverbetering worden inefficiënties geïdentificeerd en worden optimalisaties doorgevoerd om de algehele kwaliteit en productiviteit te verbeteren. *#lessonsLearnedInLife*  
+  
+#### Impact op andere projecten  
+  
+De uitvoeringsfase van het kwaliteitsmanagementplan kan ook een directe impact hebben op andere lopende projecten binnen de organisatie. Enerzijds kunnen best practices van geleerde lessen uit het plan de prestaties van andere projecten verbeteren. Zo kan je bijvoorbeeld technieken uit deze cursus gebruiken om andere projecten of lessen beter te managen. Anderzijds, kunnen veranderingen of verbeteringen in andere projecten ook van een positieve of negatieve invloed zijn op het plan. Bijvoorbeeld: door de sterke opkomst van A.I. dient Hogeschool PXL hun evaluatievormen te herzien. Een wijziging in het beleid van de hogeschool kan ertoe leiden dat examens, en ook de cursus, op een andere manier gezien worden. Maar de kwaliteit mag niet achteruit gaat.  
+  
+### Incident- & Problem management  
+  
+Incident management en probleem management zijn twee essentiële processen binnen projectmanagement die gericht zijn op het identificeren, beheren en oplossen van problemen en incidenten. Een organisatie met een bepaalde maturiteit in hun werking zullen deze processen gestructureerd aanpakken door een incident of probleemmanager aan te stellen.  
+  
+#### Incident management  
+  
+Incident management richt zich op het **snel en effectief reageren op onverwachte gebeurtenissen** die de normale gang van zaken verstoren. Het doel is om de dienstverlening zo snel mogelijk te herstellen en de impact op de gebruikers te minimaliseren.  
+  
+*Bijvoorbeeld*: Stel je voor dat een klant belt naar de klantenservice van de onderneming en meldt dat ze een verkeerd product hebben ontvangen bij hun bestelling van dierenvoeding. Het incident managementteam reageert snel op het telefoontje, verifieert de details van de bestelling en het verkeerd geleverde product. Ze bieden onmiddellijk hun verontschuldigingen aan bij de klant en regelen een snelle vervanging van het verkeerd geleverde product, inclusief gratis retourzending van het foutieve product. Het incident wordt gedocumenteerd en geanalyseerd om te voorkomen dat dit in de toekomst opnieuw gebeurt.  
+  
+#### Probleem management  
+  
+Probleem management daarentegen richt zich op het onderzoeken van de onderliggende oorzaken van herhaalde incidenten en het implementeren van oplossingen om ze structureel te voorkomen. **Het doel is om de root cause van problemen te identificeren en te elimineren**, waardoor toekomstige incidenten worden voorkomen.  
+  
+Summon je innerlijke kleuter en maak gebruik van de *5 why's* om tot de oorzaak te komen van het incident.  
+  
+![](https://i.imgur.com/a0lU8ma.png)  
+  
+**Q1: Waarom heeft de klant een verkeerd product ontvangen?**  
+  
+A: Omdat het inpakteam van de Hogeschool PXL een praktijkopdracht had om innovatieve verpakkingsmethoden te testen, maar per ongeluk de verpakkingen van hondenbrokken en kattenvoer heeft omgewisseld tijdens hun \'creatieve experiment\'.  
+  
+**Q2: Waarom hebben de studenten van de Hogeschool PXL de verpakkingen van hondenbrokken en kattenvoer omgewisseld?**  
+  
+A: Omdat ze een onverwachte bezoeker kregen in de vorm van een ondeugende kat die door het lab rende en alle labels van de hondenbrokken eraf trok, waardoor een \'spel van verwarring\' ontstond.  
+  
+**Q3: Waarom hadden ze een ondeugende kat in het lab van de Hogeschool PXL?**  
+  
+A: Omdat een van de studenten, Jan, besloot zijn huisdier mee te nemen naar de les voor een \'bring your pet to school\'-dag, maar vergat dat katten niet altijd coöperatief zijn in nieuwe omgevingen.  
+  
+**Q4: Waarom besloot student Jan zijn kat mee te nemen naar de les?**  
+  
+A: Omdat hij dacht dat het een goed idee zou zijn om zijn kat, genaamd Professor Whiskers, te laten kennismaken met de wereld van de wetenschap en technologie, in de hoop dat ze een \'wonderdier\' zou worden dat kan helpen bij het oplossen van problemen in het lab.  
+  
+**Q5: Waarom dacht student Jan dat zijn kat Professor Whiskers een \'wonderdier\' zou worden?**  
+  
+A: Omdat hij stiekem hoopte dat Professor Whiskers een briljante ontdekking zou doen die de wereld zou veranderen, zodat hij eindelijk zijn scriptie kon schrijven en afstuderen met lof, maar hij vergat dat katten vooral geïnteresseerd zijn in slapen, eten en ravotten, niet in wetenschappelijk onderzoek.  
+  
+  
 ## Kwaliteitsinstrumenten  
   
 ![](https://i.imgur.com/2ruPyDz.png)  
