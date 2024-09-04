@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: "Het Scrumteam: uitleg en tips bij de verantwoordelijkheid | Scrumguide.nl"  
-authors: scrumguide,  
-year: 2022  
-url: https://scrumguide.nl/scrumteam/  
----  
+---
+share: true
+category: References
+title: "Het Scrumteam: uitleg en tips bij de verantwoordelijkheid | Scrumguide.nl"
+authors: scrumguide,
+year: 2022
+url: https://scrumguide.nl/scrumteam/
+---
   
 # Het Scrumteam: uitleg en tips bij de verantwoordelijkheid | Scrumguide.nl  
   
