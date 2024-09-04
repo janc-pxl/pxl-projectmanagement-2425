@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: Product Backlog Refinement explained (1/3)  
-authors: van Rooden, Stephan  
-year: 2015  
-url: https://www.scrum.org/resources/blog/product-backlog-refinement-explained-13  
----  
+---
+share: true
+category: References
+title: Product Backlog Refinement explained (1/3)
+authors: van Rooden, Stephan
+year: 2015
+url: https://www.scrum.org/resources/blog/product-backlog-refinement-explained-13
+---
   
 # Product Backlog Refinement explained (1/3)  
   
