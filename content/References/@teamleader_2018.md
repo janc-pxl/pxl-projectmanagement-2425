@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: Hoe stel je een projectplan op? (gratis template) | Teamleader  
-authors: Teamleader,  
-year: 2018  
-url: https://www.teamleader.be/nl-be/blog/projectplan-template  
----  
+---
+share: true
+category: References
+title: Hoe stel je een projectplan op? (gratis template) | Teamleader
+authors: Teamleader,
+year: 2018
+url: https://www.teamleader.be/nl-be/blog/projectplan-template
+---
   
 # Hoe stel je een projectplan op? (gratis template) | Teamleader  
   
