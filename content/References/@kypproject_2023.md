@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: Hoe maak je een projectplanning? | KYP Project  
-authors: kypproject,  
-year: 2023  
-url: https://kypproject.com/nl/blog/hoe-maak-je-een-projectplanning/  
----  
+---
+share: true
+category: References
+title: Hoe maak je een projectplanning? | KYP Project
+authors: kypproject,
+year: 2023
+url: https://kypproject.com/nl/blog/hoe-maak-je-een-projectplanning/
+---
   
 # Hoe maak je een projectplanning? | KYP Project  
   

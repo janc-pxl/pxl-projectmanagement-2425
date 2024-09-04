@@ -1,8 +1,8 @@
----  
-share: true  
-category: Het Gezin PeeTers  
-title: Goedgekeurde PracTische vragen over Projectmanagement  
----  
+---
+share: true
+category: Het Gezin PeeTers
+title: Goedgekeurde PracTische vragen over Projectmanagement
+---
 > [!INFO] Projectmanagement © Hogeschool PXL  
 >   
 > **OLOD:** 42TIN1250 Projectmanagement  

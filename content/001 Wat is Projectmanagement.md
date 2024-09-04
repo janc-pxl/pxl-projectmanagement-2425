@@ -1,9 +1,9 @@
----  
-share: true  
-title: 001 Wat is ProjectManagement?  
-category: content  
-order: 1  
----  
+---
+share: true
+title: 001 Wat is ProjectManagement?
+category: content
+order: 1
+---
 > [!INFO] Projectmanagement © Hogeschool PXL  
 >   
 > **OLOD:** 42TIN1250 Projectmanagement  
@@ -259,6 +259,23 @@ Kosten-, tijd-, kwaliteits- en andere meetbare objectieven. De objectieven diene
 > ![](https://i.imgur.com/uKTEVe5.png)  
 > Afbeelding: SMART  
   
+#### Voorbeeld van een doelstelling  
+The business case: AuthenticClothes wil een online kledingwinkelopzetten genaamd “DigiClothes". Dit bedrijfsidee richt zich op het verkopen van trendy kleding voor jonge volwassenen.  
+  
+##### Doelstelling afdeling Marketing  
+  
+- **Specifiek**: Verhoog de naamsbekendheid van AuthenticClothes door middel van sociale media marketing.  
+- **Meetbaar**: Verkrijg minimaal 10.000 volgers op Instagram binnen zes maanden.  
+- **Acceptabel**: Investeer in betaalde advertenties en samenwerkingen met invloedrijke social media-personen om de volgers te vergroten.  
+- **Realistisch**: Sociale media is een essentieel marketingkanaal voor kledingwinkelsom een jong publiek te bereiken.  
+- **Tijdsgebonden**: Bereik de doelstelling van 10.000 volgers binnen zes maanden na de lancering van ChicCloset  
+  
+##### Doelstelling afdeling Financiën  
+- **Specifiek**: Verhoog de winstgevendheid van ChicCloset door de operationele kosten te verlagen.  
+- **Meetbaar**: Verminder de voorraadkosten met 15% binnen het eerste jaar van operatie.  
+- **Acceptabel**: Optimaliseer de voorraadbeheersoftware en onderhandel met leveranciers voor betere inkoopprijzen.  
+- **Realistisch**: Lagere operationele kosten dragen bij aan een hogere winstmarge voor ChicCloset.  
+- **Tijdsgebonden**: Realiseer een vermindering van 15% in voorraadkosten binnen het eerste jaar na de lancering van ChicCloset.  
 ## Work breakdown structure  
 ![](https://i.imgur.com/7MwPkNO.png)  
   

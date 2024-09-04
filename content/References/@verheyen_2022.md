@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: Scrum Glossary  
-authors: Verheyen, Gunther  
-year: 2022  
-url: https://scrumglossary.org/  
----  
+---
+share: true
+category: References
+title: Scrum Glossary
+authors: Verheyen, Gunther
+year: 2022
+url: https://scrumglossary.org/
+---
   
 # Scrum Glossary  
   

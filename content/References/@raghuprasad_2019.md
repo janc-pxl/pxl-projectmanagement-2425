@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: Basics of Sprint Planning - WHAT  
-authors: Raghuprasad,  
-year: 2019  
-url: https://agilebatech.com/what-is-sprint-planning/  
----  
+---
+share: true
+category: References
+title: Basics of Sprint Planning - WHAT
+authors: Raghuprasad,
+year: 2019
+url: https://agilebatech.com/what-is-sprint-planning/
+---
   
 # Basics of Sprint Planning - WHAT  
   

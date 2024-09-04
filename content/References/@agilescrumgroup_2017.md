@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: Wat is Definition of Done? Check de uitleg en voorbeelden (IT & non-IT)  
-authors: Agile Scrum Group,  
-year: 2017  
-url: https://agilescrumgroup.nl/wat-is-definition-of-done/  
----  
+---
+share: true
+category: References
+title: Wat is Definition of Done? Check de uitleg en voorbeelden (IT & non-IT)
+authors: Agile Scrum Group,
+year: 2017
+url: https://agilescrumgroup.nl/wat-is-definition-of-done/
+---
   
 # Wat is Definition of Done? Check de uitleg en voorbeelden (IT & non-IT)  
   

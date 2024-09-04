@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: Moeten we kiezen tussen de klant en de medewerker?  
-authors: Steven Blom  
-year: 2018  
-url: https://www.blomconsultancy.nl/kiezen-tussen-klant-en-medewerker/  
----  
+---
+share: true
+category: References
+title: Moeten we kiezen tussen de klant en de medewerker?
+authors: Steven Blom
+year: 2018
+url: https://www.blomconsultancy.nl/kiezen-tussen-klant-en-medewerker/
+---
   
 # Moeten we kiezen tussen de klant en de medewerker?  
   

@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: User Story  
-authors: productplan,  
-year: 2022  
-url: https://www.productplan.com/glossary/user-story/  
----  
+---
+share: true
+category: References
+title: User Story
+authors: productplan,
+year: 2022
+url: https://www.productplan.com/glossary/user-story/
+---
   
 # User Story  
   

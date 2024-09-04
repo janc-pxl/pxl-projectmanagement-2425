@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: How to Be An Effective Product Owner  
-authors: userstorymap,  
-year: 2022  
-url: https://www.userstorymap.io/being-an-effective-product-owner/  
----  
+---
+share: true
+category: References
+title: How to Be An Effective Product Owner
+authors: userstorymap,
+year: 2022
+url: https://www.userstorymap.io/being-an-effective-product-owner/
+---
   
 # How to Be An Effective Product Owner  
   

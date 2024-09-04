@@ -1,11 +1,11 @@
----  
-share: true  
-category: References  
-title: Scrum takenbord | Scrumguide.nl  
-authors: Scrumguide,  
-year: 2022  
-url: https://scrumguide.nl/scrumbord/  
----  
+---
+share: true
+category: References
+title: Scrum takenbord | Scrumguide.nl
+authors: Scrumguide,
+year: 2022
+url: https://scrumguide.nl/scrumbord/
+---
   
 # Scrum takenbord | Scrumguide.nl  
   
