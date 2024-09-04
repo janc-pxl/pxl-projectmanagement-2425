@@ -1,9 +1,9 @@
----  
-share: true  
-title: 002 Projectplanning  
-category: content  
-order: 2  
----  
+---
+share: true
+title: 002 Projectplanning
+category: content
+order: 2
+---
 > [!INFO] Projectmanagement © Hogeschool PXL  
 >   
 > **OLOD:** 42TIN1250 Projectmanagement  
