@@ -1,12 +1,12 @@
----  
-share: true  
-category: References  
-title: PUE and how much energy ChatGPT consumes  
-citekey: PUEhow  
-type: literaturenote  
-tags:   
-summary: ""  
----  
+---
+share: true
+category: References
+title: PUE and how much energy ChatGPT consumes
+citekey: PUEhow
+type: literaturenote
+tags: 
+summary: ""
+---
   
 > [!Cite]   
 > ‘PUE and How Much Energy ChatGPT Consumes’. Accessed 24 May 2024. [https://www.linkedin.com/pulse/pue-how-much-energy-chatgpt-consumes-olly-salzmann-bzrce](https://www.linkedin.com/pulse/pue-how-much-energy-chatgpt-consumes-olly-salzmann-bzrce).  
