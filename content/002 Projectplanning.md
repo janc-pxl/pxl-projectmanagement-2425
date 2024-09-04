@@ -154,13 +154,13 @@ Indien de T$_L$ en de T$_E$ van het hele project aan elkaar gelijk gesteld worde
 ### Oefeningen  
   
 #### Oefening 1  
-![](https://i.imgur.com/h39fQEK.png)  
+![](https://i.imgur.com/JdvdiUn.png)  
   
 1. Bepaal de doorlooptijd  
 2. Duid het kritieke pad aan  
   
 #### Oefening 2  
-![](https://i.imgur.com/mrmPZKL.png)  
+![](https://i.imgur.com/cfBQHVI.png)  
   
 1. Bepaal de doorlooptijd  
 2. Duid het kritieke pad aan  
@@ -186,33 +186,26 @@ De volgende activiteiten kwamen van pas toen een farao een piramide wenste te bo
   
 #### Oefening 4  
   
-Een automatiseringsproject bij het bedrijf "YouShallNotPass" omvat 14 activiteiten :  
+Een grote digitaliseringsproject bij het transportbedrijf *“H. Oessers”* omvat 14 activiteiten :  
   
 1. Het uitvoeren van de projectanalyse (act1) moet zijn gebeurd voordat de andere activiteiten kunnen starten. (10 weken)  
-  
 2. Na de projectanalyse kan men beginnen met :  
-	- de probleemanalyse van de backend (act 2; 10 weken)  
-	- de probleemanalyse van de frontend (act 3; 5 weken)  
-	- het aanvragen van offertes voor de computerinstallatie (act 4; 5 weken)  
-	- werving en selectie van personeel (act 5; 10 weken)  
-  
+	 - de probleemanalyse van het CRM-systeem(act 2; 10 weken)  
+	 - de probleemanalyse van het ERP-systeem (act 3; 5 weken)  
+	 - het aanvragen van offertes voor de computerinstallatie (act 4; 5 weken)  
+	 - werving en selectie van personeel (act 5; 10 weken)  
 3. Na voltooiing van act 2 kan men beginnen met :  
-	- de bouw van de backend (act 6; 30 weken)  
-	- de invoeringsvoorbereiding van de backend (act 7;20 weken)  
-  
+	 - de bouw van het CRM-systeem (act 6; 30 weken)  
+	 - de invoeringsvoorbereiding het CRM-systeem (act 7;20 weken)  
 4. Na voltooiing van act 3 kan men beginnen met :  
-	- de bouw van de frontend (act 8; 30 weken)  
-	- de invoeringsvoorbereiding van de frontend (act 9; 20 weken)  
+	 - de bouw van het ERP-systeem (act 8; 30 weken)  
+	 - de invoeringsvoorbereiding van het ERP-systeem (act 9; 20 weken)  
+5. Na voltooiing van act 4 kan men beginnen met act 10 : de laptopkeuze, gevolgd door de levering van de laptops. (45 weken)  
+6. Nadat de laptops geleverd zijn en act 5 is voltooid, kan men act 11 uitvoeren: de installatie van de software. (5 weken)  
+7. Na voltooiing van de activiteiten 6, 7, 11 kan men beginnen met act 12 : de invoering van het CRM-systeem. (10 weken)  
+8. Na voltooiing van de activiteiten 8, 9, 11 kan men beginnen met de act 13 : de invoering van het ERP-systeem. (10 weken)  
+9. Na invoering van beide systemen kan men act 14 starten: de integratie van het ERP en CRM systeem (10 weken)  
   
-5. Na voltooiing van act 4 kan men beginnen met act 10 : de computerkeuze, gevolgd door de levering van de computer. (45 weken)  
-  
-6. Nadat de computer geleverd is en act 5 is voltooid, kan men act 11 uitvoeren : de installatie van de computer .(5 weken)  
-  
-7. Na voltooiing van de activiteiten 6, 7, 11 kan men beginnen met act 12 : de invoering van de backend. (10 weken)  
-  
-8. Na voltooiing van de activiteiten 8, 9, 11 kan men beginnen met de act 13 : de invoering van de frontend. (10 weken)  
-  
-9. Na invoering van de backend en frontend kan men act 14 starten : de integratie van de Backend en frontend. (10 weken)  
   
 **Gevraagd**  
   
