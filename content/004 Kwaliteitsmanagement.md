@@ -3,6 +3,8 @@ share: true
 title: 004 Kwaliteitsmanagement
 category: content
 order: 4
+tags:
+  - lessonsLearnedInLife
 ---
 > [!INFO] Projectmanagement © Hogeschool PXL  
 >   
@@ -127,7 +129,9 @@ Het bepalen van je doelen en KPI’s doe je tijdens de planningsfase en monitor 
   
 ### Kwaliteitsbegrippen & belangrijke terminologie (Lingo)  
 ![](https://i.imgur.com/VEwPdZ3.png)  
+  
 #### Kwaliteit versus Uitwerking  
+  
 Het is belangrijk de verschillen tussen aan de ene kant de **kwaliteit** en aan de andere kant de **uitwerking** (of mogelijkheden) van een product te begrijpen  
   
 > [!NOTE] Definitie: KWALITEIT  
@@ -150,6 +154,7 @@ Vanuit het oogpunt van kwaliteit en uitwerking zijn er vier mogelijke combinatie
 [[./References/@cspo_2021|@cspo_2021]]  
   
 #### Nauwkeurigheid versus precisie (reproduceerbaarheid)  
+  
 Men gebruikt de begrippen **nauwkeurigheid** en **precisie** door elkaar en men beschouwd ze als synoniemen. Maar ze hebben duidelijk een andere betekenis. De nauwkeurigheid geeft aan hoe accuraat de meting is, ofwel hoe groot de afwijking is tussen de gemeten en werkelijke waarde. De precisie heeft betrekking op de spreiding van de gemeten waarden uit een serie metingen.   
   
 > [!NOTE] Definitie  
@@ -157,6 +162,7 @@ Men gebruikt de begrippen **nauwkeurigheid** en **precisie** door elkaar en men 
 > - **Precisie**, **Reproduceerbaarheid** of **herhaalnauwkeurigheid** van een meting geeft aan, bij gelijke omstandigheden, hoe goed eenzelfde uitkomst wordt gehaald. Bij afstandmeetsystemen wordt de maximale afwijking in mm aangegeven, waarmee een meting onder gelijke omstandigheden kan afwijken. Reproduceerbaarheid is dus niet te verwarren met absolute nauwkeurigheid.  
   
 ##### Voorbeeld schietschijf  
+  
 Kijken we ter illustratie van het verschil tussen nauwkeurigheid en reproduceerbaarheid naar het voorbeeld met een schietschijf. Het doel is om met een aantal schoten minimaal in het groene vlak terecht te komen.  
   
 ![](https://i.imgur.com/gDRB62k.png)  
@@ -168,6 +174,7 @@ Kijken we ter illustratie van het verschil tussen nauwkeurigheid en reproduceerb
   
 [[./References/@sickipedia_2021|@sickipedia_2021]]  
 ##### Voorbeeld *recommendations* van nieuwe nummers op Spotify  
+  
 Spotify zal steeds op basis van jouw luistergegevens nieuwe nummers aanbevelen. Hoe meer gegevens Spotify over jou bezit, hoe beter het A.I. systeem de juiste voorspellingen kan maken om jou op het platform te houden.   
   
 ![](https://i.imgur.com/h5ib5fF.png)  
@@ -198,6 +205,7 @@ Het is van belang om een balans te vinden tussen investeren in kwaliteit en het 
 Door middel van automatisatie kunnen menselijke fouten zoveel mogelijk vermeden worden.  
   
 #### Poka Yoke  
+  
 Kwaliteitsmanagement richt zich op het voorkomen van fouten. Door toepassing van de techniek Poka-Yoke's wordt voorkomen dat er menselijke vergissingen, fouten, of blunders worden gemaakt, die ernstige gevolgen zouden kunnen hebben. Poka-Yoke's zijn effectiever, superieur aan en meer op de praktijk gericht dan alle andere bekende systemen om de kwaliteit te verbeteren. Het is een methodiek om invulling te geven aan het streven naar Zero-Defects.  
   
 ![](https://i.imgur.com/rbd0eKE.png)  
@@ -238,14 +246,15 @@ De cirkel beschrijft vier activiteiten die op alle verbeteringen in organisaties
   
 Kern van deze visie is dat elke medewerker aan een (productie-) proces op deze manier in staat is om zijn eigen werkwijze te beoordelen en te verbeteren. De handelingen van de medewerker vormen namelijk een eigen deelproces van het hoger gelegen proces. Management dient de analyse te doen over de hoger gelegen processen, de directie voor de primaire bedrijfsprocessen. Deze kwaliteitscirkel-methode wordt vaker onbewust impliciet dan bewust expliciet toegepast.  
   
-*Informatief: Deming heeft zijn cirkel gebaseerd op de verbetercirkel van de natuurkundige Walter A. Shewhart. Zelf heeft Deming hem ook altijd de Shewhart-cirkel of PDSA-cyclus genoemd. De enige verandering die Deming later heeft doorgevoerd is de term 'Study' van Shewhart te vervangen door de term 'Check' omdat dit beter aansluit bij de bedoeling van die stap. Zo ontstond de PDCA-cyclus.*  
+> [!info] Informatief  
+> Deming heeft zijn cirkel gebaseerd op de verbetercirkel van de natuurkundige Walter A. Shewhart. Zelf heeft Deming hem ook altijd de Shewhart-cirkel of PDSA-cyclus genoemd. De enige verandering die Deming later heeft doorgevoerd is de term 'Study' van Shewhart te vervangen door de term 'Check' omdat dit beter aansluit bij de bedoeling van die stap. Zo ontstond de PDCA-cyclus.*  
   
 Naast de cirkel van Deming bestaan er nog enkele andere systemen ten voordele van kwaliteit en risicobeheersing, maar deze behandelen we niet verder in de cursus.  
   
-- Total Quality Management: Verdere uitbreiding van dit hoofdstuk  
-- Six Sigma: Reduceren van defecten door effectief problemen op te lossen  
-- Lean: Reduceren van verspilling door stroomlijnen proces  
-- Lean Six Sigma: Problemen oplossen en processen verbeteren  
+- **Total Quality Management**: Verdere uitbreiding van dit hoofdstuk  
+- **Six Sigma**: Reduceren van defecten door effectief problemen op te lossen  
+- **Lean**: Reduceren van verspilling door stroomlijnen proces  
+- **Lean Six Sigma**: Problemen oplossen en processen verbeteren  
   
 ## Plannen van kwaliteit  
   
@@ -265,6 +274,7 @@ De vorm of structuur van een plan is afhankelijk van het project of de omgeving.
 ### Technieken voor het verzamelen van data of projectgegevens  
   
 #### Benchmark  
+  
 Deze techniek omvat het vergelijken van de prestaties, processen en praktijken van de eigen organisatie met die van andere organisaties die als leiders worden beschouwd in de branche. Door benchmarking kunnen organisaties inzicht krijgen in best practices en gebieden identificeren waar verbetering nodig is om hun eigen prestaties te verbeteren. Het verkrijgen van kwaliteitsvolle gegevens via benchmarking vereist grondig onderzoek, nauwkeurige metingen en het vermogen om relevante informatie te interpreteren en toe te passen.  
   
 Bijvoorbeeld: de tijd tussen een melding van een klant (incident) en het opnemen van de melding door de mensen van support (helpdesk) was in 2023: 4u en 42 minuten volgens [[./References/@stefanowicz_2024|@stefanowicz_2024]]. Deze metriek kan een zinvol meetpunt zijn om klanten snel te helpen en goede kwaliteit te leveren bij problemen.  
@@ -364,6 +374,8 @@ Het doel van een affiniteitsdiagram is een complexe set van gegevens te groepere
   
 Deze techniek kan ook worden toegepast binnen een [[./007 Agile Projectmanagement#Sprint Retrospective|Sprint Retrospective]] meeting. Hierbij gaat het projectteam op zoek naar sterke en zwakke punten in de werking van het team binnen het project. Gemeenschappelijke opmerkingen van teamleden worden gegroepeerd en geprioriteerd. Bv.: verschillende teamleden melden dat zij een stijgend aantal klachten krijgen van klanten over de levertijden van de producten die via de website verkocht worden.  
   
+![](https://i.imgur.com/DxBBsDp.png)  
+  
 #### Visgraatdiagram  
   
 Het Ishikawa-diagram (ook wel bekend als visgraatdiagram) is een hulpmiddel dat bedoeld is om mogelijke oorzaken van problemen in kaart te brengen. Deze methode werd ontwikkeld door Kaoru Ishikawa die destijds werkzaam was bij Kawasaki Heavy Industries in Japan. Hij zag dat de mensen in de fabriek vaak werden overweldigd door het grote aantal factoren dat (mogelijk) van invloed was op een proces. Om dit makkelijker en overzichtelijker te maken, bedacht hij een eenvoudig en grafisch hulpmiddel om potentiële oorzaken van een probleem of een effect ordelijk weer te geven. Het doel is om de output van de brainstorm te kunnen structureren en niet zoals vaak gedacht het oplossen van een bestaand probleem. De methode is oorspronkelijk vooral van toepassing op productieprocessen en de bijbehorende kwaliteitscontrole. [[./References/@wikipedia_2023|@wikipedia_2023]]  
@@ -384,6 +396,7 @@ De volgende flowchart van een bestelling, toont een standaard proces voor de bes
 De figuur In- & outputs van het uitvoeren van kwaliteit, toont een  
 overzicht van documenten en technieken om kwaliteit uit te voeren. Net  
 zoals in het vorige hoofdstuk, is deze informatie ... informatief.  
+  
 ![](https://i.imgur.com/WAfdz8u.png)  
   
 ## Beheren van kwaliteit  
@@ -394,56 +407,23 @@ In deze fase richt de organisatie zich richt op het bereiken van consistentie, b
   
 Bv.: Als gevolg van de *root cause* analyse uit ons voorbeeld (zie hoofdstuk Probleem management), besluit de verantwoordelijke van de inpakafdeling om geen innovatieve ideeën meer rechtstreeks te implementeren in de operationele omgeving, maar elk idee zal getest worden in een testomgeving met fictieve klanten. In deze nieuwe omgeving test men de accuraatheid en precisie van elk nieuw initiatief. De manager dient het proces voor goedkeuring van innovatieve projecten in (*Change Request (CR)*) in bij het management. Nieuwe projecten zullen voortaan aan nieuwe kwaliteitscriteria moeten voldoen alvorens men deze implementeert binnen de bestaande organisatie. Klanten zullen niet meer geimpacteerd worden door gekke ideeën van onze creatieve studenten.  
   
-Voor de uitvoering van deze testomgeving dienen nieuwe doelstellingen beschreven te worden... Hence, terug naar hoofdstuk 1 van deze cursus.  
+Voor de uitvoering van deze testomgeving dienen nieuwe doelstellingen beschreven te worden... Hence, terug naar [[004 Kwaliteitsmanagement#Het belang van goede kwaliteitsdoelen|hoofdstuk 1 van deze cursus]].  
   
 ### Tools om gegevens te verzamelen  
   
 Om processen te beheersen en verbeteren heb je nood aan gegevens. Informatie (of data) komt in diverse vormen. Denk aan de beschreven *metrics* in de planningsfase en gemeten in de uitvoeringsfase.  
   
-Zo kan de tijdsduur waarin onze garagist de [[004 Kwaliteitsmanagement#Poka Yoke|checklist]] (Zie hoofdstuk: Poka Yoke) doorloopt, informatie geven in de totale doorlooptijd van het proces. Dit kan leiden tot nieuwe verbeterinitiatieven.  
+Zo kan de tijdsduur waarin onze garagist de [[004 Kwaliteitsmanagement#Poka Yoke|checklist]] doorloopt, informatie geven in de totale doorlooptijd van het proces. Dit kan leiden tot nieuwe verbeterinitiatieven.  
   
 Tegenwoordig wordt alles gemeten met sensordata, questionnaires, etc. Nogmaals, meet je doelstellingen.  
   
 ![](https://i.imgur.com/Jr3pbJW.png)  
   
-## Kwaliteitsinstrumenten  
+### In- en outputs  
   
-![](https://i.imgur.com/2ruPyDz.png)  
+De output uit de uitvoeringsfase, kan als input dienen van de beheerfase. Ook deze fase bevat enkele technieken, waarvan een klein deel hierboven beschreven, om kwaliteit te beheren.  
   
-  
-### Kwaliteitsinstrument: Oorzaak- en gevolgdiagram (Visgraatdiagram)  
-  
-#### Wat   
-  
-Dit diagram kreeg de naam "Fishbone" of "Visgraat" omwille van de vorm, die erg lijkt op het skelet van een vis. Het is uitgevonden en bekend gemaakt door de Japanse professor [Kaoru Ishikawa](https://en.wikipedia.org/wiki/Kaoru_Ishikawa), de vader van de “kwaliteitscirkels.”  
-  
-### Waarom  
-  
-Op het moment dat er zich problemen voordoen bij projecten, hebben organisaties een gestructureerde aanpak nodig om de oorzaak van het probleem te bepalen, en het onmiddellijk op te lossen.   
-Een oppervlakkig probleem oplossen zonder de echte oorzaak aan te pakken is slechts een pleister op de wonde.  
-  
-De drie belangrijkste voordelen van het oorzaak- en gevolgdiagram zijn:  
-  
-1. Ze bevorderen teamwerk. De diagrammen komen gebruikelijk uit brainstorm-sessies en zelden vanuit een enkel individu.  
-2. Ze bevorderen gestructureerde analyse en denkwijzen. Het visgraat diagram is bij voorkeur [MECE](https://nl.wikipedia.org/wiki/MECE-principe) (_Mutually Exclusive, Collectively Exhaustive_, met andere woorden: wederzijds exclusief en gezamenlijk compleet). In andere woorden: het moet alle oorzaken bevatten die leiden tot het probleem en geen enkele oorzaak kan een dubbel van een ander zijn,  
-3. Het helpt het team de echte oorzaak van het probleem te visualiseren en *bottlenecks* uit te schakelen.  
-  
-#### Hoe  
-![](https://i.imgur.com/VwaFowr.png)  
-  
-- Bepaal het probleem (gevolg). Noteer die midden-rechts op het papier of bord. Zet er een rechthoek of cirkel rond en teken er een horizontale pijl naartoe.  
-- Brainstorm over de belangrijkste soorten oorzaken van het probleem. Indien dit moeilijk is, gebruik dan algemene rubrieken:  
-	- **methodes**: wanneer de werkmethode niet voldoende funtioneert  
-	- **machines/apparatuur**: het functioneren van machines of installaties  
-	- **mensen/mankracht**: waar het menselijk handelen ten grondslag ligt  
-	- **materialen**: gebruikte materialen, hulpstoffen of gereedschappen  
-	- **management**: onvoldoende plannen, organiseren, leidinggeven en bijsturen  
-	- **omgeving**: oorzaken gelegen in de werkomgeving, de locatie  
-- Noteer de oorzaakcategorieën als aftakkingen vanuit de hoofdpijl.  
-- Brainstorm alle mogelijke oorzaken van het probleem. Vraag *"Waarom gebeurt dit?"*. Noteer elk van de ideeën als vertakking van de overeenstemmende categorie. Je kan oorzaken op meerdere plekken noteren als ze voor meerdere categorieën gelden.  
-- Vraag opnieuw *"Waarom gebeurt dit?"* voor elke oorzaak en maak hiervan vervolgens subtakken. Blijf verder *"Waarom?"* vragen om zo tot diepere oorzaken te komen.  
-- Focus, wanneer het team zonder ideeën valt, op de plekken waar nog niet voldoende ideeën staan.  
-  
+![](https://i.imgur.com/NoHRIlc.png)  
   
 ## Ten slotte - Kwaliteit in Rock  
   
