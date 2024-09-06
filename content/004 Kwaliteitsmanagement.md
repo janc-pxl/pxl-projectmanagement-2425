@@ -39,7 +39,8 @@ Ook voor onze onze onderwijsinstelling is kwaliteit van groot belang. [[./Refere
   
 ![](https://i.imgur.com/UsI1aLx.png)  
   
-Dit model ondersteunt het [[004 Kwaliteitsmanagement#Belang van kwaliteit|belang van de kwaliteit ]] binnen PXL. Initieel werd [[004 Kwaliteitsmanagement#Het belang van goede kwaliteitsdoelen|dit plan]] opgesteld, de kwaliteit wordt uitgevoerd tijdens de metingen en voorgesteld in een [[004 Kwaliteitsmanagement#Plannen van kwaliteit|formeel document ]]. Momenteel dient de Hogeschool deze kwaliteit te blijven bewaren, en op zoek te gaan naar verbeterpunten (Hoofdstuk 3.5).  
+Dit model ondersteunt het [[004 Kwaliteitsmanagement#Belang van kwaliteit|belang van de kwaliteit]] binnen PXL.   
+Initieel werd [[004 Kwaliteitsmanagement#Het belang van goede kwaliteitsdoelen|dit plan]] opgesteld, de kwaliteit wordt uitgevoerd tijdens de metingen en voorgesteld in een [[004 Kwaliteitsmanagement#Plannen van kwaliteit|formeel document ]]. Momenteel dient de Hogeschool deze kwaliteit te blijven [[004 Kwaliteitsmanagement#Beheren van kwaliteit|bewaren, en op zoek te gaan naar verbeterpunten]].  
   
 ## Belang van kwaliteit  
   
@@ -407,7 +408,7 @@ In deze fase richt de organisatie zich richt op het bereiken van consistentie, b
   
 Bv.: Als gevolg van de *root cause* analyse uit ons voorbeeld (zie hoofdstuk Probleem management), besluit de verantwoordelijke van de inpakafdeling om geen innovatieve ideeën meer rechtstreeks te implementeren in de operationele omgeving, maar elk idee zal getest worden in een testomgeving met fictieve klanten. In deze nieuwe omgeving test men de accuraatheid en precisie van elk nieuw initiatief. De manager dient het proces voor goedkeuring van innovatieve projecten in (*Change Request (CR)*) in bij het management. Nieuwe projecten zullen voortaan aan nieuwe kwaliteitscriteria moeten voldoen alvorens men deze implementeert binnen de bestaande organisatie. Klanten zullen niet meer geimpacteerd worden door gekke ideeën van onze creatieve studenten.  
   
-Voor de uitvoering van deze testomgeving dienen nieuwe doelstellingen beschreven te worden... Hence, terug naar [[004 Kwaliteitsmanagement#Het belang van goede kwaliteitsdoelen|hoofdstuk 1 van deze cursus]].  
+Voor de uitvoering van deze testomgeving dienen nieuwe doelstellingen beschreven te worden... Hence, terug naar [[004 Kwaliteitsmanagement#Belang van kwaliteit|hoofdstuk 1 van deze cursus]].  
   
 ### Tools om gegevens te verzamelen  
   
