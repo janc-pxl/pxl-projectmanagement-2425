@@ -1,9 +1,9 @@
----  
-title: Inhoud  
-share: true  
-category: content  
-order: 0  
----  
+---
+title: Inhoud
+share: true
+category: content
+order: 0
+---
 > [!INFO] Projectmanagement © Hogeschool PXL  
 >   
 > **OLOD:** 42TIN1250 Projectmanagement  
