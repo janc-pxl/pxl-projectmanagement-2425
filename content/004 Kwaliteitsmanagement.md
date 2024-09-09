@@ -3,8 +3,6 @@ share: true
 title: 004 Kwaliteitsmanagement
 category: content
 order: 4
-tags:
-  - lessonsLearnedInLife
 ---
 > [!INFO] Projectmanagement © Hogeschool PXL  
 >   
@@ -85,7 +83,7 @@ De KSF'en en KPI's helpen een onderneming de focus te bewaren op de belangrijkst
 De beste manier om Kritische Succesfactoren (KSF'en) en Kritische Prestatie-indicatoren (KPI's) te begrijpen is door te kijken naar een aantal voorbeelden. Het begrip 'doel' dat je daar tegenkomt, is het noodzakelijk prestatieniveau om het doel te bereiken. Merk bovendien op dat de doelen SMART gedefinieerd zijn.  
   
   
-**Voorbeeld 1: Een restaurant**  
+#### Voorbeeld 1: Een restaurant  
   
 **Doel:** Tegen januari volgend jaar de winst met 5% verhogen, door 10% meer middag- en avondmalen te verwerken zonder de brutomarges te verlagen.  
   
@@ -96,7 +94,7 @@ De beste manier om Kritische Succesfactoren (KSF'en) en Kritische Prestatie-indi
 | Kwaliteit van het eten | % maaltijden teruggestuurd wegens ondermaatse kwaliteit | 2%   |  
   
   
-**Voorbeeld 2: Fabrikant van witgoed**  
+#### Voorbeeld 2: Fabrikant van witgoed  
   
 **Doel:** De bedrijfswinst van een wasmachinefabrikant verhogen met 5% binnen de twee jaar.  
   
@@ -107,7 +105,7 @@ De beste manier om Kritische Succesfactoren (KSF'en) en Kritische Prestatie-indi
 | Lage productiekosten   | gemiddelde variabele kosten van een toestel           | <350€ |  
 | Marktaandeel           | % van de markt bezitten                               | 15%   |  
   
-**Wanneer je het zelf doet**  
+#### Wanneer je het zelf doet  
   
 Waar je zelf KSF'en, KPI's en doelen gaat opstellen is het nuttig op de volgende manier te denken:  
   
