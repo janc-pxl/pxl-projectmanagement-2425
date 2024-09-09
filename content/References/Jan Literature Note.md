@@ -1,12 +1,15 @@
----  
-share: true  
-category: References  
-title: "{{title}}"  
-citekey: "{{citekey}}"  
-type: literaturenote  
-tags:   
-summary: "{{markdownNotes}}"  
----  
+---
+share: true
+category: References
+title: "{{title}}"
+citekey: "{{citekey}}"
+type: literaturenote
+tags: 
+summary: "{{markdownNotes}}"
+year: '{{date | format ("YYYY")}}'
+url: "{{url}}"
+authors: "{%- for creator in creators -%}{%- if creator.name %} {{creator.name}}{%- else %} {{creator.lastName}}, {{creator.firstName}}{%- endif %}{% endfor %}"
+---
   
 > [!Cite]   
 > {{bibliography}}  

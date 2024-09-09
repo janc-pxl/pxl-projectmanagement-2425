@@ -2,14 +2,17 @@
 share: true
 category: References
 title: PUE and how much energy ChatGPT consumes
-citekey: PUEhow
+citekey: salzmann_2023
 type: literaturenote
 tags: 
 summary: ""
+year: "2023"
+url: https://www.linkedin.com/pulse/pue-how-much-energy-chatgpt-consumes-olly-salzmann-bzrce
+authors: " Salzmann, Olly"
 ---
   
 > [!Cite]   
-> ‘PUE and How Much Energy ChatGPT Consumes’. Accessed 24 May 2024. [https://www.linkedin.com/pulse/pue-how-much-energy-chatgpt-consumes-olly-salzmann-bzrce](https://www.linkedin.com/pulse/pue-how-much-energy-chatgpt-consumes-olly-salzmann-bzrce).  
+> Salzmann, O. (2023, December 21). _PUE and how much energy ChatGPT consumes_. [https://www.linkedin.com/pulse/pue-how-much-energy-chatgpt-consumes-olly-salzmann-bzrce](https://www.linkedin.com/pulse/pue-how-much-energy-chatgpt-consumes-olly-salzmann-bzrce)  
   
   
 ---  
@@ -17,10 +20,11 @@ summary: ""
 # Metadata  
   
 >[!Properties]  
-      
+> **FirstAuthor** Salzmann, Olly    
+~      
 > **Title** PUE and how much energy ChatGPT consumes    
-> **Year** Error: `format` can only be applied to dates. Tried for format object     
-> **Citekey** PUEhow    
+> **Year** 2023     
+> **Citekey** salzmann_2023    
 > **itemType** webpage      
   
 > [!LINK]   
