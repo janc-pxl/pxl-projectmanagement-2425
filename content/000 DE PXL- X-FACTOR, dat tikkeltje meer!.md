@@ -1,9 +1,9 @@
----  
-share: true  
-title: 000 DE PXL- X-FACTOR, dat tikkeltje meer!  
-category: content  
-order: 1  
----  
+---
+share: true
+title: 000 DE PXL- X-FACTOR, dat tikkeltje meer!
+category: content
+order: 1
+---
 > [!INFO] Projectmanagement © Hogeschool PXL  
 >   
 > **OLOD:** 42TIN1250 Projectmanagement  
