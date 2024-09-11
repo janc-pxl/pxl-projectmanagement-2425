@@ -20,11 +20,13 @@ order: 8
 ![](https://i.imgur.com/WAhe8WH.png)  
   
 ## Context  
+  
 Op https://10000stappen.gezondleven.be/ vind je een website van het Vlaams Instituut Gezond Leven.  
   
 Het idee achter het project '10.000 stappen' is eenvoudig: volwassenen voor wie de drempel naar sport te groot is, kunnen toch een actieve levensstijl opbouwen en gezondheidsvoordelen bekomen door dagelijks 10.000 stappen te zetten of 8000 stappen voor ouderen (>65 jaar).  
   
 ## User Stories  
+  
 Om met deze oefening te starten dien je het begrip *"User Stories"* goed te begrijpen. Bij twijfel lees je best nog eens de paragraaf over [[./007 Agile Projectmanagement#User Stories (en Epics)|User Stories]] uit de cursus.  
   
 ## Praktisch  
