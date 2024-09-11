@@ -56,7 +56,7 @@ Er bestaan geen domme vragen, maar stel ze alleen als ze echt nuttig zijn.
   
 ## Vragen die je kan stellen over ProjectManagement  
   
-(lees eerst over de [[+ 001 ProjectManagement#Energieimpact van ChatGPT|Energieimpact van ChatGPT]] voor je op deze links begint te klikken)  
+(lees eerst over de [[+ 001 ProjectManagement#Energie-impact van ChatGPT|Energie-impact van ChatGPT]] voor je op deze links begint te klikken)  
   
 - [Kan je als IT-er nog zonder projectmanagement?](https://chat.openai.com/?q=Kan%20je%20als%20IT-er%20nog%20zonder%20projectmanagement%3F)   
 - [Wat zijn, als IT-er, de voordelen van projectmanagement?](https://chat.openai.com/?q=Wat%20zijn%2C%20als%20IT-er%2C%20de%20voordelen%20van%20projectmanagement%3F)  
@@ -65,7 +65,7 @@ Er bestaan geen domme vragen, maar stel ze alleen als ze echt nuttig zijn.
   
 ## Vragen die je kan stellen over een Project  
   
-(lees eerst over de [[+ 001 ProjectManagement#Energieimpact van ChatGPT|Energieimpact van ChatGPT]] voor je op deze links begint te klikken)  
+(lees eerst over de [[+ 001 ProjectManagement#Energie-impact van ChatGPT|Energie-impact van ChatGPT]] voor je op deze links begint te klikken)  
   
 - [Geef me een aantal voorbeelden van projecten?](https://chat.openai.com/?q=Geef%20me%20een%20aantal%20voorbeelden%20van%20projecten%3F)  
 - [Waarom is een project altijd tijdelijk?](https://chat.openai.com/?q=Waarom%20is%20een%20project%20altijd%20tijdelijk%3F)  
