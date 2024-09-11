@@ -408,7 +408,7 @@ In deze fase richt de organisatie zich richt op het bereiken van consistentie, b
   
 Bv.: Als gevolg van de *root cause* analyse uit ons voorbeeld (zie hoofdstuk Probleem management), besluit de verantwoordelijke van de inpakafdeling om geen innovatieve ideeën meer rechtstreeks te implementeren in de operationele omgeving, maar elk idee zal getest worden in een testomgeving met fictieve klanten. In deze nieuwe omgeving test men de accuraatheid en precisie van elk nieuw initiatief. De manager dient het proces voor goedkeuring van innovatieve projecten in (*Change Request (CR)*) in bij het management. Nieuwe projecten zullen voortaan aan nieuwe kwaliteitscriteria moeten voldoen alvorens men deze implementeert binnen de bestaande organisatie. Klanten zullen niet meer geimpacteerd worden door gekke ideeën van onze creatieve studenten.  
   
-Voor de uitvoering van deze testomgeving dienen nieuwe doelstellingen beschreven te worden... Hence, terug naar [[004 Kwaliteitsmanagement#Belang van kwaliteit|hoofdstuk 1 van deze cursus]].  
+Voor de uitvoering van deze testomgeving dienen nieuwe doelstellingen beschreven te worden... Hence, terug naar [[004 Kwaliteitsmanagement#Het belang van goede kwaliteitsdoelen|hoofdstuk 1 van deze cursus]].  
   
 ### Tools om gegevens te verzamelen  
   
