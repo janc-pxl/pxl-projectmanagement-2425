@@ -182,7 +182,7 @@ Spotify zal steeds op basis van jouw luistergegevens nieuwe nummers aanbevelen. 
   
 Bekijken we de precisie of nauwkeurigheid van de voorspellingen van het A.I.-systeem, dan zien we volgende waarden:  
   
-**Precisie:** meet hoeveel van de aanbevolen nummers daadwerkelijk leuk of gewaardeerd worden door de gebruiker. Bijvoorbeeld, als van de 10 aanbevolen nummers er 8 worden gewaardeerd door de gebruiker, dan zou de precisie 8/10 = 0,8 zijn. De meeste aanbevolen nummers bereiken hun doel maar de werkelijke KPI kan op \>95% staan.  
+**Precisie:** meet hoeveel van de aanbevolen nummers daadwerkelijk leuk of gewaardeerd worden door de gebruiker. Bijvoorbeeld, als van de 10 aanbevolen nummers er 8 worden gewaardeerd door de gebruiker, dan zou de precisie 8/10 = 0,8 zijn. De meeste aanbevolen nummers bereiken hun doel, maar de werkelijke KPI kan op \>95% staan.  
   
 **Nauwkeurigheid:** houdt rekening met zowel de relevantie van aanbevolen nummers (precisie) als de afwezigheid van irrelevante aanbevelingen. Naast de 10 aanbevolen nummers, waarvan er 8 gewaardeerd worden, zijn er nog 10 andere (niet voorgestelde) nummers. Nauwkeurigheid = 8/20 = 0,4.  
   
