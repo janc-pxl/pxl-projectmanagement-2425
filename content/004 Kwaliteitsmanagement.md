@@ -3,6 +3,8 @@ share: true
 title: 004 Kwaliteitsmanagement
 category: content
 order: 4
+tags:
+  - lessonsLearnedInLife
 ---
 > [!INFO] Projectmanagement © Hogeschool PXL  
 >   
@@ -38,7 +40,7 @@ Ook voor onze onze onderwijsinstelling is kwaliteit van groot belang. [[./Refere
 ![](https://i.imgur.com/UsI1aLx.png)  
   
 Dit model ondersteunt het [[004 Kwaliteitsmanagement#Belang van kwaliteit|belang van de kwaliteit]] binnen PXL.   
-Initieel werd [[004 Kwaliteitsmanagement#Het belang van goede kwaliteitsdoelen|dit plan]] opgesteld, de kwaliteit wordt uitgevoerd tijdens de metingen en voorgesteld in een [[004 Kwaliteitsmanagement#Plannen van kwaliteit|formeel document ]]. Momenteel dient de Hogeschool deze kwaliteit te blijven [[004 Kwaliteitsmanagement#Beheren van kwaliteit|bewaren, en op zoek te gaan naar verbeterpunten]].  
+Initieel werd [[004 Kwaliteitsmanagement#Het belang van goede kwaliteitsdoelen|dit plan]] opgesteld, de kwaliteit wordt uitgevoerd tijdens de metingen en voorgesteld in een [[004 Kwaliteitsmanagement#Plannen van kwaliteit|formeel document ]]. Momenteel streeft de Hogeschool deze kwaliteit te blijven [[004 Kwaliteitsmanagement#Beheren van kwaliteit|bewaren, en op zoek te gaan naar verbeterpunten]].  
   
 ## Belang van kwaliteit  
   
