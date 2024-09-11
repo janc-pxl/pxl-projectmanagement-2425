@@ -54,7 +54,7 @@ Door te focussen op kwaliteit en het implementeren van kwaliteitscontroles, kunn
   
 Belangrijk voor het managen van kwaliteit, ook volgens het PRINCE2-model, is het aanmoedigen van een cultuur van continue verbetering. Door feedback te verzamelen over de kwaliteit (Beheren van kwaliteit) van producten en processen, kunnen projectteams hun huidige werkwijzen aanpassen en verbeteren voor toekomstige projecten. Kortom, kwaliteit is niet alleen een doel op zich, maar ook een middel om het succes van projecten te waarborgen, de risico's te beheersen en de tevredenheid van belanghebbenden te vergroten.  
   
-Binnen projectwerking dienen eerst de doelen worden bepaald om aan klantverwachtingen te voldoen. ISO-standaarden bieden een raamwerk voor consistentie en verbetering en *metrics* zoals KSF (kritieke succesfactoren) en KPI's (kritieke prestatie-indicatoren) helpen bij het meten van prestaties en het sturen van verbeteringen.  
+Binnen projectwerking dienen eerst de doelen worden bepaald om aan klantverwachtingen te voldoen. ISO-standaarden bieden een raamwerk voor consistentie en verbetering en *metrics* zoals [[004 Kwaliteitsmanagement#Kritische Succesfactoren (KSF'en) en Kritische Prestatie-Indicatoren (KPI's)|KSF (kritieke succesfactoren) en KPI's (kritieke prestatie-indicatoren)]] helpen bij het meten van prestaties en het sturen van verbeteringen.  
   
 ## Het belang van goede kwaliteitsdoelen  
   
