@@ -245,7 +245,7 @@ De cirkel beschrijft vier activiteiten die op alle verbeteringen in organisaties
 | Check      | Meet het resultaat van de verbetering en vergelijk deze met de oorspronkelijke situatie en toets deze aan de vastgestelde doelstellingen.       |  
 | Act        | Bijstellen aan de hand van de gevonden resultaten bij CHECK                                                                                     |  
   
-Kern van deze visie is dat elke medewerker aan een (productie-) proces op deze manier in staat is om zijn eigen werkwijze te beoordelen en te verbeteren. De handelingen van de medewerker vormen namelijk een eigen deelproces van het hoger gelegen proces. Management dient de analyse te doen over de hoger gelegen processen, de directie voor de primaire bedrijfsprocessen. Deze kwaliteitscirkel-methode wordt vaker onbewust impliciet dan bewust expliciet toegepast.  
+Kern van deze visie is dat elke medewerker aan een (productie-) proces op deze manier in staat is om zijn eigen werkwijze te beoordelen en te verbeteren. De handelingen van de medewerker vormen namelijk een eigen deelproces van het hoger gelegen proces. Management dient de analyse te doen over de hoger gelegen processen, de directie voor de primaire bedrijfsprocessen. Deze kwaliteitscirkel-*methode* wordt vaker onbewust impliciet dan bewust expliciet toegepast.  
   
 > [!info] Informatief  
 > Deming heeft zijn cirkel gebaseerd op de verbetercirkel van de natuurkundige Walter A. Shewhart. Zelf heeft Deming hem ook altijd de Shewhart-cirkel of PDSA-cyclus genoemd. De enige verandering die Deming later heeft doorgevoerd is de term 'Study' van Shewhart te vervangen door de term 'Check' omdat dit beter aansluit bij de bedoeling van die stap. Zo ontstond de PDCA-cyclus.*  
@@ -391,6 +391,121 @@ Een stroomdiagram kan worden gebruikt om de invulling van verschillende deelproc
   
 De volgende flowchart van een bestelling, toont een standaard proces voor de bestelling van een order item. Door een flowchart toe te passen kan een organisatie, bijvoorbeeld, stilstaande tijden in een proces meten, om vervolgens verbeterinitiatieven op te starten en het aankoopproces te verbeteren.  
 ![](https://i.imgur.com/39yCnQs.png)  
+  
+### Correlatiediagram (spreidingsdiagram, Puntenwolk)  
+  
+Een correlatiediagram (of puntenwolk, spreidingsdiagram) geeft aan of er een relatie bestaat tussen twee variabelen. Deze relatie is lineair (rechtlijnig) of ‘curve lineair’ (paraboolvormig). Een correlatiediagram geeft _niet_ aan of er een causaal verband bestaat tussen de beide variabelen! Wel geldt: hoe sterker de relatie, hoe groter de kans dat verandering van de ene variabele de andere beïnvloedt.  
+  
+Correlatiediagrammen gebruikt men om snel een eerste indruk te krijgen van de verzamelde gegevens: hoe hangen ze met elkaar samen? Bijvoorbeeld: van 1000 proefpersonen wordt lengte en gewicht gemeten. Deze waarden zet men uit in een grafiek: lengte horizontaal en gewicht verticaal. In dit geval wordtl er een verband zichtbaar: hoe langer de proefpersoon, hoe zwaarder hij of zij is. Bovendien kan men een correlatiediagram gebruiken om een oorzaak- en gevolgdiagram meer ‘diepgang’ of betekenis te geven. Nadat het grafische inzicht is verkregen, kan eventueel een diepere analyse plaatsvinden (regressie- of correlatieanalyse).  
+  
+Een correlatiediagram maak je door een grafiek met een horizontale X-as en een verticale Y-as te tekenen. Door alle punten in de grafiek te zetten, ontstaat een wolk.   
+  
+#### Soorten correlatie  
+  
+![](https://i.imgur.com/IiJc3Ji.png)  
+  
+Alle correlaties hebben twee eigenschappen: richting en sterkte. De richting wordt bepaald door het feit of de correlatie positief of negatief is. De sterkte van de correlatie is bepaald door de numerieke waarden.  
+  
+> [!definition] Positieve correlatie  
+> Beide variabelen bewegen in dezelfde richting. In andere woorden, als de ene variabele toeneemt, doet de andere variabele dat ook.  
+  
+Bijvoorbeeld:   
+- Hoe hoger het aantal jaren gestudeerd, hoe hoger het jaarlijks salaris.  
+- Des te minder tijd je aan marketing uitgeeft, des te minder nieuwe klanten je kan aantrekken.  
+- Indien werknemers een hoger salaris krijgen, verhoogt hun moraal.  
+  
+> [!definition] Negatieve correlatie  
+> De variabelen bewegen in tegengestelde richtingen. Als de ene variabele toeneemt, gaat de andere afnemen. Als de ene variabele afneemt, neemt de andere toe.  
+  
+Bijvoorbeeld:   
+ - Wanneer een student meer afwezig is, heeft dit een daling in punten tot gevolg.  
+ - Wie meer werkt, heeft minder vrije tijd.  
+ - Indien een auto vertraagt, neemt de tijdsduur tot de bestemming toe.  
+  
+> [!important] Correlatie is geen oorzakelijk verband!  
+> Het is niet omdat twee variabelen een relatie hebben, dat wijzigingen in de ene variabele ook een wijziging in de andere *veroorzaakt*. Correlaties vertellen ons dat er een relatie tussen variabelen is, maar dit betekent niet noodzakelijk dat de ene variabele de oorzaak is dat de andere ook verandert.  
+  
+![](https://i.imgur.com/LpiyWXB.png)  
+  
+#### Oefeningen  
+  
+**Oefening 1:**  
+  
+Het correlatiediagram toont de gemiddelde hoeveelheid verkeer en de gemiddelde snelheid op een autostrade gedurende 50 dagen  
+![](https://i.imgur.com/1LAxvq8.png)  
+Welke uitspraak beschrijft best de relatie tussen gemiddelde hoeveelheid verkeer en de gemiddelde snelheid?  
+  
+A. Als de hoeveelheid verkeer stijgt, stijgt de snelheid.   
+B. Als de hoeveelheid verkeer stijgt, daalt de snelheid.  
+C. Als de hoeveelheid verkeer stijgt, stijgt de snelheid in eerste instantie, maar vervolgens daalt ze.  
+D. Als de hoeveelheid verkeer stijgt, daalt de snelheid in eerste instantie, maar later versnelt ze.  
+  
+**Oefening 2:**  
+  
+Gebruik het onderstaande correlatiediagram om de vraag te beantwoorden  
+![](https://i.imgur.com/eBp3bKI.png)  
+  
+Het politiekantoor van Zichen-Zussen-Bolder noteerde voor de voorbije 8 weken het aantal mensen dat parkeerboetes uitschreef (*Number of Ticket Writers*) en het aantal boetes gegeven (*Number of Tickets Issued*).  
+Welke uitspraak is waar?  
+  
+A. Meer mensen die parkeerboetes uitschrijven betekent minder boetes.  
+B. Er werden elke week 50 boetes gegeven.  
+C. Indien er 10 mensen parkeerboetes uitschrijven, geeft men 800 boetes.  
+D. Meer mensen die parkeerboetes uitschrijven betekent meer boetes.  
+  
+**Oefening 3**  
+  
+De tabel toont het aantal studenten in een basketbalteam en het aantal vrije worpen elke student maakte tijdens de training  
+  
+| aantal studenten                | 7   | 2   | 6   | 4   | 5   | 3   | 1   |  
+| ------------------------------- | --- | --- | --- | --- | --- | --- | --- |  
+| aantal vrije worpen per student | 3   | 1   | 6   | 7   | 2   | 4   | 3    |  
+  
+Gebruik onderstaande grid om de uitkomst te tekenen  
+  
+![](https://i.imgur.com/nquoRHF.png)  
+  
+Gebaseerd op deze info, kies welke uitspraak het beste de relatie tussen aantal studenten en aantal vrije worpen beschrijft?  
+  
+A. Positief lineair  
+B. Geen relatie  
+C. Negatief lineair  
+D. Kwadratisch  
+  
+**Oefening 4**  
+  
+Voor welk correlatiediagram zou de formule $y=\frac{1}{2}x + 2$ een best passende lijn beschrijven?  
+  
+![](https://i.imgur.com/q7i0yXx.png)  
+  
+**Oefening 5**  
+  
+Als de hoeveelheid wolven in België toeneemt, neemt het aantal herten af.  
+Welke twee variabelen zien we in deze uitspraak?  
+Hebben ze een positieve, negatieve of geen correlatie?  
+  
+**Oefening 6**  
+  
+Beschrijf een aantal correlaties die je zeker wil onderzoeken voor de Hogeschool PXL en voeg toe of je denkt dat er een positieve, negatieve of geen correlatie is.  
+  
+**Oefening 7**  
+  
+![](https://i.imgur.com/LWHXrZD.png)  
+  
+Als volleerde correlatiediagram-experten, is het tijd om stilaan met echte data te werken.  
+  
+Ga naar de website https://hasselt.incijfers.be/jive  
+  
+Maak correlatiediagrammen voor:  
+  
+1. Het aantal personen met verhoogde tegemoetkoming in % versus de bevolkingdichtheid per km<sup>2</sup> voor het jaar 2018 op het niveau van statistische sector.  
+2. Het aantal geregistreerde misdrijven per 1000 inwoners versus of men zich onveilig voelt in eigen buurt in % voor het jaar 2020 op het niveau van centrumstad  
+  
+![](https://i.imgur.com/MOdiWN6.png)  
+  
+Kan je hier duidelijk besluiten dat er correlatie is? Waarom? Of waarom niet?  
+  
+Probeer met de data van de website een correlatiediagram te maken waar er een duidelijke correlatie is.  
   
 ### In- en outputs  
   
