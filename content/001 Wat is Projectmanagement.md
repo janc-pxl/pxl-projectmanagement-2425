@@ -259,6 +259,9 @@ Kosten-, tijd-, kwaliteits- en andere meetbare objectieven. De objectieven diene
 > ![](https://i.imgur.com/uKTEVe5.png)  
 > Afbeelding: SMART  
   
+> [!caption]  
+>![[../docs/images/1724706868053.jpg|1724706868053.jpg]]  
+>Afbeelding: Waar staat SMART voor?  
 #### Voorbeeld van een doelstelling  
 The business case: AuthenticClothes wil een online kledingwinkelopzetten genaamd “DigiClothes". Dit bedrijfsidee richt zich op het verkopen van trendy kleding voor jonge volwassenen.  
   
