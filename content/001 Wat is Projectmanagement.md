@@ -440,6 +440,9 @@ Een hoge werkdruk maakt het verleidelijk om buiten kantooruren door te werken. D
   
 Een nieuw project betekent voor de betrokken partijen nieuwe verplichtingen, nieuwe kansen op een hogere status of meer salaris, maar misschien ook nieuwe bedreigingen. Om alle partijen gemotiveerd te krijgen, moeten ze het gevoel hebben dat de eindbalans voor hen positief is. Een goede projectleider krijgt snel inzicht in dit nieuwe veld van belangen en kan, in het ideale geval, iedereen de garantie geven dat ze iets te winnen hebben bij een enthousiaste deelname aan het project.  
   
+> [!caption]  
+> ![[../docs/images/1723288184476.jpg|1723288184476.jpg]]  
+> Afbeelding: Als inspirerende illustratie (geen leerstof)  
 ## Wat is een Project Life Cycle en wat zijn de karakteristieken?  
 ![](https://i.imgur.com/By7GLZB.png)  
   
