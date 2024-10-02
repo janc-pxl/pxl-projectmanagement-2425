@@ -157,7 +157,7 @@ Indien de T$_L$ en de T$_E$ van het hele project aan elkaar gelijk gesteld worde
   
 ### Oefeningen  
   
-Maak die, afhankelijk van je creatief talent, op papier, op een tablet of mits een tekenapplicatie zoals https://app.diagrams.net/  
+Maak die, afhankelijk van je creatief talent, op papier, op een tablet of door middel van een tekenapplicatie zoals https://app.diagrams.net/  
   
 #### Oefening 1  
 ![](https://i.imgur.com/JdvdiUn.png)  
