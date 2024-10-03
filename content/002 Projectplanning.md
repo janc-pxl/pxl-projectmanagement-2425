@@ -379,7 +379,7 @@ De volgende taken zullen uitgevoerd moeten worden
 - Zorg ervoor dat het kritieke pad af te lezen is in de Gantt-chart.  
   
 - Bijkomende informatie moet voorzien worden:  
-	- Bij taak `4. Plan bespreken met werklieden` moet een hyperlink gelegd worden naar het document “Bouwplan van blokhut”.  
+	- Bij taak `4. Plan bespreken met werklieden` moet een hyperlink gelegd worden naar de website “gamma.be”.  
 	- Bij punt `31. Oplevering` moet de volgende notitie toegevoegd worden: *“Niet vergeten een attentie klaar te zetten voor de werklieden.”*  
   
 - Wanneer zal de blokhut klaar zijn?  
