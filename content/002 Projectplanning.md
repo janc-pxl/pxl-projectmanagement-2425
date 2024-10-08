@@ -394,9 +394,9 @@ Open de oefening `Blokhut - versie 1` en bewaar deze als `Blokhut - versie 2`.
   
 Resources zijn mensen, hulpmiddelen of grondstoffen die gebruikt worden bij het bouwen van de blokhut.  
   
-Voor het project van de blokhut beschikken we over drie personen: Koen, Jan en Peter. Deze drie personen werken alle drie fulltime medewerkers en hun normale uurloon bedraagt €30. Breng deze resources in via de `Resource Sheet` van dit project.  
+Voor het project van de blokhut beschikken we over drie personen: Koen, Jan en Peter. Deze drie personen werken alle drie fulltime medewerkers en hun normale uurloon bedraagt €30. Breng deze resources in via de `Resource Sheet` (nl: `Resourceblad`) van dit project.  
   
-De andere resources zijn alleen van belang in dit project en dienen eveneens opgenomen te worden in de `Resource Sheet`  
+De andere resources zijn alleen van belang in dit project en dienen eveneens opgenomen te worden in de `Resource Sheet` (nl: `Resourceblad`)  
   
 - Bouwpakket blokhut: het betreft hier een eenmalige kost van €1.750, dit bedrag wordt betaald aan het begin van het project.  
 - Zand: de prijs bedraagt €0,25/10 kg, we hebben 500 kg nodig (€12,5)  
@@ -463,9 +463,9 @@ Let, bij het toewijzen van resources, op de bijkomende elementen:
 ##### Vaste duur/ Vast Werk  
   
 > [!definitie] DEFINITIE: vaste duur/vast werk  
-> **Vaste duur**: Een taak die ongeacht het aantal resources even lang duurt. Voorbeeld: de Les Projectmanagement duurt 2 uur. Of er nu 6 of 35 studenten zijn maakt geen verschil, de les duurt nog steeds 2 uur. Wel ga je voor elke resource 2 uur werk tellen, dus Werk ga je zien verhogen met 2 uur voor elke resource die je toevoegt.  
+> **Vaste duur** (en: **Fixed duration**): Een taak die ongeacht het aantal resources even lang duurt. Voorbeeld: de Les Projectmanagement duurt 2 uur. Of er nu 6 of 35 studenten zijn maakt geen verschil, de les duurt nog steeds 2 uur. Wel ga je voor elke resource 2 uur werk tellen, dus Werk ga je zien verhogen met 2 uur voor elke resource die je toevoegt.  
 >   
-> **Vast werk:** Een taak die evenveel werk nodig heeft, ongeacht het aantal resources. Voorbeeld: een oprit aanleggen is 1 dag werk. Indien dit door 2 personen wordt uitgevoerd wordt er nog steeds 1 dag werk gepresteerd, maar de duurtijd (duration) wordt een halve dag (4 uur)  
+> **Vast werk** (en: **Fixed work**): Een taak die evenveel werk nodig heeft, ongeacht het aantal resources. Voorbeeld: een oprit aanleggen is 1 dag werk. Indien dit door 2 personen wordt uitgevoerd wordt er nog steeds 1 dag werk gepresteerd, maar de duurtijd (duration) wordt een halve dag (4 uur)  
   
 ![](https://i.imgur.com/AtMAqDv.png)  
   
@@ -478,16 +478,16 @@ Let, bij het toewijzen van resources, op de bijkomende elementen:
 - Lees in de statistieken af hoeveel de totaal geschatte kost bedraagt van dit bouwproject?  
 - Kunnen de resources niet efficiënter toegewezen worden? Omwille van het verlof van Peter worden de taken waaraan Peter toegewezen is lang opgeschort en daardoor is de doorlooptijd van het project groter dan nodig. Verwijder Peter uit de lijst van resources voor deze taken en wijs, eventueel, Koen aan deze taken toe.  
 - Als je de `Resource Graph` (nl: `Resourcegrafiek`) bekijkt, zie je dat Koen en Jan dagen hebben met een overbezetting. Maak gebruik van `Resource Leveling` (nl: `Resource herverdeling`) om de overuren weg te werken.  
-- Hoeveel bedraagt de doorlooptijd van het totale project, na deze wijzigingen? De totaal gepresteerde uren van Koen, Jan en Peter vind je terug via de weergave `Resource Usage` (nl: `Resourcegebruik`). De kosten van het gebruik van de beschikbare resources vind je in de `Resource Sheet` (nl: `Resourceformulier`) -> Rechtermuis (`Kosten`).  
+- Hoeveel bedraagt de doorlooptijd van het totale project, na deze wijzigingen? De totaal gepresteerde uren van Koen, Jan en Peter vind je terug via de weergave `Resource Usage` (nl: `Resourcegebruik`). De kosten van het gebruik van de beschikbare resources vind je in de `Resource Sheet` (nl: `Resourceformulier`) -> Rechtermuis `Costs` (nl: `Kosten`).  
 - In grote organisaties wordt aan meerdere projecten tegelijkertijd gewerkt. De resources mogen dan niet toegekend worden aan één project, maar moeten gedeeld worden door alle uitvoerbare projecten. Deze resources worden dan ook niet opgenomen in het project zelf, maar worden ter beschikking gesteld in een resourcepool. Bij het toewijzen van resources aan taken in een project gebruiken de uitvoerbare projecten de resources uit de pool.    
 	- Los bovenstaande oefening opnieuw op, maar maak nu gebruik van een “Resourcepool”.  
   
 ##### Voortgangscontrole en beheer van kosten  
   
-Wanneer je tevreden bent met je basisplan kan de planning nu opgeslagen worden met “baseline”. De voortgang zal, tijdens de uitvoering, steeds vergeleken worden met deze “baseline” of de oorspronkelijke planning.  
+Wanneer je tevreden bent met je basisplan kan de planning nu opgeslagen worden met “baseline” (nl: "basislijn") . De voortgang zal, tijdens de uitvoering, steeds vergeleken worden met deze “baseline” of de oorspronkelijke planning.  
   
 > [!definitie] DEFINITIE: Baseline  
-> Een baseline is een snapshot van de planning op een gegeven tijdstip. Typisch ga je een baseline vastleggen bij het begin van een project.  
+> Een baseline (nl: "basislijn") is een snapshot van de planning op een gegeven tijdstip. Typisch ga je een baseline vastleggen bij het begin van een project.  
 > De baseline gebruik je dan om afwijkingen te berekenen zoals Baseline Kost en Werk tegenover de Werkelijke Kost en Werk  
   
 Als de projectplanning bewaard is met baseline moet je de volgende weergaven eens bekijken:  
@@ -510,15 +510,15 @@ De werkelijke voortgang kan op meerdere manieren aangegeven worden
   
 ##### Beheer van kosten  
   
-In de tabel “Kosten” kan je de geschatte kosten vergelijken met de werkelijke kosten. In ons voorbeeld hebben we een variantie van €12,5. Deze extra kost is te wijten aan het extra half uurtje werk bij de taak `Plaatsen van ramen en deuren`.  
+In de tabel "Costs" (nl: “Kosten”) kan je de geschatte kosten vergelijken met de werkelijke kosten. In ons voorbeeld hebben we een variantie van €12,5. Deze extra kost is te wijten aan het extra half uurtje werk bij de taak `Plaatsen van ramen en deuren`.  
   
 Stel dat we bij de taak `Basislaag planken plaatsen` niet gerekend hadden op de aankoop van nagels en schroeven. Deze kleine materialen kosten ons €10. Wanneer je die nu gaat toevoegen aan de bovengenoemde taak als vaste kost, zal deze kost in ieder geval als afwijking aangegeven worden. Het is belangrijk om alle voorziene kosten in te geven voor het opslaan van de baseline.  
   
 Er is ook nog een andere mogelijkheid om de kosten van het project in het oog te houden. We kunnen namelijk de tabel `Gegevensinvoer` zelf uitbreiden met een veld. Hiervoor ga je als volgt te werk:  
   
-- In de Gantt-chart: view `Tabel/Gegevensinvoer`  
+- In de Gantt-chart: Beeld `Tabellen/Gegevensinvoer`  
   
-- Voeg een nieuwe kolom toe met naam `Kosten1`  
+- Voeg een nieuwe kolom toe en selecteer naam `Kosten1` (en: `Cost1`)  
 - Klik op de kolomnaam met de rechtermuistoets en kies `veldinstellingen`  
 - Kies bij `Veldnaam` voor `Kosten1` en geef als `Titel` de waarde `Budget`. Veel praktische waarde heeft deze kolom nog niet, je moet immers nog aangeven wat er getoond moet worden.  
   
