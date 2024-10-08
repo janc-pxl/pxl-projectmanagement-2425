@@ -69,7 +69,7 @@ John opent zijn MS Project Professional 2021 en voert nu de gegevens uit de besp
   
 ### Projectgegevens  
   
-Hij noemt het project *“Digisaurus”* en wijzigt de startdatum van het project naar maandag 5 februari 2024. Op deze dag starten de activiteiten.  
+Hij noemt het project *“Digisaurus”* en wijzigt de startdatum van het project naar maandag 3 februari 2025. Op deze dag starten de activiteiten.  
   
 ### Resources & kalender  
   
@@ -81,8 +81,8 @@ Aan elk van deze resources koppelt hij een nieuwe basis/base kalender= “**Dino
 De werkdagen starten om **08:00** en eindigen om **17:30**, met dagelijks 90 minuten pauze tussen **12:00** en **13:30**.  
   
 De maand **juli** is vakantie voor iedereen. Deze vakantie plan je in onder de kalender ‘Dinosaur power’.    
-- Dennis neemt bijkomend verlof op **05 augustus 2024**.    
-- Ray neemt bijkomend verlof op **9 augustus 2024**.    
+- Dennis neemt bijkomend verlof op **4 augustus 2025**.    
+- Ray neemt bijkomend verlof op **8 augustus 2024**.    
   
 Als overzichtstaak start hij met de concrete uitwerking van de <u>Analysefase</u>:  
   
@@ -107,7 +107,7 @@ Twee taken dienen nog uitgevoerd te worden:
 - Duid het kritieke pad aan  
 - Ken de taken toe  
 - Stel de [[./002 Projectplanning#Voortgangscontrole en beheer van kosten|baseline]] in over het hele project  
-- Update het project zodat je de status toont zoals ze is op 1 januari 2025  
+- Update het project zodat je de status toont zoals ze is op 1 januari 2026  
 - Maak een notitie bij de laatste mijlpaal met volgende gegevens:  
 > “Te weinig tijd en zekerheid of er voldoende stroom staat op de schrikdraad. We bekijken dit volgend jaar wel!”  
   
