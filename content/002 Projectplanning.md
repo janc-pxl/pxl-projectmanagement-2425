@@ -516,13 +516,13 @@ Stel dat we bij de taak `Basislaag planken plaatsen` niet gerekend hadden op de 
   
 Er is ook nog een andere mogelijkheid om de kosten van het project in het oog te houden. We kunnen namelijk de tabel `Gegevensinvoer` zelf uitbreiden met een veld. Hiervoor ga je als volgt te werk:  
   
-- In de Gantt-chart: Beeld `Tabellen/Gegevensinvoer`  
+- In de Gantt-chart: Beeld `Tabellen/Gegevensinvoer` (en: `Data entry`)  
   
 - Voeg een nieuwe kolom toe en selecteer naam `Kosten1` (en: `Cost1`)  
-- Klik op de kolomnaam met de rechtermuistoets en kies `veldinstellingen`  
-- Kies bij `Veldnaam` voor `Kosten1` en geef als `Titel` de waarde `Budget`. Veel praktische waarde heeft deze kolom nog niet, je moet immers nog aangeven wat er getoond moet worden.  
+- Klik op de kolomnaam met de rechtermuistoets en kies `veldinstellingen` (en: `Field settings`)  
+- Kies bij `Veldnaam` voor `Kosten1` (en:`Cost1`) en geef als `Titel` de waarde `Budget`. Veel praktische waarde heeft deze kolom nog niet, je moet immers nog aangeven wat er getoond moet worden.  
   
-- Ga staan op de kolom `Budget` en ga via de rechtermuisknop naar `Aangepaste velden`. Klik bij `Veld` op `Kosten1`. Klik bij `Kenmerken van aangepast veld` op `formule`en dan de knop `Veld` en verwijs hierin naar het gegeven `Afwijking van kosten` (ENG: `Cost Variance`).  
+- Ga staan op de kolom `Budget` en ga via de rechtermuisknop naar `Aangepaste velden` (en:`Custom Fields`). Klik bij `Veld` (en: `Field`) op `Kosten1` (en: `Cost1`). Klik bij `Kenmerken van aangepast veld` (en:`Custom Field Attributes`)  op `formule` en dan de knop `Veld` en verwijs hierin naar het gegeven `Afwijking van kosten` (en: `Cost Variance`).  
   
 - Bij `Weer te geven waarde` klik je op de knop `Grafische Indicatoren`. In het venster dat je dan krijgt kan je het volgende weergeven:  
   
