@@ -37,7 +37,7 @@ Terwijl Alan en Ian nog nagenieten van een McFlurry werken Dennis, Ray en John a
   
 Alle drie schatten ze per taak in hoelang een taak zal duren. John droomt van snel succes en schat de volledige ontwikkeling zeer optimistisch in (T<sub>o</sub>). Dennis heeft al slechte ervaringen uit zijn eerste Jurassic Park en maakt eerder pessimistische inschattingen (T<sub>p</sub>). Ray is de meest ervaren persoon in het team en schat alle activiteiten in als een goede gemiddelde inschatting (T<sub>l</sub>).  
   
-Gebruik de [[./002 Projectplanning#Tijdsfactor|formule]] uit de cursus om de T<sub>e</sub> (expected time) te berekenen per taak, behalve bij taak I (`Veiligheid park testen`).  
+Gebruik de [[./002 Projectplanning#Tijdsfactor|formule]] uit de cursus om de T<sub>e</sub> (expected time) te berekenen per taak, behalve bij taak I (`Veiligheid park testen`) die twee weken duurt.  
   
 | activiteit | beschrijving               | voorafgaand | John | Ray | Dennis |  
 | ---------- | -------------------------- | ----------- | ---- | --- | ------ |  
