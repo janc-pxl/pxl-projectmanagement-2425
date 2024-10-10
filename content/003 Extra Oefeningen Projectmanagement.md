@@ -82,7 +82,7 @@ De werkdagen starten om **08:00** en eindigen om **17:30**, met dagelijks 90 min
   
 De maand **juli** is vakantie voor iedereen. Deze vakantie plan je in onder de kalender ‘Dinosaur power’.    
 - Dennis neemt bijkomend verlof op **4 augustus 2025**.    
-- Ray neemt bijkomend verlof op **8 augustus 2024**.    
+- Ray neemt bijkomend verlof op **8 augustus 2025**.    
   
 Als overzichtstaak start hij met de concrete uitwerking van de <u>Analysefase</u>:  
   
