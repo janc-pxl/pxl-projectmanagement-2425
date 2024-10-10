@@ -423,7 +423,7 @@ Hieronder vind je opnieuw de taken, maar nu met de toewijzingen van resources.
 | 4   | Plan bespreken met werklieden          | 1h    | 3           | Koen;Jan;Peter                                                       |  
 | 5   | Einde voorbereiding                    | 0d    | 4           |                                                                      |  
 | 6   | *Fundering*                            |       |             |                                                                      |  
-| 7   | Uitgraven fundering                    | 2h    | 4           | Koen;Peter;Zand\[50/10kg\]; Kiezelstenen\[50/10kg\];Cement\[4/50kg\] |  
+| 7   | Uitgraven fundering                    | 2h    | 5           | Koen;Peter;Zand\[50/10kg\]; Kiezelstenen\[50/10kg\];Cement\[4/50kg\] |  
 | 8   | Plaatsen bekisting                     | 0,5h  | 7           | Koen;Peter                                                           |  
 | 9   | Beton storten                          | 0,67h | 8           | Koen;Jan;Peter                                                       |  
 | 10  | Verwijderen bekisting                  | 0,25h | 9BE+1 dag   | Koen;Jan                                                             |  
@@ -440,8 +440,8 @@ Hieronder vind je opnieuw de taken, maar nu met de toewijzingen van resources.
 | 21  | Roofing bevestigen op platen           | 0,83h | 20          | Koen;Jan;Peter                                                       |  
 | 22  | Einde Dak                              | 0d    | 21          |                                                                      |   
 | 23  | *Afwerking*                            |       |             |                                                                      |  
-| 24  | Vensters klaarmaken                    | 1h    | 4           | Jan                                                                  |  
-| 25  | Deur klaarmaken (slot, scharnieren, …) | 1h    | 4           | Jan                                                                  |  
+| 24  | Vensters klaarmaken                    | 1h    | 5           | Jan                                                                  |  
+| 25  | Deur klaarmaken (slot, scharnieren, …) | 1h    | 5           | Jan                                                                  |  
 | 26  | Ramen en deur plaatsen                 | 1h    | 22;24;25    | Jan                                                                  |  
 | 27  | Vloeren in de blokhut                  | 1h    | 22          | Peter                                                                |  
 | 28  | Blokhut vernissen                      | 2,5h  | 22          | Koen;Jan                                                             |  
