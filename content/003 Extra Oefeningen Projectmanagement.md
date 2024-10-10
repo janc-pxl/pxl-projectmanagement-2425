@@ -23,7 +23,7 @@ order: 3
 > “Maar deze keer gaan we het ècht goed aanpakken.”   
 > -- John Hammond  
   
-*John Hammond (CEO InGen) zit in de Mc Donalds te genieten van een lekker menu, samen met dr. Alan Grant (paleontoloog), Ian Malcolm (consultant), Dennis Nedry (programmeur) en Ray Arnold (hoofd ingenieur). Ze plannen om opnieuw een park te openen om nieuwe dino’s te kweken en aan een groot publiek te tonen. Met de juiste campagne èn veiligheidsvoorschriften zijn ze er zeker van dat er geen drama’s kunnen voorvallen op het eiland.*  
+*John Hammond, de CEO van InGen, zit in een McDonald's te genieten van een maaltijd. Aan zijn tafel zitten ook dr. Alan Grant, een paleontoloog, Ian Malcolm, een consultant, Dennis Nedry, een programmeur, en Ray Arnold, de hoofdingenieur. Samen smeden ze ambitieuze plannen: ze willen een nieuw park openen waar ze dinosaurussen tot leven brengen en aan een groot publiek presenteren. Ze zijn ervan overtuigd dat met een slimme marketingcampagne en strikte veiligheidsmaatregelen alles vlekkeloos zal verlopen op het eiland.*  
   
 Om de opening van het park goed te organiseren, werken ze eerst een planning uit op een dienblad in de Mc Donalds.   
   
