@@ -48,7 +48,7 @@ Maar geen zorgen, met een betrouwbare schatting kunnen we toch een verantwoorde 
 ## Kosten- en opbrengstenstructuur  
 ![](https://i.imgur.com/rgJyeht.png)  
   
-Het opzetten van een automatiseringsproject is als het bouwen van een boomhut: je moet eerst investeren in materialen en tijd voordat je kunt genieten van de voordelen. Maar hoe weet je of het de moeite waard is? Dat is waar we onze slimme analisten nodig hebben. Ze gebruiken kost- en opbrengstenstructuren om te bepalen of het oude systeem moet worden vervangen door een nieuw. Het draait allemaal om het vinden van de juiste balans tussen uitgaven en winst.  
+Het opzetten van een automatiseringsproject is als het bouwen van een blokhu (je ziet, alles in deze cursus komt terug): je moet eerst investeren in materialen en tijd voordat je kunt genieten van de voordelen. Maar hoe weet je of het de moeite waard is? Dat is waar we onze slimme analisten nodig hebben. Ze gebruiken kost- en opbrengstenstructuren om te bepalen of het oude systeem moet worden vervangen door een nieuw. Het draait allemaal om het vinden van de juiste balans tussen uitgaven en winst.  
   
 ### Kostenstructuur  
   
@@ -58,7 +58,7 @@ De kostenstructuur bestaat uit twee kostensoorten:
   
 #### De kosten van systeemontwikkeling (eenmalige kosten, ontwikkelingskosten)  
   
-Systeemontwikkeling kan een flink bedrag kosten, maar gelukkig zijn deze kosten eenmalig. Deze kosten zijn opgedeeld per fase van de levenscyclus van het systeem en worden geschat door de analist. Denk hierbij aan benodigdheden, manuren, apparatuurkosten, hulpmiddelen en advieskosten. Het kan dus nooit kwaad om een controlerende blik te werpen op deze ontwikkelingskosten.   
+Systeemontwikkeling kan een serieus bedrag kosten, maar gelukkig zijn deze kosten eenmalig. Deze kosten zijn opgedeeld per fase van de levenscyclus van het systeem en worden geschat door de analist. Denk hierbij aan benodigdheden, manuren, apparatuurkosten, hulpmiddelen en advieskosten. Het kan dus nooit kwaad om een controlerende blik te werpen op deze ontwikkelingskosten.   
   
 Hieronder vind je een handige controlelijst voor het overzicht:  
   
@@ -153,9 +153,9 @@ Hieronder vind je een handige controlelijst voor het overzicht:
   
 #### Werkingskosten (Bedrijfskosten, exploitatiekosten)  
   
-Herinner je de levenscycli nog van eerder in de cursus? We zijn nu aangekomen bij "gebruik en beheer". Dit is waar we telkens weer geld nodig hebben voor werkingskosten. Als we een vergelijking zoeken zien we het bouwen van een systeem als het kopen van een huis - je denkt dat je klaar bent met geld uitgeven, maar dan komen die maandelijkse rekeningen binnen.  
+Herinner je de levenscycli nog van eerder in de cursus? We zijn nu aangekomen bij "gebruik en beheer". Dit is waar we telkens weer geld nodig hebben voor werkingskosten. Als we een vergelijking zoeken zien we het bouwen van een systeem als het kopen van een huis - je denkt dat je klaar bent met geld uitgeven als het eenmaal gebouwd is, maar dan komen die maandelijkse rekeningen binnen.  
   
-Wat zijn die werkingskosten precies? Wel, we hebben operators nodig om dat systeem te laten draaien. Administratieve medewerkers gebruiken het systeem dagelijks en programmeurs moeten de software onderhouden en wijzigen. En vergeet niet alle back-ups die gemaakt moeten worden en al het papier dat gebruikt wordt. En alsof dat nog niet genoeg is, hebben we ook nog vaste kosten zoals verwarming, verlichting en administratie.  
+Wat zijn die werkingskosten precies? Wel, we hebben operators nodig om het systeem te laten draaien. Administratieve medewerkers gebruiken het systeem dagelijks en programmeurs moeten de software onderhouden en wijzigen. En vergeet niet alle back-ups die gemaakt moeten worden en al het papier dat gebruikt wordt. En alsof dat nog niet genoeg is, hebben we ook nog vaste kosten zoals verwarming, verlichting en administratie.  
   
 Hieronder een overzicht waar gewoonlijk al dat geld naartoe gaat.  
   
@@ -219,7 +219,7 @@ Besparen op werkingskosten is net als het vinden van een schat: je moet eerst gr
 $$K = K_o - K_n$$  
   
 Die berekening vergelijkt de werkingskosten van het oud systeem ($K_o$) met de werkingskosten van het nieuwe systeem ($K_n$).  
-Besparing kan positief, nul of negatief zijn - net als de reacties op je meme op sociale media.   
+Besparing kan positief, nul of negatief zijn - net als de reacties op je meme op social media.   
   
 Laten we ons nu concentreren op de positieve kant van besparingen. Hier zijn enkele voorbeelden die je kunnen helpen om wat extra te verdienen:  
   
@@ -260,7 +260,6 @@ Maar hoe meet je deze voordelen als ze niet meetbaar zijn? Misschien moeten we g
 #### Netto opbrengst  
   
 Als het gaat om de netto-opbrengst (Z), komt er meer bij kijken dan alleen maar kosten besparen. Het is een combinatie van besparingen op werkingskosten en andere meeropbrengsten van het nieuwe systeem.  
-  
   
 > [!INFO] formule voor netto-opbrengst  
 > $$Z = (K_o - K_n) + (O_n - O_o)$$  
@@ -348,7 +347,7 @@ Dat is precies wat de contante waarde is:
   
 Het terugrekenen van toekomstige kosten en baten naar het basisjaar wordt ook wel **disconteren** genoemd.  
   
-Laten we dit illustreren aan de hand van een voorbeeld. Stel je voor dat je over vijf jaar **€7000** gaat ontvangen. Op het eerste gezicht lijkt dit  veel geld, maar als we rekening houden met inflatie en de tijdswaarde van geld, kan het minder waard zijn dan we denken.  
+Laten we dit illustreren aan de hand van een voorbeeld. Stel je voor dat je over vijf jaar **€7000** gaat ontvangen. Op het eerste gezicht lijkt dit veel geld, maar als we rekening houden met inflatie en de tijdswaarde van geld, kan het minder waard zijn dan we denken.  
   
 Als we bijvoorbeeld aannemen dat de **inflatie 2% per jaar** bedraagt en dat we een **rendement** op onze investering behalen van **5% per jaar**, dan kunnen we berekenen wat de contante waarde van die €7000 vijf jaar in de toekomst zou zijn.   
   
@@ -491,11 +490,11 @@ De primaire methode voor het beoordelen van investeringen blijft de netto contan
   
 **Electroshop N.V. wil de administratie van het hoofdfiliaal volledig automatiseren.**  
   
-Tijdens de definitiestudie heeft de analist de volgende kosten/baten geschat voor het nieuwe geautomatiseerde systeem.  
+Tijdens de definitiestudie heeft de analist de kosten en baten van het nieuwe geautomatiseerde systeem in kaart gebracht.  
   
-Aanpassing van het systeem o.a. zwaardere servers, extra terminals.  
+Er zijn aanpassingen nodig, zoals krachtigere servers en extra terminals.  
   
-Tussen de aanschaf van softwarepakketten of het volledig in eigen beheer ontwikkelen van een systeem kan nog gekozen worden. Het zelf ontwikkelen maakt het bedrijf minder afhankelijk van derden, maar leidt tot hogere kosten. De schaal van het project is aanzienlijk, maar niet ongewoon voor veel grotere IT-projecten. (In duizend euro’s) De levensduur wordt geschat op 5 jaar.  
+Er is nog een keuze tussen het aanschaffen van softwarepakketten of het volledig zelf ontwikkelen van een systeem. Zelf ontwikkelen vermindert de afhankelijkheid van externe partijen, maar brengt hogere kosten met zich mee. Hoewel het project groot is, is het vergelijkbaar met veel andere IT-projecten. De geschatte levensduur van het systeem is 5 jaar.  
   
 #### Totale kosten per categorie voor het project:  
   
@@ -566,20 +565,19 @@ Voor het nieuwe systeem hebben we de kostensoorten:
 - Kosten helpdesk  
 - Overuren.  
   
-Door de kosten van het nieuwe systeem af te trekken van de kosten van het oude systeem bekomen we de besparingen. Het berekende bedrag wordt ingevuld bij Totaal Besparingen.  
+Om de besparingen van het nieuwe systeem te berekenen, trekken we de kosten van het oude systeem af van die van het nieuwe. Dit bedrag noteren we als 'Totaal Besparingen'.  
   
-De indirecte of andere opbrengsten zijn hier:  
+Daarnaast zijn er indirecte opbrengsten, zoals:  
   
 - Lagere voorraadkosten  
-- Rente debiteuren.  
+- Rente op debiteuren  
   
-Ook dit totaal wordt ingeschreven bij totaal andere opbrengsten.  
+Deze worden opgeteld onder 'Totaal Andere Opbrengsten'.  
   
-Besparingen en andere opbrengsten vormen samen ‘totaal opbrengsten’.  
+Samen vormen de besparingen en andere opbrengsten de 'Totaal Opbrengsten'.  
   
-Deze bedragen kunnen nu geactualiseerd worden, behalve het beginjaar. Zo kunnen we de cumulatieve geactualiseerde baten berekenen. Wanneer we in het begin de initiële investeringskosten (de eenmalige kosten) aftrekken bekomen we op het laatste jaar de netto-contant-waarde. Daar de NCW positief is, blijkt het project een goede investering te zijn.  
+We kunnen deze bedragen actualiseren, met uitzondering van het beginjaar, om de cumulatieve geactualiseerde baten te berekenen. Door aan het begin de initiële investeringskosten (eenmalige kosten) af te trekken, krijgen we aan het einde de netto contante waarde (NCW). Omdat de NCW positief is, blijkt het project een rendabele investering te zijn.  
   
-   
   
 | Project Calculatieformulier | 2024        | 2025        | 2026        | 2027        | 2028    |  
 |-----------------------------|-------------|-------------|-------------|-------------|---------|  
@@ -612,11 +610,11 @@ Deze bedragen kunnen nu geactualiseerd worden, behalve het beginjaar. Zo kunnen 
 ![](https://i.imgur.com/PXkTkWX.png)  
 ### Opgave 1  
   
-Een bedrijf is van plan computerautomatisering te gaan toepassen.  
+Een bedrijf wil zijn processen automatiseren met behulp van computers.  
   
-Het bedrijf zal twee terminals aanschaffen en via timesharing computertijd huren bij het grote systeem van een software-house.  
+Hiervoor schaft het bedrijf twee terminals aan en huurt het computertijd via timesharing bij een groot softwaresysteem.  
   
-Deze oplossing heeft de volgende financiële consequenties:  
+Deze aanpak heeft de volgende financiële gevolgen:  
   
 **Verwachte kosten**  
   
@@ -640,16 +638,14 @@ De huidige marktrente bedraagt **4 %**.
   
 ### Opgave 2  
   
-Drukkerij Plantijn wil haar salarisbetalingen gaan automatiseren. Een sociaal secretariaat is momenteel verantwoordelijk voor de salarisberekening en de betalingen. De drukkerij geeft de gepresteerde uren van haar werknemers wekelijks door aan een sociaal secretariaat.  
+Drukkerij Plantijn wil haar salarisbetalingen automatiseren. Momenteel verzorgt een sociaal secretariaat de salarisberekeningen en betalingen. Wekelijks geeft de drukkerij de gewerkte uren van haar **100** werknemers door aan dit secretariaat.  
   
-De drukkerij stelt **100** werknemers te werk.  
+Het sociaal secretariaat rekent **€3** per betaling, en de salarissen worden **wekelijks** via de bank overgemaakt.  
   
-Het sociaal secretariaat rekent per betaling **€3** aan, wekelijks worden de betaling via de bank gestort.  
+Een analist heeft een definitiestudie uitgevoerd voor een eigen salarissysteem en schat de volgende kosten:  
   
-De analist heeft een definitiestudie gedaan van een eigen salarissysteem. Hij schat de volgende kosten in:  
-  
-- De kosten van de definitiestudie en het basisontwerp bedragen **€7.000**  
-- De volgende schattingen zijn gemaakt voor de benodigde programma’s voor het <u>detailontwerp</u>:  
+- De kosten voor de definitiestudie en het basisontwerp bedragen **€7.000**.  
+- Daarnaast zijn er schattingen gemaakt voor de benodigde programma’s voor het detailontwerp:  
   
 |                         |            |   
 | ----------------------- | ---------- |  
