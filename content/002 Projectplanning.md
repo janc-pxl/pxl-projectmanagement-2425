@@ -516,7 +516,7 @@ Stel dat we bij de taak `Basislaag planken plaatsen` niet gerekend hadden op de 
   
 Er is ook nog een andere mogelijkheid om de kosten van het project in het oog te houden. We kunnen namelijk de tabel `Gegevensinvoer` zelf uitbreiden met een veld. Hiervoor ga je als volgt te werk:  
   
-- In de Gantt-chart: Beeld `Tabellen/Gegevensinvoer` (en: `Data entry`)  
+- In de Gantt-chart: Beeld `Tabellen/Gegevensinvoer` (en: `Entry`)  
   
 - Voeg een nieuwe kolom toe en selecteer naam `Kosten1` (en: `Cost1`)  
 - Klik op de kolomnaam met de rechtermuistoets en kies `veldinstellingen` (en: `Field settings`)  
