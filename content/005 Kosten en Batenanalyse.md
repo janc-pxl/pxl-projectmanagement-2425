@@ -48,7 +48,7 @@ Maar geen zorgen, met een betrouwbare schatting kunnen we toch een verantwoorde 
 ## Kosten- en opbrengstenstructuur  
 ![](https://i.imgur.com/rgJyeht.png)  
   
-Het opzetten van een automatiseringsproject is als het bouwen van een blokhu (je ziet, alles in deze cursus komt terug): je moet eerst investeren in materialen en tijd voordat je kunt genieten van de voordelen. Maar hoe weet je of het de moeite waard is? Dat is waar we onze slimme analisten nodig hebben. Ze gebruiken kost- en opbrengstenstructuren om te bepalen of het oude systeem moet worden vervangen door een nieuw. Het draait allemaal om het vinden van de juiste balans tussen uitgaven en winst.  
+Het opzetten van een automatiseringsproject is als het bouwen van een blokhut (je ziet, alles in deze cursus komt terug): je moet eerst investeren in materialen en tijd voordat je kunt genieten van de voordelen. Maar hoe weet je of het de moeite waard is? Dat is waar we onze slimme analisten nodig hebben. Ze gebruiken kost- en opbrengstenstructuren om te bepalen of het oude systeem moet worden vervangen door een nieuw. Het draait allemaal om het vinden van de juiste balans tussen uitgaven en winst.  
   
 ### Kostenstructuur  
   
