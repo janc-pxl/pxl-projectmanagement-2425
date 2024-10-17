@@ -58,8 +58,6 @@ Een van de eigenschappen van Agile is dat het **incrementeel** is.
 > [!note] DEFINITIE: Increment  
 > Een Increment is een kleine stap. **Incrementeel** slaat op het voorwaarts bewegen in fasen.  
   
-Later in de cursus zie je [[007 Agile Projectmanagement#User Stories en Epics|User Stories en Epics]], die het perfecte voorbeeld van een Increment zijn.  
-  
   
 > [!caption]  
 > ![](https://i.imgur.com/jWB3oST.jpg)  
@@ -67,14 +65,14 @@ Later in de cursus zie je [[007 Agile Projectmanagement#User Stories en Epics|Us
   
 Incrementele ontwikkeling is een praktijk waar een product stap voor stap gedesignd, gedeployd en getest wordt, totdat het project afgerond wordt. Telkens wordt er een klein beetje meer toegevoegd. Elke stap bouwt verder op de vorige door extra functionaliteiten toe te voegen.  
   
+Later in de cursus zie je [[007 Agile Projectmanagement#User Stories en Epics|User Stories en Epics]], die het perfecte voorbeeld van een Increment zijn.  
+  
 ## Iteratieve ontwikkeling  
   
 Een andere eigenschap van Agile is dat het iteratief is.  
   
 > [!note] DEFINITIE: Iteratief  
 > **Iteratief** betekent dat we het herhaald gaan uitvoeren.  
-  
-Later in de cursus zien we [[007 Agile Projectmanagement#Sprints|Sprints]], die dan weer het perfecte voorbeeld van een Iteratie zijn.  
   
 Iteratieve ontwikkeling slaat op de ontwikkeling van producten door herhaalde cyclussen. Elk van deze cyclussen voltooit een of andere minimum bruikbaar product *(vert. Engels: minimum viable product)*.  
   
@@ -93,6 +91,8 @@ Bijvoorbeeld:
 - enz.  
   
 Op het eind van elke cyclus is er een afgewerkt product beschikbaar en kan men het product gebruiken.  
+  
+Later in de cursus zien we [[007 Agile Projectmanagement#Sprints|Sprints]], die het perfecte voorbeeld van een Iteratie zijn.  
   
 [^iteratieveontwikkeling]: By Planbox - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19543504  
   
@@ -410,7 +410,7 @@ Zowel Epics als Stories zijn voorbeelden van [[007 Agile Projectmanagement#Produ
   
 #### Voorbeelden van User Stories in een Product Backlog  
   
-| als een       | wil ik                                 | zodat                                                                |  
+| als een   | wil ik                                 | zodat                                                                |  
 | ------------- | -------------------------------------- | -------------------------------------------------------------------- |  
 | administrator | een lijst zien van leden en bezoekers  | ik de sitebezoeken kan monitoren                                     |  
 | administrator | nieuwe categorieen kunnen toevoegen    | ik leden kan toelaten interessante content te maken                  |  
@@ -774,7 +774,7 @@ Binnen Scrum wordt gewerkt met een Scrum bord *(synoniem: 'takenbord' of 'Kanban
   
 - **To do.** Alle taken die men plant uit te voeren binnen de Sprint.  
 - **Doing.** De taken binnen de Sprint waar op dat moment aan gewerkt wordt.  
-- [ ] **Done.** Alle beëindigde taken binnen de Sprint.  
+- **Done.** Alle beëindigde taken binnen de Sprint.  
   
 Het doel is om aan het einde van iedere Sprint alle taken onder de laatste kolom te hebben geplakt. Dat betekent dat alle vooraf bepaalde taken werden uitgevoerd en dat het doel van de Sprint behaald is. Het takenbord is voor het Scrum Team de centrale plaats om de aanpak van het resterende werk af te stemmen. Het takenbord wordt een **Scrum Board** genoemd, en wordt gebruikt tijdens de [[007 Agile Projectmanagement#Daily Standups|Daily Scrums]].  
   
@@ -788,42 +788,52 @@ Wanneer de Sprint is afgelopen en niet alle taken staat onder ‘Done’ dan pla
   
 ![](https://i.imgur.com/ASHoG3J.png)  
   
-### Commitment  
+Scrum Waarden: De basis voor goed teamwork  
   
-Commitment gaat over inzet, toewijding en inspanning, niet zozeer over het behalen van een vooropgesteld resultaat.  
+Scrum is gebaseerd op vijf kernwaarden die essentieel zijn voor effectieve samenwerking:  
   
-Alle individuele spelers committeren zich aan het team: aan kwaliteit, aan samenwerking en aan voortdurend leren en bijsturen. Er is commitment om hard te werken en te doen wat mogelijk is, elke dag opnieuw. Er is commitment aan het [[007 Agile Projectmanagement#Sprint Doel|Sprint Doel]], commitment aan professioneel gedrag. Er is commitment aan zelfsturing, aan de principes beschreven in het Agile Manifesto. Men committeert zich om werkende software op te leveren en er is commitment aan voortdurende openheid voor verbeteringen. Een team committeert zich aan de [[007 Agile Projectmanagement#Definition of Done|Definition of Done]], aan de regels van het Scrum raamwerk. Er is commitment om waarde op te leveren, om werk daadwerkelijk af te ronden. Er is commitment aan volle transparantie, evenals commitment om elke status quo ter discussie te stellen.  
+### Commitment (Toewijding)  
   
+- We zetten ons volledig in voor ons werk en onze doelen.  
+- We committeren ons aan het team en de Sprint doelen, niet aan specifieke oplossingen.  
+- We streven naar kwaliteit en blijven leren.  
+- We zijn toegewijd aan continue verbetering.  
 ### Focus  
   
-Scrum moedigt spelers aan om zich te concentreren op wat _nu_ het belangrijkst is, zonder afleiding door wat, wie weet, in een verder onbepaalde toekomst, mogelijk belangrijk is. We focussen op de actueel beschikbare kennis, _nu_.  
-  
-Dankzij het [[007 Agile Projectmanagement#Sprint Doel|Sprint Doel]] heeft een team een focus, een oriëntatiepunt voor de volgende vier weken of korter. Binnen die periode zorgt de [[007 Agile Projectmanagement#Daily Scrum|Daily Scrum]] ervoor dat mensen gezamenlijk focus houden op de dagelijkse werkzaamheden die hen naar die doelstelling helpen.  
+- We concentreren ons op wat nu het belangrijkst is voor de Sprint en productdoelen.  
+- We werken aan een beperkt aantal taken tegelijk om effectiever te zijn.  
+- We minimaliseren afleidingen en houden ons aan de Scrum processen.  
   
 ### Openheid  
   
-De [[007 Agile Projectmanagement#Empirische procescontrole|empirische procesfundamenten]] van Scrum vereisen transparantie, wat op zich openheid en eerlijkheid impliceert.  
-  
- Alle spelers delen openlijk de werkelijke status van hun werk, hun voortgang, hun inschattingen, hun problemen en hun moeilijkheden. Alle spelers staan open voor het feit dat softwareontwikkeling gebeurt door en voor _mensen_ en niet door ‘resources’, robots of vervangbare machineonderdelen.  
-  
-De spelers tonen openheid voor samenwerking met andere disciplines en functies, openheid om functieomschrijvingen te overstijgen. Ze tonen openheid naar de [[007 Agile Projectmanagement#stakeholders|stakeholders]] en de bredere omgeving. Ze delen openlijk feedback en geleerde lessen. De spelers in Scrum staan open voor verandering, omdat ze erkennen dat hun organisatie en de wereld waarin zij en hun organisatie opereren voortdurend veranderen. Onverwacht en onvoorspelbaar, maar telkens voortdurend.  
+- We zijn transparant over ons werk, voortgang en uitdagingen.  
+- We delen informatie actief, ook als het niet zo goed gaat.  
+- We staan open voor nieuwe ideeën, feedback en veranderingen.  
+- We creëren een omgeving waar iedereen zich vrij voelt om te spreken.  
   
 ### Respect  
   
-Binnen het bredere ecosysteem dat ontstaat rond Scrum heerst een sfeer van respect: respect voor mensen, voor de andere spelers en de andere teams; respect voor hun inzichten, kennis en ervaring, respect voor hun afkomst en persoonlijke achtergrond. De spelers respecteren – en waarderen – diversiteit als bron en sleutelelement voor nieuwe en mogelijk botsende ideeën. Ze hebben respect voor andere meningen.  
-  
-De spelers van de teams tonen respect voor de omliggende organisatie door zich niet te gedragen alsof ze op een afgelegen eiland werken. Er is respect voor klanten, gebruikers en hun veranderlijke verwachtingen of ideeën. Teams tonen respect voor sponsors en geldschieters door geen onnodige features te behouden, die alleen maar de onderhoudskosten van de software verhogen. Teams tonen respect door geen tijd, inspanningen en budget te verkwisten aan taken, producten of productonderdelen die geen waarde hebben, noch voor de gebruikers, noch voor de organisatie. Ze respecteren gebruikers door de problemen die deze ondervinden, op te lossen. Teams tonen zich respectvolle professionals door geen _crappy_ software in productie te zetten.  
-  
-Alle spelers respecteren de regels van het Scrum raamwerk en de aansprakelijkheden die daaruit voortvloeien.  
+- We waarderen elkaars meningen, vaardigheden en achtergronden.  
+- We respecteren elkaar als bekwame, autonome mensen.  
+- We respecteren de Scrum regels, rollen en de belangen van stakeholders.  
+- We tonen respect door effectief samen te werken en elkaar te ondersteunen.  
   
 ### Moed  
   
-Alle spelers tonen moed door geen software te bouwen waar niemand op zit te wachten. Moed zit vervat in de onderkenning dat requirements nooit perfect zijn, en dat geen plan ooit de complexe werkelijkheid kan voorspellen.  
+- We durven moeilijke beslissingen te nemen en problemen aan te kaarten.  
+- We zijn eerlijk over vooruitgang en schattingen.  
+- We experimenteren met nieuwe aanpakken om te verbeteren.  
+- We erkennen fouten en leren ervan, in plaats van ze te verbergen.  
   
-Men toont moed als men veranderende inzichten, meningen en verwachtingen als een bron van inspiratie en vernieuwing beschouwt, in plaats van als een bron van ergernis. Het vergt moed om tijdelijke opleveringen uit te voeren, software te tonen die niet volledig en perfect lijkt, maar wel waarde levert of toevoegt. Alle spelers tonen moed door op elk gewenst moment de nodige informatie te delen die het team en de organisatie vooruithelpt. Spelers zijn moedig als ze erkennen dat niemand perfect is. Er is de moed om meer of minder radicaal van richting te durven veranderen, om een ander idee dan het eigen idee te omarmen, moed om zowel risico’s als voordelen te delen. Het vereist moed om de oude, valse zekerheden los te laten.  
+Deze waarden versterken elkaar en zijn cruciaal voor het succes van Scrum. Ze helpen teams om:  
   
-De spelers tonen moed als ze Scrum correct toelichten als een empirisch proces, vanuit de moed om toe te geven dat aanpasbaarheid de enige manier is om met complexiteit om te gaan. Ze hebben de moed om de kernwaarden van Scrum te leven en te beleven, om een beslissing te nemen, tot actie over te gaan, niet tot een impasse verleid te worden, en vervolgens de moed tonen om genomen beslissingen gemaakt met ervaring opnieuw kritisch tegen het licht te houden en bij te sturen.  
-[[./References/@verheyen_2017|@verheyen_2017]]  
+- Vertrouwen op te bouwen en betere samenwerking te bevorderen.  
+- Transparanter en effectiever te communiceren.  
+- Flexibeler te reageren op veranderingen en uitdagingen.  
+- Een cultuur van continue verbetering te creëren.  
+- Hoogwaardige producten te leveren die echte waarde bieden aan klanten.  
+  
+Door deze waarden consequent toe te passen, creëren Scrum teams een werkomgeving waar iedereen kan excelleren en gezamenlijk de beste resultaten kan bereiken.  
   
 ### The Five Scrum Values (Video)  
   
@@ -969,7 +979,6 @@ Je kunt perfect zien hoeveel tijd het team heeft besteed aan de story. Wees in d
 - [[./References/@vanrooden_2015|@vanrooden_2015]]: _'Product Backlog Refinement explained (1/3)'_ -  **van Rooden, Stephan(2015)** https://www.scrum.org/resources/blog/product-backlog-refinement-explained-13<br/><br/>  
 - [[./References/@vanrooden_2015a|@vanrooden_2015a]]: _'Product Backlog Refinement explained (3/3)'_ -  **van Rooden, Stephan(2015)** https://www.scrum.org/resources/blog/product-backlog-refinement-explained-33<br/><br/>  
 - [[./References/@verheyen_2022|@verheyen_2022]]: _'Scrum Glossary'_ -  **Verheyen, Gunther(2022)** https://scrumglossary.org/<br/><br/>  
-- [[./References/@verheyen_2017|@verheyen_2017]]: _'De kernwaarden van Scrum'_ -  **Verheyen, Gunther(2017)** https://guntherverheyen.com/2017/02/15/de-kernwaarden-van-scrum/<br/><br/>  
 - [[./References/@visualparadigm_2022|@visualparadigm_2022]]: _'What are Time-boxed Events in Scrum?'_ -  **Visual Paradigm,(2022)** https://www.visual-paradigm.com/scrum/what-are-scrum-time-boxed-events/<br/><br/>  
 - [[./References/@visual-paradigm_2022|@visual-paradigm_2022]]: _'Why Fixed Length Sprints in Scrum?'_ -  **visual-paradigm,(2022)** https://www.visual-paradigm.com/scrum/why-fixed-length-of-sprints-in-scrum/<br/><br/>  
 - [[./References/@vrielink_2020|@vrielink_2020]]: _'Hoe werken story points?'_ -  **Vrielink, Martijn(2020)** https://www.incentro.com/nl-NL/blog/story-points-hoe-werken-ze-eigenlijk<br/><br/>  
