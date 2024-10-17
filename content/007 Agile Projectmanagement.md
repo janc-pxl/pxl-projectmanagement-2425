@@ -185,18 +185,30 @@ In dit voorbeeld bekijk je “sports” als projectmanagement, “basketbal” a
 > ![](https://i.imgur.com/F5ySO0e.png)  
 > Afbeelding: scrum en empirisme [[./References/@zentaoteam_2022a|@zentaoteam_2022a]]  
   
-Scrum is gebaseerd op de filosofie van het empirisme.  
+Empirische procescontrole: Leren door te doen en te observeren.  
   
-Binnen het empirisme gaat men ervan uit dat *"kennis alleen kan voortkomen uit ervaring"*. Kennis is gestoeld op (objectieve) observaties en niet op ideeën. Er is een verschil tussen ‘denken’ en ‘weten’. Met andere woorden: je kunt denken dat je weet wat de klant wenst, maar daarmee weet je het nog niet zeker.  
+Scrum is gebaseerd op een simpel idee: we leren het beste door dingen te doen en te kijken wat er gebeurt. Dit noemen we empirisme. Het betekent dat we niet alleen vertrouwen op wat we denken te weten, maar echt kijken naar wat er in de praktijk gebeurt.  
   
-Deze drie pilaren ondersteunen de ontwikkeling van elke empirisch proces: **transparantie**, **inspectie** en **aanpassing**. Maar wat wil dat nu in mensentaal zeggen?  
+In Scrum gebruiken we drie belangrijke principes om dit in de praktijk te brengen:  
   
-- **Transparantie**: Dit betekent de feiten voorstellen zoals ze zijn. Elke betrokken persoon – de klant, de CEO, individuele bijdragers (de Developer) – is goed te controleren in de dagelijkse omgang met anderen. Iedereen vertrouwt de ander, en heeft de moed om elkaar op de hoogte te houden van zowel goed als slecht nieuws. Iedereen streeft naar en werkt samen voor het gemeenschappelijk bedrijfsdoel, en geen enkel persoon heeft een verborgen agenda!  
+- T**ransparantie:** Iedereen ziet wat er gebeurt  
+	- We zijn eerlijk over hoe het werk vordert.  
+	- We verbergen geen problemen of uitdagingen.  
+	- Iedereen in het team weet wat er gaande is.  
+	  
+- **Inspectie:** We kijken regelmatig hoe het gaat  
+	- We checken vaak of we op de goede weg zijn.  
+	- We laten anderen (zoals de klant) zien wat we gemaakt hebben.  
+	- We vragen om feedback om te leren en te verbeteren.  
+	  
+- **Aanpassing:** We passen ons aan als dat nodig is  
+	- Als iets niet werkt, veranderen we onze aanpak.  
+	- We zijn flexibel en bereid om nieuwe ideeën te proberen.  
+	- We verbeteren continu onze manier van werken.  
   
-- **Inspectie**: Men kan het product, de processen, menselijk aspecten, praktijken en de voortdurende verbeteringen inspecteren. Het team toont aan het einde van elke Sprint, open en doorzichtig, het product aan de klant om hierdoor waardevolle feedback te krijgen. Wanneer de klant de vereisten na inspectie aanpast, gaat het team niet klagen. Het gaat zich net flexibel opstellen en dit zien als een kans om nóg beter samen te werken met de klant, diens vereisten nog duidelijker te zien en de nieuwe veronderstelling uit te testen.  
+Door deze principes toe te passen, leert het team voortdurend. We gaan niet blind uit van een plan, maar kijken steeds of wat we doen echt werkt. Als iets beter kan, passen we het aan. Zo worden we steeds beter in wat we doen en leveren we betere resultaten voor de klant.  
   
-- **Aanpassing**: Aanpassing beschouwen we in deze context als alle voortdurende verbeteringen die we aanbrengen. We zien het als de mogelijkheid aan te passen, kijkend naar de resultaten van de Inspectie. Iedereen in de organisatie moet op geregelde tijdstippen zich de vraag stellen: *"Staan we er beter voor dan gisteren?"*  
-[[./References/@doshi_2016|@doshi_2016]]  
+Dit is de kern van hoe Scrum werkt: we doen, we kijken, we leren, en we verbeteren. Het is een cyclus die steeds doorgaat, waardoor we flexibel blijven en snel kunnen reageren op veranderingen.  
   
 > [!tip] tip  
 > Later, in de [[007 Agile Projectmanagement#Scrum Waarden|Scrum Waarden]], gaan we dieper in op de manier waarop de Empirisch gedachte in Scrum uitgewerkt is.   
@@ -944,7 +956,6 @@ Je kunt perfect zien hoeveel tijd het team heeft besteed aan de story. Wees in d
 - [[./References/@agilescrumgroup_2018|@agilescrumgroup_2018]]: _'De Sprint Review uitgelegd. Waarom deze meeting? (+ Checklist & Valkuilen)'_ -  **Agile Scrum Group,(2018)** https://agilescrumgroup.nl/sprint-review/<br/><br/>  
 - [[./References/@agilescrumgroup_2017|@agilescrumgroup_2017]]: _'Wat is Definition of Done? Check de uitleg en voorbeelden (IT & non-IT)'_ -  **Agile Scrum Group,(2017)** https://agilescrumgroup.nl/wat-is-definition-of-done/<br/><br/>  
 - [[./References/@agile4all_2019|@agile4all_2019]]: _'Sprint Planning'_ -  **agile4all,(2019)** https://www.agile4all.nl/sprint-planning/<br/><br/>  
-- [[./References/@doshi_2016|@doshi_2016]]: _'The Three Pillars of Empiricism (Scrum)'_ -  **Doshi, Hiren(2016)** https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum<br/><br/>  
 - [[./References/@martin_2020|@martin_2020]]: _'Incremental Model in SDLC: Use, Advantage & Disadvantage'_ -  **Martin, Matthew(2020)** https://www.guru99.com/what-is-incremental-model-in-sdlc-advantages-disadvantages.html<br/><br/>  
 - [[./References/@productplan_2022|@productplan_2022]]: _'User Story'_ -  **productplan,(2022)** https://www.productplan.com/glossary/user-story/<br/><br/>  
 - [[./References/@qframe_2021|@qframe_2021]]: _'Scrum Master, Teambuilder of Agile Coach?'_ -  **qframe,(2021)** https://qframe.be/2021/06/25/scrum-master-teambuilder-of-agile-coach/<br/><br/>  
