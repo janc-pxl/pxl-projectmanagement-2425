@@ -112,7 +112,7 @@ De dagelijkse meetings voor de werknemers die aan een project samenwerken noemen
 Daily Standups helpen te verzekeren dat mogelijke belemmeringen (zie het stuk over [[007 Agile Projectmanagement#Impediment|Impediment]]) om je werk af te ronden snel geïdentificeerd en vlot weggewerkt raken.  
   
 > [!example] VOORBEELD: Daily Standup  
-> Stel je voor dat je in een fastfoodrestaurant werkt. Elke shift begint met een korte standup van 15 minuten. Iedereen vertelt wat ze gisteren hebben gedaan, wat ze vandaag gaan doen, en of er obstakels zijn. Bijvoorbeeld: "Gisteren heb ik de friteuses schoongemaakt, vandaag ga ik de voorraad bijvullen, en ik merk dat we bijna door de burgerbroodjes heen zijn."  
+> Stel je voor dat je in een fastfoodrestaurant werkt. Elke shift begint met een korte standup van 15 minuten. Iedereen vertelt wat ze gisteren hebben gedaan, wat ze vandaag gaan doen, en of er obstakels zijn. Bijvoorbeeld: "Gisteren heb ik de friteuses schoongemaakt, vandaag ga ik de voorraad bijvullen, en ik merk dat we bijna door de hamburgerbroodjes heen zijn."  
   
 ## Product Backlog  
   
@@ -388,7 +388,7 @@ voorbeeld:
   
   
 > [!bug] Eindgebruikers zijn geen developers!!!  
-Je gaat nooit (never, jamais!) Users Stories zien die starten met "Als developer ...", "Als netwerkbeheerder...". User Stories hebben enkel waarde voor een gebruiker. Anders zouden we hen "Developer Stories" noemen  
+> Je gaat nooit (never, jamais!) Users Stories zien die starten met "Als developer ...", "Als netwerkbeheerder...". User Stories hebben enkel waarde voor een gebruiker. Anders zouden we hen "Developer Stories" noemen  
   
 Agile en Scrum laten ontwikkelaars werken aan taken beschreven door User Stories.  
   
@@ -479,7 +479,7 @@ Een Sprint Backlog is een lijst met User Stories die tijdens een Sprint moeten w
 Stel je voor dat je een app ontwikkelt genaamd "StudieTracker". Hier zijn enkele User Stories die klein genoeg zijn om in een korte Sprint op te nemen en uit te werken:  
   
 > [!example] **User Story**: Inloggen   
-*"Als student wil ik kunnen inloggen met mijn studentennummer en wachtwoord, zodat ik toegang krijg tot mijn persoonlijke studiegegevens."*   
+> *"Als student wil ik kunnen inloggen met mijn studentennummer en wachtwoord, zodat ik toegang krijg tot mijn persoonlijke studiegegevens."*   
   
 **Acceptatiecriteria:**  
 - Er is een inlogscherm met velden voor studentennummer en wachtwoord  
@@ -487,7 +487,7 @@ Stel je voor dat je een app ontwikkelt genaamd "StudieTracker". Hier zijn enkele
 - Bij foutieve gegevens krijg je een duidelijke foutmelding  
   
 > [!example] **User Story:** Overzicht studiepunten   
-*"Als student wil ik een overzicht zien van mijn totaal behaalde studiepunten, zodat ik in één oogopslag weet hoe ver ik ben in mijn studie."*   
+> *"Als student wil ik een overzicht zien van mijn totaal behaalde studiepunten, zodat ik in één oogopslag weet hoe ver ik ben in mijn studie."*   
   
 **Acceptatiecriteria:**  
 - Het hoofdscherm toont het totaal aantal behaalde studiepunten  
@@ -495,7 +495,7 @@ Stel je voor dat je een app ontwikkelt genaamd "StudieTracker". Hier zijn enkele
 - De informatie wordt automatisch bijgewerkt na het inloggen  
   
 > [!example] **User Story:** Lijst van Opleidingsonderdelen   
-*"Als student wil ik een lijst kunnen zien van al mijn OLODs, zodat ik een overzicht heb van mijn studieprogramma."*   
+> *"Als student wil ik een lijst kunnen zien van al mijn OLODs, zodat ik een overzicht heb van mijn studieprogramma."*   
   
 **Acceptatiecriteria:**  
 - Er is een aparte pagina met een lijst van alle Opleidingsonderdelen  
@@ -503,7 +503,7 @@ Stel je voor dat je een app ontwikkelt genaamd "StudieTracker". Hier zijn enkele
 - De OLODs zijn gesorteerd op studiejaar  
   
 > [!example] **User Story:** OLOD details   
-*"Als student wil ik op een OLOD kunnen klikken om meer details te zien, zodat ik specifieke informatie over dat vak kan inzien."*   
+> *"Als student wil ik op een OLOD kunnen klikken om meer details te zien, zodat ik specifieke informatie over dat vak kan inzien."*   
   
 **Acceptatiecriteria:**  
 - Bij het klikken op een OLOD opent een detailpagina  
@@ -511,7 +511,7 @@ Stel je voor dat je een app ontwikkelt genaamd "StudieTracker". Hier zijn enkele
  - Er is een indicator die laat zien of het OLOD behaald is of niet  
   
 > [!example] **User Story:** Voortgangsbalk   
-*"Als student wil ik een visuele voortgangsbalk zien, zodat ik in één oogopslag kan zien hoe ver ik ben in mijn studie."*   
+> *"Als student wil ik een visuele voortgangsbalk zien, zodat ik in één oogopslag kan zien hoe ver ik ben in mijn studie."*   
   
 **Acceptatiecriteria:**  
 - Op het hoofdscherm is een voortgangsbalk zichtbaar  
