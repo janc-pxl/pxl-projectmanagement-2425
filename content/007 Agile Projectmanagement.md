@@ -36,7 +36,7 @@ Traditioneel projectmanagement is getypeerd door een lineaire aanpak waar achter
   
 Agile projectmanagement, voor het eerst gebruikt in de late jaren 80, is gekenmerkt door een **niet-lineaire aanpak**. Waar vroeger requirements en oplossingen al in de "Planning" stap afgehandeld werden, evolueren die nu mee doorheen het proces, door samenwerking tussen zelf-organiserende, cross-functionele teams.  
   
-De uitvoering van projectwerk gebeurt voortdurend doorheen de levensduur van het project. Agile methoden staan voor **adaptieve planning**, **evolutionaire ontwikkeling** en **continue verbetering**. We zien aanpasbare planningen, we ontwikkelen op een geleidelijke manier en we omarmen continuous improvement.   
+De uitvoering van projectwerk gebeurt voortdurend doorheen de levensduur van het project. Agile methoden staan voor **adaptieve planning**, **evolutionaire ontwikkeling** en **continue verbetering**. In andere woorden: we zien aanpasbare planningen, we ontwikkelen op een geleidelijke manier en we omarmen continuous improvement.   
   
 *Agile moedigt een snelle en flexibele reactie op verandering aan.*  
   
@@ -58,6 +58,9 @@ Een van de eigenschappen van Agile is dat het **incrementeel** is.
 > [!note] DEFINITIE: Increment  
 > Een Increment is een kleine stap. **Incrementeel** slaat op het voorwaarts bewegen in fasen.  
   
+Later in de cursus zie je [[007 Agile Projectmanagement#User Stories en Epics|User Stories en Epics]], die het perfecte voorbeeld van een Increment zijn.  
+  
+  
 > [!caption]  
 > ![](https://i.imgur.com/jWB3oST.jpg)  
 > Afbeelding: incrementele ontwikkeling [[./References/@martin_2020|@martin_2020]]  
@@ -70,6 +73,8 @@ Een andere eigenschap van Agile is dat het iteratief is.
   
 > [!note] DEFINITIE: Iteratief  
 > **Iteratief** betekent dat we het herhaald gaan uitvoeren.  
+  
+Later in de cursus zien we [[007 Agile Projectmanagement#Sprints|Sprints]], die dan weer het perfecte voorbeeld van een Iteratie zijn.  
   
 Iteratieve ontwikkeling slaat op de ontwikkeling van producten door herhaalde cyclussen. Elk van deze cyclussen voltooit een of andere minimum bruikbaar product *(vert. Engels: minimum viable product)*.  
   
@@ -106,6 +111,9 @@ De dagelijkse meetings voor de werknemers die aan een project samenwerken noemen
   
 Daily Standups helpen te verzekeren dat mogelijke belemmeringen (zie het stuk over [[007 Agile Projectmanagement#Impediment|Impediment]]) om je werk af te ronden snel geïdentificeerd en vlot weggewerkt raken.  
   
+> [!example] VOORBEELD: Daily Standup  
+> Stel je voor dat je in een fastfoodrestaurant werkt. Elke shift begint met een korte standup van 15 minuten. Iedereen vertelt wat ze gisteren hebben gedaan, wat ze vandaag gaan doen, en of er obstakels zijn. Bijvoorbeeld: "Gisteren heb ik de friteuses schoongemaakt, vandaag ga ik de voorraad bijvullen, en ik merk dat we bijna door de burgerbroodjes heen zijn."  
+  
 ## Product Backlog  
   
 Je hebt zeker al het woord 'backlog' horen vallen wanneer het gaat over achterstallig werk, of over werk dat over tijd is. Bijvoorbeeld als je al een maand lang je mails niet meer beantwoord hebt, zou je een backlog van e-mails hebben.  
@@ -124,7 +132,7 @@ Als je, bijvoorbeeld, software aan het schrijven bent waarmee je de leden, locat
   
 Sprints zijn de hartslag van Agile, waar ideeën worden omgezet in waarde.  
   
-Een **Sprint** is een vaste periode (meestal 1, 2 of 4 weken) waarin een specifieke hoeveelheid werk wordt uitgevoerd. Zodra een Sprint eindigt, begint er meteen een nieuwe.  
+Een **Sprint** is een vaste periode (meestal 1, 2 of 4 weken) waarin een specifieke hoeveelheid werk wordt uitgevoerd. Zodra een Sprint eindigt, begint er meteen een nieuwe. We Itereren!  
   
 Elke Sprint start met vergaderingen waarin taken verdeeld worden, en eindigt met een review, waarin het uitgevoerde werk wordt bekeken en besproken.  
   
@@ -142,12 +150,6 @@ Nu dat je een basisbegrip van Agile projectmanagement hebt, kijken we naar de po
   
 De term 'Scrum' komt van een uitdrukking uit de rugbysport waar de teamleden elkaars armen laten ineengrijpen en zo voorwaarts richting de tegenstander drukken.  
   
-In de technologiewereld is Scrum een manier van projectmanagement die bestaat uit:  
-  
-- strak gecoördineerd teamwerk.  
-- een sterke organisatie.  
-- het afwerken van project volgens de vraag van de klant.  
-  
 Het gros van de huidige development projecten gebruikt Scrum. Ondanks de verzameling termen en technieken gebruikt in Scrum, draait het allemaal rond teamwerk, het samenspel tussen de leden van het team.  
   
 ![](https://i.imgur.com/aFgp96B.png)  
@@ -155,14 +157,6 @@ Het gros van de huidige development projecten gebruikt Scrum. Ondanks de verzame
 Hoewel Scrum oorspronkelijk is bedacht voor softwareontwikkeling, wordt het toegepast in vele andere sectoren, zoals gezondheidszorg, marketing, rechtshandhaving, productontwikkeling en de publieke sector op alle niveaus.  
   
 Waar we Agile beschouwen als een methodologie, spreken we bij Scrum over een raamwerk *(Vert. Engels: framework)*. De reden dat we dat vermelden is zodat je weet dat er technisch een verschil is tussen beide termen.  
-  
-> [!info]  
-> Een **methodologie** is een verzameling regels, methoden en gereedschappen die men kan gebruiken om een bepaald doel te bereiken.  
-> Spreken we over een **raamwerk**, dan denken we aan een "lossere", meer flexibele structuur waar we toelaten andere gereedschappen te gebruiken.  
-  
-  
-> [!note] DEFINITIE: Scrum  
-> **Scrum (n):** een eenvoudig raamwerk voor complexe productontwikkeling (1); een eenvoudig raamwerk om complexe uitdagingen te adresseren (2); een eenvoudig raamwerk dat mensen helpt om waarde te genereren uit complexe uitdagingen (3). [[./References/@verheyen_2022|@verheyen_2022]]  
   
 Alle termen en concepten die we tot nu toe bespraken voor Agile, passen we toe in Scrum, zoals:  
 - **Sprints** (vaste periodes van 1 week, 2 weken, enz.)  
@@ -184,10 +178,6 @@ Of, om het met een analogie te bekijken.
 > Afbeelding: relatie tussen sport, basketbal en NBA [[./References/@stanley.etal_2020|@stanley.etal_2020]]  
   
 In dit voorbeeld bekijk je “sports” als projectmanagement, “basketbal” als Agile en “NBA” (de populairste uitvoering van basketbal) is Scrum.  
-  
-> [!note] DEFINITIE: Sprint (in Scrum)  
-> **Sprint:** een event dat als een zogenaamd ‘container event’ de overige Scrum Events omvat, met een time-box van niet meer dan vier weken. De overige events in Scrum zijn: Sprint Planning, Daily Scrum, Sprint Review en Sprint Retrospective.[[./References/@verheyen_2022|@verheyen_2022]]  
-  
   
 ### Empirische procescontrole  
   
@@ -270,7 +260,7 @@ Het identificeren van stakeholders kan je als [[007 Agile Projectmanagement#Prod
 ## Scrum Master  
 ![](https://i.imgur.com/8IDZ0WM.png)[[./References/@qframe_2021|@qframe_2021]]  
   
-De Scrum Master is, in tegenstelling tot de [[007 Agile Projectmanagement#Product Owner|Product Owner]], werkelijk betrokken met de softwareontwikkeling. Het is de persoon die de groepsactiviteiten coördineert en laat functioneren. De Scrum Master is er, op het terrein, werk uitvoerend en de mede-teamgenoten helpend. De rol van Scrum Master is niet altijd door dezelfde persoon voor lange tijd opgenomen. Sommige teams hebben voorzien dat deze rol een wisselrol is, zodat elk teamlid dit een bepaalde periode kan uitvoeren.  
+De Scrum Master is, in tegenstelling tot de [[007 Agile Projectmanagement#Product Owner|Product Owner]], werkelijk betrokken met de softwareontwikkeling. Het is de persoon die de groepsactiviteiten coördineert en laat functioneren. De Scrum Master is er, op het terrein, werk uitvoerend en de mede-teamgenoten helpend. De rol van Scrum Master hoeft niet altijd door dezelfde persoon voor lange tijd opgenomen. Sommige teams hebben voorzien dat deze rol een wisselrol is, zodat elk teamlid dit een bepaalde periode kan uitvoeren.  
   
 Sommige van de taken van deze rol omvatten:  
 - het verwijderen van obstakels *(vert. Engels: [[007 Agile Projectmanagement#Impediment|Impediment]]s)* tijdens ontwikkelingen.  
@@ -337,33 +327,9 @@ Laten we nog de belangrijkste Scrum rollen herhalen om deze nog verder duidelijk
 [^scrumteam]  
   
 De drie hoofdrollen in Scrum zijn:  
-  
-#### Product Owner  
-  
-Deze persoon is verantwoordelijk voor het uitzetten van het openstaande werk en het voor het prioriteren van dat werk. [[007 Agile Projectmanagement#Product Owner|Product Owner]]s kennen de verwachtingen van het project en nemen een gidsende rol aan naar het team dat het project gaat uitvoeren.  
-  
-Product Owners blijven betrokken bij het project gedurende de volledige duurtijd. Dit in tegenstelling tot de baas, die in de meeste gevallen alleen betrokken is in het begin, tijdens de initiële planning. De [[007 Agile Projectmanagement#Product Owner|Product Owner]] verzekert dat het product wordt aangepast en geherprioriteerd wanneer nodig.  
-  
-Ondanks al deze taken gaat de [[007 Agile Projectmanagement#Product Owner|Product Owner]] nooit de activiteiten van de [[007 Agile Projectmanagement#De Developers|Developers]] sturen of controleren - dat wordt afgehandeld door de [[007 Agile Projectmanagement#Scrum Master|Scrum Master]].  
-  
-#### Scrum Master  
-  
-Een [[007 Agile Projectmanagement#Scrum Master|Scrum Master]] heeft twee hoofdtaken:  
-  
-- Ze beschermen de Developers en verzekeren dat iedereen zich kan focussen op het werk, met minimale afleiding. Dit omvat het isoleren en afhandelen van mogelijke '[[007 Agile Projectmanagement#Impediment|Impediment]]s' die optreden.  
-- Ze beschermen het Scrumproces zelf en verzekeren dat het correct uitgevoerd wordt. Hiervoor moet de Scrum Master een nauwkeurige kennis van Agile en Scrum bezitten. Een belangrijk element hierin is het optreden als zowel trainer als coach voor alle teamleden.  
-  
-#### De Developers  
-  
-De personen die de taken uitvoeren.  
-  
-[[007 Agile Projectmanagement#De Developers|Developers]] voor een softwareproducent bijvoorbeeld, is een team van architecten, testers, ontwikkelaars en designers.  
-  
-Het team treed samen op om te bepalen hoe ze hun doelen gaan bereiken. De bepaalde features waaraan ze gaan werken zijn gebaseerd op de prioriteiten afgesproken door de [[007 Agile Projectmanagement#Product Owner|Product Owner]]  
-  
-[^scrumteam]: by Scrum.org - https://www.scrum.org/resources/blog/equality-accountabilities-scrum  
-  
-Zo, nu dat we project managers, [[007 Agile Projectmanagement#Product Owner|Product Owner]]s en Scrum Masters hebben bekeken, nog de verschillen tussen deze drie functies.  
+1. Product Owner  
+2. Scrum Master  
+3. Developers  
   
 ## Terminologie (herhaling)  
   
@@ -397,7 +363,7 @@ Niet alleen de [[007 Agile Projectmanagement#Sprint Backlog|Sprint Backlog]] wor
   
 Sommige teams kiezen bepaalde taken aan bepaalde ontwikkelaars toe te wijzen, maar dit is niet nodig. Het gros van de teams beslist alleen maar over de [[007 Agile Projectmanagement#Sprint Backlog|Sprint Backlog]], en laat de teamleden beslissen wie aan welke taak werkt tijdens de uitvoering van de Sprint.  
   
-### User Stories (en Epics)  
+### User Stories en Epics  
   
 > [!caption]  
 > ![](https://i.imgur.com/2nUIGtg.png)  
@@ -419,6 +385,10 @@ voorbeeld:
   
 > [!example] Voorbeeld  
 > "**Als** een gebruiker, **wil ik** in mijn account kunnen inloggen met een gebruikersnaam en wachtwoord, **zo dat** ik toegang kan krijgen tot mijn account informatie"  
+  
+  
+> [!bug] Eindgebruikers zijn geen developers!!!  
+Je gaat nooit (never, jamais!) Users Stories zien die starten met "Als developer ...", "Als netwerkbeheerder...". User Stories hebben enkel waarde voor een gebruiker. Anders zouden we hen "Developer Stories" noemen  
   
 Agile en Scrum laten ontwikkelaars werken aan taken beschreven door User Stories.  
   
@@ -504,6 +474,54 @@ Een Sprint Backlog is een lijst met User Stories die tijdens een Sprint moeten w
 > [!note] DEFINITIE: Sprint Backlog  
 > **Sprint Backlog:** De Sprint Backlog is samengesteld uit het Sprint Doel (waarom), de set van Product Backlog items geselecteerd voor de Sprint (wat) en een uitvoerbaar plan voor het opleveren van het Increment (hoe)..  
   
+#### Voorbeeld van User Stories uitschrijven voor een Sprint  
+  
+Stel je voor dat je een app ontwikkelt genaamd "StudieTracker". Hier zijn enkele User Stories die klein genoeg zijn om in een korte Sprint op te nemen en uit te werken:  
+  
+> [!example] **User Story**: Inloggen   
+*"Als student wil ik kunnen inloggen met mijn studentennummer en wachtwoord, zodat ik toegang krijg tot mijn persoonlijke studiegegevens."*   
+  
+**Acceptatiecriteria:**  
+- Er is een inlogscherm met velden voor studentennummer en wachtwoord  
+- Bij correct inloggen word je doorgestuurd naar het hoofdscherm  
+- Bij foutieve gegevens krijg je een duidelijke foutmelding  
+  
+> [!example] **User Story:** Overzicht studiepunten   
+*"Als student wil ik een overzicht zien van mijn totaal behaalde studiepunten, zodat ik in één oogopslag weet hoe ver ik ben in mijn studie."*   
+  
+**Acceptatiecriteria:**  
+- Het hoofdscherm toont het totaal aantal behaalde studiepunten  
+- Er is een duidelijke weergave van het percentage voltooide studiepunten  
+- De informatie wordt automatisch bijgewerkt na het inloggen  
+  
+> [!example] **User Story:** Lijst van Opleidingsonderdelen   
+*"Als student wil ik een lijst kunnen zien van al mijn OLODs, zodat ik een overzicht heb van mijn studieprogramma."*   
+  
+**Acceptatiecriteria:**  
+- Er is een aparte pagina met een lijst van alle Opleidingsonderdelen  
+- Per OLOD wordt de naam en het aantal studiepunten getoond  
+- De OLODs zijn gesorteerd op studiejaar  
+  
+> [!example] **User Story:** OLOD details   
+*"Als student wil ik op een OLOD kunnen klikken om meer details te zien, zodat ik specifieke informatie over dat vak kan inzien."*   
+  
+**Acceptatiecriteria:**  
+- Bij het klikken op een OLOD opent een detailpagina  
+- De detailpagina toont de naam, code, aantal studiepunten en lector(en)  
+ - Er is een indicator die laat zien of het OLOD behaald is of niet  
+  
+> [!example] **User Story:** Voortgangsbalk   
+*"Als student wil ik een visuele voortgangsbalk zien, zodat ik in één oogopslag kan zien hoe ver ik ben in mijn studie."*   
+  
+**Acceptatiecriteria:**  
+- Op het hoofdscherm is een voortgangsbalk zichtbaar  
+- De balk toont het percentage voltooide studiepunten  
+- De kleur van de balk verandert naarmate je verder bent (bijv. van rood naar groen)  
+  
+Deze User Stories zijn klein genoeg om binnen een korte Sprint te implementeren. Ze bouwen op elkaar voort en geven samen een goed beeld van de kernfunctionaliteit van de app.  
+  
+Je zou deze stories kunnen prioriteren in je Product Backlog. Bijvoorbeeld, de inlogfunctie (Story 1) en het overzicht van studiepunten (Story 2) zouden hoge prioriteit kunnen krijgen als minimaal werkbaar product (MVP). De andere stories kunnen dan in volgende Sprints worden opgepakt.  
+  
 #### Verschil tussen Product Backlog en Sprint Backlog  
   
 Ten slotte, voor wie het nog niet duidelijk is, hier een overzicht van de verschillen tussen de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]] en de Sprint Backlog  
@@ -551,7 +569,7 @@ Wanneer een bepaalde taak buiten de aanvaardbare range van de T-shirtgrootte of 
   
 De Sprint Review is bedoeld als het officiële moment tijdens elke Sprint waarin het Scrum Team aan de [[007 Agile Projectmanagement#Stakeholders|Stakeholders]] het gemaakte (deel)product toont. De Stakeholders geven hun terugkoppeling op het (deel)product dat gedemonstreerd is.  
   
-Daarnaast tonen we alleen de [[007 Agile Projectmanagement#User Stories (en Epics)|User Stories]] die daadwerkelijk afraakten tijdens de Sprint. Items die niet (helemaal) klaar raakten tonen we niet. Dit zou een verkeerde indruk geven van de hoeveelheid waarde die opgeleverd is.  
+Daarnaast tonen we alleen de User Stories die daadwerkelijk afraakten tijdens de Sprint. Items die niet (helemaal) klaar raakten tonen we niet. Dit zou een verkeerde indruk geven van de hoeveelheid waarde die opgeleverd is.  
   
 Het laatste onderdeel van de Sprint Review is het bespreken van de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]] door de [[007 Agile Projectmanagement#Product Owner|Product Owner]]. Deze neemt de [[007 Agile Projectmanagement#Stakeholders|Stakeholders]] mee in de stand van zaken. Welke items hebben de hoogste prioriteit en gaan we tijdens de volgende Sprint oppakken? Welke nieuwe items bevat de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]]?  
 [[./References/@agilescrumgroup_2018|@agilescrumgroup_2018]]  
@@ -580,6 +598,8 @@ Hier enkele voorbeelden van typische vragen die men kan vragen tijdens een Sprin
 * heeft er nog iemand een vraag?  
 * is er nog iets niet duidelijk voor iemand?  
   
+> [!example] VOORBEELD: Retrospective van een groepsproject  
+> Na een groeps PE voor een vak kom je samen om te bespreken wat goed ging en wat beter kon. Je bespreekt bijvoorbeeld de communicatie binnen de groep, de taakverdeling, en hoe jullie omgingen met deadlines. Jullie maken concrete afspraken voor verbetering in de volgende PE.  
 ## Scrum Artefacten   
 De artefacten van Scrum vertegenwoordigen werk of waarde. Ze zijn ontworpen voor maximale transparantie van de belangrijkste informatie. Dankzij deze transparantie heeft iedereen, die deze artefacten inspecteert, dezelfde basis voor aanpassing.  
   
@@ -678,6 +698,9 @@ Kijkend naar de Burndown Chart kun je zien of een project nog "on target" is, vo
   
 Meerdere mogelijke varianten, of manieren waarop je een burndown chart kan opstellen bestaan. Daar je in Scrum eerder in storypunten inschat, kiest men dan de verticale as af te zetten tegen de overgebleven storypunten i.p.v. de uren.  
   
+>[!example] VOORBEELD: Burndown Chart in de werkelijke wereld  
+>Stel je voor dat je een eindwerkt schrijft. Je hebt 8 weken (je Sprint) en je moet 15.000 woorden schrijven (je totale werk). Je Burndown Chart zou kunnen laten zien hoeveel woorden je elke dag schrijft en of je op schema ligt.  
+  
 #### How to use The Sprint Burndown (Video)  
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GokN-50Jt4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
@@ -699,7 +722,7 @@ Eenmaal men de velocity kent na een aantal Sprints, kan men deze waarde gebruike
   
 Een Definition of Done geeft een duidelijke omschrijving van hoe een opgeleverde Product Backlog item er uit moet zien. Het is een manier om de kwaliteit van opgeleverde producten binnen [[007 Agile Projectmanagement#Scrum|Scrum]] te borgen. Het zorgt voor transparantie en duidelijkheid. Het ontwikkelteam geeft een commitment op het volgen van de Definition of Done.  
   
-Een Definition of Done is een checklist met activiteiten je afgevinkt voor iedere User Story. **Dat betekent dat het activiteiten zijn die voor iedere [[007 Agile Projectmanagement#User Stories (en Epics)|User Story]] van toepassing zijn.**   
+Een Definition of Done is een checklist met activiteiten je afgevinkt voor iedere User Story. **Dat betekent dat het activiteiten zijn die voor iedere User Story van toepassing zijn.**   
   
 Je bereikt onder andere het volgende met een goede Definition of Done:  
   
@@ -739,7 +762,7 @@ Binnen Scrum wordt gewerkt met een Scrum bord *(synoniem: 'takenbord' of 'Kanban
   
 - **To do.** Alle taken die men plant uit te voeren binnen de Sprint.  
 - **Doing.** De taken binnen de Sprint waar op dat moment aan gewerkt wordt.  
-- **Done.** Alle beëindigde taken binnen de Sprint.  
+- [ ] **Done.** Alle beëindigde taken binnen de Sprint.  
   
 Het doel is om aan het einde van iedere Sprint alle taken onder de laatste kolom te hebben geplakt. Dat betekent dat alle vooraf bepaalde taken werden uitgevoerd en dat het doel van de Sprint behaald is. Het takenbord is voor het Scrum Team de centrale plaats om de aanpak van het resterende werk af te stemmen. Het takenbord wordt een **Scrum Board** genoemd, en wordt gebruikt tijdens de [[007 Agile Projectmanagement#Daily Standups|Daily Scrums]].  
   
@@ -809,7 +832,7 @@ We maakten kennis met [[007 Agile Projectmanagement#De drie Rollen in Scrum|De d
 Verder bekeken we definities, tools en hulpmiddelen die we gebruiken tijdens de uitvoering van Scrum.  
   
 - [[007 Agile Projectmanagement#Product Backlog|Product Backlog]]  
-- [[007 Agile Projectmanagement#User Stories (en Epics)|User Stories]]  
+- [[007 Agile Projectmanagement#User Stories en Epics|User Stories en Epics]]  
 - [[007 Agile Projectmanagement#Scrum Artefacten|Scrum Artefacten]]  
 - [[007 Agile Projectmanagement#Stakeholders|Stakeholders]]  
 - [[007 Agile Projectmanagement#Impediment|Impediment]]  
