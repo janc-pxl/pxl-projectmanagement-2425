@@ -109,7 +109,7 @@ De dagelijkse meetings voor de werknemers die aan een project samenwerken noemen
 > 2. Wat ga ik vandaag doen?  
 >3. Welke mogelijke obstakels belemmeren mijn vooruitgang?  
   
-Daily Standups helpen te verzekeren dat mogelijke belemmeringen (zie het stuk over [[007 Agile Projectmanagement#Impediment|Impediment]]) om je werk af te ronden snel geïdentificeerd en vlot weggewerkt raken.  
+Daily Standups helpen te verzekeren dat mogelijke belemmeringen (zie het stuk over [[007 Agile Projectmanagement#Obstakel|Obstakel]]) om je werk af te ronden snel geïdentificeerd en vlot weggewerkt raken.  
   
 > [!example] VOORBEELD: Daily Standup  
 > Stel je voor dat je in een fastfoodrestaurant werkt. Elke shift begint met een korte standup van 15 minuten. Iedereen vertelt wat ze gisteren hebben gedaan, wat ze vandaag gaan doen, en of er obstakels zijn. Bijvoorbeeld: "Gisteren heb ik de friteuses schoongemaakt, vandaag ga ik de voorraad bijvullen, en ik merk dat we bijna door de hamburgerbroodjes heen zijn."  
@@ -275,7 +275,7 @@ Het identificeren van stakeholders kan je als [[007 Agile Projectmanagement#Prod
 De Scrum Master is, in tegenstelling tot de [[007 Agile Projectmanagement#Product Owner|Product Owner]], werkelijk betrokken met de softwareontwikkeling. Het is de persoon die de groepsactiviteiten coördineert en laat functioneren. De Scrum Master is er, op het terrein, werk uitvoerend en de mede-teamgenoten helpend. De rol van Scrum Master hoeft niet altijd door dezelfde persoon voor lange tijd opgenomen. Sommige teams hebben voorzien dat deze rol een wisselrol is, zodat elk teamlid dit een bepaalde periode kan uitvoeren.  
   
 Sommige van de taken van deze rol omvatten:  
-- het verwijderen van obstakels *(vert. Engels: [[007 Agile Projectmanagement#Impediment|Impediment]]s)* tijdens ontwikkelingen.  
+- het verwijderen van obstakels tijdens ontwikkelingen.  
 - het verzekeren dat de ontwikkelomgeving opgezet is zodat het men het project kan afmaken.  
 - de teamleden opleiden in [[007 Agile Projectmanagement#Scrum|Scrum]] en er op toezien dat de uitvoering van de processen correct loopt.  
 - een goede relatie onderhouden tussen de ontwikkelaars en de [[007 Agile Projectmanagement#Product Owner|Product Owner]], evenals met anderen buiten het team.  
@@ -286,25 +286,25 @@ Sommige van de taken van deze rol omvatten:
   
 De term *"master"* kenmerkt in deze context niet iemand die anderen voor zich laat werken. Het is eerder te verstaan als *"een specialist van een bepaald onderwerp"*. Waar we de Scrum Master hebben als iemand die het beste (of zeker een sterk) begrip van Scrum heeft, vergeleken met de rest van de mensen betrokken bij het project. Men beschouwt hen als de *'masters van het Scrum raamwerk'*.  
   
-### Impediment  
+### Obstakel  
   
 ![](https://i.imgur.com/NN6ydC2.png)  
   
-Een **impediment** *(synoniem: belemmering, hindernis of obstakel)* is iets wat vooruitgang blokkeert of vertraagd.  
+Een **obstakel** *(synoniem: belemmering, hindernis of impediment)* is iets wat vooruitgang blokkeert of vertraagd.  
   
-In een letterlijke betekenis kun je een omgevallen boom die een straat blokkeert een "impediment" noemen.  
+In een letterlijke betekenis kun je een omgevallen boom die een straat blokkeert een "obstakel" noemen.  
   
-In Scrum is een impediment eender wat dat het team tegenhoudt hun volledige potentieel te gebruiken.   
+In Scrum is een obstakel eender wat dat het team tegenhoudt hun volledige potentieel te gebruiken.   
   
-> [!note] DEFINITIE: Impediment  
-> **Impediment:** elke hindernis of obstakel dat het ontwikkelwerk blokkeert of vertraagt, maar niet kan weggenomen worden via zelfsturing. De verwijdering ervan is onderdeel van de aansprakelijkheid van de Scrum Master. [[./References/@verheyen_2022|@verheyen_2022]].  
+> [!note] DEFINITIE: obstakel  
+> **Obstakel:** elke hindernis die het ontwikkelwerk blokkeert of vertraagt, maar niet kan weggenomen worden via zelfsturing. De verwijdering ervan is onderdeel van de aansprakelijkheid van de Scrum Master. [[./References/@verheyen_2022|@verheyen_2022]].  
   
-Dit omvat problemen die een project tegenhouden het op tijd en tegen het juiste budget te laten beëindigen. Het is de taak van de [[007 Agile Projectmanagement#Scrum Master|Scrum Master]] deze impediments te behandelen of te verwijderen.  
+Dit omvat problemen die een project tegenhouden het op tijd en tegen het juiste budget te laten beëindigen. Het is de taak van de [[007 Agile Projectmanagement#Scrum Master|Scrum Master]] deze obstakels te behandelen of te verwijderen.  
   
-Voorbeelden van impediments: zieke teamleden, ontbrekende resources, afwezigheid van management-support, een te koude werkruimte, conflicten tussen teamleden, problemen met leveranciers, gebrekkige technische kennis.  
+Voorbeelden van obstakels: zieke teamleden, ontbrekende resources, afwezigheid van management-support, een te koude werkruimte, conflicten tussen teamleden, problemen met leveranciers, gebrekkige technische kennis.  
   
 > [!important] Belangrijk  
-> Bij vraag 3 van de [[007 Agile Projectmanagement#Daily Standups|Daily Scrums]] (*"Welke mogelijke obstakels belemmeren mijn vooruitgang?"*) is het de morele verplichting elk nieuwe impediment te signaleren. Dit laat toe blokkades zo snel mogelijk op te lossen.  
+> Bij vraag 3 van de [[007 Agile Projectmanagement#Daily Standups|Daily Scrums]] (*"Welke mogelijke obstakels belemmeren mijn vooruitgang?"*) is het de morele verplichting elk nieuwe obstakel te signaleren. Dit laat toe blokkades zo snel mogelijk op te lossen.  
   
 ## De Developers  
   
@@ -638,7 +638,7 @@ We hebben ze nu allemaal gezien, maar hoe hangt Scrum nu alweer aan elkaar? En w
 > 4. De [[007 Agile Projectmanagement#Sprint Retrospective|Sprint Retrospective]] meeting  
 > 5. De [[007 Agile Projectmanagement#Sprints|Sprint]]  
   
-De Sprint begint met de Sprint Planning waarin we plannen wat we gaan maken, we hebben de dagelijkse Daily Scrums waarin we mogelijke impediments zo vlug mogelijk oplossen. Op het eind van een Sprint wordt getoond wat er gemaakt werd tijdens de Sprint Review en ten slotte gaat het team tijdens de Sprint Retrospective terugblikken naar de voorbije Sprint om te bepalen hoe hun werkwijzes nog te verbeteren.  
+De Sprint begint met de Sprint Planning waarin we plannen wat we gaan maken, we hebben de dagelijkse Daily Scrums waarin we mogelijke obstakelsO zo vlug mogelijk oplossen. Op het eind van een Sprint wordt getoond wat er gemaakt werd tijdens de Sprint Review en ten slotte gaat het team tijdens de Sprint Retrospective terugblikken naar de voorbije Sprint om te bepalen hoe hun werkwijzes nog te verbeteren.  
   
 Merk op dat de [[007 Agile Projectmanagement#Product Backlog Refinement|Product Backlog Refinement]] – al is het een gebruikelijk event, en zeker geen onbelangrijk – niet tussen de vijf officiële Scrum Events staat.    
   
@@ -847,7 +847,7 @@ Verder bekeken we definities, tools en hulpmiddelen die we gebruiken tijdens de 
 - [[007 Agile Projectmanagement#User Stories en Epics|User Stories en Epics]]  
 - [[007 Agile Projectmanagement#Scrum Artefacten|Scrum Artefacten]]  
 - [[007 Agile Projectmanagement#Stakeholders|Stakeholders]]  
-- [[007 Agile Projectmanagement#Impediment|Impediment]]  
+- [[007 Agile Projectmanagement#Obstakel|Obstakel]]  
 - [[007 Agile Projectmanagement#Acceptatie Criteria|Acceptatie Criteria]]  
 - [[007 Agile Projectmanagement#Sprint Doel|Sprint Doel]]  
 - [[007 Agile Projectmanagement#Sprint Backlog|Sprint Backlog]]  
