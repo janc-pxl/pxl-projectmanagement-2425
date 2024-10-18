@@ -272,17 +272,23 @@ Door de rol van de Product Owner wordt het hele proces efficiënter. Het team we
 ### Scrum Master  
 ![](https://i.imgur.com/8IDZ0WM.png)[[./References/@qframe_2021|@qframe_2021]]  
   
+##### Rol en doel  
 In het hart van elk Scrum-team vinden we de Scrum Master. Deze persoon is veel meer dan alleen een teamleider; ze zijn de beschermers en de facilitators van het Scrum-proces. Hun doel is om ervoor te zorgen dat Scrum correct wordt toegepast en dat het team zo efficiënt mogelijk kan werken.  
   
+##### Dagelijkse betrokkenheid  
 De Scrum Master is diep betrokken bij de dagelijkse activiteiten van het team. Ze helpen bij het coördineren van groepsactiviteiten en zorgen ervoor dat alles soepel verloopt. Een belangrijk deel van hun werk is het identificeren en verwijderen van obstakels die het team tegenhouden. Dit kunnen technische problemen zijn, maar ook communicatieproblemen of andere zaken die de voortgang belemmeren.  
   
-Een van de kernverantwoordelijkheden van de Scrum Master is het faciliteren van de Scrum-events. Ze zorgen ervoor dat de [[007 Agile Projectmanagement#Daily Standups|Daily Standups]], [[007 Agile Projectmanagement#Sprint Planning|Sprint Planning]] sessies, [[007 Agile Projectmanagement#Sprint Review|Sprint Review]]s en Retrospectives (zie later) effectief verlopen en binnen de tijdslimieten blijven. Tijdens deze bijeenkomsten moedigt de Scrum Master open communicatie aan en helpt het team om zich te concentreren op de belangrijkste zaken.  
+##### Faciliteren van Scrum-events  
+Een van de kernverantwoordelijkheden van de Scrum Master is het faciliteren van de Scrum-events. Ze zorgen ervoor dat de [[007 Agile Projectmanagement#Daily Standups|Daily Standups]], [[007 Agile Projectmanagement#Sprint Planning|Sprint Planning]] sessies, [[007 Agile Projectmanagement#Sprint Review|Sprint Review]]s en [[007 Agile Projectmanagement#Sprint Retrospective|Sprint Retrospective]]s (zie later) effectief verlopen en binnen de tijdslimieten blijven. Tijdens deze bijeenkomsten moedigt de Scrum Master open communicatie aan en helpt het team om zich te concentreren op de belangrijkste zaken.  
   
+##### Coaching en training  
 De Scrum Master is ook als een coach voor het team. Ze helpen teamleden om Scrum beter te begrijpen en toe te passen. Dit kan betekenen dat ze trainingen geven, vragen beantwoorden, of gewoon het goede voorbeeld geven in hoe Scrum zou moeten werken. Ze moedigen het team aan om zelforganiserend te zijn en helpen bij het ontwikkelen van vaardigheden die nodig zijn voor effectief teamwerk.  
   
+##### Relatiebeheer  
 Buiten het team speelt de Scrum Master een belangrijke rol in het onderhouden van relaties. Ze werken nauw samen met de Product Owner om ervoor te zorgen dat de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]] effectief wordt beheerd. Ze zijn een buffer tussen het team en externe verstoringen, zodat het team zich kan concentreren op hun werk.  
   
-De Scrum Master is geen traditionele "manager| die taken toewijst of controleert. In plaats daarvan zijn ze er om het team te ondersteunen en in staat te stellen hun beste werk te leveren. Ze creëren een omgeving waarin het team kan floreren, problemen kan oplossen en continu kan verbeteren.  
+##### Ondersteunende rol  
+De Scrum Master is geen traditionele "manager" die taken toewijst of controleert. In plaats daarvan zijn ze er om het team te ondersteunen en in staat te stellen hun beste werk te leveren. Ze creëren een omgeving waarin het team kan floreren, problemen kan oplossen en continu kan verbeteren.  
   
 > [!note] DEFINITIE: Scrum Master  
 > **Scrum Master:** de hoeder van het Scrum-proces, een facilitator voor het team, en een brug naar de rest van de organisatie. Hun werk zorgt ervoor dat Scrum effectief wordt toegepast, wat leidt tot betere samenwerking, hogere productiviteit en uiteindelijk betere resultaten voor het project.  
@@ -328,20 +334,36 @@ De Developers hebben enkele kenmerken:
 #### Aantal teamleden  
   
 Hoeveel leden een team bevat, hangt natuurlijk af van de organisatie en het project. Over het algemeen geldt dat een team moet bestaan uit 3 tot 10 leden. Minder dan drie mensen in het team verkleint de interactie, wat leidt tot lagere productiviteit. Daarnaast mankeert men mogelijk bepaalde vaardigheden in het team, waardoor er tegen problemen wordt aangelopen. Meer dan 10 mensen in het team vereist strakkere coördinatie en zorgt voor hogere complexiteit.   
+  
 **De [[007 Agile Projectmanagement#Product Owner|Product Owner]] en de [[007 Agile Projectmanagement#Scrum Master|Scrum Master]] horen niet tot de Developers, behalve als ze taken uit de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]] uitvoeren.**  
 [[./References/@scrumguide_2022|@scrumguide_2022]]  
   
-### Terminologie (herhaling)  
+### Terminologie: Scrum Master, Product Owner en Projectmanager  
   
-De termen “[[007 Agile Projectmanagement#Scrum Master|Scrum Master]]”, “projectmanager” en “[[007 Agile Projectmanagement#Product Owner|Product Owner]]” scheppen zo nu en dan verwarring. Ze betekenen allen iets totaal anders.  
+De termen "Scrum Master", "Product Owner" en "projectmanager" worden vaak door elkaar gehaald. Laten we het verschil verduidelijken:  
   
-De **Scrum Master** is een lid van de Developers welke de coördinatie doet van het werk van de collega-teamleden. De Scrum Master verzekert dat Scrum begrepen is en wordt toegepast door iedere persoon betrokken bij het project.  
+**Scrum Master**  
   
-Een **Product Owner** is de persoon die de uiteindelijke autoriteit heeft de klantenbelangen te vertegenwoordigen en ze hebben rechtstreekse klanteninteractie.  
+- Lid van het ontwikkelteam  
+- Zorgt dat het team Scrum goed gebruikt  
+- Helpt het team samen te werken  
   
-De **projectmanager** is de persoon die de totale verantwoordelijkheid voor het volledige project heeft. Technisch gezien is er geen projectmanager-rol in Scrum - de Product Owner en de Scrum Master delen deze taken.  
+**Product Owner**  
   
-Scrum Master is een Scrum term. Product Owner is een Agile term die tevens in Scrum gebruikt word. En project manager is een algemene term, gebruikt in vele beroepen en industrieën.  
+- Vertegenwoordigt de klant  
+- Beslist wat er gemaakt moet worden  
+- Praat rechtstreeks met de klant  
+  
+**Projectmanager**  
+  
+- Deze rol bestaat niet in Scrum  
+- In Scrum verdelen de Product Owner en Scrum Master deze taken  
+  
+Let op:  
+  
+- "Scrum Master" is een term die alleen in Scrum gebruikt wordt  
+- "Product Owner" komt uit Agile, maar wordt ook in Scrum gebruikt  
+- "Projectmanager" is een algemene term die in veel verschillende beroepen voorkomt  
   
 ## Overzicht van de 5 Scrum Events  
   
@@ -359,7 +381,7 @@ Hoe hangt Scrum nu aan elkaar? En welke zijn de vijf Scrum Events?
 > 4. De [[007 Agile Projectmanagement#Sprint Retrospective|Sprint Retrospective]] meeting  
 > 5. De [[007 Agile Projectmanagement#Sprints|Sprint]]  
   
-De Sprint begint met de Sprint Planning waarin we plannen wat we gaan maken, we hebben de dagelijkse Daily Scrums waarin we mogelijke obstakelsO zo vlug mogelijk oplossen. Op het eind van een Sprint wordt getoond wat er gemaakt werd tijdens de Sprint Review en ten slotte gaat het team tijdens de Sprint Retrospective terugblikken naar de voorbije Sprint om te bepalen hoe hun werkwijzes nog te verbeteren.  
+De Sprint begint met de Sprint Planning waarin we plannen wat we gaan maken, we hebben de dagelijkse Daily Scrums waarin we mogelijke obstakels zo vlug mogelijk oplossen. Op het eind van een Sprint wordt getoond wat er gemaakt werd tijdens de Sprint Review en ten slotte gaat het team tijdens de Sprint Retrospective terugblikken naar de voorbije Sprint om te bepalen hoe hun werkwijzes nog te verbeteren.  
   
 Merk op dat de [[007 Agile Projectmanagement#Product Backlog Refinement|Product Backlog Refinement]] – al is het een gebruikelijk event, en zeker geen onbelangrijk – niet tussen de vijf officiële Scrum Events staat.    
   
@@ -495,7 +517,7 @@ Het Sprint Doel is handig om [[007 Agile Projectmanagement#Stakeholders|Stakehol
 > [!note] DEFINITIE: Sprint Doel  
 > **Sprint Doel:** een korte omschrijving van de overkoepelende doelstelling van een Sprint. [[./References/@verheyen_2022|@verheyen_2022]]  
   
-Het succes van deze Sprint wordt beoordeeld in de [[007 Agile Projectmanagement#Sprint Review|Sprint Review]]. Het opgeleverde wordt vergeleken met het Sprint Doel. In de [[007 Agile Projectmanagement#Sprint Review|Sprint Review]] kijkt men niet naar de specifieke items, maar beoordeeld men of het doel is behaald.  
+Het succes van deze Sprint wordt beoordeeld in een later event, de [[007 Agile Projectmanagement#Sprint Review|Sprint Review]]. Het opgeleverde wordt vergeleken met het Sprint Doel. In de [[007 Agile Projectmanagement#Sprint Review|Sprint Review]] kijkt men niet naar de specifieke items, maar beoordeeld men of het doel is behaald.  
 [[./References/@agile4all_2019|@agile4all_2019]]  
   
 #### Sprint Backlog  
@@ -589,7 +611,7 @@ Daily Standups helpen te verzekeren dat mogelijke belemmeringen (zie het stuk ov
   
 ### Sprint Review  
   
-De Sprint Review is bedoeld als het officiële moment tijdens elke Sprint waarin het Scrum Team aan de [[007 Agile Projectmanagement#Stakeholders|Stakeholders]] het gemaakte (deel)product toont. De Stakeholders geven hun terugkoppeling op het (deel)product dat gedemonstreerd is.  
+De Sprint Review is bedoeld als het officiële moment tijdens elke Sprint waarin het Scrum Team aan de [[007 Agile Projectmanagement#Stakeholders|Stakeholders]] (zie iets verder) het gemaakte (deel)product toont. De Stakeholders geven hun terugkoppeling op het (deel)product dat gedemonstreerd is.  
   
 Daarnaast tonen we alleen de User Stories die daadwerkelijk afraakten tijdens de Sprint. Items die niet (helemaal) klaar raakten tonen we niet. Dit zou een verkeerde indruk geven van de hoeveelheid waarde die opgeleverd is.  
   
@@ -736,6 +758,29 @@ Samen bepalen deze factoren de hoeveelheid punten van een user story.
   
 ==Bij een lage complexiteit, risico en moeite, krijgt de story een lage storypunt.==  
   
+#### Pizza-punten  
+  
+De Pizza-analogie voor Storypunten  
+  
+Stel je voor dat je met een bende vrienden verschillende soorten pizza's willen bestellen. Jullie willen inschatten hoeveel jullie aankunnen, maar in plaats van over calorieën of grammen te praten, gebruiken jullie de grootte van de pizza's als criterium.  
+  
+- Een kleine margherita pizza noemen jullie een '1'  
+- Een medium quattro formaggi is een '3'  
+- Een grote pepperoni met extra kaas is een '5'  
+- En een familie-pizza met alles erop en eraan is een '8'  
+  
+Deze nummers zijn jullie 'pizza-punten'. Ze zeggen niets over de exacte grootte of het aantal calorieën, maar geven wel een idee van hoe 'groot' of 'complex' elke pizza is om op te eten.  
+  
+Leen kan misschien twee '3' pizza's op, terwijl Stef met moeite één '5' pizza op krijgt. Arnaud, die net heeft gesport, kan probleemloos een '8' verorberen. Iedereen heeft een andere "capaciteit", maar jullie begrijpen allemaal wat bedoeld wordt met een '3' of een '5' pizza.  
+  
+Zo is het ook met storypunten in Scrum:  
+  
+- De punten geven een relatieve inschatting van de complexiteit of grootte van een taak.  
+- Een '1' is een kleine, eenvoudige taak, terwijl een '8' een grote, complexe taak is.  
+- Verschillende teamleden kunnen verschillende hoeveelheden werk aan, net zoals de vrienden verschillende hoeveelheden pizza kunnen eten.  
+- Het team leert na verloop van tijd hoeveel 'punten' ze gezamenlijk aankunnen in een sprint, net zoals jullie leren hoeveel 'pizza-punten' jullie groep aankan in één avond.  
+  
+Het voordeel van dit systeem is dat je niet hoeft te discussiëren over exacte uren of moeilijkheidsgraden. Je kunt snel en intuïtief taken vergelijken en inschatten, net zoals je pizza's kunt vergelijken zonder over precieze afmetingen of ingrediënten te praten.  
 #### Hoe kun je er zelf mee starten?  
   
 Om met storypunten te starten, moet je team eerst een **referentie-story bepalen** waarmee je alle andere stories kunt vergelijken. Kies hiervoor een redelijk complexe User Story die een zo hoog mogelijk aantal disciplines van je team omvat. Geef deze story 5 of 8 punten. Dan heeft je team nog genoeg ruimte om stappen naar boven en beneden te nemen. Je kunt de referentie-story tijdens [[007 Agile Projectmanagement#Product Backlog Refinement|Product Backlog Refinement]]s gebruiken om te bepalen of een andere User Story kleiner of groter is, en welke waarde je hieraan kunt geven.  
