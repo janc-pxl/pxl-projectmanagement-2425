@@ -427,7 +427,7 @@ Bijvoorbeeld:
   
 ![](https://i.imgur.com/LpiyWXB.png)  
   
-#### Oefeningen  
+### Oefeningen  
   
 **Oefening 1:**  
   
