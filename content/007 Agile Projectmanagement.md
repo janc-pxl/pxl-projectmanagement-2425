@@ -138,7 +138,7 @@ Scrum is gebaseerd op een simpel idee: we leren het beste door dingen te doen en
   
 In Scrum gebruiken we drie belangrijke principes om dit in de praktijk te brengen:  
   
-- T**ransparantie:** Iedereen ziet wat er gebeurt  
+- **Transparantie:** Iedereen ziet wat er gebeurt  
 	- We zijn eerlijk over hoe het werk vordert.  
 	- We verbergen geen problemen of uitdagingen.  
 	- Iedereen in het team weet wat er gaande is.  
@@ -180,6 +180,7 @@ Scrum is gebaseerd op vijf kernwaarden die essentieel zijn voor effectieve samen
 - We committeren ons aan het team en de Sprint doelen, niet aan specifieke oplossingen.  
 - We streven naar kwaliteit en blijven leren.  
 - We zijn toegewijd aan continue verbetering.  
+  
 ### Focus  
   
 - We concentreren ons op wat nu het belangrijkst is voor de Sprint en productdoelen.  
@@ -607,7 +608,7 @@ De dagelijkse meetings voor de werknemers die aan een project samenwerken noemen
 Daily Standups helpen te verzekeren dat mogelijke belemmeringen (zie het stuk over [[007 Agile Projectmanagement#Obstakel|Obstakel]]) om je werk af te ronden snel geïdentificeerd en vlot weggewerkt raken.  
   
 > [!example] VOORBEELD: Daily Standup  
-> Stel je voor dat je in een fastfoodrestaurant werkt. Elke shift begint met een korte standup van 15 minuten. Iedereen vertelt wat ze gisteren hebben gedaan, wat ze vandaag gaan doen, en of er obstakels zijn. Bijvoorbeeld: "Gisteren heb ik de friteuses schoongemaakt, vandaag ga ik de voorraad bijvullen, en ik merk dat we bijna door de hamburgerbroodjes heen zijn."  
+> Stel je voor dat je in een fastfoodrestaurant werkt. Elke shift begint met een korte standup van 15 minuten. Iedereen vertelt wat ze gisteren hebben gedaan, wat ze vandaag gaan doen, en of er obstakels zijn. Bijvoorbeeld: "Gisteren heb ik de frietketels schoongemaakt, vandaag ga ik de voorraad bijvullen, en ik merk dat we bijna door de hamburgerbroodjes heen zijn."  
   
 ### Sprint Review  
   
