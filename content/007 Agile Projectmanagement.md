@@ -56,7 +56,7 @@ Het spitst zich toe op teamwerk en op een 1-op-1 afhandelen van producteigenscha
 Een van de eigenschappen van Agile is dat het **incrementeel** is.  
   
 > [!note] DEFINITIE: Increment  
-> Een Increment is een kleine stap. **Incrementeel** slaat op het voorwaarts bewegen in fasen.  
+> Een Increment is een kleine stap. **Incrementeel** slaat op het voorwaarts bewegen in fasen.   
   
   
 > [!caption]  
@@ -66,6 +66,8 @@ Een van de eigenschappen van Agile is dat het **incrementeel** is.
 Incrementele ontwikkeling is een praktijk waar een product stap voor stap gedesignd, gedeployd en getest wordt, totdat het project afgerond wordt. Telkens wordt er een klein beetje meer toegevoegd. Elke stap bouwt verder op de vorige door extra functionaliteiten toe te voegen.  
   
 Later in de cursus zie je [[007 Agile Projectmanagement#User Stories en Epics|User Stories en Epics]], die het perfecte voorbeeld van een Increment zijn.  
+  
+**Incrementeel:** Wat wordt er gebouwd? - Toevoegen van functies in stappen.  
   
 ## Iteratieve ontwikkeling  
   
@@ -93,6 +95,8 @@ Bijvoorbeeld:
 Op het eind van elke cyclus is er een afgewerkt product beschikbaar en kan men het product gebruiken.  
   
 Later in de cursus zien we [[007 Agile Projectmanagement#Sprints|Sprints]], die het perfecte voorbeeld van een Iteratie zijn.  
+  
+**Iteratief:** Hoe wordt er gebouwd? - Verfijnen van het product in cycli.  
   
 [^iteratieveontwikkeling]: By Planbox - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=19543504  
   
