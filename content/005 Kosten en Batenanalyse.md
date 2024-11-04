@@ -610,21 +610,21 @@ We kunnen deze bedragen actualiseren, met uitzondering van het beginjaar, om de 
 ![](https://i.imgur.com/PXkTkWX.png)  
 ### Opgave 1  
   
-Een bedrijf wil zijn processen automatiseren met behulp van computers.  
+Een bedrijf wil zijn processen automatiseren.  
   
-Hiervoor schaft het bedrijf twee terminals aan en huurt het computertijd via timesharing bij een groot softwaresysteem.  
+Hiervoor schaft het bedrijf twee werkstations aan en neemt het een abonnement via een aanbieder van Cloud-diensten.  
   
 Deze aanpak heeft de volgende financiële gevolgen:  
   
 **Verwachte kosten**  
   
-- kosten voor systeemgebruik en beheer: **€25.000** voor het eerste, tweede en derde jaar, **€27.500** in het vierde jaar en **€32.500** vanaf jaar 5.  
-- kosten voor de systeemontwikkeling : **€37.500**  
-- twee terminals : **€13.750**  
-- huur telefoonlijn : **€1.750** voor het eerste jaar, en de volgende jaren elk €2.125  
-- conversie en invoeringskosten : **€6.250**  
-- aankoop modems : **€1.875**  
-- diverse eenmalige kosten : **€3.750**  
+- abonnementskosten voor Cloud computing: **€25.000** voor het eerste, tweede en derde jaar, **€27.500** in het vierde jaar en **€32.500** vanaf jaar 5.  
+- kosten voor software-implementatie : **€37.500**  
+- twee werkstations : **€13.750**  
+- abonnementskosten Internet : **€1.750** voor het eerste jaar, en de volgende jaren elk €2.125  
+- kosten voor gegevensmigratie en implementatie : **€6.250**  
+- netwerkapparatuur : **€1.875**  
+- kosten voor training, consultancy en licenties : **€3.750**  
   
 **Verwachte baten**  
   
@@ -668,11 +668,11 @@ Een analist heeft een definitiestudie uitgevoerd voor een eigen salarissysteem e
 | opleidingskosten        | **€1.000** |  
 | bestandscreatie         | **€750**   |  
   
-De drukkerij beschikt al over een uitgebreid computersysteem. Voor de salarisadministratie dient men enkel een terminal en een modem aan te schaffen.  
+De drukkerij beschikt al over een uitgebreid computersysteem. Voor de salarisadministratie dient men enkel een laptop en een router aan te schaffen.  
   
 Kostprijs  
-- Terminal : **€750**  
-- Modem : **€312**  
+- Laptop : **€750**  
+- Router : **€312**  
   
 De jaarlijkse kosten voor onderhoud worden geschat op **€1250**.  
   
@@ -687,7 +687,7 @@ Gevraagd:
 - Is het investeringsproject economisch rendabel wanneer intresten op eenzelfde termijn 8% opbrengen ?  
 - Illustreer je antwoord aan de hand van 2 rentabiliteitskentallen  
   
-### Extra opgave 3  
+### Opgave 3  
   
 Hoewel het fuseren van gemeenten vele voordelen heeft gehad, heeft het ook nieuwe problemen met zich meegebracht voor de resterende gemeentebesturen. De fusiegemeente Leopoldsburg-Heppen ondervindt ook de gevolgen van deze hervormingen in haar dagelijkse werking. De administratieve taken kunnen niet meer uitgevoerd worden met het huidige personeelsbestand omdat zij niet de benodigde capaciteiten hebben.  
   
