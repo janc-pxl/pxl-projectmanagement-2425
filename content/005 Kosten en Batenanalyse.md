@@ -535,7 +535,7 @@ De <u>overuren</u> voor het nieuwe systeem worden geraamd als volgt:
 - **€30** in het 2<sup>de</sup> jaar  
 - **€50** voor de volgende jaren  
   
-Het project start in januari 2024 en moet in december 2028 afgewerkt zijn.  
+Het project start in januari 2025 en moet in december 2029 afgewerkt zijn.  
   
 #### Gevraagd  
   
@@ -579,7 +579,7 @@ Samen vormen de besparingen en andere opbrengsten de 'Totaal Opbrengsten'.
 We kunnen deze bedragen actualiseren, met uitzondering van het beginjaar, om de cumulatieve geactualiseerde baten te berekenen. Door aan het begin de initiële investeringskosten (eenmalige kosten) af te trekken, krijgen we aan het einde de netto contante waarde (NCW). Omdat de NCW positief is, blijkt het project een rendabele investering te zijn.  
   
   
-| Project Calculatieformulier | 2024        | 2025        | 2026        | 2027        | 2028    |  
+| Project Calculatieformulier | 2025        | 2026        | 2027        | 2028        | 2029    |  
 |-----------------------------|-------------|-------------|-------------|-------------|---------|  
 | EENMALIGE KOSTEN            |             |             |             |             |         |  
 | Systeemontwikkeling         | €6.250      |             |             |             |         |  
