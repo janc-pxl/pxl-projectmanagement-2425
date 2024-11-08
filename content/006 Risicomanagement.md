@@ -140,6 +140,24 @@ Voorbeelden van projectrisico's:
 3. **Planning en tijdslijnen**: Onverwachte vertragingen, zoals slecht weer bij een bouwproject, kunnen leiden tot gemiste deadlines en contractuele boetes.  
   
 Effectief risicomanagement vereist dat beide typen risico's worden geïdentificeerd en beheerd. Bij het managen van productrisico's is de focus vaak op kwaliteitscontrole en het verzekeren dat het product aan de klantverwachtingen en -eisen voldoet. Bij projectrisico's ligt de focus op projectmanagement, inclusief tijdbeheer, budgetcontrole, resourceplanning, en communicatie. Beide vormen van risicomanagement zijn essentieel om de kans te vergroten dat een project niet alleen op tijd en binnen het budget wordt voltooid, maar ook dat het eindproduct aan de kwaliteitsstandaarden voldoet en succesvol is in de markt.  
+  
+## Maturiteit van een organisatie  
+  
+Een organisatie kan zichzelf de vraag stellen: In welke mate voldoet ons risicomanagement aan de doelstellingen van de organisatie over de levenscycli van onze producten?  
+Afhankelijk van de graad van maturiteit (zie afbeelding 'Graden van Risicomaturiteit') zal een organisatie zijn risicobeheer dus anders aanpakken. Het is niet voor elke organisatie passend om het hoogste niveau van volwassenheid na te streven.  
+  
+| Graad                                                           | Uitleg                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  
+| **Niveau 1: Ad hoc** ![](https://i.imgur.com/lUOKCoU.png)       | Een organisatie die het risicomanagement ad hoc heeft ingericht, reageert op ongunstige gebeurtenissen op het moment dat ze zich voor doen. Risicomanagement vindt veelal incidenteel plaats (vaak na druk van buitenaf). Er is geen sprake van rapportages of van monitoring van risico’s.                                                                                                                                                               |  
+| **Niveau 2: Oriënterend** ![](https://i.imgur.com/A4Q11OA.png)  | Een organisatie waarbij het risicomanagement in volwassenheidsniveau oriënterend zit, heeft een eerste aanzet gemaakt voor de inrichting van het risicomanagement. De focus ligt daarbij vooral op financiële risico’s en risico’s rond wetgeving. Een kleine groep mensen in de organisatie is zich ervan bewust hoe belangrijk risicomanagement is.                                                                                                     |  
+| **Niveau 3: Basis op orde**![](https://i.imgur.com/Lu5rIlE.png) | Een organisatie die de basis op orde heeft op het gebied van risicomanagement heeft alle elementen in de basis ingericht, maar is nog steeds voornamelijk reactief ten aanzien van risicomanagement. Risicomanagement ligt bij deze organisaties vooral bij het bestuur, het management en de bedrijfsvoering/control. Risicomanagement is nog een losstaand ‘iets’. De verbindingen met strategie en beleid, cultuur en besluitvorming zijn nog beperkt. |  
+| **Niveau 4: Proactief** ![](https://i.imgur.com/mqkevqv.png)    | Organisaties die het volwassenheidsstadium proactief hebben bereikt, hebben een gestructureerd risicomanagementproces op alle niveaus binnen de organisatie. Risicomanagement is een integraal onderdeel van de besluitvorming en belicht zowel kansen als bedreigingen. De risico bereidheid is benoemd, er wordt gebruikgemaakt van scenarioanalyses en er is een koppeling met prestatiemanagement.                                                    |  
+| **Niveau 5: Intelligent** ![](https://i.imgur.com/L7UgXwY.png)  | Bij organisaties die het hoogste volwassenheidsniveau intelligent realiseren, is risicomanagement volledig geïntegreerd in de besluitvorming en wordt risicomanagement ook gebruikt om vooruit te kijken. Er is sprake van continue en actieve sturing op risico’s op alle niveaus binnen de organisatie. Een aantal sleutelwoorden voor dit soort organisaties is ‘integraliteit, professionaliteit, samenhang en optimalisatie’.                        |  
+  
+> [!caption]  
+> ![](https://i.imgur.com/uvA0HO7.png)  
+> Afbeelding: Graden van Risicomaturiteit  
+  
 ## Risicoanalyse technieken  
 ![](https://i.imgur.com/oyirpjD.png)  
 ### Inleiding  
@@ -156,37 +174,34 @@ zie video [Risk and How to Use a Risk Matrix](https://www.youtube.com/watch?v=-E
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-E-jfcoR2W0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
   
+  
+### Risicoregister  
+  
+In de matrix maak je enkele risico’s inzichtelijk. In de volgende fase dienen de risico’s aangepakt te worden. Een organisatie kan hiervoor gebruikmaken van een risicoregister (zie Afbeelding - Het risicoregister). Een risicoregister is een belangrijk onderdeel van elk succesvol risicomanagementproces en helpt mogelijke vertragingen te vermijden die zich bij een project kunnen voordoen.    
+Het is hierbij mogelijk om prioriteiten en actiepunten in uit te werken. Hoe mitigeer je een probleem? Is er een contingentieplan beschikbaar? Wie is verantwoordelijk voor een bepaald risico en wat is de status van het risico?  
+  
+> [!caption]  
+> ![](https://i.imgur.com/dGzSeCG.png)  
+> Afbeelding: Het risicoregister  
+  
 ### Fault tree analyse  
   
-De foutenboomanalyse (Fault Tree Analysis, FTA) is een methode om diepgaand, maar niet kwantitatief, te onderzoeken wat er fout kan gaan met de dienstverlening, het proces of het product.  
-  
-Bij elke faalvorm wordt de vraag gesteld: wat is de oorzaak? Zo ontstaan er, naar beneden toe, grondoorzaken van de faalvormen van het proces of product. De foutenboomanalyse is handig uit te voeren aan de hand van de functiestructuur.  
-  
+De foutenboomanalyse (Fault Tree Analysis, FTA) is een methode om diepgaand te onderzoeken wat er fout kan gaan met de dienstverlening, het proces of het product.  
+Bij elke faalvorm wordt de vraag gesteld: wat is de oorzaak? Zo ontstaan er, naar beneden toe, grondoorzaken van de faalvormen van het proces of product. De foutenboomanalyse is handig uit te voeren aan de hand van de functiestructuur, en kan aan de hand van objectieve gegevens de output berekenen van een risico.  
 #### Doel en belang  
-  
-De foutenboom brengt visueel in kaart wat kan fout gaan met het product, en dit door bij elke faalvorm de vraag te stellen: “Hoe komt dit, wat is de oorzaak hiervan?”. Zo wordt een (omgekeerde) boom bekomen, die naar beneden toe de (achterliggende) grondoorzaken van het product toont.  
+De foutenboom brengt visueel in kaart wat fout kan gaan met het product, en dit door bij elke faalvorm de vraag te stellen: “Hoe komt dit, wat is de oorzaak hiervan?”. Zo wordt een (omgekeerde) boom bekomen, die naar beneden toe de (achterliggende) grondoorzaken van het product toont.  
   
 Een opgestelde functiestructuur is handig als basis voor de foutenboomanalyse: bij elk onderdeel of elke functie kan de vraag gesteld worden: “Wat kan hiermee fout gaan?”.  
   
-#### Voorbeeld: Een stuk foutenboomanalyse voor een fiets.   
-![](https://i.imgur.com/8Oh1Eb2.png)  
+#### Hoe een foutenboom opstellen?  
+•	Plaats bovenaan de boom een mogelijk defect.  
+•	Geef alle mogelijke oorzaken van het defect aan de hand van logische structuren (EN, OF,…) aan.  
+•	Diep dit uit tot op een niveau dat het probleem duidelijk zichtbaar is. In de volgende stappen wordt bekeken wat het gevolg en de ernst van het probleem is, en worden naar oplossingen gezocht.  
   
-Hoe een foutenboom opstellen?  
+> [!caption]  
+> ![](https://i.imgur.com/8Oh1Eb2.png)  
+> Afbeelding: Een foutenboomanalyse voor een fiets  
   
-- Plaats bovenaan de boom een mogelijk defect.  
-- Geef alle mogelijke oorzaken van het defect aan de hand van logische structuren (EN, OF,…) aan.  
-- Diep dit uit tot op een niveau dat het probleem duidelijk zichtbaar is. In de volgende stappen wordt bekeken wat het gevolg en de ernst van het probleem is, en worden naar oplossingen gezocht.  
-  
-#### Gebruikte symbolen  
-![](https://i.imgur.com/SNWdQUF.png)  
-  
-#### Uitgewerkt voorbeeld  
-![](https://i.imgur.com/qJDgS9z.png)  
-  
-#### Kansberekening met Booleaanse algebra  
-![](https://i.imgur.com/TRSpZTP.png)  
-  
-![](https://i.imgur.com/bd3HWM0.png)  
 # Bibliografie  
   
   
