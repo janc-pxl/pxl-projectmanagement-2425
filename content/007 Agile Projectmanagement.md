@@ -769,7 +769,7 @@ Samen bepalen deze factoren de hoeveelheid punten van een user story.
   
 De Pizza-analogie voor Storypunten  
   
-Stel je voor dat je met een bende vrienden verschillende soorten pizza's willen bestellen. Jullie willen inschatten hoeveel jullie aankunnen, maar in plaats van over calorieën of grammen te praten, gebruiken jullie de grootte van de pizza's als criterium.  
+Stel dat je met een bende vrienden verschillende soorten pizza's wil bestellen. De vriendengroep wil de berg pizza's inschatten, maar in plaats van over calorieën of grammen te praten, gebruiken jullie de grootte en moeilijkheid van de pizza's als criterium.  
   
 - Een kleine margherita pizza noemen jullie een '1'  
 - Een medium quattro formaggi is een '3'  
@@ -778,14 +778,16 @@ Stel je voor dat je met een bende vrienden verschillende soorten pizza's willen 
   
 Deze nummers zijn jullie 'pizza-punten'. Ze zeggen niets over de exacte grootte of het aantal calorieën, maar geven wel een idee van hoe 'groot' of 'complex' elke pizza is om op te eten.  
   
-Leen kan misschien twee '3' pizza's op, terwijl Stef met moeite één '5' pizza op krijgt. Arnaud, die net heeft gesport, kan probleemloos een '8' verorberen. Iedereen heeft een andere "capaciteit", maar jullie begrijpen allemaal wat bedoeld wordt met een '3' of een '5' pizza.  
+Leen kan misschien twee '3' pizza's op, terwijl Stef met moeite één '5' pizza kan verwerken omwille van de gesmolten kaas die hem in het verleden al de das om deed. Arnaud, die net heeft gesport, kan probleemloos een '8' verorberen.   
   
-Zo is het ook met storypunten in Scrum:  
+Iedereen heeft een andere "capaciteit", maar iedereen berijpt wat bedoeld wordt met een '3' of een '5' pizza.  
+  
+Storypunten in Scrum werken op dezelfde manier:  
   
 - De punten geven een relatieve inschatting van de complexiteit of grootte van een taak.  
-- Een '1' is een kleine, eenvoudige taak, terwijl een '8' een grote, complexe taak is.  
+- Een '1' is een kleine, eenvoudige taak, terwijl een '8' een grote, risicovolle en complexe taak is.  
 - Verschillende teamleden kunnen verschillende hoeveelheden werk aan, net zoals de vrienden verschillende hoeveelheden pizza kunnen eten.  
-- Het team leert na verloop van tijd hoeveel 'punten' ze gezamenlijk aankunnen in een sprint, net zoals jullie leren hoeveel 'pizza-punten' jullie groep aankan in één avond.  
+- Het agile team leert na verloop van tijd hoeveel 'punten' ze gezamenlijk aankunnen in een sprint, net zoals de vriendengroep leert hoeveel 'pizza-punten' ze aankan in één avond.  
   
 Het voordeel van dit systeem is dat je niet hoeft te discussiëren over exacte uren of moeilijkheidsgraden. Je kunt snel en intuïtief taken vergelijken en inschatten, net zoals je pizza's kunt vergelijken zonder over precieze afmetingen of ingrediënten te praten.  
 #### Hoe kun je er zelf mee starten?  
