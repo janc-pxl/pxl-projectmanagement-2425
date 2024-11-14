@@ -4,7 +4,7 @@ title: 007 Agile Projectmanagement
 category: content
 order: 7
 ---
-> [!INFO] Projectmanagement © Hogeschool PXL  
+e> [!INFO] Projectmanagement © Hogeschool PXL  
 >   
 > **OLOD:** 42TIN1250 Projectmanagement  
 > **Opleiding:** Professionele bachelor in de Toegepaste informatica  
@@ -299,6 +299,8 @@ De Scrum Master is geen traditionele "manager" die taken toewijst of controleert
 > **Scrum Master:** de hoeder van het Scrum-proces, een facilitator voor het team, en een brug naar de rest van de organisatie. Hun werk zorgt ervoor dat Scrum effectief wordt toegepast, wat leidt tot betere samenwerking, hogere productiviteit en uiteindelijk betere resultaten voor het project.  
   
 De term *"master"* kenmerkt in deze context niet iemand die anderen voor zich laat werken. Het is eerder te verstaan als *"een specialist van een bepaald onderwerp"*. Waar we de Scrum Master hebben als iemand die het beste (of zeker een sterk) begrip van Scrum heeft, vergeleken met de rest van de mensen betrokken bij het project. Men beschouwt hen als de *'masters van het Scrum raamwerk'*.  
+  
+![](https://i.imgur.com/Clw1Jtn.png)  
   
 #### Obstakel  
   
