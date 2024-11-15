@@ -116,7 +116,7 @@ Hoewel Scrum oorspronkelijk is bedacht voor softwareontwikkeling, wordt het toeg
   
 Waar we Agile beschouwen als een methodologie, spreken we bij Scrum over een raamwerk *(Vert. Engels: framework)*. De reden dat we dat vermelden is zodat je weet dat er technisch een verschil is tussen beide termen.  
   
-Een goede manier om de relatie tussen Scrum en Agile te bekijken is het volgende plaatje.  
+Een goede manier om de relatie tussen Scrum en Agile te bekijken is de volgende afbeelding.  
   
 > [!caption]  
 > ![](https://i.imgur.com/dX9M7uX.jpg)   
@@ -140,7 +140,7 @@ Empirische procescontrole: Leren door te doen en te observeren.
   
 Scrum is gebaseerd op een simpel idee: we leren het beste door dingen te doen en te kijken wat er gebeurt. Dit noemen we empirisme. Het betekent dat we niet alleen vertrouwen op wat we denken te weten, maar echt kijken naar wat er in de praktijk gebeurt.  
   
-In Scrum gebruiken we drie belangrijke principes om dit in de praktijk te brengen:  
+In Scrum gebruiken we de drie empirische principes om dit in de praktijk te brengen:  
   
 - **Transparantie:** Iedereen ziet wat er gebeurt  
 	- We zijn eerlijk over hoe het werk vordert.  
@@ -157,7 +157,22 @@ In Scrum gebruiken we drie belangrijke principes om dit in de praktijk te brenge
 	- We zijn flexibel en bereid om nieuwe ideeën te proberen.  
 	- We verbeteren continu onze manier van werken.  
   
-Door deze principes toe te passen, leert het team voortdurend. We gaan niet blind uit van een plan, maar kijken steeds of wat we doen echt werkt. Als iets beter kan, passen we het aan. Zo worden we steeds beter in wat we doen en leveren we betere resultaten voor de klant.  
+Door deze principes toe te passen, leert het team voortdurend. We volgen niet blindelings een plan, maar kijken steeds of wat we doen echt werkt. Als iets beter kan, passen we het aan. Zo worden we steeds beter in wat we doen en leveren we betere resultaten voor de klant.  
+  
+Stel je voor dat je voor de PXL een nieuwe app ontwikkelt voor het delen van foto's. In plaats van maanden te besteden aan het plannen en bouwen van de perfecte app, ga je als volgt te werk:  
+  
+1. Je maakt een eenvoudige versie van de app die alleen foto's kan uploaden (**Transparantie**: je hebt iets concreets om te laten zien).  
+2. Je laat een kleine groep gebruikers de app testen (**Inspectie**: je observeert hoe de app wordt gebruikt).  
+3. De gebruikers melden dat ze graag filters aan hun foto's willen toevoegen voordat ze deze uploaden (**Aanpassing**: je leert van de feedback).  
+4. Je voegt een eenvoudige filterfunctie toe aan de app (Je past de app aan op basis van wat je hebt geleerd).  
+5. Je herhaalt stappen 2-4: laat gebruikers testen, verzamel feedback, en pas de app aan (Iteratie: je blijft dit proces herhalen).  
+  
+Zo werk Empirisch denken:  
+  
+- Je baseert je beslissingen op echte ervaringen en observaties (empirisch bewijs), niet op theorieën of aannames.  
+- Je bent transparant over wat de app wel en niet kan.  
+- Je inspecteert regelmatig hoe de app wordt gebruikt.  
+- Je past de app aan op basis van wat je leert.  
   
 Dit is de kern van hoe Scrum werkt: we doen, we kijken, we leren, en we verbeteren. Het is een cyclus die steeds doorgaat, waardoor we flexibel blijven en snel kunnen reageren op veranderingen.  
   
@@ -176,7 +191,7 @@ Dit is de kern van hoe Scrum werkt: we doen, we kijken, we leren, en we verbeter
   
 Scrum Waarden: De basis voor goed teamwork  
   
-Scrum is gebaseerd op vijf kernwaarden die essentieel zijn voor effectieve samenwerking:  
+Scrum is gebaseerd op vijf kernwaarden die essentieel zijn voor een goeie samenwerking:  
   
 ### Commitment (Toewijding)  
   
@@ -220,7 +235,7 @@ Deze waarden versterken elkaar en zijn cruciaal voor het succes van Scrum. Ze he
 - Een cultuur van continue verbetering te creëren.  
 - Hoogwaardige producten te leveren die echte waarde bieden aan klanten.  
   
-Door deze waarden consequent toe te passen, creëren Scrum teams een werkomgeving waar iedereen kan excelleren en gezamenlijk de beste resultaten kan bereiken.  
+Door deze waarden telkens toe te passen, maken Scrum teams een werkomgeving waar iedereen kan uitblinken en waar je samen de beste resultaten kan bereiken.  
   
 ### The Five Scrum Values (Video)  
   
