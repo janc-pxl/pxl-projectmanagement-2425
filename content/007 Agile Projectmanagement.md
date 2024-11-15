@@ -188,7 +188,7 @@ Dit is de kern van hoe Scrum werkt: we doen, we kijken, we leren, en we verbeter
 ## Scrum Waarden  
   
 > [!note] DEFINITIE: Scrum Waarden  
-> **Scrum Waarden:** een verzameling van vijf kernwaarden die het Scrum raamwerk schragen: commitment, focus, openheid *(Engels: ‘openness’)*, respect en moed *(vert. Engels: ‘courage’)*. [[./References/@verheyen_2022|@verheyen_2022]]  
+> **Scrum Waarden:** vijf kernwaarden waar Scrum op steunt: commitment, focus, openheid *(Engels: ‘openness’)*, respect en moed *(vert. Engels: ‘courage’)*.  
   
 ![](https://i.imgur.com/ASHoG3J.png)  
   
