@@ -248,6 +248,10 @@ Door deze waarden telkens toe te passen, maken Scrum teams een werkomgeving waar
   
 Je hebt zeker al het woord 'backlog' horen vallen wanneer het gaat over achterstallig werk, of over werk dat over tijd is. Bijvoorbeeld als je al een maand lang je mails niet meer beantwoord hebt, zou je een backlog van e-mails hebben.  
   
+> [!caption]  
+> ![](https://i.imgur.com/S6fCoKO.png)  
+> Afbeelding: de Product Backlog  
+  
 In Agile definieer je een backlog als volgt:   
   
 > [!note] DEFINITIE: Product Backlog  
@@ -274,7 +278,7 @@ Een van de belangrijkste taken van de Product Owner is het beheren van de [[007 
   
 De Product Owner bepaalt welke taken op deze lijst komen en in welke volgorde ze moeten worden aangepakt. Hij of zij zorgt ervoor dat de belangrijkste taken bovenaan staan, zodat het team altijd weet waar ze als eerste aan moeten werken.  
   
-Communicatie is een kernaspect van de rol van Product Owner. Ze praten veel met de klant om te begrijpen wat er precies nodig is. Vervolgens vertalen ze deze wensen naar duidelijke, werkbare taken voor het team. Als het team vragen heeft over een taak, staat de Product Owner klaar om uitleg te geven.  
+De rol van Product Owner draait rond "communicatie". Product Owners praten veel met de klant om te begrijpen wat er precies nodig is. Vervolgens vertalen ze deze wensen naar duidelijke, werkbare taken voor het team. Als het team vragen heeft over een taak, staat de Product Owner klaar om uitleg te geven.  
   
 De Product Owner is ook verantwoordelijk voor het beoordelen van het werk dat het team oplevert. Na elke Sprint kijkt de Product Owner of alles voldoet aan de verwachtingen van de klant. Ze geven feedback en beslissen of iets klaar is om aan de klant te laten zien.  
   
@@ -296,16 +300,16 @@ Door de rol van de Product Owner wordt het hele proces efficiënter. Het team we
 ![](https://i.imgur.com/8IDZ0WM.png)[[./References/@qframe_2021|@qframe_2021]]  
   
 ##### Rol en doel  
-In het hart van elk Scrum-team vinden we de Scrum Master. Deze persoon is veel meer dan alleen een teamleider; ze zijn de beschermers en de facilitators van het Scrum-proces. Hun doel is om ervoor te zorgen dat Scrum correct wordt toegepast en dat het team zo efficiënt mogelijk kan werken.  
+In het hart van elk Scrum-team vinden we de Scrum Master. Deze persoon is veel meer dan alleen een teamleider; ze helpen het team Scrum goed te gebuiken. Hun doel is om ervoor te zorgen dat Scrum correct wordt toegepast en dat het team zo efficiënt mogelijk kan werken.  
   
 ##### Dagelijkse betrokkenheid  
-De Scrum Master is diep betrokken bij de dagelijkse activiteiten van het team. Ze helpen bij het coördineren van groepsactiviteiten en zorgen ervoor dat alles soepel verloopt. Een belangrijk deel van hun werk is het identificeren en verwijderen van obstakels die het team tegenhouden. Dit kunnen technische problemen zijn, maar ook communicatieproblemen of andere zaken die de voortgang belemmeren.  
+De Scrum Master is diep betrokken bij de dagelijkse activiteiten van het team. Scrum Masters helpen bij het coördineren van groepsactiviteiten en zorgen ervoor dat alles soepel verloopt. Een belangrijk deel van hun werk is het identificeren en verwijderen van obstakels die het team tegenhouden. Dit kunnen technische problemen zijn, maar ook communicatieproblemen of andere zaken die de voortgang belemmeren.  
   
 ##### Faciliteren van Scrum-events  
 Een van de kernverantwoordelijkheden van de Scrum Master is het faciliteren van de Scrum-events. Ze zorgen ervoor dat de [[007 Agile Projectmanagement#Daily Standups|Daily Standups]], [[007 Agile Projectmanagement#Sprint Planning|Sprint Planning]] sessies, [[007 Agile Projectmanagement#Sprint Review|Sprint Review]]s en [[007 Agile Projectmanagement#Sprint Retrospective|Sprint Retrospective]]s (zie later) effectief verlopen en binnen de tijdslimieten blijven. Tijdens deze bijeenkomsten moedigt de Scrum Master open communicatie aan en helpt het team om zich te concentreren op de belangrijkste zaken.  
   
 ##### Coaching en training  
-De Scrum Master is ook als een coach voor het team. Ze helpen teamleden om Scrum beter te begrijpen en toe te passen. Dit kan betekenen dat ze trainingen geven, vragen beantwoorden, of gewoon het goede voorbeeld geven in hoe Scrum zou moeten werken. Ze moedigen het team aan om zelforganiserend te zijn en helpen bij het ontwikkelen van vaardigheden die nodig zijn voor effectief teamwerk.  
+De Scrum Master is ook als een coach voor het team. Ze helpen teamleden om Scrum beter te begrijpen en toe te passen. Dit kan betekenen dat ze trainingen geven, vragen beantwoorden, of gewoon het goede voorbeeld geven hoe Scrum zou moeten werken. Ze moedigen het team aan om zelforganiserend te zijn en helpen bij het ontwikkelen van vaardigheden die nodig zijn voor effectief teamwerk.  
   
 ##### Relatiebeheer  
 Buiten het team speelt de Scrum Master een belangrijke rol in het onderhouden van relaties. Ze werken nauw samen met de Product Owner om ervoor te zorgen dat de [[007 Agile Projectmanagement#Product Backlog|Product Backlog]] effectief wordt beheerd. Ze zijn een buffer tussen het team en externe verstoringen, zodat het team zich kan concentreren op hun werk.  
