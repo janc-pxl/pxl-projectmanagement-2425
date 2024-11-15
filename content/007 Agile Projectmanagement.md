@@ -4,7 +4,7 @@ title: 007 Agile Projectmanagement
 category: content
 order: 7
 ---
-e> [!INFO] Projectmanagement © Hogeschool PXL  
+> [!INFO] Projectmanagement © Hogeschool PXL  
 >   
 > **OLOD:** 42TIN1250 Projectmanagement  
 > **Opleiding:** Professionele bachelor in de Toegepaste informatica  
