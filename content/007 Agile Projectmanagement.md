@@ -769,7 +769,7 @@ Samen bepalen deze factoren de hoeveelheid punten van een user story.
   
 De Pizza-analogie voor Storypunten  
   
-Stel dat je met een bende vrienden verschillende soorten pizza's wil bestellen. De vriendengroep wil de berg pizza's inschatten, maar in plaats van over calorieën of grammen te praten, gebruiken jullie de grootte en moeilijkheid van de pizza's als criterium.  
+Stel dat je met een bende vrienden verschillende soorten pizza's wil bestellen. De vriendengroep wil de berg pizza's inschatten, maar in plaats van over calorieën of grammen te praten, gebruiken jullie de grootte en moeilijkheid (veel kaas/olijven of pikant) van de pizza's als criterium.  
   
 - Een kleine margherita pizza noemen jullie een '1'  
 - Een medium quattro formaggi is een '3'  
