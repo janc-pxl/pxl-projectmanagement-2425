@@ -870,6 +870,30 @@ De Definition of Done wordt tijdens de start van iedere [[007 Agile Projectmana
   
 Wat de inhoud van _Definition of Done_ is, bepaalt het team dus helemaal zelf.  
   
+#### Het verschil tussen Acceptatie Criteria en de Dod  
+![](https://i.imgur.com/vBAkZsy.png)  
+  
+Veel studenten gooien de termen [[007 Agile Projectmanagement#Acceptatie Criteria|Acceptatie Criteria]] en [[007 Agile Projectmanagement#Definition of Done|Definition of Done]] door elkaar. Iets doet mensen twijfelen, anderen leggen het fout uit of interpreteren ze anders, maar het zijn duidelijk **totaal** verschillende termen.  
+  
+Definition of Done (DoD):  
+  
+- Is een algemene checklist voor alle taken of user stories in een project.  
+- Bevat standaard kwaliteitseisen die voor elk stuk werk gelden.  
+- Wordt door het hele team gebruikt.  
+- Voorbeeld: code review gedaan, tests geschreven, documentatie bijgewerkt.  
+  
+Acceptatie Criteria:  
+  
+- Zijn specifiek voor één bepaalde taak of user story.  
+- Beschrijven de exacte vereisten waaraan die specifieke taak moet voldoen.  
+- Worden vaak door de Product Owner opgesteld.  
+- Voorbeeld: "De gebruiker kan inloggen met e-mail en wachtwoord".  
+  
+> [!warning] VERSCHIL  
+> - **De Definition of Done** is als een algemene checklist voor **alles** wat het team doet.  
+>- **Acceptatie Criteria** zijn als een specifieke takenlijst voor **één bepaald** onderdeel (vb een Story heeft zijn eigen criteria).  
+  
+  
 ### Scrum bord  
   
 ![](https://i.imgur.com/iOqDrMR.png)  
