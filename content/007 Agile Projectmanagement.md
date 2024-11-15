@@ -159,6 +159,9 @@ In Scrum gebruiken we de drie empirische principes om dit in de praktijk te bren
   
 Door deze principes toe te passen, leert het team voortdurend. We volgen niet blindelings een plan, maar kijken steeds of wat we doen echt werkt. Als iets beter kan, passen we het aan. Zo worden we steeds beter in wat we doen en leveren we betere resultaten voor de klant.  
   
+  
+![](https://i.imgur.com/Q0GVcTD.png)  
+  
 Stel je voor dat je voor de PXL een nieuwe app ontwikkelt voor het delen van foto's. In plaats van maanden te besteden aan het plannen en bouwen van de perfecte app, ga je als volgt te werk:  
   
 1. Je maakt een eenvoudige versie van de app die alleen foto's kan uploaden (**Transparantie**: je hebt iets concreets om te laten zien).  
