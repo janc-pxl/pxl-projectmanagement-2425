@@ -110,7 +110,8 @@ De term 'Scrum' komt van een uitdrukking uit de rugbysport waar de teamleden elk
   
 Het gros van de huidige development projecten gebruikt Scrum. Ondanks de verzameling termen en technieken gebruikt in Scrum, draait het allemaal rond teamwerk, het samenspel tussen de leden van het team.  
   
-![](https://i.imgur.com/aFgp96B.png)  
+![](https://i.imgur.com/F6eCp6D.png)  
+  
   
 Hoewel Scrum oorspronkelijk is bedacht voor softwareontwikkeling, wordt het toegepast in vele andere sectoren, zoals gezondheidszorg, marketing, rechtshandhaving, productontwikkeling en de publieke sector op alle niveaus.  
   
