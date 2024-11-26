@@ -171,7 +171,7 @@ Stel je voor dat je voor de PXL een nieuwe app ontwikkelt voor het delen van fot
 4. Je voegt een eenvoudige filterfunctie toe aan de app (Je past de app aan op basis van wat je hebt geleerd).  
 5. Je herhaalt stappen 2-4: laat gebruikers testen, verzamel feedback, en pas de app aan (Iteratie: je blijft dit proces herhalen).  
   
-Zo werk Empirisch denken:  
+Empirisch denken kan je op die manier begrijpen:  
   
 - Je baseert je beslissingen op echte ervaringen en observaties (empirisch bewijs), niet op theorieën of aannames.  
 - Je bent transparant over wat de app wel en niet kan.  
