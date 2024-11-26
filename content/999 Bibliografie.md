@@ -49,7 +49,6 @@ order: "999"
 - [[./References/@agilescrumgroup_2018|@agilescrumgroup_2018]]: _'De Sprint Review uitgelegd. Waarom deze meeting? (+ Checklist & Valkuilen)'_ -  **Agile Scrum Group,(2018)** https://agilescrumgroup.nl/sprint-review/<br/><br/>  
 - [[./References/@agilescrumgroup_2017|@agilescrumgroup_2017]]: _'Wat is Definition of Done? Check de uitleg en voorbeelden (IT & non-IT)'_ -  **Agile Scrum Group,(2017)** https://agilescrumgroup.nl/wat-is-definition-of-done/<br/><br/>  
 - [[./References/@agile4all_2019|@agile4all_2019]]: _'Sprint Planning'_ -  **agile4all,(2019)** https://www.agile4all.nl/sprint-planning/<br/><br/>  
-- [[./References/@doshi_2016|@doshi_2016]]: _'The Three Pillars of Empiricism (Scrum)'_ -  **Doshi, Hiren(2016)** https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum<br/><br/>  
 - [[./References/@martin_2020|@martin_2020]]: _'Incremental Model in SDLC: Use, Advantage & Disadvantage'_ -  **Martin, Matthew(2020)** https://www.guru99.com/what-is-incremental-model-in-sdlc-advantages-disadvantages.html<br/><br/>  
 - [[./References/@productplan_2022|@productplan_2022]]: _'User Story'_ -  **productplan,(2022)** https://www.productplan.com/glossary/user-story/<br/><br/>  
 - [[./References/@qframe_2021|@qframe_2021]]: _'Scrum Master, Teambuilder of Agile Coach?'_ -  **qframe,(2021)** https://qframe.be/2021/06/25/scrum-master-teambuilder-of-agile-coach/<br/><br/>  
@@ -63,7 +62,6 @@ order: "999"
 - [[./References/@vanrooden_2015|@vanrooden_2015]]: _'Product Backlog Refinement explained (1/3)'_ -  **van Rooden, Stephan(2015)** https://www.scrum.org/resources/blog/product-backlog-refinement-explained-13<br/><br/>  
 - [[./References/@vanrooden_2015a|@vanrooden_2015a]]: _'Product Backlog Refinement explained (3/3)'_ -  **van Rooden, Stephan(2015)** https://www.scrum.org/resources/blog/product-backlog-refinement-explained-33<br/><br/>  
 - [[./References/@verheyen_2022|@verheyen_2022]]: _'Scrum Glossary'_ -  **Verheyen, Gunther(2022)** https://scrumglossary.org/<br/><br/>  
-- [[./References/@verheyen_2017|@verheyen_2017]]: _'De kernwaarden van Scrum'_ -  **Verheyen, Gunther(2017)** https://guntherverheyen.com/2017/02/15/de-kernwaarden-van-scrum/<br/><br/>  
 - [[./References/@visualparadigm_2022|@visualparadigm_2022]]: _'What are Time-boxed Events in Scrum?'_ -  **Visual Paradigm,(2022)** https://www.visual-paradigm.com/scrum/what-are-scrum-time-boxed-events/<br/><br/>  
 - [[./References/@visual-paradigm_2022|@visual-paradigm_2022]]: _'Why Fixed Length Sprints in Scrum?'_ -  **visual-paradigm,(2022)** https://www.visual-paradigm.com/scrum/why-fixed-length-of-sprints-in-scrum/<br/><br/>  
 - [[./References/@vrielink_2020|@vrielink_2020]]: _'Hoe werken story points?'_ -  **Vrielink, Martijn(2020)** https://www.incentro.com/nl-NL/blog/story-points-hoe-werken-ze-eigenlijk<br/><br/>  
